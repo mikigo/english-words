@@ -1,0 +1,14 @@
+{
+  "name": "English-Words",
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  },
+  "devDependencies": {
+    "rspress": "^1.43.1"
+  },
+  "dependencies": {
+    "rspress-plugin-sitemap": "^1.2.0"
+  }
+}
