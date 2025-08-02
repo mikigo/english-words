@@ -1,21 +1,10 @@
-groups = [
-    "人教版小学",
-    "人教版初中",
-    "人教版高中",
-    "四级",
-    "六级",
-    "考研",
-    "雅思",
-    "新东方",
-    "专四",
-    "专八",
-]
+from scripts.groups import GROUPS
 list = [{
     "type": "file",
     "name": "index",
     "label": "英语"
   }]
-for g in groups:
+for g in GROUPS:
     list.append(
         {
             "type": "dir",
