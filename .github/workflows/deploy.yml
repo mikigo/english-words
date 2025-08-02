@@ -46,7 +46,7 @@ jobs:
             ${{ runner.os }}-rspress-
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile  # 使用固定lockfile更安全
+        run: pnpm install
 
       - name: Build
         run: |
