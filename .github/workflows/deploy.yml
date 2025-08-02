@@ -51,7 +51,7 @@ jobs:
       - name: Build
         run: |
           echo "Starting build..."
-          pnpm run build --verbose  # 添加verbose获取更多日志
+          pnpm run build
           echo "Build completed!"
 
       - name: Setup Pages
