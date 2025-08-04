@@ -50,25 +50,27 @@ for root, dirs, files in os.walk("../books"):
                 # 短语
                 phrase: dict = content.get("phrase")
                 if phrase:
-                    mdf.write(f":::tip{{title=🤩{phrase.get('desc')}}}\n\n")
+                    # mdf.write(f":::tip{{title=🤩{phrase.get('desc')}}}\n\n")
+                    mdf.write(f"> [!TIP]\n\n")
                     for p in phrase.get('phrases'):
                         pCn = p.get('pCn')
                         pContent = p.get('pContent')
-                        mdf.write(f"- {pContent} （{pCn}）\n\n")
-                    mdf.write(f":::\n\n")
+                        mdf.write(f"> - {pContent} （{pCn}）\n\n")
+                    # mdf.write(f":::\n\n")
 
                 # 例句
                 sentence: dict = content.get("sentence")
                 if sentence:
-                    mdf.write(f":::note{{title=🎤{sentence.get('desc')}}}\n\n")
+                    # mdf.write(f":::note{{title=🎤{sentence.get('desc')}}}\n\n")
+                    mdf.write(f"> [!NOTE]\n\n")
                     for s in sentence.get('sentences'):
-                        mdf.write(f"- {s.get('sContent')} （{s.get('sCn')}）\n\n")
-                    mdf.write(f":::\n\n")
+                        mdf.write(f"> - {s.get('sContent')} （{s.get('sCn')}）\n\n")
+                    # mdf.write(f":::\n\n")
 
                 # 同义词
                 syno: dict = content.get("syno")
                 if syno:
-                    mdf.write(f":::warning{{title=🤔同义词}}\n\n")
+                    mdf.write(f"> [!WARNING]\n\n")
                     for s in syno.get('synos'):
                         hwds = s.get('hwds')
                         l = []
@@ -76,8 +78,8 @@ for root, dirs, files in os.walk("../books"):
                             l.append(h.get('w'))
                         l = ", ".join(l)
                         l += f" （{s.get('tran')}）"
-                        mdf.write(f"- {l}\n\n")
-                    mdf.write(f":::\n\n")
+                        mdf.write(f"> - {l}\n\n")
+                    # mdf.write(f":::\n\n")
 
 
 
