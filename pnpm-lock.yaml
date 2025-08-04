@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      rspress-plugin-sitemap:
-        specifier: ^1.2.0
-        version: 1.2.0
     devDependencies:
       rspress:
         specifier: ^1.43.1
@@ -1239,9 +1235,6 @@ packages:
 
   rspack-plugin-virtual-module@0.1.13:
     resolution: {integrity: sha512-VC0HiVHH6dtGfTgfpbDgVTt6LlYv+uAg9CWGWAR5lBx9FbKPEZeGz7iRUUP8vMymx+PGI8ps0u4a25dne0rtuQ==}
-
-  rspress-plugin-sitemap@1.2.0:
-    resolution: {integrity: sha512-fX5i0GLvrxRibKbL9rcBXA8PFDkhoB51bNrFpAuW0mkHg39Ji92SFzzURKvROpuwaGLZ+EP039zJNhx3kYYezA==}
 
   rspress@1.43.1:
     resolution: {integrity: sha512-eP/tkdH2r4x7tsAHwdBcFKKoKeyw9ry0KdGySVoiVmkqqH+oIfv40qviI005NOsbXls+UnZn5XoZlWQfw1gBUw==}
@@ -3239,8 +3232,6 @@ snapshots:
   rspack-plugin-virtual-module@0.1.13:
     dependencies:
       fs-extra: 11.3.0
-
-  rspress-plugin-sitemap@1.2.0: {}
 
   rspress@1.43.1(webpack@5.98.0):
     dependencies:

@@ -1,11 +1,11 @@
 from scripts.groups import GROUPS
-list = [{
+lst = [{
     "type": "file",
     "name": "index",
     "label": "英语"
   }]
 for g in GROUPS:
-    list.append(
+    lst.append(
         {
             "type": "dir",
             "name": g,
@@ -16,4 +16,4 @@ for g in GROUPS:
     )
 
 import json
-print(json.dumps(list, ensure_ascii=False, indent=2))
+print(json.dumps(lst, ensure_ascii=False, indent=2))
