@@ -1,81 +1,60 @@
 import os
 import shutil
-import subprocess
+
 
 def main():
-    # 配置路径和排除规则
+
+    # 切换到上级目录
     os.chdir('..')
-    doc_build_dir = os.path.join(os.getcwd(), 'doc_build')
-    exclude_pattern = os.path.join('static', 'search_index.*.json')
 
-    # 检查doc_build目录是否存在
-    if not os.path.isdir(doc_build_dir):
-        print("错误: doc_build目录不存在")
-        return
+    # 删除搜索索引文件 - Windows版本
+    for file in os.listdir('doc_build/static'):
+        if file.startswith('search_index.') and file.endswith('.json'):
+            os.remove(os.path.join('doc_build/static', file))
 
-    # 获取当前分支用于后续恢复
-    current_branch = subprocess.check_output(
-        ['git', 'rev-parse', '--abbrev-ref', 'HEAD'],
-        text=True
-    ).strip()
+    # 克隆仓库 - 使用HTTPS协议可能更可靠
+    if os.path.exists('gh-pages'):
+        os.remove('gh-pages')
+    os.system('git clone git@github.com:mikigo/English-Words.git -b gh-pages gh-pages')
 
-    try:
-        # 切换到gh-pages分支并拉取最新代码
-        subprocess.run(['git', 'checkout', 'gh-pages'], check=True)
-        subprocess.run(['git', 'pull', 'origin', 'gh-pages'], check=True)
+    # 复制文件 - Windows版本
+    if os.path.exists('gh-pages'):
+        # 清空gh-pages目录，除了.git目录
+        # 使用os.system命令清空目录
+        if os.path.exists('gh-pages/.git'):
+            # 保留.git目录，清空其他内容
+            for item in os.listdir('gh-pages'):
+                if item != '.git':
+                    item_path = os.path.join('gh-pages', item)
+                    if os.path.isfile(item_path):
+                        os.remove(item_path)
+                    else:
+                        shutil.rmtree(item_path)
+        else:
+            # 如果没有.git目录，直接清空整个目录
+            os.system("rd /s /q gh-pages\\*")  # 清空gh-pages目录
+    else:
+        raise FileNotFoundError("gh-pages directory does not exist.")
+    # 将doc_build目录的内容复制到gh-pages目录下
+    shutil.copytree('doc_build', 'gh-pages', dirs_exist_ok=True)
 
-        # 清理现有文件（保留.git和.nojekyll）
-        for item in os.listdir('.'):
-            if item in ('.git', '.nojekyll'):
-                continue
-            item_path = os.path.join(os.getcwd(), item)
-            if os.path.isfile(item_path):
-                os.remove(item_path)
-            else:
-                shutil.rmtree(item_path)
+    # 创建.nojekyll文件
+    if not os.path.exists('gh-pages/.nojekyll'):
+        with open('gh-pages/.nojekyll', 'w') as f:
+            pass
 
-        # 定义文件排除函数
-        def ignore_files(src, names):
-            if os.path.basename(src) == 'static':
-                return [name for name in names if name.startswith('search_index.') and name.endswith('.json')]
-            return []
+    # 切换到仓库目录
+    os.chdir('gh-pages')
 
-        # 复制doc_build内容（排除指定文件）
-        shutil.copytree(
-            doc_build_dir,
-            '.',
-            ignore=ignore_files,
-            dirs_exist_ok=True
-        )
+    # Git操作保持不变
+    os.system('git add .')
+    os.system('git commit -m "Update documentation from doc_build"')
+    os.system('git push origin gh-pages')
 
-        # 确保.nojekyll文件存在
-        if not os.path.exists('.nojekyll'):
-            with open('.nojekyll', 'w') as f:
-                pass
+    # 切换回原始目录，使用os.system删除临时目录
+    os.chdir('..')
+    os.system('rd /s /q gh-pages')
 
-        # 提交更改
-        subprocess.run(['git', 'add', '.'], check=True)
-        try:
-            subprocess.run([
-                'git', 'commit', '-m', 'Update documentation from doc_build'
-            ], check=True)
-            print("更改已成功提交")
-        except subprocess.CalledProcessError:
-            print("没有需要提交的更改")
-            return
 
-        # 推送到远程gh-pages分支
-        subprocess.run(['git', 'push', 'origin', 'gh-pages'], check=True)
-        print("成功推送到gh-pages分支")
-
-    except subprocess.CalledProcessError as e:
-        print(f"命令执行失败: {e}")
-    except Exception as e:
-        print(f"发生错误: {e}")
-    finally:
-        # 恢复到原始分支
-        if current_branch != 'gh-pages':
-            subprocess.run(['git', 'checkout', current_branch], check=True)
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
