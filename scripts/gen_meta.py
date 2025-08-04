@@ -1,17 +1,15 @@
 from scripts.groups import GROUPS
 lst = [{
-    "type": "file",
-    "name": "index",
-    "label": "英语"
+    "text": "首页",
+    "link": "/index",
+    "activeMatch": "/index/"
   }]
 for g in GROUPS:
     lst.append(
         {
-            "type": "dir",
-            "name": g,
-            "label": g,
-            "collapsed": "true",
-            "overviewHeaders": "[1]"
+            "text": g,
+            "link": f"/{g}/index",
+            "activeMatch": "/index/"
         }
     )
 

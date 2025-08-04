@@ -1,0 +1,35 @@
+:root {
+  --rp-c-brand: #6253b7;
+  --rp-c-brand-dark: #6253b7;
+  --rp-c-brand-darker: #6253b7;
+  --rp-c-brand-light: #6253b7;
+  --rp-c-brand-lighter: #6253b7;
+  --rp-sidebar-width: 400px;
+  --rp-aside-width: 350px;
+  --rp-code-title-bg: rgba(250, 192, 61, 0.15);
+  --rp-code-block-bg: rgba(214, 188, 70, 0.05);
+  --rp-home-hero-name-background: linear-gradient(120deg, #244e9e 10%, #8a57c8);
+}
+
+h1, h2 {
+    background: var(--rp-home-hero-name-background);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rspress-nav-menu-item {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.rspress-nav-search-button {
+    width: 100%;
+    height: 35px;
+}
+
+.font-semibold {
+    color: #6253b7;
+    font-weight: bold;
+    font-size: medium;
+}

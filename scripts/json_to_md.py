@@ -3,7 +3,7 @@ import os
 
 from scripts.groups import GROUPS
 
-new_md_index = [i * 100 for i in range(1, 100)]
+new_md_index = [i * 100 for i in range(1, 200)]
 
 for root, dirs, files in os.walk("../books"):
     for i in files:
@@ -29,8 +29,12 @@ for root, dirs, files in os.walk("../books"):
         for index, line in enumerate(lines):
             if index + 1 in new_md_index:
                 md_name = f"{os.path.splitext(i)[0]}_{index + 1}.md"
-            with open(f"../docs/{g}/{md_name}", "a+", encoding="utf-8") as mdf:
-                mdf.write(f"# {os.path.splitext(i)[0]}\n\n")
+            md_dir = f"../docs/{g}/{os.path.splitext(i)[0]}"
+            if not os.path.exists(md_dir):
+                os.mkdir(md_dir)
+            with open(f"{md_dir}/{md_name}", "a+", encoding="utf-8") as mdf:
+                if index == 0 or index + 1 in new_md_index:
+                    mdf.write(f"# {os.path.splitext(md_name)[0]}\n\n")
 
                 line = line.strip()
                 if not line.startswith("{"):
