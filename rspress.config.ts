@@ -7,13 +7,14 @@ export default defineConfig({
     globalStyles: path.join(__dirname, 'theme/var.css'),
 
     root: 'docs',
-    base: '/sailwind_docs/',
-    title: 'SailWind',
-    description: 'SailWind',
+    base: '/English-Words/',
+    title: 'English-Words',
+    description: 'English-Words',
     icon: '/favicon.ico',
     logo:  '/logo.png',
-    logoText: 'SailWind',
+    logoText: 'English-Words',
     themeConfig: {
+        search: false,
         enableContentAnimation: true,
         enableAppearanceAnimation: true,
         enableScrollToTop: true,
@@ -39,7 +40,7 @@ export default defineConfig({
             {
                 icon: 'github',
                 mode: 'link',
-                content: 'https://github.com/mikigo/sailwind_docs/',
+                content: 'https://github.com/mikigo/English-Words/',
             }
         ],
 

@@ -1,10 +1,5 @@
 [
   {
-    "text": "首页",
-    "link": "/index",
-    "activeMatch": "/index/"
-  },
-  {
     "text": "人教版小学",
     "link": "/人教版小学/index",
     "activeMatch": "/index/"
@@ -17,6 +12,31 @@
   {
     "text": "人教版高中",
     "link": "/人教版高中/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "外研社版初中",
+    "link": "/外研社版初中/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "初中英语",
+    "link": "/初中英语/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "北师大版高中",
+    "link": "/北师大版高中/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "中考",
+    "link": "/中考/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "高考",
+    "link": "/高考/index",
     "activeMatch": "/index/"
   },
   {
@@ -60,33 +80,8 @@
     "activeMatch": "/index/"
   },
   {
-    "text": "中考",
-    "link": "/中考/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "高考",
-    "link": "/高考/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "初中英语",
-    "link": "/初中英语/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "北师大版高中",
-    "link": "/北师大版高中/index",
-    "activeMatch": "/index/"
-  },
-  {
     "text": "商务英语",
     "link": "/商务英语/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "外研社版初中",
-    "link": "/外研社版初中/index",
     "activeMatch": "/index/"
   },
   {
