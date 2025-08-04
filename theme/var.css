@@ -1,14 +1,14 @@
 :root {
-  --rp-c-brand: #6253b7;
-  --rp-c-brand-dark: #6253b7;
-  --rp-c-brand-darker: #6253b7;
-  --rp-c-brand-light: #6253b7;
-  --rp-c-brand-lighter: #6253b7;
+  --rp-c-brand: #008c82;
+  --rp-c-brand-dark: #008c82;
+  --rp-c-brand-darker: #008c82;
+  --rp-c-brand-light: #008c82;
+  --rp-c-brand-lighter: #008c82;
   --rp-sidebar-width: 400px;
   --rp-aside-width: 350px;
   --rp-code-title-bg: rgba(250, 192, 61, 0.15);
   --rp-code-block-bg: rgba(214, 188, 70, 0.05);
-  --rp-home-hero-name-background: linear-gradient(120deg, #244e9e 10%, #8a57c8);
+  --rp-home-hero-name-background: linear-gradient(120deg, #008c82 10%, #008c82);
 }
 
 h1, h2 {
@@ -29,7 +29,7 @@ h1, h2 {
 }
 
 .font-semibold {
-    color: #6253b7;
+    color: #008c82;
     font-weight: bold;
     font-size: medium;
 }
