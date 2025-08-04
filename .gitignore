@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 dist
+.idea
 # C extensions
 *.so
 node_modules
