@@ -7,12 +7,12 @@ export default defineConfig({
     globalStyles: path.join(__dirname, 'theme/var.css'),
 
     root: 'docs',
-    base: '/English-Words/',
-    title: 'English-Words',
-    description: 'English-Words',
+    base: '/english-words/',
+    title: 'english-words',
+    description: 'english-words',
     icon: '/favicon.ico',
     logo:  '/logo.png',
-    logoText: 'English-Words',
+    logoText: 'english-words',
     themeConfig: {
         search: false,
         enableContentAnimation: true,
@@ -40,7 +40,7 @@ export default defineConfig({
             {
                 icon: 'github',
                 mode: 'link',
-                content: 'https://github.com/mikigo/English-Words/',
+                content: 'https://github.com/mikigo/english-words/',
             }
         ],
 

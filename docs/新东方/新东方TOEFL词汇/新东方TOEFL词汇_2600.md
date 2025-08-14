@@ -28,6 +28,8 @@
 
 - grass, meadow （[建]草地；草坪）
 
+:::
+
 
 ## 2601. infection
 
@@ -83,6 +85,8 @@
 
 - impression, affection, effect, influence, incidence （[医]感染；[内科]传染；影响；传染病）
 
+:::
+
 
 ## 2602. ponderous
 
@@ -97,6 +101,8 @@
 :::warning{title=🤔同义词}
 
 - mechanical, wooden, dead, cumbersome （笨重的；沉闷的；呆板的）
+
+:::
 
 
 ## 2603. stubborn
@@ -123,6 +129,8 @@
 
 - resistant, problem （顽固的；顽强的；难处理的）
 
+:::
+
 
 ## 2604. imprecise
 
@@ -140,6 +148,8 @@
 
 - loose, inexact （不精确的；不严密的；不确切的）
 
+:::
+
 
 ## 2605. formulate
 
@@ -155,6 +165,8 @@
 
 - programme, mark out （规划；用公式表示；明确地表达）
 
+:::
+
 
 ## 2606. glorify
 
@@ -169,6 +181,8 @@
 :::warning{title=🤔同义词}
 
 - praise, celebrate, bless, worship, admire （赞美；美化；崇拜（神）；使更壮丽）
+
+:::
 
 
 ## 2607. emigrate
@@ -187,6 +201,8 @@
 
 - to immigrate, to migrate （移民）
 
+:::
+
 
 ## 2608. sinuous
 
@@ -201,6 +217,8 @@
 :::warning{title=🤔同义词}
 
 - indirect, curve, winding （蜿蜒的；弯曲的；迂回的）
+
+:::
 
 
 ## 2609. triangle
@@ -243,6 +261,8 @@
 
 - trigona, Misumi （[数][昆][测]三角（形）；三角关系；三角形之物；三人一组）
 
+:::
+
 
 ## 2610. alien
 
@@ -267,6 +287,8 @@
 - foreigner, uitlander （外国人，外侨；外星人）
 
 - transfer, negotiate （让渡，转让）
+
+:::
 
 
 ## 2611. layer
@@ -327,6 +349,8 @@
 
 - thickness, degree, stratum, tier （层，阶层；地层）
 
+:::
+
 
 ## 2612. linguistic
 
@@ -360,6 +384,8 @@
 
 - glottic, philologic （语言的；语言学的）
 
+:::
+
 
 ## 2613. sanitation
 
@@ -384,6 +410,8 @@
 :::warning{title=🤔同义词}
 
 - hygiene of environment, environmental health （[医]环境卫生；卫生设备；下水道设施）
+
+:::
 
 
 ## 2614. elite
@@ -410,6 +438,8 @@
 
 - essence, flower, regular, prime, distillation （精英；精华；中坚分子）
 
+:::
+
 
 ## 2615. ornament
 
@@ -431,6 +461,8 @@
 
 - paint, hang, modify, bedeck （[建][服装]装饰，修饰）
 
+:::
+
 
 ## 2616. chubby
 
@@ -447,6 +479,8 @@
 :::warning{title=🤔同义词}
 
 - fat, full, pudsy （圆胖的，丰满的）
+
+:::
 
 
 ## 2617. ivory
@@ -479,6 +513,8 @@
 
 - milky, opalescent （乳白色的；[轻]象牙制的）
 
+:::
+
 
 ## 2618. anomalous
 
@@ -502,6 +538,8 @@
 
 - novel, abnormal, exceptional, exquisite （[生物]异常的；不规则的；不恰当的）
 
+:::
+
 
 ## 2619. deficient
 
@@ -522,6 +560,8 @@
 :::warning{title=🤔同义词}
 
 - insufficient, short, inadequate, lacking, disabled （不足的；有缺陷的；不充分的）
+
+:::
 
 
 ## 2620. henceforth
@@ -544,6 +584,8 @@
 
 - forwards, hereafter （今后；自此以后）
 
+:::
+
 
 ## 2621. preponderance
 
@@ -558,6 +600,8 @@
 :::warning{title=🤔同义词}
 
 - majority, superiority, advantage, edge, dominance （优势；多数；占优势）
+
+:::
 
 
 ## 2622. barrel
@@ -603,6 +647,8 @@
 - bucket, pail （桶；[军]枪管，炮管）
 
 - skirr （快速移动）
+
+:::
 
 
 ## 2623. chain
@@ -671,6 +717,8 @@
 
 - bound, enslave （束缚；囚禁；用铁练锁住）
 
+:::
+
 
 ## 2624. efficient
 
@@ -714,6 +762,8 @@
 
 - able, competent （有效率的；有能力的；生效的）
 
+:::
+
 
 ## 2625. unify
 
@@ -730,6 +780,8 @@
 :::warning{title=🤔同义词}
 
 - accord, reconcile （统一；使相同，使一致）
+
+:::
 
 
 ## 2626. consistent
@@ -759,6 +811,8 @@
 :::warning{title=🤔同义词}
 
 - united, corresponding, uniform, matching, solid （始终如一的，[数]一致的；坚持的）
+
+:::
 
 
 ## 2627. reverse
@@ -827,6 +881,8 @@
 
 - retrogress, step backward （倒退；逆叫）
 
+:::
+
 
 ## 2628. ravage
 
@@ -845,6 +901,8 @@
 - destruction, breaking, blasting （蹂躏，破坏）
 
 - do for, play havoc with （毁坏；掠夺）
+
+:::
 
 
 ## 2629. barren
@@ -872,6 +930,8 @@
 - sterile, unprofitable （贫瘠的；不生育的；无益的；沉闷无趣的；空洞的）
 
 - waste, wilderness, abandoned land （荒地）
+
+:::
 
 
 ## 2630. fungi
@@ -901,6 +961,8 @@
 :::warning{title=🤔同义词}
 
 - mushrooms （真菌；菌类；蘑菇（fungus的复数））
+
+:::
 
 
 ## 2631. permanent
@@ -967,6 +1029,8 @@
 
 - eternal, constant, steady, lasting, perpetual （永久的，永恒的；不变的）
 
+:::
+
 
 ## 2632. foster
 
@@ -1000,6 +1064,8 @@
 
 - cultivate, rear, raise, plant, mother （培养；养育，抚育；抱（希望等））
 
+:::
+
 
 ## 2633. receptacle
 
@@ -1021,6 +1087,8 @@
 
 - container, vessel, jack, pocket （[植]花托；容器；插座）
 
+:::
+
 
 ## 2634. summarize
 
@@ -1035,6 +1103,8 @@
 :::warning{title=🤔同义词}
 
 - sum up, outline （总结；概述）
+
+:::
 
 
 ## 2635. facility
@@ -1095,6 +1165,8 @@
 
 - equipment, furniture, establishment, plant, fixture （设施；设备；容易；灵巧）
 
+:::
+
 
 ## 2636. gregarious
 
@@ -1109,6 +1181,8 @@
 :::warning{title=🤔同义词}
 
 - social （社交的；群居的）
+
+:::
 
 
 ## 2637. beam
@@ -1175,6 +1249,8 @@
 
 - irradiate （照射；堆满笑容）
 
+:::
+
 
 ## 2638. beak
 
@@ -1189,6 +1265,8 @@
 :::warning{title=🤔同义词}
 
 - schoolmaster, justice of the peace （[鸟]鸟嘴；鹰钩鼻子；地方执法官；男教师）
+
+:::
 
 
 ## 2639. fiction
@@ -1225,6 +1303,8 @@
 
 - invention, novel （小说；虚构，编造；谎言）
 
+:::
+
 
 ## 2640. bead
 
@@ -1258,6 +1338,8 @@
 
 - foam formation （形成珠状，起泡）
 
+:::
+
 
 ## 2641. replace
 
@@ -1282,6 +1364,8 @@
 :::warning{title=🤔同义词}
 
 - restore, return, shift, tender （取代，代替；替换，更换；归还，偿还；把…放回原处）
+
+:::
 
 
 ## 2642. aviation
@@ -1328,6 +1412,8 @@
 
 - avigation, airmanship （[航]航空；飞行术；飞机制造业）
 
+:::
+
 
 ## 2643. appointment
 
@@ -1361,6 +1447,8 @@
 
 - convention, bond, nomination （[管理]任命；约定；任命的职位）
 
+:::
+
 
 ## 2644. synthesize
 
@@ -1375,6 +1463,8 @@
 :::warning{title=🤔同义词}
 
 - compound, colligate （合成；综合）
+
+:::
 
 
 ## 2645. trek
@@ -1394,6 +1484,8 @@
 - pull, draw, carry （（牛）拉（货车）；搬运）
 
 - treck （艰苦跋涉）
+
+:::
 
 
 ## 2646. squash
@@ -1427,6 +1519,8 @@
 - wedge in, pile in （受挤压；发出挤压声；挤入）
 
 - nobbing （壁球；挤压；咯吱声；南瓜属植物；（英）果汁饮料）
+
+:::
 
 
 ## 2647. major
@@ -1495,6 +1589,8 @@
 
 - adult （[人类]成年人；主修科目；陆军少校）
 
+:::
+
 
 ## 2648. playwright
 
@@ -1513,6 +1609,8 @@
 :::warning{title=🤔同义词}
 
 - dramatist （剧作家）
+
+:::
 
 
 ## 2649. interrupt
@@ -1546,6 +1644,8 @@
 - cut in on, to break in on （打断；打扰）
 
 - break, broken off （中断）
+
+:::
 
 
 ## 2650. beat
@@ -1618,6 +1718,8 @@
 
 - knackered, outspent （筋疲力尽的；疲惫不堪的）
 
+:::
+
 
 ## 2651. feasible
 
@@ -1643,6 +1745,8 @@
 
 - possible, working, potential, viable （可行的；可能的；可实行的）
 
+:::
+
 
 ## 2652. prescribe
 
@@ -1666,6 +1770,8 @@
 
 - define, regulate, state, rule （规定；开处方）
 
+:::
+
 
 ## 2653. proofread
 
@@ -1680,6 +1786,8 @@
 :::warning{title=🤔同义词}
 
 - check upon, collate （[印刷]校对，校勘）
+
+:::
 
 
 ## 2654. potential
@@ -1744,6 +1852,8 @@
 
 - feasible, possible, underlying, latent （潜在的；可能的；势的）
 
+:::
+
 
 ## 2655. lounge
 
@@ -1776,6 +1886,8 @@
 - lig, knock around （闲逛；懒洋洋地躺卧；闲混）
 
 - hack around, fiddle around （虚度光阴）
+
+:::
 
 
 ## 2656. gross
@@ -1844,6 +1956,8 @@
 
 - sum, amount, total （总额，总数）
 
+:::
+
 
 ## 2657. resist
 
@@ -1877,6 +1991,8 @@
 
 - reserving agent （[助剂]抗蚀剂；防染剂）
 
+:::
+
 
 ## 2658. archive
 
@@ -1900,6 +2016,8 @@
 
 - chancery （档案馆；档案文件）
 
+:::
+
 
 ## 2659. disarm
 
@@ -1915,6 +2033,8 @@
 
 - relax, demilitarize （解除武装；裁军；缓和）
 
+:::
+
 
 ## 2660. extrapolate
 
@@ -1929,6 +2049,8 @@
 :::warning{title=🤔同义词}
 
 - understand, conclude （[数]外推；推断）
+
+:::
 
 
 ## 2661. stimulate
@@ -1953,6 +2075,8 @@
 
 - fan, power, motivate, needle, activate （刺激；鼓舞，激励）
 
+:::
+
 
 ## 2662. reciprocity
 
@@ -1975,6 +2099,8 @@
 :::warning{title=🤔同义词}
 
 - interaction, mutual effect （相互作用（复数reciprocities）；[数]相互性；互惠主义）
+
+:::
 
 
 ## 2663. eclipse
@@ -2079,6 +2205,8 @@
 
 - plaza, concourse （平方；广场；[数]正方形）
 
+:::
+
 
 ## 2665. careless
 
@@ -2111,6 +2239,8 @@
 :::warning{title=🤔同义词}
 
 - unwary, sloppy （粗心的；无忧无虑的；淡漠的）
+
+:::
 
 
 ## 2666. soak
@@ -2149,6 +2279,8 @@
 
 - drenching, downfall （浸；湿透；大雨）
 
+:::
+
 
 ## 2667. counteract
 
@@ -2163,6 +2295,8 @@
 :::warning{title=🤔同义词}
 
 - offset, kill, slow （抵消；中和；阻碍）
+
+:::
 
 
 ## 2668. deserted
@@ -2215,6 +2349,8 @@
 
 - waste, arid （荒芜的；被遗弃的）
 
+:::
+
 
 ## 2669. commute
 
@@ -2229,6 +2365,8 @@
 :::warning{title=🤔同义词}
 
 - exchange for, give for （减刑；[数]交换；用……交换；使……变成）
+
+:::
 
 
 ## 2670. sustain
@@ -2254,6 +2392,8 @@
 :::warning{title=🤔同义词}
 
 - maintain, undertake, support, accept, favor （维持；支撑，承担；忍受；供养；证实）
+
+:::
 
 
 ## 2671. anarchist
@@ -2288,6 +2428,8 @@
 
 - categorize, sort through （分类；分等）
 
+:::
+
 
 ## 2673. altitude
 
@@ -2318,6 +2460,8 @@
 :::warning{title=🤔同义词}
 
 - height, raise, elevation, rise （高地；高度；[数]顶垂线；（等级和地位等的）高级）
+
+:::
 
 
 ## 2674. request
@@ -2376,6 +2520,8 @@
 
 - exact, desire, call for （要求，[计]请求）
 
+:::
+
 
 ## 2675. colony
 
@@ -2404,6 +2550,8 @@
 :::warning{title=🤔同义词}
 
 - settlements （殖民地；移民队）
+
+:::
 
 
 ## 2676. wagon
@@ -2440,6 +2588,8 @@
 
 - carriage, lorry （货车，[车辆]四轮马车）
 
+:::
+
 
 ## 2677. numeric
 
@@ -2473,6 +2623,8 @@
 
 - digital （[计][数]数值的（等于mumerical）；数字的）
 
+:::
+
 
 ## 2678. debut
 
@@ -2505,6 +2657,8 @@
 :::warning{title=🤔同义词}
 
 - encourage, agree, heart, sustain （支撑；鼓励；赞成；举起）
+
+:::
 
 
 ## 2680. dimension
@@ -2565,6 +2719,8 @@
 
 - measurement, size （[数]维；尺寸；次元；容积）
 
+:::
+
 
 ## 2681. nostalgia
 
@@ -2579,6 +2735,8 @@
 :::warning{title=🤔同义词}
 
 - homesickness （乡愁；怀旧之情；怀乡病）
+
+:::
 
 
 ## 2682. deserve
@@ -2608,6 +2766,8 @@
 - be deserving of （应受，应得）
 
 - be deserving of （应受，应得）
+
+:::
 
 
 ## 2683. process
@@ -2674,6 +2834,8 @@
 
 - going on, course, system, method, approach （过程，进行；方法，步骤；作用；程序；推移）
 
+:::
+
 
 ## 2684. artisan
 
@@ -2682,6 +2844,8 @@
 :::warning{title=🤔同义词}
 
 - workman, craftsman （[劳经]工匠，技工）
+
+:::
 
 
 ## 2685. sprout
@@ -2712,6 +2876,8 @@
 
 - seed, bud （[植]芽；萌芽；苗芽）
 
+:::
+
 
 ## 2686. restore
 
@@ -2738,6 +2904,8 @@
 - replace, return, repair （恢复；修复；归还）
 
 - recover from, unsave （恢复；还原）
+
+:::
 
 
 ## 2687. viscous
@@ -2778,6 +2946,8 @@
 
 - sticky, gummy （[物]粘性的；黏的）
 
+:::
+
 
 ## 2688. nostalgic
 
@@ -2794,6 +2964,8 @@
 :::warning{title=🤔同义词}
 
 - reminiscent, retrospective （怀旧的；乡愁的）
+
+:::
 
 
 ## 2689. alternative
@@ -2850,6 +3022,8 @@
 
 - selective, vicissitudinary （供选择的；选择性的；交替的）
 
+:::
+
 
 ## 2690. banner
 
@@ -2874,6 +3048,8 @@
 :::warning{title=🤔同义词}
 
 - slogan, oriflamme （旗帜，横幅；标语）
+
+:::
 
 
 ## 2691. encounter
@@ -2901,6 +3077,8 @@
 - fell in with, lit on （遭遇，偶然碰见）
 
 - bring up against, run into （遭遇；偶然相遇）
+
+:::
 
 
 ## 2692. soda
@@ -2943,6 +3121,8 @@
 
 - sodium carbonate decahydrate, carbonated water （[无化]苏打；碳酸水）
 
+:::
+
 
 ## 2693. landslide
 
@@ -2965,6 +3145,8 @@
 :::warning{title=🤔同义词}
 
 - flying colours, mudslide （[地质]山崩；大胜利）
+
+:::
 
 
 ## 2694. prairie
@@ -2992,6 +3174,8 @@
 :::warning{title=🤔同义词}
 
 - field, steppe （[畜牧]大草原；牧场）
+
+:::
 
 
 ## 2695. approve
@@ -3022,6 +3206,8 @@
 
 - to ratify, give someone the green light （批准；赞成；满意）
 
+:::
+
 
 ## 2696. chafe
 
@@ -3040,6 +3226,8 @@
 - brush burn, rub the wrong way （擦伤；磨擦；激怒）
 
 - brush-burn, abrasion （擦伤；气恼）
+
+:::
 
 
 ## 2697. chew
@@ -3074,6 +3262,8 @@
 
 - consider, pore, reflect （细想，深思）
 
+:::
+
 
 ## 2698. domicile
 
@@ -3090,6 +3280,8 @@
 - residence, home （住宅；永久居住地；[金融]期票支付场所）
 
 - belong, room, harbor, live, dwell （居住）
+
+:::
 
 
 ## 2699. pedestrian
@@ -3135,5 +3327,7 @@
 - literal-minded （徒步的；缺乏想像力的）
 
 - passerby, walker （行人；步行者）
+
+:::
 
 

@@ -24,6 +24,8 @@
 
 - derision, sarcasm （嘲笑）
 
+:::
+
 
 ## 9001. knead
 
@@ -39,6 +41,8 @@
 
 - massage, rub down （揉合，揉捏；按摩；捏制）
 
+:::
+
 
 ## 9002. nonchalant
 
@@ -53,6 +57,8 @@
 :::warning{title=🤔同义词}
 
 - cold, lukewarm （冷淡的，漠不关心的）
+
+:::
 
 
 ## 9003. humanlike
@@ -70,6 +76,8 @@
 :::warning{title=🤔同义词}
 
 - hominoid （似人类的）
+
+:::
 
 
 ## 9004. boron
@@ -106,6 +114,8 @@
 
 - boracium （[化学]硼）
 
+:::
+
 
 ## 9005. dump
 
@@ -140,6 +150,8 @@
 - pour in （倾倒；倾卸）
 
 - empty the trash （倒垃圾）
+
+:::
 
 
 ## 9006. topographically
@@ -180,6 +192,8 @@
 
 - bailee, consignee （受托者（等于mandatary））
 
+:::
+
 
 ## 9008. scholarly
 
@@ -200,6 +214,8 @@
 :::warning{title=🤔同义词}
 
 - learned, knowing, wise （博学的；学者风度的；学者派头的）
+
+:::
 
 
 ## 9009. offering
@@ -232,6 +248,8 @@
 
 - lending （提供（offer的ing形式））
 
+:::
+
 
 ## 9010. chlorine
 
@@ -250,6 +268,8 @@
 :::warning{title=🤔同义词}
 
 - Cl （[化学]氯（17号化学元素））
+
+:::
 
 
 ## 9011. bromine
@@ -296,6 +316,8 @@
 
 - outrush, well up （涌出；迸发）
 
+:::
+
 
 ## 9013. kea
 
@@ -311,6 +333,8 @@
 
 - keos （食肉鹦鹉（产于新西兰））
 
+:::
+
 
 ## 9014. hillbilly
 
@@ -325,6 +349,8 @@
 :::warning{title=🤔同义词}
 
 - peasant, provincial, countryman （乡下人，乡巴佬；山地内部的贫农，山地人）
+
+:::
 
 
 ## 9015. pont
@@ -367,6 +393,8 @@
 
 - central, key （关键的；中枢的；枢轴的）
 
+:::
+
 
 ## 9018. untimely
 
@@ -377,6 +405,8 @@
 - previous, unseasonable （不合时宜的；过早的）
 
 - prematurely, unseasonably （不合时宜地；过早地）
+
+:::
 
 
 ## 9019. sack
@@ -409,6 +439,8 @@
 
 - get the boot, dehire （解雇；把……装入袋；劫掠）
 
+:::
+
 
 ## 9020. pointe
 
@@ -431,6 +463,8 @@
 :::warning{title=🤔同义词}
 
 - felling, wood block （[林]伐木；木刻）
+
+:::
 
 
 ## 9022. chapter
@@ -461,6 +495,8 @@
 
 - Zhang, volte （[语]章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期）
 
+:::
+
 
 ## 9023. homely
 
@@ -475,6 +511,8 @@
 :::warning{title=🤔同义词}
 
 - household, domestic, family, ordinary, stock （家庭的；平凡的；不好看的）
+
+:::
 
 
 ## 9024. circulatory
@@ -496,6 +534,8 @@
 :::warning{title=🤔同义词}
 
 - cyclic, recursive （循环的）
+
+:::
 
 
 ## 9025. variance
@@ -536,6 +576,8 @@
 
 - differentiation, shift, change, diversification, turn （[生物]变异；变化；不一致；分歧；[数]方差）
 
+:::
+
 
 ## 9026. affiliate
 
@@ -569,6 +611,8 @@
 
 - participate in, take part in, go through （参加，加入；发生联系）
 
+:::
+
 
 ## 9027. unquestioning
 
@@ -583,6 +627,8 @@
 :::warning{title=🤔同义词}
 
 - blind, unlimited （不提出疑问的；不犹豫的；盲目的；无异议的；无条件的）
+
+:::
 
 
 ## 9028. primatology
@@ -615,6 +661,8 @@
 
 - defect, error, deficiency, disadvantage, vice （缺点，短处；过失）
 
+:::
+
 
 ## 9030. inferiority
 
@@ -640,6 +688,8 @@
 
 - self-contempt, subordinate （[心理]自卑；下属；次等；下部）
 
+:::
+
 
 ## 9031. tyrannical
 
@@ -657,6 +707,8 @@
 
 - ruffianly, atrocious （残暴的；暴君的；专横的）
 
+:::
+
 
 ## 9032. potentiality
 
@@ -671,6 +723,8 @@
 :::warning{title=🤔同义词}
 
 - possibility, probability, feasibility, maybe, chance （潜力；可能性）
+
+:::
 
 
 ## 9033. applicability
@@ -697,6 +751,8 @@
 
 - flexibility, adaptability （适用性；适应性）
 
+:::
+
 
 ## 9034. enlightenment
 
@@ -717,6 +773,8 @@
 :::warning{title=🤔同义词}
 
 - cultivation, edification （启迪；启蒙运动；教化）
+
+:::
 
 
 ## 9035. terrible
@@ -743,6 +801,8 @@
 
 - greatly, quite, badly, extremely, too, highly, far （很，非常）
 
+:::
+
 
 ## 9036. glossy
 
@@ -768,6 +828,8 @@
 
 - smooth, glabrous （光滑的；有光泽的）
 
+:::
+
 
 ## 9037. relevance
 
@@ -789,6 +851,8 @@
 
 - relationship, correlation, fitness, associations （关联；适当；中肯）
 
+:::
+
 
 ## 9038. wanderer
 
@@ -797,6 +861,8 @@
 :::warning{title=🤔同义词}
 
 - rover, Vagabonds （流浪者；漫游者；迷路的动物）
+
+:::
 
 
 ## 9039. rebirth
@@ -812,6 +878,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruction, regeneration, breeding, renewal （再生；复兴）
+
+:::
 
 
 ## 9040. unfertilized
@@ -876,6 +944,8 @@
 
 - unchecked, uncorroborated （未经核对的，未经证实的）
 
+:::
+
 
 ## 9045. veil
 
@@ -903,6 +973,8 @@
 
 - shadow, shield, curtain （遮蔽；掩饰；以面纱遮掩；用帷幕分隔）
 
+:::
+
 
 ## 9046. uncontested
 
@@ -917,6 +989,8 @@
 :::warning{title=🤔同义词}
 
 - rivalless, unanimous （无竞争的；无异议的；无争议的）
+
+:::
 
 
 ## 9047. inspector
@@ -951,6 +1025,8 @@
 
 - supervisor, looker （[经管][交]检查员；巡视员）
 
+:::
+
 
 ## 9048. nutritionist
 
@@ -965,6 +1041,8 @@
 :::warning{title=🤔同义词}
 
 - dietitian （营养学家）
+
+:::
 
 
 ## 9049. dismal
@@ -989,6 +1067,8 @@
 
 - dark, blue, terrible, heavy （凄凉的，忧郁的；阴沉的，沉闷的；可怕的）
 
+:::
+
 
 ## 9050. thicken
 
@@ -1008,6 +1088,8 @@
 
 - elaborate （变浓；变厚；变得模糊；变粗；变复杂）
 
+:::
+
 
 ## 9051. courageous
 
@@ -1024,6 +1106,8 @@
 :::warning{title=🤔同义词}
 
 - game, brave （有胆量的，勇敢的）
+
+:::
 
 
 ## 9052. roe
@@ -1059,6 +1143,8 @@
 :::warning{title=🤔同义词}
 
 - unadmitted, unheralded （未被承认的；无法认出的）
+
+:::
 
 
 ## 9054. soup
@@ -1121,6 +1207,8 @@
 
 - increase speed, quicken up （加速；增加马力）
 
+:::
+
 
 ## 9055. directive
 
@@ -1145,6 +1233,8 @@
 - instruction, pointing, indication, prescription, commands （指示；指令）
 
 - administrative, regulatory, managing （指导的；管理的）
+
+:::
 
 
 ## 9056. september
@@ -1175,6 +1265,8 @@
 
 - unobtainable （不能得到的；不能达到的）
 
+:::
+
 
 ## 9058. stew
 
@@ -1200,6 +1292,8 @@
 
 - simmer, fret one's gizzard （炖，炖汤；焖；受闷热；忧虑）
 
+:::
+
 
 ## 9059. slowness
 
@@ -1219,6 +1313,8 @@
 
 - tardiness, inertia （缓慢；迟钝）
 
+:::
+
 
 ## 9060. slavery
 
@@ -1233,6 +1329,8 @@
 :::warning{title=🤔同义词}
 
 - Enslaved, bondage （奴役；奴隶制度；奴隶身分）
+
+:::
 
 
 ## 9061. herculean
@@ -1261,6 +1359,8 @@
 
 - huge, tremendous, enormous, massive, macro, intense （巨大的；异常的，非常的）
 
+:::
+
 
 ## 9063. prudent
 
@@ -1281,6 +1381,8 @@
 :::warning{title=🤔同义词}
 
 - cautious, wary, provident （谨慎的；精明的；节俭的）
+
+:::
 
 
 ## 9064. liable
@@ -1305,6 +1407,8 @@
 
 - responsible, bound, accountable, prone （有责任的，有义务的；应受罚的；有…倾向的；易…的）
 
+:::
+
 
 ## 9065. imprisonment
 
@@ -1327,6 +1431,8 @@
 :::warning{title=🤔同义词}
 
 - prison, durance （[法]监禁，关押；坐牢；下狱）
+
+:::
 
 
 ## 9066. sour
@@ -1381,6 +1487,8 @@
 
 - fail, fox （使变酸；使失望）
 
+:::
+
 
 ## 9067. treason
 
@@ -1402,6 +1510,8 @@
 
 - recreancy （[法]叛国罪；不忠）
 
+:::
+
 
 ## 9068. wold
 
@@ -1410,6 +1520,8 @@
 :::warning{title=🤔同义词}
 
 - desert, badland （荒原；无树木的山地）
+
+:::
 
 
 ## 9069. abalone
@@ -1429,6 +1541,8 @@
 :::warning{title=🤔同义词}
 
 - paua, ormer, sea-ear （[无脊椎]鲍鱼）
+
+:::
 
 
 ## 9070. mime
@@ -1451,6 +1565,8 @@
 
 - dumb show, panto （哑剧；小丑；滑稽戏）
 
+:::
+
 
 ## 9071. dram
 
@@ -1465,6 +1581,8 @@
 :::warning{title=🤔同义词}
 
 - suggestion, trace, drop （打兰（重量名）；微量）
+
+:::
 
 
 ## 9072. desperate
@@ -1485,6 +1603,8 @@
 
 - venturous, devil-may-care （不顾一切的；令人绝望的；极度渴望的）
 
+:::
+
 
 ## 9073. retool
 
@@ -1499,6 +1619,8 @@
 :::warning{title=🤔同义词}
 
 - recombine, reequip （重组；重新装备）
+
+:::
 
 
 ## 9074. urchin
@@ -1520,6 +1642,8 @@
 :::warning{title=🤔同义词}
 
 - monkey, elf （顽童，淘气鬼；海胆；刺猥）
+
+:::
 
 
 ## 9075. relational
@@ -1550,6 +1674,8 @@
 
 - correlative, pertinent （相关的；亲属的）
 
+:::
+
 
 ## 9076. demobilize
 
@@ -1564,6 +1690,8 @@
 :::warning{title=🤔同义词}
 
 - deactivate, muster out （遣散；使复员；使退伍（demobilise））
+
+:::
 
 
 ## 9077. bid
@@ -1630,6 +1758,8 @@
 
 - offer （[贸易]出价；叫牌；努力争取）
 
+:::
+
 
 ## 9078. palimpsest
 
@@ -1663,6 +1793,8 @@
 
 - alchemist （炼金术士）
 
+:::
+
 
 ## 9080. lust
 
@@ -1687,6 +1819,8 @@
 - sexual desire, libido （性欲；强烈的欲望）
 
 - rare, aspire （贪求，渴望）
+
+:::
 
 
 ## 9081. posthumously
@@ -1719,6 +1853,8 @@
 
 - serve, accommodate （配备；供应）
 
+:::
+
 
 ## 9083. revolt
 
@@ -1748,6 +1884,8 @@
 
 - resistance, hate, rebellion （反抗；叛乱；反感）
 
+:::
+
 
 ## 9084. maw
 
@@ -1770,6 +1908,8 @@
 :::warning{title=🤔同义词}
 
 - stomach, gastro （（动物的）胃；嗉囊（鸟的）；（动物的）咽喉）
+
+:::
 
 
 ## 9085. utmost
@@ -1806,6 +1946,8 @@
 
 - excessive, extreme （极度的；最远的）
 
+:::
+
 
 ## 9086. bryn
 
@@ -1839,6 +1981,8 @@
 
 - conformance, impending slough （[计][会计]一致性；[流]稠度；相容性）
 
+:::
+
 
 ## 9088. sentimentalism
 
@@ -1847,6 +1991,8 @@
 :::warning{title=🤔同义词}
 
 - emotionalism （感情主义；沉于情感）
+
+:::
 
 
 ## 9089. philosophic
@@ -1871,6 +2017,8 @@
 
 - wiser （哲学的；贤明的）
 
+:::
+
 
 ## 9090. trilogy
 
@@ -1889,6 +2037,8 @@
 :::warning{title=🤔同义词}
 
 - phrase, parlance （用语；措词）
+
+:::
 
 
 ## 9092. stylish
@@ -1909,6 +2059,8 @@
 
 - modern, fashionable, tony, in, smart （时髦的；现代风格的；潇洒的）
 
+:::
+
 
 ## 9093. embarrass
 
@@ -1924,6 +2076,8 @@
 
 - slow, abash （使局促不安；使困窘；阻碍）
 
+:::
+
 
 ## 9094. vocation
 
@@ -1938,6 +2092,8 @@
 :::warning{title=🤔同义词}
 
 - profession, employment, career, calling, pursuit, occupation （[劳经]职业；天职；天命；神召）
+
+:::
 
 
 ## 9095. arena
@@ -1955,6 +2111,8 @@
 :::warning{title=🤔同义词}
 
 - stage, lists （舞台；竞技场）
+
+:::
 
 
 ## 9096. waist
@@ -1989,6 +2147,8 @@
 
 - middle, loin （腰，腰部）
 
+:::
+
 
 ## 9097. irritate
 
@@ -2003,6 +2163,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, fan, anger, motivate, needle （刺激，使兴奋；激怒）
+
+:::
 
 
 ## 9098. storehouses
@@ -2022,5 +2184,7 @@
 :::warning{title=🤔同义词}
 
 - unknown, sealed （未知的；图上未标明的）
+
+:::
 
 

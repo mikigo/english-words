@@ -20,6 +20,8 @@
 
 - cooking utensils, kitchen unit （厨房用具）
 
+:::
+
 
 ## 8201. intimidate
 
@@ -35,6 +37,8 @@
 
 - cow, to menace （恐吓，威胁；胁迫）
 
+:::
+
 
 ## 8202. serviceable
 
@@ -49,6 +53,8 @@
 :::warning{title=🤔同义词}
 
 - useful, be of use （有用的，可供使用的；耐用的）
+
+:::
 
 
 ## 8203. chalky
@@ -111,6 +117,8 @@
 
 - crown, majesty （皇室；[税收]版税；王权；专利税）
 
+:::
+
 
 ## 8206. renowned
 
@@ -125,6 +133,8 @@
 :::warning{title=🤔同义词}
 
 - famous, noted, distinguished, celebrated, famed （著名的；有声望的）
+
+:::
 
 
 ## 8207. worthy
@@ -151,6 +161,8 @@
 
 - out-and-outer, dilly （杰出人物；知名人士）
 
+:::
+
 
 ## 8208. kinfolk
 
@@ -167,6 +179,8 @@
 :::warning{title=🤔同义词}
 
 - folk, family （亲属）
+
+:::
 
 
 ## 8209. prompt
@@ -207,6 +221,8 @@
 
 - punctually （准时地）
 
+:::
+
 
 ## 8210. nonliving
 
@@ -225,6 +241,8 @@
 :::warning{title=🤔同义词}
 
 - dead, lifeless （无生命的；非生物的）
+
+:::
 
 
 ## 8211. impervious
@@ -249,6 +267,8 @@
 
 - unaffected, unmoved （不受影响的，无动于衷的；不能渗透的）
 
+:::
+
 
 ## 8212. deceptive
 
@@ -266,6 +286,8 @@
 
 - artificial, lost, false （欺诈的；迷惑的；虚伪的）
 
+:::
+
 
 ## 8213. wok
 
@@ -280,6 +302,8 @@
 :::warning{title=🤔同义词}
 
 - hollowware （锅（源自广东话）；炒菜锅）
+
+:::
 
 
 ## 8214. appraisal
@@ -318,6 +342,8 @@
 
 - evaluation, valuation, estimation, computation, assessment, calculation （评价；[经管]估价（尤指估价财产，以便征税）；[数]估计）
 
+:::
+
 
 ## 8215. lone
 
@@ -339,6 +365,8 @@
 
 - alone, single （单身的；独自的；寂寞的；人迹稀少的）
 
+:::
+
 
 ## 8216. dissenter
 
@@ -354,6 +382,8 @@
 
 - anti, opponent （持异议者；反对者）
 
+:::
+
 
 ## 8217. enure
 
@@ -364,6 +394,8 @@
 :::warning{title=🤔同义词}
 
 - profit, apply （生效（等于innure）；有益；适用）
+
+:::
 
 
 ## 8218. conformity
@@ -400,6 +432,8 @@
 
 - accordance, unity, agreement, identity, consensus （一致，适合；符合；相似）
 
+:::
+
 
 ## 8219. unanimity
 
@@ -414,6 +448,8 @@
 :::warning{title=🤔同义词}
 
 - agreement, yes, Ok, leave, Okay （同意，全体一致）
+
+:::
 
 
 ## 8220. pedagogical
@@ -446,6 +482,8 @@
 
 - ambulatory funnel, hyponome （[建]料斗；漏斗；单足跳者；跳虫）
 
+:::
+
 
 ## 8222. affirm
 
@@ -463,6 +501,8 @@
 
 - recognize, confirm on （确认；断言）
 
+:::
+
 
 ## 8223. scientifically
 
@@ -479,6 +519,8 @@
 :::warning{title=🤔同义词}
 
 - systematacially （系统地；合乎科学地；学问上）
+
+:::
 
 
 ## 8224. modus
@@ -507,6 +549,8 @@
 
 - way of, manner, method, procedure, mode, approach, system （方法，方式；程序，样式）
 
+:::
+
 
 ## 8225. laborsaving
 
@@ -532,6 +576,8 @@
 
 - spontaneous generation, abiogenesis （自发性；自然发生）
 
+:::
+
 
 ## 8227. respectable
 
@@ -546,6 +592,8 @@
 :::warning{title=🤔同义词}
 
 - venerable, honourable （值得尊敬的；人格高尚的；相当数量的）
+
+:::
 
 
 ## 8228. paperback
@@ -596,6 +644,8 @@
 
 - belt, band, strip （带；[机]皮带；磨刀皮带；鞭打）
 
+:::
+
 
 ## 8230. topical
 
@@ -617,6 +667,8 @@
 
 - partial, regional, local （局部的；论题的；时事问题的；局部地区的）
 
+:::
+
 
 ## 8231. exclaim
 
@@ -631,6 +683,8 @@
 :::warning{title=🤔同义词}
 
 - bay, shout （呼喊，惊叫；大声叫嚷）
+
+:::
 
 
 ## 8232. ratchet
@@ -659,6 +713,8 @@
 
 - get loose （安装棘轮于；松脱）
 
+:::
+
 
 ## 8233. humiliate
 
@@ -673,6 +729,8 @@
 :::warning{title=🤔同义词}
 
 - make a chump out of （羞辱；使…丢脸；耻辱）
+
+:::
 
 
 ## 8234. conduction
@@ -727,6 +785,8 @@
 
 - uncertainly, faintly （不确定地，无限期地；模糊地，不明确地）
 
+:::
+
 
 ## 8236. unused
 
@@ -742,6 +802,8 @@
 
 - left-off （不用的；从未用过的）
 
+:::
+
 
 ## 8237. ala
 
@@ -756,6 +818,8 @@
 :::warning{title=🤔同义词}
 
 - wing, pennon （[生物]翼，[昆]翅）
+
+:::
 
 
 ## 8238. virgin
@@ -800,6 +864,8 @@
 
 - Parthenos, demi-vierge （[妇产]处女）
 
+:::
+
 
 ## 8239. terrifyingly
 
@@ -808,6 +874,8 @@
 :::warning{title=🤔同义词}
 
 - surprisingly, alarmingly （惊人地；令人害怕地）
+
+:::
 
 
 ## 8240. conference
@@ -902,6 +970,8 @@
 
 - stainless, pure, white, plain （纯洁的；贞洁的；有道德的；朴素的）
 
+:::
+
 
 ## 8244. sully
 
@@ -918,6 +988,8 @@
 - cloud, shame （玷污；使丢脸）
 
 - impairment, jaup （污点，损伤）
+
+:::
 
 
 ## 8245. incapable
@@ -940,6 +1012,8 @@
 
 - unable, powerless （不能的；无能力的；不能胜任的）
 
+:::
+
 
 ## 8246. mouldy
 
@@ -957,6 +1031,8 @@
 
 - moldy, musty （发霉的；旧式的；腐朽的）
 
+:::
+
 
 ## 8247. condemn
 
@@ -971,6 +1047,8 @@
 :::warning{title=🤔同义词}
 
 - denounce, deplore （谴责；判刑，定罪；声讨）
+
+:::
 
 
 ## 8248. handicap
@@ -999,6 +1077,8 @@
 
 - let, slow （妨碍，阻碍；使不利）
 
+:::
+
 
 ## 8249. dumb
 
@@ -1021,6 +1101,8 @@
 :::warning{title=🤔同义词}
 
 - tongueless, speechless （哑的，无说话能力的；不说话的，无声音的）
+
+:::
 
 
 ## 8250. hygiene
@@ -1061,6 +1143,8 @@
 
 - health （卫生；卫生学；[医]保健法）
 
+:::
+
 
 ## 8251. happily
 
@@ -1080,6 +1164,8 @@
 
 - properly, fortunately, right （快乐地；幸福地；幸运地；恰当地）
 
+:::
+
 
 ## 8252. slothful
 
@@ -1095,6 +1181,8 @@
 
 - slow, lazy （怠惰的，懒惰的；迟钝的）
 
+:::
+
 
 ## 8253. forefather
 
@@ -1109,6 +1197,8 @@
 :::warning{title=🤔同义词}
 
 - father, root （祖先；前辈）
+
+:::
 
 
 ## 8254. soundly
@@ -1130,6 +1220,8 @@
 :::warning{title=🤔同义词}
 
 - entirely, totally, completely, thoroughly, fully, absolutely, strictly （健全地；完全地；稳健地；彻底地；牢固地）
+
+:::
 
 
 ## 8255. asleep
@@ -1162,6 +1254,8 @@
 
 - sleeping, stupid （睡着的；麻木的；长眠的）
 
+:::
+
 
 ## 8256. torpor
 
@@ -1179,6 +1273,8 @@
 
 - anesthesia, numbness （不活泼；麻木；懒散，迟缓）
 
+:::
+
 
 ## 8257. lull
 
@@ -1191,6 +1287,8 @@
 - fall, lower, cool, subside （平息；减弱；停止）
 
 - hang, pause （间歇；暂停；暂时平静）
+
+:::
 
 
 ## 8258. lash
@@ -1216,6 +1314,8 @@
 - drive, belt （鞭打；猛击；急速甩动）
 
 - hit, flogging （鞭打；睫毛；鞭子；责骂；讽刺）
+
+:::
 
 
 ## 8259. cementation
@@ -1243,6 +1343,8 @@
 :::warning{title=🤔同义词}
 
 - however, anyhow （无论如何，不管怎样；总之）
+
+:::
 
 
 ## 8261. trumpeter
@@ -1280,6 +1382,8 @@
 - call together, assemble （召集，集合；传唤）
 
 - concentrate, collect, mass, crowd, aggregate （聚集，集合）
+
+:::
 
 
 ## 8264. wingless
@@ -1320,6 +1424,8 @@
 
 - latitudinarian （[数]模式的；情态的；形式的）
 
+:::
+
 
 ## 8266. sweaty
 
@@ -1336,6 +1442,8 @@
 :::warning{title=🤔同义词}
 
 - demanding, laborsome （出汗的；吃力的；使人出汗的）
+
+:::
 
 
 ## 8267. brawl
@@ -1356,6 +1464,8 @@
 
 - bark out, bellow out （大声喊出；为…争吵）
 
+:::
+
 
 ## 8268. useable
 
@@ -1374,6 +1484,8 @@
 :::warning{title=🤔同义词}
 
 - practicable, usable （可用的；便于使用的（等于usable））
+
+:::
 
 
 ## 8269. operational
@@ -1438,6 +1550,8 @@
 
 - handling, working （操作的；[数]运作的）
 
+:::
+
 
 ## 8270. clockmaker
 
@@ -1479,6 +1593,8 @@
 
 - connection, combination, coupling, wedding, bond （[计]连接；结合；联接；联动装置）
 
+:::
+
 
 ## 8272. offensive
 
@@ -1508,6 +1624,8 @@
 
 - attack, attempt, push （攻势；攻击）
 
+:::
+
 
 ## 8273. midst
 
@@ -1535,6 +1653,8 @@
 
 - among, in the middle of （在…中间（等于amidst））
 
+:::
+
 
 ## 8274. multifunctional
 
@@ -1549,6 +1669,8 @@
 :::warning{title=🤔同义词}
 
 - polymorphous （多功能的）
+
+:::
 
 
 ## 8275. vigor
@@ -1576,6 +1698,8 @@
 :::warning{title=🤔同义词}
 
 - energy, vitality, spring, steam, razzamatazz （[生物]活力，精力）
+
+:::
 
 
 ## 8276. singular
@@ -1612,6 +1736,8 @@
 
 - remarkable, extraordinary, novel, wonder, exquisite （单数的；单一的；非凡的；[数]异常的）
 
+:::
+
 
 ## 8277. parliament
 
@@ -1643,6 +1769,8 @@
 
 - congress, house （议会，国会）
 
+:::
+
 
 ## 8278. oust
 
@@ -1651,6 +1779,8 @@
 :::warning{title=🤔同义词}
 
 - shear, expel （驱逐；剥夺；取代）
+
+:::
 
 
 ## 8279. promptly
@@ -1666,6 +1796,8 @@
 :::warning{title=🤔同义词}
 
 - quickly, rapidly, fast, ready （迅速地；立即地；敏捷地）
+
+:::
 
 
 ## 8280. sage
@@ -1684,6 +1816,8 @@
 
 - wise, calculating, advisable, sensible （明智的；贤明的；审慎的）
 
+:::
+
 
 ## 8281. rejoin
 
@@ -1698,6 +1832,8 @@
 :::warning{title=🤔同义词}
 
 - reply, respond, answer （答辩；回答；重新聚合）
+
+:::
 
 
 ## 8282. courage
@@ -1730,6 +1866,8 @@
 
 - nerve, heart （勇气；胆量）
 
+:::
+
 
 ## 8283. debtor
 
@@ -1744,6 +1882,8 @@
 :::warning{title=🤔同义词}
 
 - obligor, debitor （[法]债务人；[会计]借方）
+
+:::
 
 
 ## 8284. penal
@@ -1770,6 +1910,8 @@
 
 - criminal, punitive （刑事的；刑罚的）
 
+:::
+
 
 ## 8285. wrapper
 
@@ -1784,6 +1926,8 @@
 :::warning{title=🤔同义词}
 
 - packages material, packing material （[包装]包装材料；包装纸；书皮）
+
+:::
 
 
 ## 8286. outright
@@ -1810,6 +1954,8 @@
 
 - thorough, full, complete, absolute, total （完全的，彻底的；直率的；总共的）
 
+:::
+
 
 ## 8287. orphanage
 
@@ -1834,6 +1980,8 @@
 :::warning{title=🤔同义词}
 
 - actual, sincere, genuine, true, real （真正的，真实的；可信的）
+
+:::
 
 
 ## 8289. florist
@@ -1860,6 +2008,8 @@
 
 - flavour, redolence （香味，芬芳）
 
+:::
+
 
 ## 8291. daddy
 
@@ -1883,6 +2033,8 @@
 
 - dad, father, pa, da, papa （爸爸）
 
+:::
+
 
 ## 8292. eventual
 
@@ -1900,6 +2052,8 @@
 
 - finishing, feasible, possible, last, potential （最后的，结果的；可能的；终于的）
 
+:::
+
 
 ## 8293. agonize
 
@@ -1916,6 +2070,8 @@
 - struggle along （感到极度痛苦；挣扎）
 
 - harry, worry, trouble, tear （使极度痛苦；折磨）
+
+:::
 
 
 ## 8294. oft
@@ -1936,6 +2092,8 @@
 
 - often, forever, always （常常；再三）
 
+:::
+
 
 ## 8295. horde
 
@@ -1950,6 +2108,8 @@
 :::warning{title=🤔同义词}
 
 - cluster, cloud, gang （一大群，群；游牧部落）
+
+:::
 
 
 ## 8296. primer
@@ -1992,6 +2152,8 @@
 
 - return, respond with （回复；重提；返祖遗传；归还）
 
+:::
+
 
 ## 8298. copyright
 
@@ -2028,6 +2190,8 @@
 :::warning{title=🤔同义词}
 
 - literary property, intellectual property （[法]版权，著作权）
+
+:::
 
 
 ## 8299. nephew

@@ -58,6 +58,8 @@
 
 - theory, mechanism, factor, basic, essential （[数]元素；要素；原理；成分；自然环境）
 
+:::
+
 
 ## 401. drift
 
@@ -119,6 +121,8 @@
 
 - extravagate, knock about （漂流，[电子]漂移；漂泊）
 
+:::
+
 
 ## 402. undue
 
@@ -144,6 +148,8 @@
 
 - excessive, ultra, tall, unreasonable, unhappy （过度的，过分的；不适当的；[金融]未到期的）
 
+:::
+
 
 ## 403. panacea
 
@@ -158,6 +164,8 @@
 :::warning{title=🤔同义词}
 
 - catholicon, elixir （灵丹妙药；万能药）
+
+:::
 
 
 ## 404. sandbar
@@ -177,6 +185,8 @@
 :::warning{title=🤔同义词}
 
 - hurst, alluvion （沙洲；沙堤）
+
+:::
 
 
 ## 405. ergonomic
@@ -212,6 +222,8 @@
 :::warning{title=🤔同义词}
 
 - full, ample, plentiful, luxurious （丰富的；充裕的；盛产）
+
+:::
 
 
 ## 407. pigment
@@ -270,6 +282,8 @@
 
 - colorize, stain （给…着色）
 
+:::
+
 
 ## 408. forecast
 
@@ -305,6 +319,8 @@
 
 - prediction, divination （预测，[气象][通信]预报；预想）
 
+:::
+
 
 ## 409. courtesy
 
@@ -334,6 +350,8 @@
 
 - red-carpet, complaisant （殷勤的；被承认的；出于礼节的）
 
+:::
+
 
 ## 410. deteriorate
 
@@ -352,6 +370,8 @@
 - go ill, change for the worse （恶化，变坏）
 
 - go ill, exasperate （恶化）
+
+:::
 
 
 ## 411. participatory
@@ -384,6 +404,8 @@
 
 - sequel, backwash （后果；余波）
 
+:::
+
 
 ## 413. pollutant
 
@@ -415,6 +437,8 @@
 
 - contamination, fomite （[环境]污染物）
 
+:::
+
 
 ## 414. bisect
 
@@ -429,6 +453,8 @@
 :::warning{title=🤔同义词}
 
 - go halves with sb. in sth. （平分；二等分）
+
+:::
 
 
 ## 415. cue
@@ -457,6 +483,8 @@
 
 - connotation, implication, reminder （提示，暗示；线索）
 
+:::
+
 
 ## 416. induce
 
@@ -471,6 +499,8 @@
 :::warning{title=🤔同义词}
 
 - attract, produce, cause, operate, occasion （诱导；引起；引诱；感应）
+
+:::
 
 
 ## 417. abnormal
@@ -513,6 +543,8 @@
 
 - unnatural, eccentric （反常的，不规则的；变态的）
 
+:::
+
 
 ## 418. effluent
 
@@ -546,6 +578,8 @@
 
 - effusive, excurrent （[环境]流出的，发出的）
 
+:::
+
 
 ## 419. aperiodic
 
@@ -560,6 +594,8 @@
 :::warning{title=🤔同义词}
 
 - nonscheduled （不定期的；[数]非周期性的）
+
+:::
 
 
 ## 420. vortices
@@ -580,6 +616,8 @@
 
 - swirls, eddies （[流]旋涡（vortice的复数形式））
 
+:::
+
 
 ## 421. enroll
 
@@ -597,6 +635,8 @@
 
 - participate in, take part in, go through （参加；登记；注册；记入名册）
 
+:::
+
 
 ## 422. stereotype
 
@@ -613,6 +653,8 @@
 :::warning{title=🤔同义词}
 
 - truism, conventionality （陈腔滥调，老套；铅版）
+
+:::
 
 
 ## 423. molecule
@@ -649,6 +691,8 @@
 
 - numerator of a fraction, microne （[化学]分子；微小颗粒，微粒）
 
+:::
+
 
 ## 424. reminiscent
 
@@ -671,6 +715,8 @@
 - nostalgic, retrospective （怀旧的，回忆往事的；耽于回想的）
 
 - memorialist （回忆录作者；回忆者）
+
+:::
 
 
 ## 425. memorandum
@@ -701,6 +747,8 @@
 
 - note, minute （备忘录；便笺）
 
+:::
+
 
 ## 426. coaster
 
@@ -715,6 +763,8 @@
 :::warning{title=🤔同义词}
 
 - cariole, carriole （沿岸贸易船；杯托，小托盘；雪橇）
+
+:::
 
 
 ## 427. resign
@@ -738,6 +788,8 @@
 - yield, desert, refer, quit （辞职；放弃；委托；使听从）
 
 - step down, quit （辞职）
+
+:::
 
 
 ## 428. sophisticated
@@ -766,6 +818,8 @@
 
 - mystified （使变得世故；使迷惑；篡改（sophisticate的过去分词形式））
 
+:::
+
 
 ## 429. ardent
 
@@ -780,6 +834,8 @@
 :::warning{title=🤔同义词}
 
 - intense, acute, warm, eager, tropical （热情的；热心的；激烈的；燃烧般的）
+
+:::
 
 
 ## 430. anomaly
@@ -812,6 +868,8 @@
 
 - abnormality, deviance （[气象]异常；不规则；反常事物）
 
+:::
+
 
 ## 431. warrior
 
@@ -833,6 +891,8 @@
 
 - champion, fighter, brave （战士，勇士；鼓吹战争的人）
 
+:::
+
 
 ## 432. stave
 
@@ -851,6 +911,8 @@
 - wait, suspend （延缓；击穿；凿孔于；压扁）
 
 - fall to pieces, come apart （破碎；穿孔）
+
+:::
 
 
 ## 433. entertainment
@@ -891,6 +953,8 @@
 
 - recreation, pleasure, sport, occupation, amusement （娱乐；消遣；款待）
 
+:::
+
 
 ## 434. reside
 
@@ -911,6 +975,8 @@
 :::warning{title=🤔同义词}
 
 - occupy, belong to （住，居住；属于）
+
+:::
 
 
 ## 435. jurisdiction
@@ -947,6 +1013,8 @@
 
 - rights, competence, rod （司法权，[法]审判权，管辖权；权限，权力）
 
+:::
+
 
 ## 436. concurrent
 
@@ -977,6 +1045,8 @@
 - united, consistent, corresponding, matching, uniform （[计]并发的；一致的；[统计]同时发生的）
 
 - common point （[数]共点；[统计]同时发生的事件）
+
+:::
 
 
 ## 437. rheumatic
@@ -1024,6 +1094,8 @@
 :::warning{title=🤔同义词}
 
 - reduction, loss, decrease （[数]减法；减少；差集）
+
+:::
 
 
 ## 439. aluminum
@@ -1128,6 +1200,8 @@
 
 - validity, practicality （可用性；有效性；实用性）
 
+:::
+
 
 ## 442. indicative
 
@@ -1149,6 +1223,8 @@
 
 - symbolic, emblematic （象征的；指示的；表示…的）
 
+:::
+
 
 ## 443. scrutiny
 
@@ -1163,6 +1239,8 @@
 :::warning{title=🤔同义词}
 
 - observation, monitoring, surveillance, watch （详细审查；监视；细看；选票复查）
+
+:::
 
 
 ## 444. antifreeze
@@ -1181,6 +1259,8 @@
 
 - deicing agent （[助剂]防冻剂）
 
+:::
+
 
 ## 445. inalienable
 
@@ -1195,6 +1275,8 @@
 :::warning{title=🤔同义词}
 
 - indissociable, inseparable （不可分割的；不可剥夺的；不能让与的）
+
+:::
 
 
 ## 446. promote
@@ -1223,6 +1305,8 @@
 
 - facilitate, boost, prefer, upgrade, further （促进；提升；推销；发扬）
 
+:::
+
 
 ## 447. incompatible
 
@@ -1243,6 +1327,8 @@
 :::warning{title=🤔同义词}
 
 - antipathic, contradictory （[数]不相容的；矛盾的；不能同时成立的）
+
+:::
 
 
 ## 448. deluxe
@@ -1272,6 +1358,8 @@
 - senior, advanced, high, grand （高级的；豪华的，奢华的）
 
 - luxuriously, sumptuously （豪华地）
+
+:::
 
 
 ## 449. sacralization
@@ -1313,6 +1401,8 @@
 :::warning{title=🤔同义词}
 
 - doubt, challenge, charge （弹劾；控告；怀疑；指摘）
+
+:::
 
 
 ## 453. tariff
@@ -1423,6 +1513,8 @@
 
 - money, circulating medium （[金融]货币；通货）
 
+:::
+
 
 ## 455. distribute
 
@@ -1437,6 +1529,8 @@
 :::warning{title=🤔同义词}
 
 - portion, part, spread （分配；散布；分开；把…分类）
+
+:::
 
 
 ## 456. reorganization
@@ -1461,6 +1555,8 @@
 
 - restructuring, adaptation （改组；整顿；改编）
 
+:::
+
 
 ## 457. enlist
 
@@ -1477,6 +1573,8 @@
 - support of, stand up for sb （支持；从军；应募；赞助）
 
 - recruit （使入伍；征募；谋取…的赞助或帮助）
+
+:::
 
 
 ## 458. depreciation
@@ -1519,6 +1617,8 @@
 
 - disvalue （[会计]折旧；[经]贬值）
 
+:::
+
 
 ## 459. retention
 
@@ -1558,6 +1658,8 @@
 
 - memory, preservation, mind, hold, reservation （保留；扣留，滞留；记忆力；闭尿）
 
+:::
+
 
 ## 460. confederation
 
@@ -1582,6 +1684,8 @@
 :::warning{title=🤔同义词}
 
 - alliance, union, association, league, federation （联盟；邦联；同盟）
+
+:::
 
 
 ## 461. legislation
@@ -1612,6 +1716,8 @@
 
 - lawmaking, lex （立法；法律）
 
+:::
+
 
 ## 462. quiz
 
@@ -1637,6 +1743,8 @@
 
 - dig at, test for （挖苦；张望；对…进行测验）
 
+:::
+
 
 ## 463. participate
 
@@ -1661,6 +1769,8 @@
 - mix, take part in （参与，参加；分享）
 
 - share in, partake in （分享；分担）
+
+:::
 
 
 ## 464. ingredient
@@ -1688,6 +1798,8 @@
 :::warning{title=🤔同义词}
 
 - element, factor, material, basic, essential （原料；要素；组成部分）
+
+:::
 
 
 ## 465. surplus
@@ -1742,6 +1854,8 @@
 
 - remaining, residual, odd （[数][电子]剩余的；[经]过剩的）
 
+:::
+
 
 ## 466. consolidate
 
@@ -1760,6 +1874,8 @@
 - cement, strengthen, connect, fix, link （巩固，使固定；联合）
 
 - build up, to reinforce （巩固，加强）
+
+:::
 
 
 ## 467. gradient
@@ -1816,6 +1932,8 @@
 
 - walking, raked （[建]倾斜的；步行的）
 
+:::
+
 
 ## 468. inhibit
 
@@ -1830,6 +1948,8 @@
 :::warning{title=🤔同义词}
 
 - bar, restrain, control, stay （抑制；禁止）
+
+:::
 
 
 ## 469. intimate
@@ -1864,6 +1984,8 @@
 
 - bill, message （暗示；通知；宣布）
 
+:::
+
 
 ## 470. withdrawal
 
@@ -1890,6 +2012,8 @@
 :::warning{title=🤔同义词}
 
 - cancellation, pullback （[军]撤退，收回；[金融]提款；取消；退股）
+
+:::
 
 
 ## 471. biomedical
@@ -1918,6 +2042,8 @@
 
 - pregnancy, fertility （[生物]繁殖力；多产；肥沃）
 
+:::
+
 
 ## 473. disparate
 
@@ -1941,6 +2067,8 @@
 
 - different, diverse, unlike, varying, another （不同的；不相干的；全异的）
 
+:::
+
 
 ## 474. defiant
 
@@ -1955,6 +2083,8 @@
 :::warning{title=🤔同义词}
 
 - challenging, in-your-face （挑衅的；目中无人的，蔑视的；挑战的）
+
+:::
 
 
 ## 475. tragedy
@@ -1972,6 +2102,8 @@
 :::warning{title=🤔同义词}
 
 - disaster, calamity （悲剧；灾难；惨案）
+
+:::
 
 
 ## 476. reflective
@@ -2000,6 +2132,8 @@
 
 - catoptric, repercussive （反射的；反映的；沉思的）
 
+:::
+
 
 ## 477. misrepresent
 
@@ -2014,6 +2148,8 @@
 :::warning{title=🤔同义词}
 
 - colour, misinform （歪曲，误传；不合适地代表）
+
+:::
 
 
 ## 478. clan
@@ -2031,6 +2167,8 @@
 :::warning{title=🤔同义词}
 
 - nationality, collective, tribe （宗族；部落；集团）
+
+:::
 
 
 ## 479. miniature
@@ -2071,6 +2209,8 @@
 
 - contracted drawing, microcosm （缩图；微型画；微型图画绘画术）
 
+:::
+
 
 ## 480. urchin
 
@@ -2086,6 +2226,8 @@
 
 - monkey, elf （顽童，淘气鬼；海胆；刺猥）
 
+:::
+
 
 ## 481. burglarize
 
@@ -2094,6 +2236,8 @@
 :::warning{title=🤔同义词}
 
 - thieve （撬窃；行窃）
+
+:::
 
 
 ## 482. chart
@@ -2111,6 +2255,8 @@
 :::warning{title=🤔同义词}
 
 - graph, diagram （图表；海图；图纸）
+
+:::
 
 
 ## 483. cabinet
@@ -2173,6 +2319,8 @@
 
 - private, secret, underground, chamber, inside （内阁的；私下的，秘密的）
 
+:::
+
 
 ## 484. optical
 
@@ -2231,6 +2379,8 @@
 :::warning{title=🤔同义词}
 
 - visual, ocular （光学的；眼睛的，[生理]视觉的）
+
+:::
 
 
 ## 485. principle
@@ -2295,6 +2445,8 @@
 
 - theory, mechanism, element, essence, parent （原理，原则；主义，道义；本质，本义；根源，源泉）
 
+:::
+
 
 ## 486. echolocation
 
@@ -2320,6 +2472,8 @@
 
 - mainly, basically, largely, mostly, primarily （主要地；显著地）
 
+:::
+
 
 ## 488. antagonism
 
@@ -2334,6 +2488,8 @@
 :::warning{title=🤔同义词}
 
 - opposition, war, confrontation （[生化]对抗，敌对；对立；敌意）
+
+:::
 
 
 ## 489. litigant
@@ -2352,6 +2508,8 @@
 
 - contentious （诉讼的）
 
+:::
+
 
 ## 490. consortium
 
@@ -2368,6 +2526,8 @@
 :::warning{title=🤔同义词}
 
 - alliance, partnership, combined with, combination, unity, union, association （财团；[生物]联合；合伙）
+
+:::
 
 
 ## 491. embryo
@@ -2402,6 +2562,8 @@
 
 - earlier, young （[胚]胚胎的；初期的）
 
+:::
+
 
 ## 492. apparel
 
@@ -2430,6 +2592,8 @@
 - clothes, garment, array, wear, thread （服装；[服装]衣服）
 
 - dress, clothe （给…穿衣）
+
+:::
 
 
 ## 493. accounting
@@ -2492,6 +2656,8 @@
 
 - relating, explaining （解释（account的ing形式）；叙述）
 
+:::
+
 
 ## 494. secure
 
@@ -2529,6 +2695,8 @@
 
 - call it quits, place out of service （获得安全；船抛锚；停止工作）
 
+:::
+
 
 ## 495. telecommunication
 
@@ -2554,6 +2722,8 @@
 
 - radiocommunication （电讯；[通信]远程通信；无线电通讯）
 
+:::
+
 
 ## 496. initiate
 
@@ -2572,6 +2742,8 @@
 - institute, start in （开始，创始；发起；使初步了解）
 
 - beginning, threshold, opening, conception, fresh （开始；新加入者，接受初步知识者）
+
+:::
 
 
 ## 497. domestic
@@ -2634,6 +2806,8 @@
 
 - servant （国货；佣人）
 
+:::
+
 
 ## 498. infirmary
 
@@ -2648,6 +2822,8 @@
 :::warning{title=🤔同义词}
 
 - hospital, old people's home （医务室；医院；养老院）
+
+:::
 
 
 ## 499. outsource
@@ -2665,5 +2841,7 @@
 :::warning{title=🤔同义词}
 
 - subcon （外包）
+
+:::
 
 

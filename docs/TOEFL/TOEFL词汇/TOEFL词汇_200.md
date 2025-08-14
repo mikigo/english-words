@@ -60,6 +60,8 @@
 
 - table-water, inorganics （[矿物]矿物；（英）矿泉水；无机物；苏打水（常用复数表示））
 
+:::
+
 
 ## 201. primarily
 
@@ -74,6 +76,8 @@
 :::warning{title=🤔同义词}
 
 - firstly, basically, mainly, mostly, largely （首先；主要地，根本上）
+
+:::
 
 
 ## 202. knowledge
@@ -134,6 +138,8 @@
 
 - information, awareness, science, learning, discipline （知识，学问；知道，认识；学科）
 
+:::
+
 
 ## 203. ask
 
@@ -154,6 +160,8 @@
 - invite, lack, question, desire, exact （问，询问；要求；需要；邀请；讨价）
 
 - question, query （问，询问；要求）
+
+:::
 
 
 ## 204. observe
@@ -179,6 +187,8 @@
 - watch, quo, tell, talk, respect （观察；遵守；说；注意到；评论）
 
 - look into, take stock of （观察；说；注意到；评论）
+
+:::
 
 
 ## 205. simple
@@ -249,6 +259,8 @@
 
 - turkey, put, idiot, stupid （笨蛋；愚蠢的行为；出身低微者）
 
+:::
+
 
 ## 206. slow
 
@@ -316,6 +328,8 @@
 
 - dilatorily （慢慢地；迟缓地）
 
+:::
+
 
 ## 207. canal
 
@@ -377,6 +391,8 @@
 
 - pipeline, klong （[水运]运河；[地理]水道；[建]管道；灌溉水渠）
 
+:::
+
 
 ## 208. craft
 
@@ -415,6 +431,8 @@
 :::warning{title=🤔同义词}
 
 - technology, hand, ship, workmanship （工艺；手艺；太空船）
+
+:::
 
 
 ## 209. name
@@ -481,6 +499,8 @@
 
 - install, constitute, place, style, call （命名，任命；指定；称呼；提名；叫出）
 
+:::
+
 
 ## 210. reflect
 
@@ -505,6 +525,8 @@
 - glass, image （反映；反射，照出；反省）
 
 - give back, flash back （反射，映现；深思）
+
+:::
 
 
 ## 211. addition
@@ -545,6 +567,8 @@
 
 - add, accretion （添加；[数]加法；增加物）
 
+:::
+
 
 ## 212. argue
 
@@ -577,6 +601,8 @@
 - debate, dispute about （争论，辩论；提出理由）
 
 - debate, discuss, demonstrate, prove, satisfy （辩论，争论；证明；说服）
+
+:::
 
 
 ## 213. draw
@@ -647,6 +673,8 @@
 
 - lot, tie （平局；抽签）
 
+:::
+
 
 ## 214. theater
 
@@ -675,6 +703,8 @@
 :::warning{title=🤔同义词}
 
 - drama, surgery, stage, cinema （电影院，戏院，剧场；戏剧；手术室）
+
+:::
 
 
 ## 215. above
@@ -723,6 +753,8 @@
 
 - hereinabove, thereinbefore （在上面；在上文）
 
+:::
+
 
 ## 216. especially
 
@@ -745,6 +777,8 @@
 :::warning{title=🤔同义词}
 
 - peculiarly, notably （特别；尤其；格外）
+
+:::
 
 
 ## 217. central
@@ -807,6 +841,8 @@
 
 - nuclear, primary, major, leading, great （中心的；主要的；中枢的）
 
+:::
+
 
 ## 218. apply
 
@@ -848,6 +884,8 @@
 
 - demand, put in for （申请；涂，敷；适用；请求）
 
+:::
+
 
 ## 219. quickly
 
@@ -870,6 +908,8 @@
 :::warning{title=🤔同义词}
 
 - rapidly, fast, promptly, ready （迅速地；很快地）
+
+:::
 
 
 ## 220. every
@@ -940,6 +980,8 @@
 
 - made, triumphant （成功的；一帆风顺的）
 
+:::
+
 
 ## 222. frequent
 
@@ -967,6 +1009,8 @@
 
 - resort to （常到，常去；时常出入于）
 
+:::
+
 
 ## 223. surround
 
@@ -989,6 +1033,8 @@
 - invest, case, enclose （围绕；包围）
 
 - entironment, girdle （围绕物）
+
+:::
 
 
 ## 224. practice
@@ -1057,6 +1103,8 @@
 
 - execute, exercise （练习；[劳经]实习；实行）
 
+:::
+
 
 ## 225. introduce
 
@@ -1084,6 +1132,8 @@
 
 - present, recommend, prefer, file, advance （介绍；引进；提出；采用）
 
+:::
+
 
 ## 226. aggressive
 
@@ -1110,6 +1160,8 @@
 :::warning{title=🤔同义词}
 
 - invasive, enterprising （侵略性的；好斗的；有进取心的；有闯劲的）
+
+:::
 
 
 ## 227. act
@@ -1179,6 +1231,8 @@
 - operate, bear oneself, conduct oneself （行动；扮演，充当；表现，举止；假装，演戏；起作用，见效）
 
 - behavior, dealing, action, going, bill （行为，行动；[法]法令，法案；（戏剧，歌剧的）一幕，段；装腔作势）
+
+:::
 
 
 ## 228. Canada
@@ -1253,6 +1307,8 @@
 
 - terminal, bottom （极端；末端；最大程度；极端的事物）
 
+:::
+
 
 ## 230. test
 
@@ -1316,6 +1372,8 @@
 
 - try out, try on （[化验]试验；测试）
 
+:::
+
 
 ## 231. glacial
 
@@ -1346,6 +1404,8 @@
 :::warning{title=🤔同义词}
 
 - ice, icy （[地质]冰的；冰冷的；冰河时代的）
+
+:::
 
 
 ## 232. sense
@@ -1405,6 +1465,8 @@
 :::warning{title=🤔同义词}
 
 - concept, consciousness, perception, feel, mind （[生理]感觉，官能；观念；道理；理智）
+
+:::
 
 
 ## 233. eat
@@ -1489,6 +1551,8 @@
 
 - attack, to erode （进食；腐蚀，侵蚀）
 
+:::
+
 
 ## 234. single
 
@@ -1556,6 +1620,8 @@
 
 - yin, one-way ticket （一个；单打；单程票）
 
+:::
+
 
 ## 235. quality
 
@@ -1617,6 +1683,8 @@
 
 - talent, capability, ability, identity, character （质量，[统计]品质；特性；才能）
 
+:::
+
 
 ## 236. teach
 
@@ -1642,6 +1710,8 @@
 
 - wise, enlighten （教；教授；教导）
 
+:::
+
 
 ## 237. continent
 
@@ -1664,6 +1734,8 @@
 - mainland, earth, land （[地理]大陆，洲，陆地）
 
 - self-regulating, restrained （自制的，克制的）
+
+:::
 
 
 ## 238. cycle
@@ -1730,6 +1802,8 @@
 
 - circumrotate, ride a bike （循环；[车辆]骑自行车；轮转）
 
+:::
+
 
 ## 239. previous
 
@@ -1765,6 +1839,8 @@
 
 - antecedently （在先；在…以前）
 
+:::
+
 
 ## 240. northern
 
@@ -1799,6 +1875,8 @@
 :::warning{title=🤔同义词}
 
 - boreal, upstate （[地理]北部的；北方的）
+
+:::
 
 
 ## 241. separate
@@ -1846,6 +1924,8 @@
 - alone, independent, divided, isolated, sole （单独的；分开的）
 
 - partition, fall-away （分开；抽印本）
+
+:::
 
 
 ## 242. cost
@@ -1924,6 +2004,8 @@
 
 - fee, charge, expense, price, losing （费用，[贸易]代价，[会计]成本；损失）
 
+:::
+
 
 ## 243. advantage
 
@@ -1989,6 +2071,8 @@
 
 - favor of, be conducive to （有利于；使处于优势）
 
+:::
+
 
 ## 244. transportation
 
@@ -2048,6 +2132,8 @@
 
 - carriage, traffic （[交]运输；运输系统；运输工具；流放）
 
+:::
+
 
 ## 245. discovery
 
@@ -2078,6 +2164,8 @@
 :::warning{title=🤔同义词}
 
 - detection, occurrence, find （发现，发觉；被发现的事物）
+
+:::
 
 
 ## 246. stream
@@ -2144,6 +2232,8 @@
 
 - shed, sweat （流出；涌出；使飘动）
 
+:::
+
 
 ## 247. obtain
 
@@ -2171,6 +2261,8 @@
 
 - acquire, earn, score, buy, find （获得）
 
+:::
+
 
 ## 248. recognize
 
@@ -2189,6 +2281,8 @@
 - identify, spot, accept, agree, grant （认出，识别；承认）
 
 - accept, confirm on （确认，承认；具结）
+
+:::
 
 
 ## 249. parent
@@ -2241,6 +2335,8 @@
 
 - father, principle, root （父亲（或母亲）；父母亲；根源）
 
+:::
+
 
 ## 250. hypothesis
 
@@ -2273,6 +2369,8 @@
 :::warning{title=🤔同义词}
 
 - tentative （假设）
+
+:::
 
 
 ## 251. England
@@ -2332,6 +2430,8 @@
 :::warning{title=🤔同义词}
 
 - country, sylvan （农村的，乡下的；田园的，有乡村风味的）
+
+:::
 
 
 ## 253. concern
@@ -2393,6 +2493,8 @@
 - deal with, to relate to （涉及，关系到；使担心）
 
 - relationship, connection, attention, consideration, bearing （关系；关心；关心的事）
+
+:::
 
 
 ## 254. get
@@ -2463,6 +2565,8 @@
 
 - become, land （成为；变得；到达）
 
+:::
+
 
 ## 255. substance
 
@@ -2521,6 +2625,8 @@
 :::warning{title=🤔同义词}
 
 - matter, asset, essence, truth, texture （[物]物质；实质；资产；主旨）
+
+:::
 
 
 ## 256. original
@@ -2589,6 +2695,8 @@
 
 - initial, premier, primitive （[摄]原始的；最初的；独创的；新颖的）
 
+:::
+
 
 ## 257. easily
 
@@ -2605,6 +2713,8 @@
 :::warning{title=🤔同义词}
 
 - clearly, no doubt, readily, lightly （容易地；无疑地）
+
+:::
 
 
 ## 258. channel
@@ -2673,6 +2783,8 @@
 
 - door, exit, neck, route, narrow （通道；频道；海峡）
 
+:::
+
 
 ## 259. belong
 
@@ -2693,6 +2805,8 @@
 :::warning{title=🤔同义词}
 
 - room, live, harbor （属于，应归入；居住；适宜；应被放置）
+
+:::
 
 
 ## 260. construction
@@ -2755,6 +2869,8 @@
 
 - interpretation, explanation, fabric, building, structure （[建]建设；建筑物；解释；造句）
 
+:::
+
 
 ## 261. swim
 
@@ -2796,6 +2912,8 @@
 
 - natation, flotage （游泳；漂浮；眩晕）
 
+:::
+
 
 ## 262. southern
 
@@ -2822,6 +2940,8 @@
 :::warning{title=🤔同义词}
 
 - austral （南的；南方的）
+
+:::
 
 
 ## 263. worth
@@ -2863,6 +2983,8 @@
 :::warning{title=🤔同义词}
 
 - importance, estate, property, price, value （价值；财产）
+
+:::
 
 
 ## 264. run
@@ -2935,6 +3057,8 @@
 
 - footrace, tendency to sth （奔跑；赛跑；趋向；奔跑的路程）
 
+:::
+
 
 ## 265. imply
 
@@ -2949,6 +3073,8 @@
 :::warning{title=🤔同义词}
 
 - mean, hint at （意味；暗示；隐含）
+
+:::
 
 
 ## 266. basic
@@ -3017,6 +3143,8 @@
 
 - foundation, element, base, bed, factor （基础；要素）
 
+:::
+
 
 ## 267. internal
 
@@ -3080,6 +3208,8 @@
 
 - inner, inherent, domestic, inside, home （[药]内部的；内在的；国内的）
 
+:::
+
 
 ## 268. crystal
 
@@ -3141,6 +3271,8 @@
 
 - transparent, liquid, clear （[矿物]水晶的；透明的，清澈的）
 
+:::
+
 
 ## 269. explanation
 
@@ -3163,6 +3295,8 @@
 :::warning{title=🤔同义词}
 
 - notes, interpretation, construction, legend, account （说明，解释；辩解）
+
+:::
 
 
 ## 270. evolve
@@ -3188,6 +3322,8 @@
 - go way, to develop （发展，进化；进化；使逐步形成；推断出）
 
 - grow, expand, advance （发展，进展；进化；逐步形成）
+
+:::
 
 
 ## 271. hundred
@@ -3229,6 +3365,8 @@
 - lots of, sea, host, thousands of, much （一百；许多）
 
 - numerous, multiple, many （一百的；许多的）
+
+:::
 
 
 ## 272. start
@@ -3297,6 +3435,8 @@
 
 - beginning, threshold, opening, conception, fresh （开始；起点）
 
+:::
+
 
 ## 273. beg
 
@@ -3329,6 +3469,8 @@
 - pray for, beseech （乞讨；恳求；回避正题）
 
 - demand, apply for （乞讨；请求）
+
+:::
 
 
 ## 274. rapid
@@ -3393,6 +3535,8 @@
 
 - rush, whitewater （急流；高速交通工具，高速交通网）
 
+:::
+
 
 ## 275. quantity
 
@@ -3452,6 +3596,8 @@
 
 - lots of, wealth, ocean, volume, sea （量，数量；大量；总量）
 
+:::
+
 
 ## 276. illustrate
 
@@ -3477,6 +3623,8 @@
 
 - give an example, cite an example （举例）
 
+:::
+
 
 ## 277. locate
 
@@ -3499,6 +3647,8 @@
 - lie on, stand on （位于；查找…的地点）
 
 - beach, make one's pitch （定位；定居）
+
+:::
 
 
 ## 278. remove
@@ -3534,6 +3684,8 @@ She removed herself reluctantly.
 
 - move, shift, separation, distance, motion （移动；距离；搬家）
 
+:::
+
 
 ## 279. across
 
@@ -3556,6 +3708,8 @@ She removed herself reluctantly.
 - through （穿过；横穿）
 
 - opposite （横过；在对面）
+
+:::
 
 
 ## 280. whose
@@ -3601,6 +3755,8 @@ She removed herself reluctantly.
 :::warning{title=🤔同义词}
 
 - characteristic, representative, proper, very, own （[数]典型的；特有的；象征性的）
+
+:::
 
 
 ## 282. matter
@@ -3665,6 +3821,8 @@ She removed herself reluctantly.
 
 - to be related, make a difference （有关系；要紧）
 
+:::
+
 
 ## 283. resource
 
@@ -3726,6 +3884,8 @@ She removed herself reluctantly.
 
 - financial ability （[计][环境]资源，财力；办法；智谋）
 
+:::
+
 
 ## 284. eastern
 
@@ -3773,6 +3933,8 @@ She removed herself reluctantly.
 
 - oriental （东方人；（美国）东部地区的人）
 
+:::
+
 
 ## 285. half
 
@@ -3814,6 +3976,8 @@ She removed herself reluctantly.
 
 - incomplete, synsemantic （一半的；不完全的；半途的）
 
+:::
+
 
 ## 286. migration
 
@@ -3850,6 +4014,8 @@ She removed herself reluctantly.
 :::warning{title=🤔同义词}
 
 - removal, move, shift, motion, transplantation （[动][地质]迁移；移民；移动）
+
+:::
 
 
 ## 287. course
@@ -3918,6 +4084,8 @@ She removed herself reluctantly.
 
 - double up （指引航线；快跑）
 
+:::
+
 
 ## 288. date
 
@@ -3983,6 +4151,8 @@ She removed herself reluctantly.
 
 - get out of fashion, out of season （过时；注明日期；始于（某一历史时期））
 
+:::
+
 
 ## 289. merchant
 
@@ -4017,6 +4187,8 @@ She removed herself reluctantly.
 - trader, dealer （[贸易]商人，批发商；店主）
 
 - commercial, shoppy （商业的，[贸易]商人的）
+
+:::
 
 
 ## 290. face
@@ -4089,6 +4261,8 @@ She removed herself reluctantly.
 
 - accept, agree, recognize, look, grant （面对；面向；承认；抹盖）
 
+:::
+
 
 ## 291. coast
 
@@ -4145,6 +4319,8 @@ She removed herself reluctantly.
 - taxi （滑行；沿岸航行）
 
 - rivage, seacoast （[海洋]海岸；滑坡）
+
+:::
 
 
 ## 292. machine
@@ -4213,6 +4389,8 @@ She removed herself reluctantly.
 
 - organization, robot, house （机械，[机]机器；机构；机械般工作的人）
 
+:::
+
 
 ## 293. claim
 
@@ -4276,6 +4454,8 @@ She removed herself reluctantly.
 
 - requirement, do, assurance, need, desire （要求；声称；[贸易]索赔；断言；值得）
 
+:::
+
 
 ## 294. religious
 
@@ -4315,6 +4495,8 @@ She removed herself reluctantly.
 
 - monk, cenobite （修道士；尼姑）
 
+:::
+
 
 ## 295. twentieth
 
@@ -4335,6 +4517,8 @@ She removed herself reluctantly.
 :::warning{title=🤔同义词}
 
 - vigesimal （第二十的；二十分之一的）
+
+:::
 
 
 ## 296. throughout
@@ -4360,6 +4544,8 @@ She removed herself reluctantly.
 - everywhere, around, wholly, about （自始至终，到处；全部）
 
 - over all （贯穿，遍及）
+
+:::
 
 
 ## 297. special
@@ -4430,6 +4616,8 @@ She removed herself reluctantly.
 
 - particular, extraordinary, technical, dedicated, express （特别的；专门的，专用的）
 
+:::
+
 
 ## 298. plate
 
@@ -4490,6 +4678,8 @@ She removed herself reluctantly.
 - dish （碟；金属板；金属牌；感光底片）
 
 - electro （电镀；给…装甲）
+
+:::
 
 
 ## 299. mark
@@ -4553,5 +4743,7 @@ She removed herself reluctantly.
 - symbol, sign, seal, flag, trace （标志；马克；符号；痕迹）
 
 - signal （标志；做标记于；打分数）
+
+:::
 
 

@@ -14,6 +14,8 @@
 
 - mixture, hybrid, mix, compound （[材]汞合金，[化工]汞齐；混合物）
 
+:::
+
 
 ## 101. amass
 
@@ -30,6 +32,8 @@
 :::warning{title=🤔同义词}
 
 - pile up, store up （积聚，积累）
+
+:::
 
 
 ## 102. amateur
@@ -60,6 +64,8 @@
 
 - strange, leisure, lay （业余的；外行的）
 
+:::
+
 
 ## 103. amber
 
@@ -84,6 +90,8 @@
 :::warning{title=🤔同义词}
 
 - succinite, lamber （[林][中医]琥珀；琥珀色）
+
+:::
 
 
 ## 104. ambiguity
@@ -110,6 +118,8 @@
 
 - vagueness, opacity （含糊；不明确；暧昧；模棱两可的话）
 
+:::
+
 
 ## 105. ambiguous
 
@@ -125,6 +135,8 @@
 
 - blurred （模糊不清的；[数]引起歧义的）
 
+:::
+
 
 ## 106. ambitious
 
@@ -139,6 +151,8 @@
 :::warning{title=🤔同义词}
 
 - thirsty, eager-beaver （野心勃勃的；有雄心的；热望的；炫耀的）
+
+:::
 
 
 ## 107. ambivalent
@@ -157,6 +171,8 @@
 
 - contradictory, conflictive （矛盾的；好恶相克的）
 
+:::
+
 
 ## 108. amenable
 
@@ -171,6 +187,8 @@
 :::warning{title=🤔同义词}
 
 - responsible, bound, liable, accountable （有责任的，应服从的；有义务的；经得起检验的）
+
+:::
 
 
 ## 109. amend
@@ -201,6 +219,8 @@
 
 - go straight, straighten up （改正，改善；改过自新）
 
+:::
+
 
 ## 110. amenity
 
@@ -218,6 +238,8 @@
 
 - ceremony, comfort, sunshine, protocol, ease （舒适；礼仪；愉快；便利设施）
 
+:::
+
 
 ## 111. amphitheater
 
@@ -226,6 +248,8 @@
 :::warning{title=🤔同义词}
 
 - lists, arena （竞技场；[建]圆形露天剧场；古罗马剧场）
+
+:::
 
 
 ## 112. ample
@@ -249,6 +273,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, sufficient, competent, full, plenty （丰富的；足够的；宽敞的）
+
+:::
 
 
 ## 113. amplifier
@@ -303,6 +329,8 @@
 
 - mike, microphone （[电子]放大器，扩大器；扩音器）
 
+:::
+
 
 ## 114. amplify
 
@@ -319,6 +347,8 @@
 - extend, zoom up （放大，扩大；增强；详述）
 
 - expand on, enlarge on （详述）
+
+:::
 
 
 ## 115. amplitude
@@ -373,6 +403,8 @@
 
 - abundance, ocean, plenty, pregnancy, enough （振幅；丰富，充足；广阔）
 
+:::
+
 
 ## 116. anaerobic
 
@@ -405,6 +437,8 @@
 :::warning{title=🤔同义词}
 
 - anerobic （[微]厌氧的，[生物]厌气的；没有气而能生活的）
+
+:::
 
 
 ## 117. analogy
@@ -439,6 +473,8 @@
 
 - similarity, parallelism （类比；类推；类似）
 
+:::
+
 
 ## 118. anatomical
 
@@ -461,6 +497,8 @@
 :::warning{title=🤔同义词}
 
 - dissecting （解剖的；解剖学的；结构上的）
+
+:::
 
 
 ## 119. anatomy
@@ -499,6 +537,8 @@
 
 - cadre, dissection （[解剖]解剖；解剖学；剖析；骨骼）
 
+:::
+
 
 ## 120. ancestor
 
@@ -520,6 +560,8 @@
 
 - father, root, grandfather （始祖，[生物]祖先；被继承人）
 
+:::
+
 
 ## 121. ancestry
 
@@ -538,6 +580,8 @@
 :::warning{title=🤔同义词}
 
 - birth, blood, father, root, stem （[生物]祖先；血统）
+
+:::
 
 
 ## 122. anecdotal
@@ -588,6 +632,8 @@
 
 - anaemia, sickle cell disease （贫血；贫血症）
 
+:::
+
 
 ## 124. anesthesia
 
@@ -627,6 +673,8 @@
 
 - anaesthesia, narcosis （[外科]麻醉；麻木（等于anaesthesia））
 
+:::
+
 
 ## 125. animate
 
@@ -646,6 +694,8 @@
 
 - lived, zoetic （[生物]有生命的）
 
+:::
+
 
 ## 126. animosity
 
@@ -660,6 +710,8 @@
 :::warning{title=🤔同义词}
 
 - hatred, odium （憎恶，仇恨，敌意）
+
+:::
 
 
 ## 127. announce
@@ -677,6 +729,8 @@
 :::warning{title=🤔同义词}
 
 - indicate, bill, forecast, shadow （宣布；述说；预示；播报）
+
+:::
 
 
 ## 128. announcement
@@ -701,6 +755,8 @@
 
 - publication, declaration （公告；宣告；发表；通告）
 
+:::
+
 
 ## 129. anole
 
@@ -717,6 +773,8 @@
 :::warning{title=🤔同义词}
 
 - chameleon, Zelig （[脊椎]变色龙）
+
+:::
 
 
 ## 130. anomaly
@@ -749,6 +807,8 @@
 
 - abnormality, deviance （[气象]异常；不规则；反常事物）
 
+:::
+
 
 ## 131. anonymous
 
@@ -772,6 +832,8 @@
 
 - faceless, innominate （匿名的，无名的；无个性特征的）
 
+:::
+
 
 ## 132. answerable
 
@@ -787,6 +849,8 @@
 
 - responsible, liable （应负责任的；可回答的；有责任的）
 
+:::
+
 
 ## 133. antagonism
 
@@ -795,6 +859,8 @@
 :::warning{title=🤔同义词}
 
 - opposition, war, confrontation （[生化]对抗，敌对；对立；敌意）
+
+:::
 
 
 ## 134. antedate
@@ -837,6 +903,8 @@
 
 - front, foregoing （前面的；先前的）
 
+:::
+
 
 ## 136. anthropologist
 
@@ -855,6 +923,8 @@
 :::warning{title=🤔同义词}
 
 - humanist （[人类]人类学家；人类学者）
+
+:::
 
 
 ## 137. antibiotic
@@ -885,6 +955,8 @@
 
 - microbiotic, bacteriophage （[药]抗生素，[微]抗菌素）
 
+:::
+
 
 ## 138. antibiotics
 
@@ -905,6 +977,8 @@
 :::warning{title=🤔同义词}
 
 - microbiotic （抗生素；抗生学）
+
+:::
 
 
 ## 139. antibody
@@ -947,6 +1021,8 @@
 
 - hope, presume upon （预期，期望；占先，抢先；提前使用）
 
+:::
+
 
 ## 141. antifreeze
 
@@ -963,6 +1039,8 @@
 :::warning{title=🤔同义词}
 
 - deicing agent （[助剂]防冻剂）
+
+:::
 
 
 ## 142. antiquated
@@ -982,6 +1060,8 @@
 - old, ancient, aged, advanced （过时的；陈旧的；年老的）
 
 - disused （使古旧；废弃（antiquate的过去分词））
+
+:::
 
 
 ## 143. antique
@@ -1014,6 +1094,8 @@
 
 - curiosity, virtu （[古]古董，古玩；古风，古希腊和古罗马艺术风格）
 
+:::
+
 
 ## 144. antiquity
 
@@ -1028,6 +1110,8 @@
 :::warning{title=🤔同义词}
 
 - eld, advanced age （高龄；古物；古代的遗物）
+
+:::
 
 
 ## 145. antitrust
@@ -1066,6 +1150,8 @@
 
 - nonscheduled （不定期的；[数]非周期性的）
 
+:::
+
 
 ## 147. apex
 
@@ -1093,6 +1179,8 @@
 
 - height, summit, sky, peak, point （[数]顶点；尖端）
 
+:::
+
 
 ## 148. apiece
 
@@ -1110,6 +1198,8 @@
 
 - respectively, each （每人；每个；各自地）
 
+:::
+
 
 ## 149. apparatus
 
@@ -1124,6 +1214,8 @@
 :::warning{title=🤔同义词}
 
 - device, equipment, installation, furniture, facility, unit, organ （装置，[机]设备；[仪]仪器；器官）
+
+:::
 
 
 ## 150. apparel
@@ -1155,6 +1247,8 @@
 - clothes, garment, array, wear, thread （服装；[服装]衣服）
 
 - dress, clothe （给…穿衣）
+
+:::
 
 
 ## 151. apparent
@@ -1203,6 +1297,8 @@
 
 - transparent, decided, patent （显然的；表面上的）
 
+:::
+
 
 ## 152. appeal
 
@@ -1250,6 +1346,8 @@
 
 - asking, request, motion, charm （呼吁，请求；吸引力，感染力；[法]上诉；诉诸裁判）
 
+:::
+
 
 ## 153. appendicitis
 
@@ -1274,6 +1372,8 @@
 :::warning{title=🤔同义词}
 
 - ecphyaditis, caecitis （[医]阑尾炎；盲肠炎）
+
+:::
 
 
 ## 154. appetite
@@ -1309,6 +1409,8 @@
 :::warning{title=🤔同义词}
 
 - weakness, habit, hobby （[生理]食欲；嗜好）
+
+:::
 
 
 ## 155. appliance
@@ -1353,6 +1455,8 @@
 
 - device, apparatus, installation, unit, tool （器具；器械；[机]装置）
 
+:::
+
 
 ## 156. applicable
 
@@ -1382,6 +1486,8 @@
 
 - becoming, shaped, likely, possible, meet （[药]可适用的；可应用的；合适的）
 
+:::
+
 
 ## 157. appoint
 
@@ -1399,6 +1505,8 @@
 
 - nominate sb to, institute to （任命；委派）
 
+:::
+
 
 ## 158. apportion
 
@@ -1414,6 +1522,8 @@
 
 - portion, part, proportion （分配，分派；分摊）
 
+:::
+
 
 ## 159. apprentice
 
@@ -1424,6 +1534,8 @@
 :::warning{title=🤔同义词}
 
 - freshman, fresh hand （学徒；[劳经]生手）
+
+:::
 
 
 ## 160. apprenticeship
@@ -1445,6 +1557,8 @@
 :::warning{title=🤔同义词}
 
 - confirmation, authorization, endorsement （认可；赞许；批准）
+
+:::
 
 
 ## 162. appropriate
@@ -1487,6 +1601,8 @@
 
 - engage, take up to （占用；拨出）
 
+:::
+
 
 ## 163. appropriation
 
@@ -1507,6 +1623,8 @@
 :::warning{title=🤔同义词}
 
 - grant, embezzlement （[财政]拨款；挪用）
+
+:::
 
 
 ## 164. approval
@@ -1579,6 +1697,8 @@
 
 - confirmation, authorization, validation, ratification （批准；认可；赞成）
 
+:::
+
 
 ## 165. approve
 
@@ -1608,6 +1728,8 @@
 
 - to ratify, give someone the green light （批准；赞成；满意）
 
+:::
+
 
 ## 166. aquarium
 
@@ -1628,6 +1750,8 @@
 :::warning{title=🤔同义词}
 
 - aguariums （水族馆；养鱼池；玻璃缸）
+
+:::
 
 
 ## 167. aquatic
@@ -1670,6 +1794,8 @@
 
 - acquatic, aquicolous （[生物][化学][水产]水生的；水栖的；在水中或水面进行的）
 
+:::
+
 
 ## 168. arable
 
@@ -1697,6 +1823,8 @@
 
 - cultivated land, tilth （耕地）
 
+:::
+
 
 ## 169. arbitrary
 
@@ -1721,6 +1849,8 @@
 :::warning{title=🤔同义词}
 
 - artificial, random, absolute （[数]任意的；武断的；专制的）
+
+:::
 
 
 ## 170. arboreal
@@ -1799,6 +1929,8 @@
 
 - hog （拱起；成为弓形）
 
+:::
+
 
 ## 172. archaeological
 
@@ -1858,6 +1990,8 @@
 
 - Satan, devil （主要敌人，大敌；撒旦，魔王）
 
+:::
+
 
 ## 176. architect
 
@@ -1901,6 +2035,8 @@
 
 - intense, acute, warm, eager, tropical （热情的；热心的；激烈的；燃烧般的）
 
+:::
+
 
 ## 178. arid
 
@@ -1932,6 +2068,8 @@
 
 - hungry, waste, desert （[气候]干旱的；不毛的，[农]荒芜的）
 
+:::
+
 
 ## 179. aristocracy
 
@@ -1948,6 +2086,8 @@
 :::warning{title=🤔同义词}
 
 - prince, noble, nobility （贵族；贵族统治；上层社会；贵族政治）
+
+:::
 
 
 ## 180. arithmetic
@@ -1985,6 +2125,8 @@
 :::warning{title=🤔同义词}
 
 - algorithm, number （[数]算术，算法）
+
+:::
 
 
 ## 181. array
@@ -2049,6 +2191,8 @@
 
 - dress oneself, rank, form （排列，部署；打扮）
 
+:::
+
 
 ## 182. arrest
 
@@ -2089,6 +2233,8 @@
 - absorb, attract, engage, dispute, draw （[法]逮捕；阻止；吸引）
 
 - prison, imprisonment （[法]逮捕；监禁）
+
+:::
 
 
 ## 183. artery
@@ -2147,6 +2293,8 @@
 
 - mainstream, backbone road （[解剖]动脉；[公路]干道；主流）
 
+:::
+
 
 ## 184. arthritis
 
@@ -2172,6 +2320,8 @@
 
 - sacroiliitis （[外科]关节炎）
 
+:::
+
 
 ## 185. artifact
 
@@ -2180,6 +2330,8 @@
 :::warning{title=🤔同义词}
 
 - artefact, handicraft works （人工制品；手工艺品）
+
+:::
 
 
 ## 186. artificial
@@ -2244,6 +2396,8 @@
 
 - synthetic, false, simulated, arbitrary （人造的；[自]仿造的；虚伪的；非原产地的；武断的）
 
+:::
+
 
 ## 187. artisan
 
@@ -2262,6 +2416,8 @@
 :::warning{title=🤔同义词}
 
 - workman, craftsman （[劳经]工匠，技工）
+
+:::
 
 
 ## 188. ascending
@@ -2298,6 +2454,8 @@
 
 - rising, getting, buying （上升；获得（ascend的ing形式）；追溯）
 
+:::
+
 
 ## 189. ascribe
 
@@ -2312,6 +2470,8 @@
 :::warning{title=🤔同义词}
 
 - blame, put down to （归因于；归咎于）
+
+:::
 
 
 ## 190. aspect
@@ -2340,6 +2500,8 @@
 
 - direction, orientation, situation, side, respect （方面；[建]方向；形势；外貌）
 
+:::
+
 
 ## 191. aspen
 
@@ -2361,6 +2523,8 @@
 
 - asp （[林]山杨）
 
+:::
+
 
 ## 192. aspersion
 
@@ -2375,6 +2539,8 @@
 :::warning{title=🤔同义词}
 
 - calumniation, scandal （中伤，诽谤；洒水）
+
+:::
 
 
 ## 193. aspiration
@@ -2398,6 +2564,8 @@
 :::warning{title=🤔同义词}
 
 - longing for, eagerness （渴望；抱负；呼气；吸引术）
+
+:::
 
 
 ## 194. assemble
@@ -2428,6 +2596,8 @@
 
 - concentrate, collect, aggregate, mass, crowd （集合，聚集）
 
+:::
+
 
 ## 195. assembler
 
@@ -2453,6 +2623,8 @@
 
 - assembly program, assembly routine （[计]汇编程序；汇编机；[机]装配工）
 
+:::
+
 
 ## 196. assert
 
@@ -2474,6 +2646,8 @@
 
 - maintain, say, submit, stay, advocate （维护，坚持；断言；主张；声称）
 
+:::
+
 
 ## 197. assertion
 
@@ -2489,6 +2663,8 @@
 
 - statement, opinion, requirement, assurance, profession （断言，声明；主张，要求；坚持）
 
+:::
+
 
 ## 198. assess
 
@@ -2503,6 +2679,8 @@
 :::warning{title=🤔同义词}
 
 - evaluate, rate, value, prize （评定；估价；对…征税）
+
+:::
 
 
 ## 199. asset
@@ -2562,5 +2740,7 @@
 :::warning{title=🤔同义词}
 
 - substance, virtue, advantage, finances （[经]资产；优点；有用的东西；有利条件）
+
+:::
 
 

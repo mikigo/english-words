@@ -22,6 +22,8 @@
 
 - deviate （使偏离；使分叉）
 
+:::
+
 
 ## 2901. opponent
 
@@ -43,6 +45,8 @@
 
 - contrary, adverse, against （对立的；敌对的）
 
+:::
+
 
 ## 2902. accelerate
 
@@ -57,6 +61,8 @@
 :::warning{title=🤔同义词}
 
 - improve, increase speed （加速；促进；增加）
+
+:::
 
 
 ## 2903. emblem
@@ -83,6 +89,8 @@
 
 - indicate, image, figure （象征；用符号表示；用纹章装饰）
 
+:::
+
 
 ## 2904. regardless
 
@@ -104,6 +112,8 @@
 
 - irregardless （不管；不顾；不注意）
 
+:::
+
 
 ## 2905. confiscate
 
@@ -122,6 +132,8 @@
 - sequestrate, expropriate （没收；充公；查抄）
 
 - forfeit （被没收的）
+
+:::
 
 
 ## 2906. filial
@@ -143,6 +155,8 @@
 :::warning{title=🤔同义词}
 
 - obedient （孝顺的；子女的，当做子女的）
+
+:::
 
 
 ## 2907. barge
@@ -172,6 +186,8 @@
 - titubate, burst into （蹒跚；闯入）
 
 - lighter, catamaran （[船]驳船；游艇）
+
+:::
 
 
 ## 2908. turtle
@@ -204,6 +220,8 @@
 
 - tortoise, chelonian （[脊椎]龟，甲鱼；海龟）
 
+:::
+
 
 ## 2909. meteorology
 
@@ -231,6 +249,8 @@
 
 - aerography, meteorological optics （气象状态，[气象]气象学）
 
+:::
+
 
 ## 2910. occur
 
@@ -255,6 +275,8 @@
 :::warning{title=🤔同义词}
 
 - happen, exist, proceed, figure, offer （发生；出现；存在）
+
+:::
 
 
 ## 2911. illustrate
@@ -281,6 +303,8 @@
 
 - give an example, cite an example （举例）
 
+:::
+
 
 ## 2912. scuba
 
@@ -306,6 +330,8 @@
 
 - aqualung （[水运]水肺；水中呼吸器）
 
+:::
+
 
 ## 2913. definitive
 
@@ -328,6 +354,8 @@
 - determinator, qualifier （限定词）
 
 - crucial, critical, final, finishing, decisive （决定性的；最后的；限定的）
+
+:::
 
 
 ## 2914. breeze
@@ -378,6 +406,8 @@
 
 - tail out, pull foot （[气象]吹微风；逃走）
 
+:::
+
 
 ## 2915. trash
 
@@ -414,6 +444,8 @@
 - refuse, garbage, waste, junk, rubbish （垃圾；废物）
 
 - slough off, reject （丢弃；修建树枝）
+
+:::
 
 
 ## 2916. horn
@@ -458,6 +490,8 @@
 
 - angle, hao （[电子]喇叭，号角；[动]角）
 
+:::
+
 
 ## 2917. troupe
 
@@ -474,6 +508,8 @@
 - gout, wodge （剧团；一班；一团）
 
 - road show （巡回演出）
+
+:::
 
 
 ## 2918. transit
@@ -530,6 +566,8 @@
 
 - travel through, go by （经过）
 
+:::
+
 
 ## 2919. sore
 
@@ -562,6 +600,8 @@
 - excessive, severe, painful, extreme, smart （疼痛的，痛心的；剧烈的，极度的；恼火的，发怒的；厉害的，迫切的）
 
 - ulcer, sorrow （溃疡，痛处；恨事，伤心事）
+
+:::
 
 
 ## 2920. position
@@ -634,6 +674,8 @@
 
 - crop, to cut back （缩减；剪短；剥夺…特权等）
 
+:::
+
 
 ## 2922. glow
 
@@ -662,6 +704,8 @@
 - burn, fever heat （发热；洋溢；绚丽夺目）
 
 - calorescence, ardor （灼热；色彩鲜艳；兴高采烈）
+
+:::
 
 
 ## 2923. patent
@@ -728,6 +772,8 @@
 
 - license, permit （[专利]专利权；执照；专利品）
 
+:::
+
 
 ## 2924. sheath
 
@@ -752,6 +798,8 @@
 :::warning{title=🤔同义词}
 
 - vaginae, theca （鞘；[电]护套；叶鞘；女子紧身服装）
+
+:::
 
 
 ## 2925. pollen
@@ -795,6 +843,8 @@
 :::warning{title=🤔同义词}
 
 - influence, fashion, shift, vary （改造；改变；改型）
+
+:::
 
 
 ## 2927. groove
@@ -855,6 +905,8 @@
 
 - slot （开槽于）
 
+:::
+
 
 ## 2928. certificate
 
@@ -914,6 +966,8 @@
 
 - license, letter, patent, permit （[管理]证书；执照，文凭）
 
+:::
+
 
 ## 2929. dispersal
 
@@ -928,6 +982,8 @@
 :::warning{title=🤔同义词}
 
 - circulation, propagation, diffusion, spread, decentralization （分散；传播；散布；[军]疏散；消失）
+
+:::
 
 
 ## 2930. quantum
@@ -990,6 +1046,8 @@
 
 - forehead, frons （量子论；额；美国昆腾公司（世界领先的硬盘生产商））
 
+:::
+
 
 ## 2931. racket
 
@@ -1012,6 +1070,8 @@
 :::warning{title=🤔同义词}
 
 - row, sound （球拍；吵闹，喧闹）
+
+:::
 
 
 ## 2932. mess
@@ -1070,6 +1130,8 @@
 
 - play fast and loose, toy with （把事情弄糟；制造脏乱；玩弄）
 
+:::
+
 
 ## 2933. sour
 
@@ -1120,6 +1182,8 @@
 - go bad, get tired of （发酵；变酸；厌烦）
 
 - fail, fox （使变酸；使失望）
+
+:::
 
 
 ## 2934. transform
@@ -1172,6 +1236,8 @@
 
 - veer from, to change （[数][电]变换，改变；转化）
 
+:::
+
 
 ## 2935. magnitude
 
@@ -1198,6 +1264,8 @@
 :::warning{title=🤔同义词}
 
 - dimensions, moment, size, importance （大小；量级；[地震]震级；重要；光度）
+
+:::
 
 
 ## 2936. genuine
@@ -1226,6 +1294,8 @@
 
 - actual, sincere, true, real, positive （真实的，真正的；诚恳的）
 
+:::
+
 
 ## 2937. agitate
 
@@ -1248,6 +1318,8 @@
 - rock, shake （摇动；骚动；使…激动）
 
 - blow the coals, stir up （煽动）
+
+:::
 
 
 ## 2938. microwave
@@ -1285,6 +1357,8 @@
 :::warning{title=🤔同义词}
 
 - wavelet （[物]微波）
+
+:::
 
 
 ## 2939. gorilla
@@ -1334,6 +1408,8 @@
 :::warning{title=🤔同义词}
 
 - exonerative （[免疫]免疫的；免于……的，免除的）
+
+:::
 
 
 ## 2941. brochure
@@ -1432,6 +1508,8 @@
 
 - eqs, equivalence （[数]方程式，等式；相等；[化学]反应式）
 
+:::
+
 
 ## 2944. impressive
 
@@ -1448,6 +1526,8 @@
 :::warning{title=🤔同义词}
 
 - affecting, heart-warming （感人的；令人钦佩的；给人以深刻印象的）
+
+:::
 
 
 ## 2945. prospector
@@ -1530,6 +1610,8 @@
 
 - mixed, hybrid （[生物]复合的；混合的）
 
+:::
+
 
 ## 2947. discredit
 
@@ -1548,6 +1630,8 @@
 - misbelieve, disbelieve （不信；使……丢脸）
 
 - doubt, challenge, suspicion （怀疑；无信用；名声的败坏）
+
+:::
 
 
 ## 2948. extraordinary
@@ -1572,6 +1656,8 @@
 
 - remarkable, particular, temporary, special, wonder （非凡的；特别的；离奇的；临时的；特派的）
 
+:::
+
 
 ## 2949. spawn
 
@@ -1592,6 +1678,8 @@
 - create, egg laying （产卵；酿成，造成；大量生产）
 
 - oviposit, mass production （产卵；大量生产）
+
+:::
 
 
 ## 2950. sensory
@@ -1632,6 +1720,8 @@
 
 - perceptual, esthetic （[生理]感觉的；知觉的；传递感觉的）
 
+:::
+
 
 ## 2951. puzzle
 
@@ -1669,6 +1759,8 @@
 
 - enigma, difficult problem （谜；难题；迷惑）
 
+:::
+
 
 ## 2952. mere
 
@@ -1692,6 +1784,8 @@
 
 - tank, lakelet （小湖；池塘）
 
+:::
+
 
 ## 2953. suburb
 
@@ -1709,6 +1803,8 @@
 
 - margin, banlieue （郊区；边缘）
 
+:::
+
 
 ## 2954. taut
 
@@ -1725,6 +1821,8 @@
 - intense, stressed （拉紧的；紧张的；整洁的）
 
 - intertangle, entangle （使纠缠；使缠结）
+
+:::
 
 
 ## 2955. simplify
@@ -1744,6 +1842,8 @@
 :::warning{title=🤔同义词}
 
 - predigest, deformalize （简化；使单纯；使简易）
+
+:::
 
 
 ## 2956. lubricant
@@ -1775,6 +1875,8 @@
 - sliding agent, lubricating agent （[机]润滑剂；润滑油）
 
 - greasing （[机]润滑的）
+
+:::
 
 
 ## 2957. glue
@@ -1820,6 +1922,8 @@
 :::warning{title=🤔同义词}
 
 - conglutinate （粘合；似胶般固着于）
+
+:::
 
 
 ## 2958. orbital
@@ -1886,6 +1990,8 @@
 
 - filler metal, jointer （[机]焊料；接合物）
 
+:::
+
 
 ## 2960. envelop
 
@@ -1902,6 +2008,8 @@
 - case, invest （包围；包封；遮盖）
 
 - package, parcel （信封；包裹）
+
+:::
 
 
 ## 2961. firm
@@ -1974,6 +2082,8 @@
 
 - corporation, establishment, company, incorporation （公司；商号）
 
+:::
+
 
 ## 2962. reflect
 
@@ -1999,6 +2109,8 @@
 
 - give back, flash back （反射，映现；深思）
 
+:::
+
 
 ## 2963. adventitious
 
@@ -2021,6 +2133,8 @@
 :::warning{title=🤔同义词}
 
 - outside, exotic, occasional （外来的，[昆]偶然的）
+
+:::
 
 
 ## 2964. ongoing
@@ -2045,6 +2159,8 @@
 
 - behavior, dealing, advancement, going, progress （前进；行为，举止）
 
+:::
+
 
 ## 2965. outfit
 
@@ -2063,6 +2179,8 @@
 - organization, machinery, tool, house （机构；用具；全套装备）
 
 - serve, accommodate （配备；供应）
+
+:::
 
 
 ## 2966. ignorant
@@ -2085,6 +2203,8 @@
 
 - dark, empty, innocent （无知的；愚昧的）
 
+:::
+
 
 ## 2967. extort
 
@@ -2099,6 +2219,8 @@
 :::warning{title=🤔同义词}
 
 - exact, shark up （敲诈；侵占；强求；牵强地引出）
+
+:::
 
 
 ## 2968. trample
@@ -2127,6 +2249,8 @@
 
 - havoc （蹂躏；践踏声）
 
+:::
+
 
 ## 2969. negligible
 
@@ -2142,6 +2266,8 @@
 
 - bit, inappreciable （微不足道的，[数]可以忽略的）
 
+:::
+
 
 ## 2970. setback
 
@@ -2156,6 +2282,8 @@
 :::warning{title=🤔同义词}
 
 - frustration, clawback （挫折；退步；逆流）
+
+:::
 
 
 ## 2971. spray
@@ -2222,6 +2350,8 @@
 
 - spritz （喷）
 
+:::
+
 
 ## 2972. distinguish
 
@@ -2249,6 +2379,8 @@
 
 - differentiate, tell from （区别，区分；辨别）
 
+:::
+
 
 ## 2973. primordial
 
@@ -2263,6 +2395,8 @@
 :::warning{title=🤔同义词}
 
 - organic, original, fundamental, ultimate, radical （[生物]原始的；根本的；原生的）
+
+:::
 
 
 ## 2974. husbandry
@@ -2284,6 +2418,8 @@
 :::warning{title=🤔同义词}
 
 - cultivation, breeding, soil, feed （饲养；务农，耕种；家政）
+
+:::
 
 
 ## 2975. haircut
@@ -2307,6 +2443,8 @@
 :::warning{title=🤔同义词}
 
 - frisure, hair style （理发；发型）
+
+:::
 
 
 ## 2976. decorative
@@ -2343,6 +2481,8 @@
 
 - ornamental （装饰性的；装潢用的）
 
+:::
+
 
 ## 2977. pointed
 
@@ -2370,6 +2510,8 @@
 
 - collimated （指出；瞄准（point的过去式））
 
+:::
+
 
 ## 2978. enthusiastic
 
@@ -2391,6 +2533,8 @@
 
 - intense, warm, crazy, eager, tropical （热情的；热心的；狂热的）
 
+:::
+
 
 ## 2979. elongate
 
@@ -2409,6 +2553,8 @@
 - pad out, draw oneselg up （拉长；延长；[力]伸长）
 
 - prolonged, stretched-out （[植][力]伸长的；延长的）
+
+:::
 
 
 ## 2980. symptom
@@ -2431,6 +2577,8 @@
 
 - premonitor, prefiguration （[临床]症状；征兆）
 
+:::
+
 
 ## 2981. fray
 
@@ -2452,6 +2600,8 @@
 
 - scuff （使磨损；变得令人紧张、急躁）
 
+:::
+
 
 ## 2982. thereby
 
@@ -2466,6 +2616,8 @@
 :::warning{title=🤔同义词}
 
 - hence, accordingly, thus, consequently, as a result of （从而，因此；在那附近；在那方面）
+
+:::
 
 
 ## 2983. wield
@@ -2488,6 +2640,8 @@
 
 - make use of, fashion, employ, exercise （使用；行使；挥舞）
 
+:::
+
 
 ## 2984. disastrous
 
@@ -2504,6 +2658,8 @@
 :::warning{title=🤔同义词}
 
 - sinister, sorrowful （灾难性的；损失惨重的；悲伤的）
+
+:::
 
 
 ## 2985. impulse
@@ -2552,6 +2708,8 @@
 
 - drive, force, impel （推动）
 
+:::
+
 
 ## 2986. crystallize
 
@@ -2568,6 +2726,8 @@
 - embody, nail down （使结晶；明确；使具体化；做成蜜饯）
 
 - grain formation, nail down （结晶，形成结晶；明确；具体化）
+
+:::
 
 
 ## 2987. subspecies
@@ -2638,6 +2798,8 @@
 
 - have a bath （淋浴；[气象]下阵雨）
 
+:::
+
 
 ## 2989. infectious
 
@@ -2663,6 +2825,8 @@
 
 - catching, epidemic （[内科]传染的；传染性的；易传染的）
 
+:::
+
 
 ## 2990. concur
 
@@ -2686,6 +2850,8 @@
 
 - accept, grant, identify, square （同意；一致；互助）
 
+:::
+
 
 ## 2991. nevertheless
 
@@ -2702,6 +2868,8 @@
 - though, natheless （然而，不过；虽然如此）
 
 - whereas, however, while, but, yet （然而，不过）
+
+:::
 
 
 ## 2992. prominent
@@ -2727,6 +2895,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, excellent, remarkable, brilliant, marked （突出的，显著的；杰出的；卓越的）
+
+:::
 
 
 ## 2993. insulin
@@ -2755,6 +2925,8 @@
 
 - trypsin （[生化][药]胰岛素）
 
+:::
+
 
 ## 2994. ironic
 
@@ -2773,6 +2945,8 @@
 :::warning{title=🤔同义词}
 
 - acid, satiric （讽刺的；反话的）
+
+:::
 
 
 ## 2995. fundamental
@@ -2839,6 +3013,8 @@
 
 - basic principle, ultimate, rationale （基本原理；基本原则）
 
+:::
+
 
 ## 2996. hieratic
 
@@ -2847,6 +3023,8 @@
 :::warning{title=🤔同义词}
 
 - monkish, sacerdotal （僧侣用的；僧侣的）
+
+:::
 
 
 ## 2997. entitle
@@ -2872,6 +3050,8 @@
 :::warning{title=🤔同义词}
 
 - prosiness, flatness （[声]单调；千篇一律）
+
+:::
 
 
 ## 2999. outline
@@ -2913,5 +3093,7 @@
 - profile, program, brief, contour （轮廓；大纲；概要；略图）
 
 - summarize, sum up （概述；略述；描画…轮廓）
+
+:::
 
 

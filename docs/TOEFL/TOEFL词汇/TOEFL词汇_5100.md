@@ -14,6 +14,8 @@
 
 - latecomer, tenderfoot （[劳经]新来者；新到的移民）
 
+:::
+
 
 ## 5101. holiday
 
@@ -73,6 +75,8 @@
 
 - festival, Feriae （假日；节日；休息日）
 
+:::
+
 
 ## 5102. gravitas
 
@@ -87,6 +91,8 @@
 :::warning{title=🤔同义词}
 
 - grandeur, solemnity （（拉）庄严；庄重；庄严的举止）
+
+:::
 
 
 ## 5103. foresightedness
@@ -129,6 +135,8 @@
 
 - delicate, tender, fragile （易碎的，[冶]脆弱的；易生气的）
 
+:::
+
 
 ## 5106. dispense
 
@@ -152,6 +160,8 @@
 
 - get free of, exempt from （免除，豁免）
 
+:::
+
 
 ## 5107. inedible
 
@@ -166,6 +176,8 @@
 :::warning{title=🤔同义词}
 
 - uneatable, unedible （不能吃的）
+
+:::
 
 
 ## 5108. lure
@@ -183,6 +195,8 @@
 - temptation, gentle （诱惑；饵；诱惑物）
 
 - induce, tempt （诱惑；引诱）
+
+:::
 
 
 ## 5109. swiftly
@@ -203,6 +217,8 @@
 
 - quickly, rapidly, promptly （很快地；敏捷地；即刻）
 
+:::
+
 
 ## 5110. risky
 
@@ -219,6 +235,8 @@
 :::warning{title=🤔同义词}
 
 - dangerous, critical, threatening, perilous, hazardous （危险的；冒险的；（作品等）有伤风化的）
+
+:::
 
 
 ## 5111. gibbon
@@ -247,6 +265,8 @@
 
 - racoon, coon （浣熊；浣熊毛皮）
 
+:::
+
 
 ## 5113. peep
 
@@ -270,6 +290,8 @@
 
 - occur, figure, offer （窥视；慢慢露出，出现；吱吱叫）
 
+:::
+
 
 ## 5114. arousal
 
@@ -286,6 +308,8 @@
 :::warning{title=🤔同义词}
 
 - stimulus, animation, excitation （[心理]觉醒；激励）
+
+:::
 
 
 ## 5115. neurotransmitter
@@ -324,6 +348,8 @@
 
 - molder （崩塌）
 
+:::
+
 
 ## 5117. skyrocket
 
@@ -332,6 +358,8 @@
 :::warning{title=🤔同义词}
 
 - sky, sharp increase （飞涨，突然高升）
+
+:::
 
 
 ## 5118. skate
@@ -351,6 +379,8 @@
 - ice skating, ice-skate （滑冰；滑过）
 
 - ice-skating （溜冰；冰鞋）
+
+:::
 
 
 ## 5119. ibex
@@ -411,6 +441,8 @@
 
 - guy, make game of （嘲弄）
 
+:::
+
 
 ## 5121. cessation
 
@@ -425,6 +457,8 @@
 :::warning{title=🤔同义词}
 
 - stop, break, stay, hang, stand （停止；中止；中断）
+
+:::
 
 
 ## 5122. shovel
@@ -452,6 +486,8 @@
 - weed （铲除；用铲挖；把…胡乱塞入）
 
 - spade （[机]铲）
+
+:::
 
 
 ## 5123. eccentric
@@ -492,6 +528,8 @@
 
 - fantastic, weirdo （古怪的人）
 
+:::
+
 
 ## 5124. steamer
 
@@ -500,6 +538,8 @@
 :::warning{title=🤔同义词}
 
 - boat, streamboat （轮船；蒸汽机；蒸笼）
+
+:::
 
 
 ## 5125. sentimental
@@ -522,6 +562,8 @@
 
 - melting, mushy （感伤的；感情脆弱的）
 
+:::
+
 
 ## 5126. iridescent
 
@@ -536,6 +578,8 @@
 :::warning{title=🤔同义词}
 
 - shot, irised （彩虹色的；闪光的）
+
+:::
 
 
 ## 5127. eocene
@@ -582,6 +626,8 @@
 
 - gaddi, mat （[轻]垫子；起缓解作用之物；（猪等的）臀肉；银行储蓄）
 
+:::
+
 
 ## 5129. bowel
 
@@ -606,6 +652,8 @@
 :::warning{title=🤔同义词}
 
 - interior, inside, inner, feeling, compassion （肠；内部；同情）
+
+:::
 
 
 ## 5130. technician
@@ -640,6 +688,8 @@
 
 - lab-technician （[劳经]技师，技术员；技巧纯熟的人）
 
+:::
+
 
 ## 5131. maybe
 
@@ -664,6 +714,8 @@
 - perhaps, possibly, probably, like （也许；可能；大概）
 
 - possibility, probability, feasibility, potential, chance （可能性；不确定性）
+
+:::
 
 
 ## 5132. snowdrift
@@ -693,6 +745,8 @@
 :::warning{title=🤔同义词}
 
 - three score years and ten （七十；七十个；七十岁；七十年代）
+
+:::
 
 
 ## 5134. cleaner
@@ -741,6 +795,8 @@
 
 - detergent, cleaning media （[化工]清洁剂；清洁工；干洗店；干洗商；[建]洗洁器）
 
+:::
+
 
 ## 5135. accordion
 
@@ -761,6 +817,8 @@
 - folding, collapsable （可折叠的）
 
 - squeezebox （手风琴）
+
+:::
 
 
 ## 5136. manure
@@ -793,6 +851,8 @@
 
 - fertilizer （[肥料]肥料；粪肥）
 
+:::
+
 
 ## 5137. clover
 
@@ -821,6 +881,8 @@
 :::warning{title=🤔同义词}
 
 - trifolium, shamrock （[植]三叶草；苜蓿；红花草）
+
+:::
 
 
 ## 5138. heater
@@ -877,6 +939,8 @@
 
 - warmer, heating appliance （[建]加热器；加热工）
 
+:::
+
 
 ## 5139. circumference
 
@@ -903,6 +967,8 @@
 :::warning{title=🤔同义词}
 
 - periphery, chest/bust （[数]圆周；周长；胸围）
+
+:::
 
 
 ## 5140. treatment
@@ -963,6 +1029,8 @@
 
 - therapy, transactions, settlement, disposal, computing （[临床]治疗，疗法；处理；对待）
 
+:::
+
 
 ## 5141. sanitation
 
@@ -988,6 +1056,8 @@
 
 - hygiene of environment, environmental health （[医]环境卫生；卫生设备；下水道设施）
 
+:::
+
 
 ## 5142. entertainer
 
@@ -1004,6 +1074,8 @@
 :::warning{title=🤔同义词}
 
 - player, showman （演艺人员，表演者）
+
+:::
 
 
 ## 5143. scrape
@@ -1040,6 +1112,8 @@
 
 - shave off （刮掉；刮出刺耳声）
 
+:::
+
 
 ## 5144. violently
 
@@ -1054,6 +1128,8 @@
 :::warning{title=🤔同义词}
 
 - strongly, extremely, heavily, hard, fiercely （猛烈地，激烈地；极端地）
+
+:::
 
 
 ## 5145. masonry
@@ -1086,6 +1162,8 @@
 
 - stoneworker （石工；石工行业；[建]石造建筑）
 
+:::
+
 
 ## 5146. flexibility
 
@@ -1113,6 +1191,8 @@
 
 - give, elasticity, adaptability （灵活性；[力]弹性；适应性）
 
+:::
+
 
 ## 5147. obstruct
 
@@ -1132,6 +1212,8 @@
 
 - plug up, block up （阻塞；设障碍）
 
+:::
+
 
 ## 5148. mediocre
 
@@ -1148,6 +1230,8 @@
 :::warning{title=🤔同义词}
 
 - ordinary, general, secondary, middle, average （普通的；平凡的；中等的）
+
+:::
 
 
 ## 5149. tributary
@@ -1166,6 +1250,8 @@
 
 - branch, distributary （[地理][水文]支流；进贡国；附属国）
 
+:::
+
 
 ## 5150. choosy
 
@@ -1181,6 +1267,8 @@
 
 - picksome （好挑剔的）
 
+:::
+
 
 ## 5151. distinguishable
 
@@ -1195,6 +1283,8 @@
 :::warning{title=🤔同义词}
 
 - diacritical, cognizable （可区别的；辩认得出的；可辨识的）
+
+:::
 
 
 ## 5152. commute
@@ -1213,6 +1303,8 @@
 
 - exchange for, give for （减刑；[数]交换；用……交换；使……变成）
 
+:::
+
 
 ## 5153. absenteeism
 
@@ -1229,6 +1321,8 @@
 :::warning{title=🤔同义词}
 
 - truancy （[劳经]旷工；旷课；有计划的怠工；经常无故缺席）
+
+:::
 
 
 ## 5154. pointillist
@@ -1256,6 +1350,8 @@
 :::warning{title=🤔同义词}
 
 - roughly, coarsely （粗糙地；天然地；粗鲁地；不成熟地）
+
+:::
 
 
 ## 5156. ride
@@ -1322,6 +1418,8 @@
 
 - vehicle, embarkation （骑；乘坐；交通工具；可供骑行的路）
 
+:::
+
 
 ## 5157. epistle
 
@@ -1338,6 +1436,8 @@
 :::warning{title=🤔同义词}
 
 - carta （书信；使徒书；书信体诗文）
+
+:::
 
 
 ## 5158. endotherms
@@ -1367,6 +1467,8 @@
 - distribute, publicize, transmit （宣传，传播；散布）
 
 - shed, put about （散布；广为传播）
+
+:::
 
 
 ## 5160. berg
@@ -1405,6 +1507,8 @@
 
 - collected works （[计]语料库；文集；本金）
 
+:::
+
 
 ## 5162. unchangeable
 
@@ -1419,6 +1523,8 @@
 :::warning{title=🤔同义词}
 
 - constant, permanent, steady, balanced, quiet （不变的；不能改变的；安定的）
+
+:::
 
 
 ## 5163. patriot
@@ -1442,6 +1548,8 @@
 :::warning{title=🤔同义词}
 
 - Aigo, The Patriot （爱国者）
+
+:::
 
 
 ## 5164. gel
@@ -1500,6 +1608,8 @@
 
 - jel, colloform （[物化]凝胶，胶体）
 
+:::
+
 
 ## 5165. ignorant
 
@@ -1521,6 +1631,8 @@
 
 - dark, empty, innocent （无知的；愚昧的）
 
+:::
+
 
 ## 5166. illusory
 
@@ -1535,6 +1647,8 @@
 :::warning{title=🤔同义词}
 
 - phantasmal, mendacious （错觉的；幻影的；虚假的；产生幻觉的）
+
+:::
 
 
 ## 5167. sparsely
@@ -1560,6 +1674,8 @@
 :::warning{title=🤔同义词}
 
 - thin, barely （稀疏地；贫乏地）
+
+:::
 
 
 ## 5168. methyl
@@ -1638,6 +1754,8 @@
 
 - adorer, venerator （崇拜者；礼拜者；爱慕者）
 
+:::
+
 
 ## 5170. saturday
 
@@ -1683,6 +1801,8 @@
 
 - abundant, super, full, extravagant （奢侈的；丰富的；放纵的；特级的）
 
+:::
+
 
 ## 5173. receptacle
 
@@ -1703,6 +1823,8 @@
 :::warning{title=🤔同义词}
 
 - container, vessel, jack, pocket （[植]花托；容器；插座）
+
+:::
 
 
 ## 5174. motorcycle
@@ -1739,6 +1861,8 @@
 
 - autocycle, motor van （[车辆]摩托车；机动车）
 
+:::
+
 
 ## 5175. recreation
 
@@ -1774,6 +1898,8 @@
 
 - entertainment, pleasure, sport, occupation, amusement （娱乐；消遣；休养）
 
+:::
+
 
 ## 5176. vest
 
@@ -1797,6 +1923,8 @@
 
 - award, grant, invest, habit, give （授予；使穿衣）
 
+:::
+
 
 ## 5177. chemurgy
 
@@ -1811,6 +1939,8 @@
 :::warning{title=🤔同义词}
 
 - applied chemistry （应用化学；[农]农业化工）
+
+:::
 
 
 ## 5178. imitator
@@ -1829,6 +1959,8 @@
 
 - simulator, aper （模仿者；[自]模拟器）
 
+:::
+
 
 ## 5179. edifice
 
@@ -1844,6 +1976,8 @@
 
 - mansion, large building （大厦；大建筑物）
 
+:::
+
 
 ## 5180. wary
 
@@ -1858,6 +1992,8 @@
 :::warning{title=🤔同义词}
 
 - cautious, prudent （谨慎的；机警的；惟恐的；考虑周到的）
+
+:::
 
 
 ## 5181. surmise
@@ -1878,6 +2014,8 @@
 
 - speculation, theory, guess, projection （推测；猜度）
 
+:::
+
 
 ## 5182. disdain
 
@@ -1892,6 +2030,8 @@
 :::warning{title=🤔同义词}
 
 - defiance, snotnose （蔑视）
+
+:::
 
 
 ## 5183. poisonous
@@ -1924,6 +2064,8 @@
 
 - toxic, evil, rank, vicious, venomous （有毒的；恶毒的；讨厌的）
 
+:::
+
 
 ## 5184. anti
 
@@ -1934,6 +2076,8 @@
 - averse, opposing （反对的）
 
 - opponent, objector （反对者，反对论者）
+
+:::
 
 
 ## 5185. continuator
@@ -2006,6 +2150,8 @@
 
 - reseau, latticework （[电子]网格；[数]格子，栅格；输电网）
 
+:::
+
 
 ## 5187. predispose
 
@@ -2045,6 +2191,8 @@
 
 - ridiculous, absurd （荒谬的；可笑的）
 
+:::
+
 
 ## 5190. subtlety
 
@@ -2062,6 +2210,8 @@
 
 - delicacy, acuity （微妙；敏锐；精明）
 
+:::
+
 
 ## 5191. suburb
 
@@ -2078,6 +2228,8 @@
 :::warning{title=🤔同义词}
 
 - margin, banlieue （郊区；边缘）
+
+:::
 
 
 ## 5192. streetcar
@@ -2098,6 +2250,8 @@
 
 - trolley car, trolley-bus （[车辆]有轨电车）
 
+:::
+
 
 ## 5193. oscillate
 
@@ -2115,6 +2269,8 @@
 
 - hesitate, to swing （振荡；摆动；犹豫）
 
+:::
+
 
 ## 5194. aptly
 
@@ -2129,6 +2285,8 @@
 :::warning{title=🤔同义词}
 
 - properly, well, adequately, appropriately, befittingly （适宜地；适当地）
+
+:::
 
 
 ## 5195. underfoot
@@ -2148,6 +2306,8 @@
 :::warning{title=🤔同义词}
 
 - cattle, bull （[畜牧][脊椎]牛；公牛）
+
+:::
 
 
 ## 5197. developer
@@ -2171,6 +2331,8 @@
 :::warning{title=🤔同义词}
 
 - eikonogen, developing agent （开发者；[摄][试剂]显影剂）
+
+:::
 
 
 ## 5198. worry
@@ -2209,6 +2371,8 @@
 
 - trouble, concern about/for/over （担心；烦恼；撕咬）
 
+:::
+
 
 ## 5199. gourd
 
@@ -2243,5 +2407,7 @@
 :::warning{title=🤔同义词}
 
 - cucurbit, calabash （葫芦，葫芦属植物；脑瓜）
+
+:::
 
 

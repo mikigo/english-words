@@ -62,6 +62,8 @@
 
 - technology, mechanics, skill, knowledge, discipline （科学；技术；学科；理科）
 
+:::
+
 
 ## 401. spread
 
@@ -127,6 +129,8 @@
 
 - extense, patulous （伸展的）
 
+:::
+
 
 ## 402. whig
 
@@ -151,6 +155,8 @@
 :::warning{title=🤔同义词}
 
 - heart, stimulate, power, hand, second （鼓励，怂恿；激励；支持）
+
+:::
 
 
 ## 404. newspaper
@@ -192,6 +198,8 @@
 :::warning{title=🤔同义词}
 
 - paper, courant （报纸）
+
+:::
 
 
 ## 405. party
@@ -253,6 +261,8 @@
 :::warning{title=🤔同义词}
 
 - principal, get-together （政党，党派；聚会，派对；[法]当事人）
+
+:::
 
 
 ## 406. data
@@ -373,6 +383,8 @@
 
 - charcoal, xylanthrax （[矿物]煤；煤块；木炭）
 
+:::
+
 
 ## 408. combine
 
@@ -401,6 +413,8 @@
 - band, bond, couple, become one, connect （联合，结合；化合）
 
 - integrated works, Konzern （[农机]联合收割机；联合企业）
+
+:::
 
 
 ## 409. happen
@@ -440,6 +454,8 @@
 :::warning{title=🤔同义词}
 
 - occur, proceed, chance （发生；碰巧；偶然遇到）
+
+:::
 
 
 ## 410. five
@@ -484,6 +500,8 @@
 
 - cinque, pentad （五，五个；五美元钞票）
 
+:::
+
 
 ## 411. cretaceous
 
@@ -498,6 +516,8 @@
 :::warning{title=🤔同义词}
 
 - chalklike （[岩]白垩纪的；似白垩的）
+
+:::
 
 
 ## 412. book
@@ -562,6 +582,8 @@
 
 - register, make reservation （预订；登记）
 
+:::
+
 
 ## 413. quite
 
@@ -623,6 +645,8 @@
 
 - greatly, badly, too, far, powerful （很；相当；完全）
 
+:::
+
 
 ## 414. already
 
@@ -639,6 +663,8 @@
 :::warning{title=🤔同义词}
 
 - yet （已经，早已；先前）
+
+:::
 
 
 ## 415. nearly
@@ -672,6 +698,8 @@
 :::warning{title=🤔同义词}
 
 - almost, most, virtually, practically （差不多，几乎；密切地）
+
+:::
 
 
 ## 416. collect
@@ -717,6 +745,8 @@
 - gather in, assemble （收集；募捐）
 
 - concentrate, mass, crowd （收集；聚集；募捐）
+
+:::
 
 
 ## 417. sand
@@ -779,6 +809,8 @@
 
 - dene, hurst （[土壤]沙；沙地；沙洲；沙滩；沙子）
 
+:::
+
 
 ## 418. hot
 
@@ -840,6 +872,8 @@
 
 - enhance, boost, jack, mount, gain （增加；给…加温）
 
+:::
+
 
 ## 419. terrestrial
 
@@ -872,6 +906,8 @@
 :::warning{title=🤔同义词}
 
 - earthly, telluric （[天]地球的；[生物]陆地的，陆生的；人间的）
+
+:::
 
 
 ## 420. leaf
@@ -934,6 +970,8 @@
 
 - page （生叶；翻书页）
 
+:::
+
 
 ## 421. sequence
 
@@ -992,6 +1030,8 @@
 :::warning{title=🤔同义词}
 
 - order, consecutiveness （[数][计]序列；顺序；续发事件）
+
+:::
 
 
 ## 422. star
@@ -1066,6 +1106,8 @@
 
 - stellate （明星的，主角的；星形的）
 
+:::
+
 
 ## 423. estimate
 
@@ -1118,6 +1160,8 @@
 - computation, appraisal, calculation, assessment, judgment, evaluation, viewpoint （估计，估价；判断，看法）
 
 - measure, value, score （估计，[数]估量；判断，评价）
+
+:::
 
 
 ## 424. drill
@@ -1186,6 +1230,8 @@
 
 - discipline, coach （钻孔；训练；[农机]条播）
 
+:::
+
 
 ## 425. transport
 
@@ -1249,6 +1295,8 @@
 
 - convey, to freight （[植]运输；流放；使狂喜）
 
+:::
+
 
 ## 426. groundwater
 
@@ -1275,6 +1323,8 @@
 :::warning{title=🤔同义词}
 
 - underground water, subterranean water （地下水）
+
+:::
 
 
 ## 427. international
@@ -1337,6 +1387,8 @@
 
 - mundane （国际的；世界的）
 
+:::
+
 
 ## 428. serve
 
@@ -1392,6 +1444,8 @@
 
 - gear, help （服役，服务；适合，足够；发球；招待，侍候）
 
+:::
+
 
 ## 429. favor
 
@@ -1428,6 +1482,8 @@
 - agree, love, uphold, make sure, sustain （赞成；喜欢；像；赐予；证实）
 
 - affection, keen on （喜爱；欢心；好感）
+
+:::
 
 
 ## 430. root
@@ -1496,6 +1552,8 @@
 
 - fix on, hold in place （生根，固定；根源在于）
 
+:::
+
 
 ## 431. huge
 
@@ -1528,6 +1586,8 @@
 :::warning{title=🤔同义词}
 
 - enormous, tremendous, massive, macro, vast （巨大的；庞大的；无限的）
+
+:::
 
 
 ## 432. put
@@ -1594,6 +1654,8 @@
 
 - simple, turkey （掷；笨蛋；投击；怪人）
 
+:::
+
 
 ## 433. whale
 
@@ -1640,6 +1702,8 @@
 - slaughter （猛揍；使惨败）
 
 - bouncer, colossus （[脊椎]鲸；巨大的东西）
+
+:::
 
 
 ## 434. exchange
@@ -1704,6 +1768,8 @@
 
 - trade, traffic （[通信][计]交换；交易；[金融]兑换）
 
+:::
+
 
 ## 435. ecosystem
 
@@ -1738,6 +1804,8 @@
 :::warning{title=🤔同义词}
 
 - ecological constellation, ecological systems （[生态]生态系统）
+
+:::
 
 
 ## 436. distance
@@ -1802,6 +1870,8 @@
 
 - stand off, cold-shoulder （疏远；把…远远甩在后面）
 
+:::
+
 
 ## 437. assume
 
@@ -1830,6 +1900,8 @@
 - undertake, adopt, accept, shoulder, sustain （承担；假定；采取；呈现）
 
 - attitudinize, put on the dog （装腔作势；多管闲事）
+
+:::
 
 
 ## 438. egg
@@ -1896,6 +1968,8 @@
 
 - encourage, fan （煽动；怂恿）
 
+:::
+
 
 ## 439. opinion
 
@@ -1946,6 +2020,8 @@
 :::warning{title=🤔同义词}
 
 - comment, view, judgement, mind, thinking （意见；主张）
+
+:::
 
 
 ## 440. principle
@@ -2010,6 +2086,8 @@
 
 - theory, mechanism, element, essence, parent （原理，原则；主义，道义；本质，本义；根源，源泉）
 
+:::
+
 
 ## 441. global
 
@@ -2070,6 +2148,8 @@
 :::warning{title=🤔同义词}
 
 - spherical, ball-shaped （全球的；总体的；球形的）
+
+:::
 
 
 ## 442. cause
@@ -2140,6 +2220,8 @@
 
 - attract, produce, occasion, operate, induce （引起；使遭受）
 
+:::
+
 
 ## 443. eye
 
@@ -2205,6 +2287,8 @@
 
 - watch, look, behold （注视，看）
 
+:::
+
 
 ## 444. introductory
 
@@ -2227,6 +2311,8 @@
 :::warning{title=🤔同义词}
 
 - guiding, orientative （引导的，介绍的；开端的）
+
+:::
 
 
 ## 445. weight
@@ -2291,6 +2377,8 @@
 
 - significance, burden, stress, strain, consequence （[物]重量，重力；负担；[计量]砝码；重要性）
 
+:::
+
 
 ## 446. variation
 
@@ -2350,6 +2438,8 @@
 
 - shift, change, differentiation, diversification, turn （变化；[生物]变异，变种）
 
+:::
+
 
 ## 447. sculpture
 
@@ -2376,6 +2466,8 @@
 - carving, incision （[建]雕塑；[轻]雕刻；刻蚀）
 
 - grave, engrave （[建]雕塑；[轻]雕刻；刻蚀）
+
+:::
 
 
 ## 448. student
@@ -2436,6 +2528,8 @@
 
 - scholar, academic, pupil （学生；学者）
 
+:::
+
 
 ## 449. bacteria
 
@@ -2493,6 +2587,8 @@
 
 - microbe, bacilus （细菌）
 
+:::
+
 
 ## 450. presence
 
@@ -2523,6 +2619,8 @@
 :::warning{title=🤔同义词}
 
 - existence, being, entity, is （[植]存在；出席；参加；风度；仪态）
+
+:::
 
 
 ## 451. accept
@@ -2557,6 +2655,8 @@
 
 - recognize, grant （承认；同意；承兑）
 
+:::
+
 
 ## 452. accumulate
 
@@ -2573,6 +2673,8 @@
 - store up （累积；积聚）
 
 - scrape up （积攒）
+
+:::
 
 
 ## 453. colony
@@ -2603,6 +2705,8 @@
 
 - settlements （殖民地；移民队）
 
+:::
+
 
 ## 454. gradual
 
@@ -2631,6 +2735,8 @@
 :::warning{title=🤔同义词}
 
 - piecemeal （逐渐的；平缓的）
+
+:::
 
 
 ## 455. piece
@@ -2701,6 +2807,8 @@
 
 - cement, joint （修补；接合；凑合）
 
+:::
+
 
 ## 456. solid
 
@@ -2761,6 +2869,8 @@
 - responsible, honest, united, consistent, reliable （[物]固体的；可靠的；[数]立体的；结实的；一致的）
 
 - cube （[物]固体；[数]立方体）
+
+:::
 
 
 ## 457. action
@@ -2824,6 +2934,8 @@
 :::warning{title=🤔同义词}
 
 - movement, function, doing, campaign, working （行动；活动；功能；战斗；情节）
+
+:::
 
 
 ## 458. service
@@ -2902,6 +3014,8 @@
 
 - maintain, unkeep （维修，[计]检修；保养）
 
+:::
+
 
 ## 459. destroy
 
@@ -2916,6 +3030,8 @@
 :::warning{title=🤔同义词}
 
 - undermine, founder （破坏；消灭；毁坏）
+
+:::
 
 
 ## 460. relative
@@ -2983,6 +3099,8 @@
 - opposing, proportional （相对的；有关系的；成比例的）
 
 - kin, belongings （亲戚；相关物；[语]关系词；亲缘植物）
+
+:::
 
 
 ## 461. military
@@ -3055,6 +3173,8 @@
 
 - force, soldier, battalion （军队；军人）
 
+:::
+
 
 ## 462. memory
 
@@ -3113,6 +3233,8 @@
 :::warning{title=🤔同义词}
 
 - mind, retention （[心理]记忆，记忆力；内存，[计]存储器；回忆）
+
+:::
 
 
 ## 463. potential
@@ -3176,6 +3298,8 @@
 - possibility, probability, feasibility, maybe, chance （潜能；可能性；[电]电势）
 
 - feasible, possible, underlying, latent （潜在的；可能的；势的）
+
+:::
 
 
 ## 464. sign
@@ -3248,6 +3372,8 @@
 
 - ink, endorse （签署；示意）
 
+:::
+
 
 ## 465. electricity
 
@@ -3298,6 +3424,8 @@
 :::warning{title=🤔同义词}
 
 - electric power, electric force （电力；电流；强烈的紧张情绪）
+
+:::
 
 
 ## 466. dioxide
@@ -3384,6 +3512,8 @@
 
 - put into effect, to carry out （执行，机器运转；表演）
 
+:::
+
 
 ## 468. situation
 
@@ -3443,6 +3573,8 @@
 
 - circumstance, case, location, thing, aspect （情况；形势；处境；位置）
 
+:::
+
 
 ## 469. evolution
 
@@ -3483,6 +3615,8 @@
 :::warning{title=🤔同义词}
 
 - unfolding, Monkey to Man （演变；[进化]进化论；进展）
+
+:::
 
 
 ## 470. soon
@@ -3532,6 +3666,8 @@
 :::warning{title=🤔同义词}
 
 - immediately, rather, now, first, quick （快；不久，一会儿；立刻；宁愿）
+
+:::
 
 
 ## 471. fill
@@ -3604,6 +3740,8 @@
 
 - satisfaction, content （满足；填满的量；装填物）
 
+:::
+
 
 ## 472. fort
 
@@ -3626,6 +3764,8 @@
 :::warning{title=🤔同义词}
 
 - tower, bastion （堡垒；[军]要塞；（美）边界贸易站）
+
+:::
 
 
 ## 473. content
@@ -3692,6 +3832,8 @@
 
 - gratify, appease （使满足）
 
+:::
+
 
 ## 474. success
 
@@ -3748,6 +3890,8 @@
 :::warning{title=🤔同义词}
 
 - victory, prosperity, achievement, effort, accomplishment （成功，成就；胜利；大获成功的人或事物）
+
+:::
 
 
 ## 475. signal
@@ -3816,6 +3960,8 @@
 
 - semaphore （发信号）
 
+:::
+
 
 ## 476. generation
 
@@ -3881,6 +4027,8 @@
 
 - get, reproduction （一代；产生；一代人；[生物]生殖）
 
+:::
+
 
 ## 477. vast
 
@@ -3909,6 +4057,8 @@
 - huge, massive, extensive, tremendous, enormous （广阔的；巨大的；大量的；巨额的）
 
 - voluminousness （浩瀚；广阔无垠的空间）
+
+:::
 
 
 ## 478. manufacture
@@ -3949,6 +4099,8 @@
 
 - process, make （制造；加工；捏造）
 
+:::
+
 
 ## 479. compete
 
@@ -3963,6 +4115,8 @@
 :::warning{title=🤔同义词}
 
 - contest, war, cope （竞争；比赛；对抗）
+
+:::
 
 
 ## 480. link
@@ -4026,6 +4180,8 @@
 - relationship, connection, bearing, contact, concern （[计]链环，环节；联系，关系）
 
 - couple, become one （[计]连接，[铁路]连结；联合，结合）
+
+:::
 
 
 ## 481. blood
@@ -4092,6 +4248,8 @@
 
 - birth, stem, stock （[解剖]血，血液；血统）
 
+:::
+
 
 ## 482. commercial
 
@@ -4150,6 +4308,8 @@
 :::warning{title=🤔同义词}
 
 - merchant （[贸易]商业的；营利的；靠广告收入的）
+
+:::
 
 
 ## 483. approach
@@ -4218,6 +4378,8 @@
 
 - come near to, draw near （靠近）
 
+:::
+
 
 ## 484. predict
 
@@ -4234,6 +4396,8 @@
 :::warning{title=🤔同义词}
 
 - forecast, advance information （预报，预言；预知）
+
+:::
 
 
 ## 485. step
@@ -4304,6 +4468,8 @@
 
 - wend one's way, pad （走，迈步）
 
+:::
+
 
 ## 486. stand
 
@@ -4373,6 +4539,8 @@
 
 - stop, stay （站立；立场；看台；停止）
 
+:::
+
 
 ## 487. release
 
@@ -4435,6 +4603,8 @@
 - deliver, send, free, project, convey （释放；发射；让与；允许发表）
 
 - liberation, issuance （释放；发布；让与）
+
+:::
 
 
 ## 488. plan
@@ -4505,6 +4675,8 @@
 
 - project, aim, propose （计划；打算）
 
+:::
+
 
 ## 489. sample
 
@@ -4568,6 +4740,8 @@
 
 - example, pattern （样品；[图情]样本；例子）
 
+:::
+
 
 ## 490. expansion
 
@@ -4627,6 +4801,8 @@
 
 - inflation, exposition （膨胀；阐述；扩张物）
 
+:::
+
 
 ## 491. extensive
 
@@ -4668,6 +4844,8 @@
 
 - widespread, massive, comprehensive, substantial, vast （广泛的；大量的；广阔的）
 
+:::
+
 
 ## 492. reveal
 
@@ -4694,6 +4872,8 @@
 - make clear, prove, disclose, expose （显示；透露；揭露；泄露）
 
 - uncovery, exposure to sth （揭露；暴露；门侧，[建]窗侧）
+
+:::
 
 
 ## 493. helium
@@ -4788,6 +4968,8 @@
 
 - frequently, periodically （定期地；经常地）
 
+:::
+
 
 ## 495. effort
 
@@ -4842,6 +5024,8 @@
 :::warning{title=🤔同义词}
 
 - achievement, success, pain, struggle, trial （努力；成就）
+
+:::
 
 
 ## 496. mile
@@ -4934,6 +5118,8 @@
 
 - watering （[农工]灌溉；[临床]冲洗；冲洗法）
 
+:::
+
 
 ## 498. next
 
@@ -4966,6 +5152,8 @@
 - following, posterior （下一个的；其次的；贴近的）
 
 - near, anigh （靠近；居于…之后）
+
+:::
 
 
 ## 499. actual
@@ -5031,5 +5219,7 @@
 :::warning{title=🤔同义词}
 
 - practical, sincere, real, effective, true （真实的，实际的；现行的，目前的）
+
+:::
 
 

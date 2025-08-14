@@ -60,6 +60,8 @@
 
 - indicate, vision, glass, figure （想象；反映；象征；作…的像）
 
+:::
+
 
 ## 1701. voracious
 
@@ -77,6 +79,8 @@
 
 - greedy, grasping （贪婪的；贪吃的；狼吞虎咽的）
 
+:::
+
 
 ## 1702. unpredictable
 
@@ -93,6 +97,8 @@
 :::warning{title=🤔同义词}
 
 - changeable, errant （不可预知的；不定的；出乎意料的）
+
+:::
 
 
 ## 1703. topography
@@ -116,6 +122,8 @@
 :::warning{title=🤔同义词}
 
 - terrain, surface relief （地势；地形学；地志）
+
+:::
 
 
 ## 1704. ribbon
@@ -162,6 +170,8 @@
 
 - belt, band, strip （带；缎带；（勋章等的）绶带；带状物；勋表）
 
+:::
+
 
 ## 1705. portray
 
@@ -179,6 +189,8 @@
 
 - represent, play, trace, figure （描绘；扮演）
 
+:::
+
 
 ## 1706. trance
 
@@ -195,6 +207,8 @@
 - possession, absentmindedness （恍惚；出神；着迷，入迷）
 
 - bemuse （使恍惚；使发呆）
+
+:::
 
 
 ## 1707. scrub
@@ -229,6 +243,8 @@
 
 - dwarfish, runty （矮小的；临时凑合的；次等的）
 
+:::
+
 
 ## 1708. profound
 
@@ -243,6 +259,8 @@
 :::warning{title=🤔同义词}
 
 - encyclopedic, cyclopaedic （深厚的；意义深远的；渊博的）
+
+:::
 
 
 ## 1709. affirm
@@ -260,6 +278,8 @@
 - declare, to be certain （肯定；断言）
 
 - recognize, confirm on （确认；断言）
+
+:::
 
 
 ## 1710. homogeneous
@@ -304,6 +324,8 @@
 
 - conspecific （[化学]均匀的；[数]齐次的；[生物]同种的）
 
+:::
+
 
 ## 1711. marble
 
@@ -337,6 +359,8 @@
 
 - hard, coldhearted （[岩]大理石的；冷酷无情的）
 
+:::
+
 
 ## 1712. waggle
 
@@ -356,6 +380,8 @@
 
 - swing, bob （摇摆；摆动）
 
+:::
+
 
 ## 1713. garb
 
@@ -374,6 +400,8 @@
 - clothing, wear, garment, apparel, costume （服装；装束；打扮）
 
 - rig out, to dress （装扮；穿衣）
+
+:::
 
 
 ## 1714. necessity
@@ -403,6 +431,8 @@
 :::warning{title=🤔同义词}
 
 - need, want, demand, requirement for （需要；[数]必然性；[经]必需品）
+
+:::
 
 
 ## 1715. frame
@@ -467,6 +497,8 @@
 
 - design, construct, engineer, style, project （设计；建造；陷害；使…适合）
 
+:::
+
 
 ## 1716. salon
 
@@ -491,6 +523,8 @@
 :::warning{title=🤔同义词}
 
 - gallery, parlour （沙龙；客厅；画廊；美术展览馆）
+
+:::
 
 
 ## 1717. vocal
@@ -524,6 +558,8 @@
 - audio, sonic （歌唱的；声音的，有声的）
 
 - vowel （声乐作品；元音）
+
+:::
 
 
 ## 1718. origin
@@ -572,6 +608,8 @@
 
 - birth, extraction, dawn （起源；[数]原点；出身；开端）
 
+:::
+
 
 ## 1719. plow
 
@@ -586,6 +624,8 @@
 - till, plough （[农机]犁；耕；开路）
 
 - Dipper, Triones （[农机]犁；似犁的工具；北斗七星）
+
+:::
 
 
 ## 1720. clasp
@@ -607,6 +647,8 @@
 - press, button （紧抱；扣紧；紧紧缠绕）
 
 - buckle, button up （扣住）
+
+:::
 
 
 ## 1721. hover
@@ -632,6 +674,8 @@
 - vibration, spinning around （徘徊；盘旋；犹豫）
 
 - brood, hatch （孵；徘徊在…近旁）
+
+:::
 
 
 ## 1722. random
@@ -704,6 +748,8 @@
 
 - wild （胡乱地）
 
+:::
+
 
 ## 1723. personality
 
@@ -765,6 +811,8 @@
 
 - being, kidney, lion, individuality （[心理]个性；品格；名人）
 
+:::
+
 
 ## 1724. terminology
 
@@ -787,6 +835,8 @@
 :::warning{title=🤔同义词}
 
 - technology, onym （[语]术语，术语学；用辞）
+
+:::
 
 
 ## 1725. alert
@@ -822,6 +872,8 @@
 - vigilant, precautious （[军]警惕的，警觉的；留心的）
 
 - guard, vigilance （[军]警戒，警惕；警报）
+
+:::
 
 
 ## 1726. rate
@@ -888,6 +940,8 @@
 
 - hop on, tell someone off （责骂；被评价）
 
+:::
+
 
 ## 1727. plot
 
@@ -933,6 +987,8 @@
 
 - be up to something, to plan （密谋；策划；绘制）
 
+:::
+
 
 ## 1728. sanction
 
@@ -959,6 +1015,8 @@
 - approval, penalty, holding, support, adhesion （制裁，处罚；认可；支持）
 
 - encourage, confirm, heart, uphold （制裁，处罚；批准；鼓励）
+
+:::
 
 
 ## 1729. mosaic
@@ -999,6 +1057,8 @@
 
 - crustification, marquetry （[建]马赛克；[细胞][遗]镶嵌；镶嵌细工）
 
+:::
+
 
 ## 1730. oak
 
@@ -1028,6 +1088,8 @@
 
 - quercine （[植]栎树的；栎木制的）
 
+:::
+
 
 ## 1731. prosperity
 
@@ -1055,6 +1117,8 @@
 
 - success, victory, winning, up, hit （繁荣，成功）
 
+:::
+
 
 ## 1732. proprietor
 
@@ -1075,6 +1139,8 @@
 :::warning{title=🤔同义词}
 
 - operator, building owner （[工经]业主；[经]所有者；经营者）
+
+:::
 
 
 ## 1733. contrary
@@ -1111,6 +1177,8 @@
 
 - inverse, verso （相反；反面）
 
+:::
+
 
 ## 1734. rehearse
 
@@ -1127,6 +1195,8 @@
 - dry run, go though （排练；预演）
 
 - dry run, go though （排练；演习）
+
+:::
 
 
 ## 1735. thwart
@@ -1148,6 +1218,8 @@
 - fixed, persistent, set （横放的；固执的）
 
 - across （横过）
+
+:::
 
 
 ## 1736. gamble
@@ -1175,6 +1247,8 @@
 - put all one's eggs in one basket, shoot the works （赌博；孤注一掷；冒险假设）
 
 - risk, throw, gaming, venture, adventure （赌博；冒险；打赌）
+
+:::
 
 
 ## 1737. pesticide
@@ -1205,6 +1279,8 @@
 
 - insecticide, insect repellent, insect killer, insect spray, anabasin （[农药]杀虫剂）
 
+:::
+
 
 ## 1738. deport
 
@@ -1219,6 +1295,8 @@
 :::warning{title=🤔同义词}
 
 - bear oneself, banish （驱逐出境；举止；放逐）
+
+:::
 
 
 ## 1739. syrup
@@ -1252,6 +1330,8 @@
 :::warning{title=🤔同义词}
 
 - juice, sirup （[食品]糖浆，果汁；含药糖浆）
+
+:::
 
 
 ## 1740. counter
@@ -1322,6 +1402,8 @@
 
 - contrary, opposite, adverse, cross （相反的）
 
+:::
+
 
 ## 1741. conserve
 
@@ -1340,6 +1422,8 @@
 - save, hold （保存；将…做成蜜饯；使守恒）
 
 - confiture, glazed fruit （果酱；蜜饯）
+
+:::
 
 
 ## 1742. Gothic
@@ -1371,6 +1455,8 @@
 - wild, brutal （哥特式的；野蛮的）
 
 - Gothic style （哥特式）
+
+:::
 
 
 ## 1743. rhythm
@@ -1411,6 +1497,8 @@
 
 - meter, cadence （节奏；韵律）
 
+:::
+
 
 ## 1744. rash
 
@@ -1442,6 +1530,8 @@
 
 - quat, tetter （[皮肤]皮疹；突然大量出现的事物）
 
+:::
+
 
 ## 1745. pottery
 
@@ -1472,6 +1562,8 @@
 :::warning{title=🤔同义词}
 
 - ware, earthware （[陶瓷]陶器；陶器厂；陶器制造术）
+
+:::
 
 
 ## 1746. cylinder
@@ -1531,6 +1623,8 @@
 :::warning{title=🤔同义词}
 
 - cyclinder, cylindrical surface （圆筒；汽缸；[数]柱面；圆柱状物）
+
+:::
 
 
 ## 1747. starch
@@ -1593,6 +1687,8 @@
 
 - rigidity, amylum （[有化]淀粉；刻板，生硬）
 
+:::
+
 
 ## 1748. depose
 
@@ -1607,6 +1703,8 @@
 :::warning{title=🤔同义词}
 
 - give evidence, bear witness （免职；作证；废黜）
+
+:::
 
 
 ## 1749. correspondent
@@ -1635,6 +1733,8 @@
 
 - client server software, client server relationship （通讯记者；客户；通信者；代理商行）
 
+:::
+
 
 ## 1750. fort
 
@@ -1651,6 +1751,8 @@
 :::warning{title=🤔同义词}
 
 - tower, bastion （堡垒；[军]要塞；（美）边界贸易站）
+
+:::
 
 
 ## 1751. renew
@@ -1670,6 +1772,8 @@
 - reiterate, reaffirm （使更新；续借；复兴；重申）
 
 - to update, start over （更新；重新开始）
+
+:::
 
 
 ## 1752. assign
@@ -1693,6 +1797,8 @@
 :::warning{title=🤔同义词}
 
 - portion, part, ticket （分配；指派；[计][数]赋值）
+
+:::
 
 
 ## 1753. withdraw
@@ -1723,6 +1829,8 @@
 
 - leave, split （撤退；离开）
 
+:::
+
 
 ## 1754. decade
 
@@ -1744,6 +1852,8 @@
 
 - decennium, dix （十年，十年期；十）
 
+:::
+
 
 ## 1755. languish
 
@@ -1752,6 +1862,8 @@
 :::warning{title=🤔同义词}
 
 - consume away, pine （憔悴；凋萎；失去活力；苦思）
+
+:::
 
 
 ## 1756. melodic
@@ -1769,6 +1881,8 @@
 :::warning{title=🤔同义词}
 
 - canorous, tuneful （有旋律的；音调优美的）
+
+:::
 
 
 ## 1757. congress
@@ -1802,6 +1916,8 @@
 :::warning{title=🤔同义词}
 
 - session, conversation, meeting, parliament （国会；代表大会；会议；社交）
+
+:::
 
 
 ## 1758. welfare
@@ -1854,6 +1970,8 @@
 
 - happiness, weal （福利；幸福；福利事业；安宁）
 
+:::
+
 
 ## 1759. divine
 
@@ -1887,6 +2005,8 @@
 
 - minister, priest, preacher （牧师；神学家）
 
+:::
+
 
 ## 1760. abhor
 
@@ -1901,6 +2021,8 @@
 :::warning{title=🤔同义词}
 
 - abominate, revolt at （痛恨，憎恶）
+
+:::
 
 
 ## 1761. legislative
@@ -1963,6 +2085,8 @@
 
 - succeed, flower, thrive （繁荣，兴旺；茂盛；活跃；处于旺盛时期）
 
+:::
+
 
 ## 1763. transcribe
 
@@ -1977,6 +2101,8 @@
 :::warning{title=🤔同义词}
 
 - to copy （转录；抄写）
+
+:::
 
 
 ## 1764. foul
@@ -2029,6 +2155,8 @@
 
 - wrong, unlawfully （违反规则地，不正当地）
 
+:::
+
 
 ## 1765. intricate
 
@@ -2043,6 +2171,8 @@
 :::warning{title=🤔同义词}
 
 - complicated, sophisticated, involved, detailed （复杂的；错综的，缠结的）
+
+:::
 
 
 ## 1766. contemplate
@@ -2060,6 +2190,8 @@
 - watch, behold （沉思；注视；思忖；预期）
 
 - puzzle （冥思苦想；深思熟虑）
+
+:::
 
 
 ## 1767. rodent
@@ -2083,6 +2215,8 @@
 - corrosive, erosive （[脊椎]啮齿类的；咬的，嚼的；侵蚀性的）
 
 - gnawer （[脊椎]啮齿动物）
+
+:::
 
 
 ## 1768. context
@@ -2122,6 +2256,8 @@
 :::warning{title=🤔同义词}
 
 - circumstance, setting, surrounding, condition （环境；[计]上下文；来龙去脉）
+
+:::
 
 
 ## 1769. drag
@@ -2189,6 +2325,8 @@
 - daggle （拖曳；缓慢而吃力地行进）
 
 - pull, tow （拖；拖累）
+
+:::
 
 
 ## 1770. zinc
@@ -2285,6 +2423,8 @@
 
 - report, announcement, declaration （报告；公告）
 
+:::
+
 
 ## 1772. issue
 
@@ -2352,6 +2492,8 @@
 
 - discharge, shed （[会计]发行；流出；造成…结果；传下）
 
+:::
+
 
 ## 1773. maturity
 
@@ -2397,6 +2539,8 @@
 
 - ripeness, adultness （[生物]成熟；[会计][金融]到期；完备）
 
+:::
+
 
 ## 1774. subsistence
 
@@ -2421,6 +2565,8 @@
 :::warning{title=🤔同义词}
 
 - life, existence, presence, entity, living （生活；生存；存在）
+
+:::
 
 
 ## 1775. lower
@@ -2495,6 +2641,8 @@
 
 - junior, inferior （下游的；下级的；下等的）
 
+:::
+
 
 ## 1776. frail
 
@@ -2513,6 +2661,8 @@
 - weak, tender, slight （脆弱的；虚弱的）
 
 - girl-o, chicklet （灯心草篓；少妇；少女）
+
+:::
 
 
 ## 1777. odd
@@ -2555,6 +2705,8 @@
 
 - put, wack （[数]奇数；怪人；奇特的事物）
 
+:::
+
 
 ## 1778. announce
 
@@ -2572,6 +2724,8 @@
 
 - indicate, bill, forecast, shadow （宣布；述说；预示；播报）
 
+:::
+
 
 ## 1779. mechanize
 
@@ -2586,6 +2740,8 @@
 :::warning{title=🤔同义词}
 
 - motorise （使机械化；机动化；用机械装置）
+
+:::
 
 
 ## 1780. additive
@@ -2634,6 +2790,8 @@
 
 - attached, plus, more, second, excess （[数]附加的；加法的）
 
+:::
+
 
 ## 1781. decree
 
@@ -2654,6 +2812,8 @@
 - require, order, command, determine, fate （命令；颁布；注定；判决）
 
 - be doomed to, issue an order （注定；发布命令）
+
+:::
 
 
 ## 1782. traditional
@@ -2705,6 +2865,8 @@
 :::warning{title=🤔同义词}
 
 - conventional, usual, classical （传统的；惯例的）
+
+:::
 
 
 ## 1783. conservation
@@ -2767,6 +2929,8 @@
 
 - preservation, protection, maintenance, lee, safeguard （保存，保持；保护）
 
+:::
+
 
 ## 1784. malleable
 
@@ -2789,6 +2953,8 @@
 :::warning{title=🤔同义词}
 
 - plastic, mouldable （[材]可锻的；可塑的；有延展性的；易适应的）
+
+:::
 
 
 ## 1785. supplement
@@ -2819,6 +2985,8 @@
 
 - to replenish, eke （补充，增补）
 
+:::
+
 
 ## 1786. well-heeled
 
@@ -2833,6 +3001,8 @@
 :::warning{title=🤔同义词}
 
 - rich, wealthy （富有的；穿着考究的）
+
+:::
 
 
 ## 1787. contrast
@@ -2895,6 +3065,8 @@
 
 - parallel, distinction, differential （对比；差别；对照物）
 
+:::
+
 
 ## 1788. brittle
 
@@ -2922,6 +3094,8 @@
 
 - delicate, tender, fragile （易碎的，[冶]脆弱的；易生气的）
 
+:::
+
 
 ## 1789. affinity
 
@@ -2938,6 +3112,8 @@
 :::warning{title=🤔同义词}
 
 - appeal, charm （密切关系；吸引力；[法]姻亲关系；类同）
+
+:::
 
 
 ## 1790. mediate
@@ -2958,6 +3134,8 @@
 
 - indirect, circular （间接的；居间的）
 
+:::
+
 
 ## 1791. amplify
 
@@ -2974,6 +3152,8 @@
 - extend, zoom up （放大，扩大；增强；详述）
 
 - expand on, enlarge on （详述）
+
+:::
 
 
 ## 1792. inflation
@@ -3015,6 +3195,8 @@
 :::warning{title=🤔同义词}
 
 - expansion, bulking （膨胀；[金融]通货膨胀；夸张；自命不凡）
+
+:::
 
 
 ## 1793. disposal
@@ -3069,6 +3251,8 @@
 
 - transactions, settlement, treating, handling, governance （处理；支配；清理；安排）
 
+:::
+
 
 ## 1794. matrimony
 
@@ -3083,6 +3267,8 @@
 :::warning{title=🤔同义词}
 
 - marriage, wedding （结婚，婚礼；婚姻生活）
+
+:::
 
 
 ## 1795. recede
@@ -3107,6 +3293,8 @@
 
 - replace, return, restore, give again （归还）
 
+:::
+
 
 ## 1796. delegate
 
@@ -3129,6 +3317,8 @@
 :::warning{title=🤔同义词}
 
 - representation, deputy, behalf of, ambassador （代表）
+
+:::
 
 
 ## 1797. literature
@@ -3191,6 +3381,8 @@
 
 - writing, letter （[语]文学；[图情]文献；文艺；著作）
 
+:::
+
 
 ## 1798. suffragist
 
@@ -3211,5 +3403,7 @@
 - extent, boundary, region, scope, spectrum, territory, range （范围；[数]球体）
 
 - case, invest （包围；放入球内；使…成球形）
+
+:::
 
 

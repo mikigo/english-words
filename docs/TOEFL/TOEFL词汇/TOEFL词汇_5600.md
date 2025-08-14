@@ -64,6 +64,8 @@
 
 - extent, boundary, region, spectrum, territory, range, area （范围；余地；视野；眼界；导弹射程）
 
+:::
+
 
 ## 5602. unplanned
 
@@ -78,6 +80,8 @@
 :::warning{title=🤔同义词}
 
 - unexpected, sudden, surprising （意外的；在计划外的；未经筹划的）
+
+:::
 
 
 ## 5603. longevity
@@ -99,6 +103,8 @@
 :::warning{title=🤔同义词}
 
 - age, macrobiosis （长寿，长命；[生物]寿命）
+
+:::
 
 
 ## 5604. submit
@@ -125,6 +131,8 @@
 
 - put in, hand in （[计]提交；服从）
 
+:::
+
 
 ## 5605. nomad
 
@@ -143,6 +151,8 @@
 - Vagabonds, Nads （游牧民；流浪者）
 
 - ragamuffinly, migratory （游牧的；流浪的）
+
+:::
 
 
 ## 5606. Mongolia
@@ -181,6 +191,8 @@
 
 - transparency, perspicuousness （清楚，明晰；[化学]透明）
 
+:::
+
 
 ## 5608. sexually
 
@@ -208,6 +220,8 @@
 
 - existence, livelihood, way of life （生活方式；生活）
 
+:::
+
 
 ## 5610. facade
 
@@ -222,6 +236,8 @@
 :::warning{title=🤔同义词}
 
 - garment, right side （正面；表面；外观）
+
+:::
 
 
 ## 5611. torrid
@@ -244,6 +260,8 @@
 
 - intense, warm, hot, tropical, enthusiastic （[气象]晒热的；热情的）
 
+:::
+
 
 ## 5612. kindergarten
 
@@ -262,6 +280,8 @@
 :::warning{title=🤔同义词}
 
 - play school, nursery school （幼儿园；幼稚园）
+
+:::
 
 
 ## 5613. neuron
@@ -283,6 +303,8 @@
 :::warning{title=🤔同义词}
 
 - nerve fiber （[解剖]神经元，神经单位）
+
+:::
 
 
 ## 5614. transmission
@@ -343,6 +365,8 @@
 
 - gear, driving device （传动装置，[机]变速器；传递；[计][通信]传送；播送）
 
+:::
+
 
 ## 5615. eukaryote
 
@@ -359,6 +383,8 @@
 :::warning{title=🤔同义词}
 
 - eucaryon （真核细胞（等于eucaryote））
+
+:::
 
 
 ## 5616. commensal
@@ -380,6 +406,8 @@
 - symbiote （共餐者；[生态]共生体）
 
 - symbiotic, paragenetic （[生态]共生的；共餐的；同桌的）
+
+:::
 
 
 ## 5617. living
@@ -448,6 +476,8 @@
 
 - spending, dwelling （生活；居住（live的ing形式）；度过）
 
+:::
+
 
 ## 5618. inadvertently
 
@@ -465,6 +495,8 @@
 
 - unintentionally, carelessly （非故意地；不注意地）
 
+:::
+
 
 ## 5619. volt
 
@@ -481,6 +513,8 @@
 :::warning{title=🤔同义词}
 
 - jook （伏特（电压单位）；环骑；闪避）
+
+:::
 
 
 ## 5620. roadbed
@@ -501,6 +535,8 @@
 
 - subgrade, carriage-way （[公路][铁路]路基；车行道）
 
+:::
+
 
 ## 5621. encompass
 
@@ -515,6 +551,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain, carry out, accomplish, achieve （包含；包围，环绕；完成）
+
+:::
 
 
 ## 5622. outnumber
@@ -532,6 +570,8 @@
 :::warning{title=🤔同义词}
 
 - overnumber （[计划]数目超过；比…多）
+
+:::
 
 
 ## 5623. scar
@@ -562,6 +602,8 @@
 
 - wound, trauma （创伤；伤痕）
 
+:::
+
 
 ## 5624. metabolize
 
@@ -576,6 +618,8 @@
 :::warning{title=🤔同义词}
 
 - transfigure （使新陈代谢；使变形）
+
+:::
 
 
 ## 5625. administer
@@ -600,6 +644,8 @@
 
 - manage, afford, perform, conduct, implement （管理；执行；给予）
 
+:::
+
 
 ## 5626. fasten
 
@@ -623,6 +669,8 @@
 
 - pay attention, take hold （扣紧；抓住；集中注意力）
 
+:::
+
 
 ## 5627. diversify
 
@@ -637,6 +685,8 @@
 :::warning{title=🤔同义词}
 
 - vary, variegate （使多样化，使变化；增加产品种类以扩大）
+
+:::
 
 
 ## 5628. grumble
@@ -666,6 +716,8 @@
 - earful, querimony （怨言）
 
 - mouth （喃喃地说出）
+
+:::
 
 
 ## 5629. degradation
@@ -708,6 +760,8 @@
 
 - regression, corruption, deterioration, degeneration （[生物]退化；降格，[电子]降级；堕落）
 
+:::
+
 
 ## 5630. neurospora
 
@@ -734,6 +788,8 @@
 :::warning{title=🤔同义词}
 
 - pension, allowance （[财政]补贴；[劳经]津贴；[会计][经]补助金）
+
+:::
 
 
 ## 5632. commonsense
@@ -796,6 +852,8 @@
 
 - goal, end-point （[计]目的地，终点）
 
+:::
+
 
 ## 5634. yellowstone
 
@@ -835,6 +893,8 @@
 
 - skeeter （蚊子）
 
+:::
+
 
 ## 5636. paucity
 
@@ -843,6 +903,8 @@
 :::warning{title=🤔同义词}
 
 - shortage, deficiency, short of, need, drought （缺乏；少数；少量）
+
+:::
 
 
 ## 5637. infect
@@ -859,6 +921,8 @@
 
 - affect, contract, catch, disease, communicate （[医]感染，传染）
 
+:::
+
 
 ## 5638. burin
 
@@ -868,6 +932,8 @@
 
 - graver, engraving tool （[轻]雕刻刀，錾刀；雕刻风格）
 
+:::
+
 
 ## 5639. walrus
 
@@ -876,6 +942,8 @@
 :::warning{title=🤔同义词}
 
 - sea elephant, sea-ox （[脊椎]海象）
+
+:::
 
 
 ## 5640. deserve
@@ -906,6 +974,8 @@
 
 - be deserving of （应受，应得）
 
+:::
+
 
 ## 5641. incubator
 
@@ -914,6 +984,8 @@
 :::warning{title=🤔同义词}
 
 - hatcher, brooder （[禽]孵卵器；[儿科]保温箱；早产儿保育器；细菌培养器）
+
+:::
 
 
 ## 5642. poorhouse
@@ -932,6 +1004,8 @@
 
 - xenodochium, asylum （救济院）
 
+:::
+
 
 ## 5643. subsidize
 
@@ -946,6 +1020,8 @@
 :::warning{title=🤔同义词}
 
 - fund, stake （资助；给与奖助金；向…行贿）
+
+:::
 
 
 ## 5644. excitation
@@ -989,6 +1065,8 @@
 :::warning{title=🤔同义词}
 
 - stimulus, incentive, animation, warmth, needle （[物][力]激发，刺激；[电子]激励；激动）
+
+:::
 
 
 ## 5645. amniotic
@@ -1037,6 +1115,8 @@
 
 - sea hog, common dolphin （[脊椎]海豚；鼠海豚）
 
+:::
+
 
 ## 5647. spew
 
@@ -1053,6 +1133,8 @@
 - belch out, spout out （喷出；呕吐）
 
 - shoot the cat, hork （喷涌；呕吐）
+
+:::
 
 
 ## 5648. emanate
@@ -1074,6 +1156,8 @@
 :::warning{title=🤔同义词}
 
 - to send out, give off （发出；散发；发源）
+
+:::
 
 
 ## 5649. noxious
@@ -1098,6 +1182,8 @@
 
 - harmful, toxic, evil, poisonous, rank （有害的；有毒的；败坏道德的；讨厌的）
 
+:::
+
 
 ## 5650. deviate
 
@@ -1121,6 +1207,8 @@
 
 - diverge （使偏离）
 
+:::
+
 
 ## 5651. shun
 
@@ -1138,6 +1226,8 @@
 
 - escape, shy off （避开，避免；回避）
 
+:::
+
 
 ## 5652. individually
 
@@ -1154,6 +1244,8 @@
 :::warning{title=🤔同义词}
 
 - separately, personally, alone, solely （个别地，单独地）
+
+:::
 
 
 ## 5653. aggregation
@@ -1181,6 +1273,8 @@
 :::warning{title=🤔同义词}
 
 - collection, polymerization, clustering, gather （[地质][数]聚合，[昆]聚集；聚集体，集合体）
+
+:::
 
 
 ## 5654. erectus
@@ -1211,6 +1305,8 @@
 
 - drowsiness, zizz （睡意，瞌睡；想睡）
 
+:::
+
 
 ## 5656. oneness
 
@@ -1227,6 +1323,8 @@
 :::warning{title=🤔同义词}
 
 - integrity, identity, full （统一性；单一性；同一性；完整）
+
+:::
 
 
 ## 5657. remainder
@@ -1262,6 +1360,8 @@
 - bargain sale, undercut （廉价出售；削价出售）
 
 - bargain sale （廉价出售；削价出售）
+
+:::
 
 
 ## 5658. passive
@@ -1324,6 +1424,8 @@
 
 - driven, negative （被动的，消极的；被动语态的）
 
+:::
+
 
 ## 5659. excrete
 
@@ -1339,6 +1441,8 @@
 
 - egest, secrete （排泄；分泌）
 
+:::
+
 
 ## 5660. namely
 
@@ -1353,6 +1457,8 @@
 :::warning{title=🤔同义词}
 
 - viz., i.e. （也就是；即是；换句话说）
+
+:::
 
 
 ## 5661. infection
@@ -1409,6 +1515,8 @@
 
 - impression, affection, effect, influence, incidence （[医]感染；[内科]传染；影响；传染病）
 
+:::
+
 
 ## 5662. piling
 
@@ -1431,6 +1539,8 @@
 :::warning{title=🤔同义词}
 
 - palification, pilework （打桩；桩材；打桩工程）
+
+:::
 
 
 ## 5663. button
@@ -1501,6 +1611,8 @@
 
 - buckle （扣住；装有钮扣；扣上钮扣）
 
+:::
+
 
 ## 5664. workforce
 
@@ -1517,6 +1629,8 @@
 :::warning{title=🤔同义词}
 
 - manpower, labour force （劳动力；工人总数，职工总数）
+
+:::
 
 
 ## 5665. analyst
@@ -1550,6 +1664,8 @@
 :::warning{title=🤔同义词}
 
 - disintegrator （[分化]分析者；精神分析医师；分解者）
+
+:::
 
 
 ## 5666. gradient
@@ -1614,6 +1730,8 @@
 
 - walking, raked （[建]倾斜的；步行的）
 
+:::
+
 
 ## 5667. brace
 
@@ -1647,6 +1765,8 @@
 
 - support of, stand up for sb （支持；打起精神）
 
+:::
+
 
 ## 5668. quest
 
@@ -1679,6 +1799,8 @@
 - pursue / pursuit, go after （追求；寻找）
 
 - explore, search after （探索）
+
+:::
 
 
 ## 5669. regulator
@@ -1729,6 +1851,8 @@
 
 - calibrator, etalon （[铁路][矿业]调整者；校准器）
 
+:::
+
 
 ## 5670. toolmaking
 
@@ -1764,6 +1888,8 @@
 
 - sample, have a try （尝试；对…做试验）
 
+:::
+
 
 ## 5672. morphology
 
@@ -1783,6 +1909,8 @@
 
 - modalism, accidence （[晶体][生物]形态学，形态论；[语]词法，词态学）
 
+:::
+
 
 ## 5673. hiccup
 
@@ -1801,6 +1929,8 @@
 - gurk, eructation （[医]打嗝）
 
 - eruct, belch （[医]打嗝）
+
+:::
 
 
 ## 5674. sow
@@ -1829,6 +1959,8 @@
 
 - seed （播种）
 
+:::
+
 
 ## 5675. platypus
 
@@ -1845,6 +1977,8 @@
 :::warning{title=🤔同义词}
 
 - ornithorhynchus, duckbill （[脊椎]鸭嘴兽）
+
+:::
 
 
 ## 5676. nurse
@@ -1901,6 +2035,8 @@
 
 - sister, amah （[医]护士；奶妈，保姆）
 
+:::
+
 
 ## 5677. damp
 
@@ -1940,6 +2076,8 @@
 
 - wet, humid, moisty （[气象][物]潮湿的）
 
+:::
+
 
 ## 5678. halite
 
@@ -1958,6 +2096,8 @@
 :::warning{title=🤔同义词}
 
 - rock salt （岩盐）
+
+:::
 
 
 ## 5679. subsist
@@ -1981,6 +2121,8 @@
 - exist, occur （存在；维持生活）
 
 - maintain, support, sustain, provide for （供养）
+
+:::
 
 
 ## 5680. straighten
@@ -2006,6 +2148,8 @@
 - set in order, untangle （整顿；使…改正；使…挺直；使…好转）
 
 - change for the better, take a turn for the better （变直；好转）
+
+:::
 
 
 ## 5681. July
@@ -2060,6 +2204,8 @@
 
 - greatly, quite, badly, extremely, too, highly, far （很；非常）
 
+:::
+
 
 ## 5683. balloon
 
@@ -2102,6 +2248,8 @@
 - surge, sharp rise （激增；膨胀如气球）
 
 - proliferate （使像气球般鼓起；使激增）
+
+:::
 
 
 ## 5684. meteorologist
@@ -2166,6 +2314,8 @@
 
 - dull （生锈；成铁锈色；变迟钝）
 
+:::
+
 
 ## 5686. undeveloped
 
@@ -2181,6 +2331,8 @@
 
 - untapped, unexploited （未开发的；不发达的；[生物]未充分发育的）
 
+:::
+
 
 ## 5687. conestoga
 
@@ -2193,6 +2345,8 @@
 :::warning{title=🤔同义词}
 
 - accidentally, precipitously （出乎意料地，意外地）
+
+:::
 
 
 ## 5689. disappearance
@@ -2208,6 +2362,8 @@
 :::warning{title=🤔同义词}
 
 - extinction, evaporation （消失；不见）
+
+:::
 
 
 ## 5690. abrupt
@@ -2231,6 +2387,8 @@
 :::warning{title=🤔同义词}
 
 - sudden, short, angular （生硬的；突然的；唐突的；陡峭的）
+
+:::
 
 
 ## 5691. nowcasting
@@ -2329,6 +2487,8 @@
 
 - landing, pier （[水运]码头；停泊处）
 
+:::
+
 
 ## 5695. individuality
 
@@ -2343,6 +2503,8 @@
 :::warning{title=🤔同义词}
 
 - personality, kidney （个性；个人；个人特征；个人的嗜好（通常复数））
+
+:::
 
 
 ## 5696. squander
@@ -2364,6 +2526,8 @@
 - waste on, trifle away （浪费；漂泊）
 
 - waste, dissipation, extravagancy （浪费）
+
+:::
 
 
 ## 5697. cheese
@@ -2423,6 +2587,8 @@
 - quit, cease from, desist from, come to a stop, to stop （停止）
 
 - timid, scary （叛变的；胆小的）
+
+:::
 
 
 ## 5698. mesopotamian

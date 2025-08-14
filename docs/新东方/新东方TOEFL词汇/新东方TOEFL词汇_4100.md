@@ -22,6 +22,8 @@
 
 - analyze, break down （分解；腐烂）
 
+:::
+
 
 ## 4101. throng
 
@@ -44,6 +46,8 @@
 - host, pack （蜂拥而至；群集）
 
 - crowded, jammed （拥挤的）
+
+:::
 
 
 ## 4102. monument
@@ -71,6 +75,8 @@
 :::warning{title=🤔同义词}
 
 - memorial, cenotaph （纪念碑；历史遗迹；不朽的作品）
+
+:::
 
 
 ## 4103. inventory
@@ -131,6 +137,8 @@
 
 - goods in stock, stock-sheet （[贸易]存货，存货清单；详细目录；[会计]财产清册）
 
+:::
+
 
 ## 4104. saunter
 
@@ -147,6 +155,8 @@
 - bummel, stroll （漫步；闲逛）
 
 - lig, knock around （闲逛；漫步）
+
+:::
 
 
 ## 4105. vivid
@@ -174,6 +184,8 @@
 :::warning{title=🤔同义词}
 
 - telling, live, bright （生动的；鲜明的；鲜艳的）
+
+:::
 
 
 ## 4106. blues
@@ -210,6 +222,8 @@
 
 - bowel movement, fine down （排便；澄清）
 
+:::
+
 
 ## 4108. assent
 
@@ -232,6 +246,8 @@
 - accept, grant （同意；赞成）
 
 - agreement, yes, Ok, leave, Okay （同意；赞成）
+
+:::
 
 
 ## 4109. virtue
@@ -265,6 +281,8 @@
 :::warning{title=🤔同义词}
 
 - asset, excellence, efficiency, morality （美德；优点；贞操；功效）
+
+:::
 
 
 ## 4110. coverage
@@ -308,6 +326,8 @@
 :::warning{title=🤔同义词}
 
 - lay over, decken （[植]覆盖，覆盖范围）
+
+:::
 
 
 ## 4111. perishable
@@ -355,6 +375,8 @@
 :::warning{title=🤔同义词}
 
 - piecemeal （逐渐的；平缓的）
+
+:::
 
 
 ## 4113. figure
@@ -421,6 +443,8 @@
 
 - indicate, expect, guess, find, feel （计算；认为；描绘；象征）
 
+:::
+
 
 ## 4114. corrupt
 
@@ -448,6 +472,8 @@
 
 - go to the bowwows, go to the deuce （堕落，腐化；腐烂）
 
+:::
+
 
 ## 4115. commemorate
 
@@ -462,6 +488,8 @@
 :::warning{title=🤔同义词}
 
 - celebrate with, honour the memory of （庆祝，纪念；成为…的纪念）
+
+:::
 
 
 ## 4116. transmit
@@ -485,6 +513,8 @@
 :::warning{title=🤔同义词}
 
 - release, send, communicate, project, let go （传输；传播；发射；传达；遗传）
+
+:::
 
 
 ## 4117. consumption
@@ -545,6 +575,8 @@
 
 - expense, depletion （[经]消费；消耗；肺痨）
 
+:::
+
 
 ## 4118. repertory
 
@@ -559,6 +591,8 @@
 :::warning{title=🤔同义词}
 
 - reserve, warehouse （储备；仓库；全部剧目）
+
+:::
 
 
 ## 4119. hazel
@@ -586,6 +620,8 @@
 - filbert, ecru （淡褐色；榛子）
 
 - tannish （淡褐色的；[园艺]榛树的）
+
+:::
 
 
 ## 4120. voltage
@@ -646,6 +682,8 @@
 
 - electric tension, electrical pressure （[电]电压）
 
+:::
+
 
 ## 4121. vaccine
 
@@ -689,6 +727,8 @@
 
 - bacterin （[计][药]疫苗；牛痘苗）
 
+:::
+
 
 ## 4122. zest
 
@@ -705,6 +745,8 @@
 - enthusiasm, flavor （风味；热心；强烈的兴趣）
 
 - season, sauce （给…调味）
+
+:::
 
 
 ## 4123. drought
@@ -731,6 +773,8 @@
 
 - shortage, deficiency, need, short of, want （[气候]干旱；缺乏）
 
+:::
+
 
 ## 4124. periodical
 
@@ -755,6 +799,8 @@
 - regular, stated, time, cyclical （[数]周期的；定期的）
 
 - magazine, journal, serial （期刊；杂志）
+
+:::
 
 
 ## 4125. bluff
@@ -791,6 +837,8 @@
 
 - explicit, frank, naked （直率的；陡峭的）
 
+:::
+
 
 ## 4126. punctual
 
@@ -807,6 +855,8 @@
 :::warning{title=🤔同义词}
 
 - accurate, precise, mathematical, strict, rigid （准时的，守时的；精确的）
+
+:::
 
 
 ## 4127. compromise
@@ -843,6 +893,8 @@
 
 - accommodation, reconciliation （妥协，和解；折衷）
 
+:::
+
 
 ## 4128. advertise
 
@@ -866,6 +918,8 @@
 
 - message, instruct （通知；为…做广告；使突出）
 
+:::
+
 
 ## 4129. yogurt
 
@@ -884,6 +938,8 @@
 :::warning{title=🤔同义词}
 
 - acid milk, yoghourt （酸奶酪，[食品]酸乳（等于yoghurt））
+
+:::
 
 
 ## 4130. comparative
@@ -934,6 +990,8 @@
 
 - equal, opponent, match, rival （比较级；对手）
 
+:::
+
 
 ## 4131. hesitant
 
@@ -948,6 +1006,8 @@
 :::warning{title=🤔同义词}
 
 - tentative （迟疑的；踌躇的；犹豫不定的）
+
+:::
 
 
 ## 4132. feedback
@@ -1008,6 +1068,8 @@
 
 - production, outcome, information （[电子][自]反馈；成果，资料；回复）
 
+:::
+
 
 ## 4133. folklore
 
@@ -1026,6 +1088,8 @@
 :::warning{title=🤔同义词}
 
 - certificate, letter （证书；凭据；国书）
+
+:::
 
 
 ## 4135. justify
@@ -1104,6 +1168,8 @@
 
 - look back to, look back on （回顾；复习功课；写评论）
 
+:::
+
 
 ## 4137. entrench
 
@@ -1120,6 +1186,8 @@
 - sink, radicate （确立，牢固；用壕沟围住；挖掘）
 
 - to infringe on, encroach on （侵犯；挖掘壕沟）
+
+:::
 
 
 ## 4138. timber
@@ -1152,6 +1220,8 @@
 
 - wood, tree （[木]木材；木料）
 
+:::
+
 
 ## 4139. roam
 
@@ -1183,6 +1253,8 @@
 
 - travel, bummel （漫步，漫游；流浪）
 
+:::
+
 
 ## 4140. simulate
 
@@ -1201,6 +1273,8 @@
 - pattern, come, imitate （模仿；假装；冒充）
 
 - affected, assumed （模仿的；假装的）
+
+:::
 
 
 ## 4141. tenet
@@ -1223,6 +1297,8 @@
 
 - principle, belief, teaching, doctrine, creed （原则；信条；教义）
 
+:::
+
 
 ## 4142. spectacle
 
@@ -1243,6 +1319,8 @@
 :::warning{title=🤔同义词}
 
 - scene, sight （景象，奇观；眼镜；引人羡慕的人）
+
+:::
 
 
 ## 4143. efficiency
@@ -1303,6 +1381,8 @@
 
 - virtue, potency （效率；效能；功效）
 
+:::
+
 
 ## 4144. ethnic
 
@@ -1354,6 +1434,8 @@
 
 - racial, tribal （种族的；人种的）
 
+:::
+
 
 ## 4145. lettuce
 
@@ -1385,6 +1467,8 @@
 
 - William, banknote （[园艺]生菜；莴苣；（美）纸币）
 
+:::
+
 
 ## 4146. intact
 
@@ -1410,6 +1494,8 @@
 
 - whole, complete, integrated, full （完整的；原封不动的；未受损伤的）
 
+:::
+
 
 ## 4147. motto
 
@@ -1432,6 +1518,8 @@
 :::warning{title=🤔同义词}
 
 - imprese, maxim （座右铭，格言；箴言）
+
+:::
 
 
 ## 4148. juvenile
@@ -1470,6 +1558,8 @@
 
 - youths, teener （青少年；少年读物）
 
+:::
+
 
 ## 4149. pervasive
 
@@ -1493,6 +1583,8 @@
 
 - widespread, universal, ruling, generalized （普遍的；到处渗透的）
 
+:::
+
 
 ## 4150. tableland
 
@@ -1511,6 +1603,8 @@
 :::warning{title=🤔同义词}
 
 - meseta, altiplano （[地理]高原；台地）
+
+:::
 
 
 ## 4151. hive
@@ -1535,6 +1629,8 @@
 
 - apiary, comb （蜂房，蜂巢；热闹的场所；熙攘喧闹的人群）
 
+:::
+
 
 ## 4152. laborious
 
@@ -1549,6 +1645,8 @@
 :::warning{title=🤔同义词}
 
 - tough, trying, rough （勤劳的；艰苦的；费劲的）
+
+:::
 
 
 ## 4153. flag
@@ -1615,6 +1713,8 @@
 
 - symbol, seal （标志；旗子）
 
+:::
+
 
 ## 4154. racing
 
@@ -1656,6 +1756,8 @@
 
 - competitive, played （比赛的）
 
+:::
+
 
 ## 4155. sympathetic
 
@@ -1694,6 +1796,8 @@
 - harmonious, balanced, acceptable （同情的；交感神经的；共鸣的；赞同的；和谐的；合意的）
 
 - vagus nerve （交感神经；容易感受的人）
+
+:::
 
 
 ## 4156. freight
@@ -1759,6 +1863,8 @@
 - ship, transit, forward （运送；装货；使充满）
 
 - charges, carriage （货运；[交]运费；[水运]船货）
+
+:::
 
 
 ## 4157. wear
@@ -1827,6 +1933,8 @@
 
 - clothing, waste, garment, apparel, durability （[服装]服装，穿着；耐用性，耐久性；损耗）
 
+:::
+
 
 ## 4158. botany
 
@@ -1851,6 +1959,8 @@
 :::warning{title=🤔同义词}
 
 - phytology （[植]植物学；地区植物总称）
+
+:::
 
 
 ## 4159. range
@@ -1917,6 +2027,8 @@
 
 - feed, grass （漫游；放牧；使并列；归类于；来回走动）
 
+:::
+
 
 ## 4160. topsoil
 
@@ -1956,6 +2068,8 @@
 
 - polar lights （[地物]极光；曙光）
 
+:::
+
 
 ## 4162. glamorous
 
@@ -1975,6 +2089,8 @@
 
 - killing, taking, engaging, charming, fascinating （迷人的，富有魅力的）
 
+:::
+
 
 ## 4163. disprove
 
@@ -1989,6 +2105,8 @@
 :::warning{title=🤔同义词}
 
 - refute, contradict （反驳，证明…是虚假的）
+
+:::
 
 
 ## 4164. derive
@@ -2010,6 +2128,8 @@
 :::warning{title=🤔同义词}
 
 - to originate （起源）
+
+:::
 
 
 ## 4165. overseas
@@ -2061,6 +2181,8 @@
 - beyond the sea （在海外，海外）
 
 - transmarine, off-shore （海外的，国外的）
+
+:::
 
 
 ## 4166. leak
@@ -2115,6 +2237,8 @@
 
 - seep （[电子]漏，渗；泄漏出去）
 
+:::
+
 
 ## 4167. complacence
 
@@ -2129,6 +2253,8 @@
 :::warning{title=🤔同义词}
 
 - satisfaction, content, fill （满足，自满；沾沾自喜）
+
+:::
 
 
 ## 4168. assert
@@ -2150,6 +2276,8 @@
 :::warning{title=🤔同义词}
 
 - maintain, say, submit, stay, advocate （维护，坚持；断言；主张；声称）
+
+:::
 
 
 ## 4169. recall
@@ -2183,6 +2311,8 @@
 - think of, come back （召回；回想起，记起；取消）
 
 - memory, recollection （召回；回忆；撤消）
+
+:::
 
 
 ## 4170. flap
@@ -2218,6 +2348,8 @@
 - hang （拍动；鼓翼而飞；（帽边等）垂下）
 
 - wash, throw into （拍打；扔；拉下帽边；飘动）
+
+:::
 
 
 ## 4171. leap
@@ -2275,6 +2407,8 @@
 - jump, spring, bound （飞跃；跳跃）
 
 - jump, clear （跳跃，跳过；使跃过）
+
+:::
 
 
 ## 4172. regular
@@ -2349,6 +2483,8 @@
 
 - frequently, periodically （定期地；经常地）
 
+:::
+
 
 ## 4173. glacial
 
@@ -2380,6 +2516,8 @@
 
 - ice, icy （[地质]冰的；冰冷的；冰河时代的）
 
+:::
+
 
 ## 4174. picturesque
 
@@ -2400,6 +2538,8 @@
 :::warning{title=🤔同义词}
 
 - unique, distinct, individual, telling, live （独特的；生动的；别致的；图画般的）
+
+:::
 
 
 ## 4175. informed
@@ -2431,6 +2571,8 @@
 - well-informed （消息灵通的；见多识广的）
 
 - acquainted （通知；使了解；提供资料（inform的过去分词））
+
+:::
 
 
 ## 4176. dispute
@@ -2479,6 +2621,8 @@
 
 - argument, debate, brush, controversy （辩论；争吵）
 
+:::
+
 
 ## 4177. aggression
 
@@ -2500,6 +2644,8 @@
 
 - violence, invasion, infringement （侵略；进攻；[心理]侵犯；侵害）
 
+:::
+
 
 ## 4178. refurbish
 
@@ -2514,6 +2660,8 @@
 :::warning{title=🤔同义词}
 
 - repolish, do up （刷新；再磨光）
+
+:::
 
 
 ## 4179. rugged
@@ -2539,6 +2687,8 @@
 :::warning{title=🤔同义词}
 
 - crude, rough, harsh, coarse （崎岖的；坚固的；高低不平的；粗糙的）
+
+:::
 
 
 ## 4180. lead
@@ -2607,6 +2757,8 @@
 
 - supreme, principal, main （带头的；最重要的）
 
+:::
+
 
 ## 4181. fraction
 
@@ -2652,6 +2804,8 @@
 
 - score, marks, proportion, part, portion （[数]分数；部分；小部分；稍微）
 
+:::
+
 
 ## 4182. token
 
@@ -2692,6 +2846,8 @@
 - symbolic, emblematic （象征的；表意的；作为对某事的保证的）
 
 - indicate, image, figure （象征；代表）
+
+:::
 
 
 ## 4183. filter
@@ -2760,6 +2916,8 @@
 
 - penetrate, lauter （[轻][核][化工]过滤；渗透；用过滤法除去）
 
+:::
+
 
 ## 4184. expect
 
@@ -2786,6 +2944,8 @@
 - promise oneself, guess, find, feel, make （期望；指望；认为；预料）
 
 - look foward to, to look forward to （期待；预期）
+
+:::
 
 
 ## 4185. emotion
@@ -2818,6 +2978,8 @@
 
 - mood, will, spirit, affect, feeling （[心理]情感；情绪）
 
+:::
+
 
 ## 4186. soothe
 
@@ -2834,6 +2996,8 @@
 :::warning{title=🤔同义词}
 
 - comfort, calm, quiet, relax, compose （安慰；使平静；缓和）
+
+:::
 
 
 ## 4187. cease
@@ -2866,6 +3030,8 @@
 
 - stop, stay, stand, cessation, set-back （停止）
 
+:::
+
 
 ## 4188. assess
 
@@ -2881,6 +3047,8 @@
 
 - evaluate, rate, value, prize （评定；估价；对…征税）
 
+:::
+
 
 ## 4189. etiquette
 
@@ -2895,6 +3063,8 @@
 :::warning{title=🤔同义词}
 
 - ceremony, manner, protocol （礼节，礼仪；规矩）
+
+:::
 
 
 ## 4190. prescription
@@ -2931,6 +3101,8 @@
 
 - tradition, instruction, convention, usage, pointing （[医]药方；指示；惯例）
 
+:::
+
 
 ## 4191. spectator
 
@@ -2951,6 +3123,8 @@
 :::warning{title=🤔同义词}
 
 - audience, onlooker （观众；旁观者）
+
+:::
 
 
 ## 4192. submission
@@ -2974,6 +3148,8 @@
 :::warning{title=🤔同义词}
 
 - opinion, compliance, view, comment, mind （投降；[计]提交（物）；服从；（向法官提出的）意见；谦恭）
+
+:::
 
 
 ## 4193. scarce
@@ -3000,6 +3176,8 @@
 
 - merely, simply, just, only, but （仅仅；几乎不；几乎没有）
 
+:::
+
 
 ## 4194. obsess
 
@@ -3014,6 +3192,8 @@
 :::warning{title=🤔同义词}
 
 - possess, spell （迷住，缠住；使…着迷；使…困扰）
+
+:::
 
 
 ## 4195. utter
@@ -3039,6 +3219,8 @@
 - release, put, voice, project, let go （发出，表达；发射）
 
 - thorough, full, complete, absolute, total （完全的；彻底的；无条件的）
+
+:::
 
 
 ## 4196. adequate
@@ -3071,6 +3253,8 @@
 
 - suitable, competent, appropriate, proper, becoming （充足的；适当的；胜任的）
 
+:::
+
 
 ## 4197. fauna
 
@@ -3091,6 +3275,8 @@
 :::warning{title=🤔同义词}
 
 - zoology （动物群；[动]动物区系）
+
+:::
 
 
 ## 4198. uniformity
@@ -3118,6 +3304,8 @@
 :::warning{title=🤔同义词}
 
 - accordance, unity, agreement, identity, keeping （均匀性；[数]一致；同样）
+
+:::
 
 
 ## 4199. bustle
@@ -3149,5 +3337,7 @@
 - crowd, occupy, exercise （使忙碌；催促）
 
 - activity, rumpus （喧闹；活跃；裙撑；热闹的活动）
+
+:::
 
 

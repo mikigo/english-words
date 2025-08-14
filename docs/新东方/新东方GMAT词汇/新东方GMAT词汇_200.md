@@ -20,6 +20,8 @@
 
 - recall, reinvigorate （使复兴；使苏醒；回想起；重演，重播）
 
+:::
+
 
 ## 201. microcomputer
 
@@ -56,6 +58,8 @@
 :::warning{title=🤔同义词}
 
 - encouraging, hortative （促销的；增进的；奖励的）
+
+:::
 
 
 ## 203. wage
@@ -122,6 +126,8 @@
 
 - do, carry with （进行；开展）
 
+:::
+
 
 ## 204. arid
 
@@ -153,6 +159,8 @@
 
 - hungry, waste, desert （[气候]干旱的；不毛的，[农]荒芜的）
 
+:::
+
 
 ## 205. scurrilous
 
@@ -167,6 +175,8 @@
 :::warning{title=🤔同义词}
 
 - dirty, blue （下流的；说话粗鄙恶劣的；无礼的）
+
+:::
 
 
 ## 206. fiber
@@ -231,6 +241,8 @@
 
 - fibre, funicle （纤维；光纤（等于fibre））
 
+:::
+
 
 ## 207. proceed
 
@@ -256,6 +268,8 @@
 
 - occur, happen, travel, pursue （开始；继续进行；发生；行进）
 
+:::
+
 
 ## 208. psychopath
 
@@ -270,6 +284,8 @@
 :::warning{title=🤔同义词}
 
 - mental, madman （精神病患者）
+
+:::
 
 
 ## 209. corporation
@@ -334,6 +350,8 @@
 
 - establishment, company, society, association, league （[贸易]公司；法人（团体）；社团；大腹便便；市政当局）
 
+:::
+
 
 ## 210. dismiss
 
@@ -356,6 +374,8 @@
 - remove, fire out （解散；解雇；开除；让...离开）
 
 - disband, break up （解散）
+
+:::
 
 
 ## 211. underlying
@@ -387,6 +407,8 @@
 :::warning{title=🤔同义词}
 
 - organic, potential, fundamental, preferred, ultimate （潜在的；根本的；在下面的；优先的）
+
+:::
 
 
 ## 212. resonance
@@ -449,6 +471,8 @@
 
 - sympathetic vibration, reflections （[力]共振；[物]共鸣；反响）
 
+:::
+
 
 ## 213. turbulence
 
@@ -473,6 +497,8 @@
 :::warning{title=🤔同义词}
 
 - disturbance, disorder （骚乱，动荡；[流]湍流；狂暴）
+
+:::
 
 
 ## 214. intelligence
@@ -533,6 +559,8 @@
 
 - brain, mind, mentality, understanding, head （[心理]智力；情报工作；[图情]情报机关；理解力）
 
+:::
+
 
 ## 215. mutation
 
@@ -576,6 +604,8 @@
 
 - variation, shift, diversification, turn （[遗]突变；变化；元音变化）
 
+:::
+
 
 ## 216. fallow
 
@@ -601,6 +631,8 @@
 
 - lie low, to conceal （使（土地）[农学]休闲；潜伏）
 
+:::
+
 
 ## 217. install
 
@@ -617,6 +649,8 @@
 :::warning{title=🤔同义词}
 
 - fit, constitute, fix, place, name （安装；任命；安顿）
+
+:::
 
 
 ## 218. integration
@@ -677,6 +711,8 @@
 
 - synthesis, comprehensiveness （集成；综合）
 
+:::
+
 
 ## 219. indication
 
@@ -706,6 +742,8 @@
 
 - instruction, symbol, breath, pointing, evidence （指示，指出；迹象；象征）
 
+:::
+
 
 ## 220. foreseeable
 
@@ -722,6 +760,8 @@
 :::warning{title=🤔同义词}
 
 - calculable （可预知的；能预测的）
+
+:::
 
 
 ## 221. microscopic
@@ -808,6 +848,8 @@
 
 - exaggerate, broaden （使扩大，使形成大量；使显得重要）
 
+:::
+
 
 ## 223. vaccination
 
@@ -881,6 +923,8 @@
 
 - cer, pottery and porcelain （[陶瓷]陶瓷；陶瓷制品）
 
+:::
+
 
 ## 225. renovation
 
@@ -905,6 +949,8 @@
 :::warning{title=🤔同义词}
 
 - innovation, reformation, repair, renewal （革新；修理；恢复活力）
+
+:::
 
 
 ## 226. circuit
@@ -967,6 +1013,8 @@
 
 - round （环行）
 
+:::
+
 
 ## 227. locomotion
 
@@ -981,6 +1029,8 @@
 :::warning{title=🤔同义词}
 
 - movement, removal, exercise, sport, campaign （运动；移动；旅行）
+
+:::
 
 
 ## 228. gut
@@ -1006,6 +1056,8 @@
 - eviscerate （取出内脏；摧毁内部装置）
 
 - simple, organic, plain, fundamental, essential （简单的；本质的，根本的）
+
+:::
 
 
 ## 229. foraging
@@ -1052,6 +1104,8 @@
 
 - block, set a limit to （限制；约束；限定）
 
+:::
+
 
 ## 231. mandatory
 
@@ -1083,6 +1137,8 @@
 
 - bailee, consignee （受托者（等于mandatary））
 
+:::
+
 
 ## 232. caterpillar
 
@@ -1101,6 +1157,8 @@
 :::warning{title=🤔同义词}
 
 - palmerworm, eruca （[无脊椎]毛虫；[车辆]履带车）
+
+:::
 
 
 ## 233. prevalence
@@ -1126,6 +1184,8 @@
 :::warning{title=🤔同义词}
 
 - popularity, rifeness （流行；普遍；广泛）
+
+:::
 
 
 ## 234. scrap
@@ -1186,6 +1246,8 @@
 
 - quarrel, exchange words （吵架）
 
+:::
+
 
 ## 235. conjunction
 
@@ -1208,6 +1270,8 @@
 :::warning{title=🤔同义词}
 
 - combination, coupling, bond, wedding, join （结合；[语]连接词；同时发生）
+
+:::
 
 
 ## 236. syndrome
@@ -1298,6 +1362,8 @@
 
 - prince, noble, nobility （贵族；同等的人）
 
+:::
+
 
 ## 238. persecute
 
@@ -1312,6 +1378,8 @@
 :::warning{title=🤔同义词}
 
 - beset, eat at （迫害；困扰；同…捣乱）
+
+:::
 
 
 ## 239. imperative
@@ -1338,6 +1406,8 @@
 
 - necessity, instruction, need, request, order （需要；命令；祈使语气；规则）
 
+:::
+
 
 ## 240. hitherto
 
@@ -1352,6 +1422,8 @@
 :::warning{title=🤔同义词}
 
 - hereunto, erenow （迄今；至今）
+
+:::
 
 
 ## 241. succession
@@ -1386,6 +1458,8 @@
 
 - series, heritage, progression （连续；继位；继承权；轮栽）
 
+:::
+
 
 ## 242. accordingly
 
@@ -1408,6 +1482,8 @@
 :::warning{title=🤔同义词}
 
 - therefore, hence, consequently, thus, then （因此，于是；相应地；照著）
+
+:::
 
 
 ## 243. consequence
@@ -1446,6 +1522,8 @@
 
 - outcome, product, result, significance, event, conclusion （结果；重要性；推论）
 
+:::
+
 
 ## 244. robust
 
@@ -1472,6 +1550,8 @@
 :::warning{title=🤔同义词}
 
 - healthy, crude, gross, fine, rough （强健的；健康的；[生物]粗野的；粗鲁的）
+
+:::
 
 
 ## 245. linear
@@ -1532,6 +1612,8 @@
 
 - longitudinal, thready （[数]线的，线型的；直线的，线状的；长度的）
 
+:::
+
 
 ## 246. occupational
 
@@ -1577,6 +1659,8 @@
 
 - vocational, professional （职业的；占领的）
 
+:::
+
 
 ## 247. reinvest
 
@@ -1595,6 +1679,8 @@
 :::warning{title=🤔同义词}
 
 - plough back （再投资）
+
+:::
 
 
 ## 248. peel
@@ -1635,6 +1721,8 @@
 
 - fur, tegument （[植]皮）
 
+:::
+
 
 ## 249. ballistic
 
@@ -1661,6 +1749,8 @@
 :::warning{title=🤔同义词}
 
 - gunshot （[航][军]弹道的；射击的）
+
+:::
 
 
 ## 250. ascending
@@ -1695,6 +1785,8 @@
 
 - rising, getting, buying （上升；获得（ascend的ing形式）；追溯）
 
+:::
+
 
 ## 251. reclaim
 
@@ -1713,6 +1805,8 @@
 - protest against sth, exclaim at （抗议，喊叫）
 
 - reconstruction, influence （改造，感化；再生胶）
+
+:::
 
 
 ## 252. inconsistent
@@ -1735,6 +1829,8 @@
 
 - nonuniform, discordant （不一致的；前后矛盾的）
 
+:::
+
 
 ## 253. denounce
 
@@ -1749,6 +1845,8 @@
 :::warning{title=🤔同义词}
 
 - condemn, denunciate （谴责；告发；公然抨击；通告废除）
+
+:::
 
 
 ## 254. verge
@@ -1772,6 +1870,8 @@
 - go on for, come close to （濒临，接近；处在边缘）
 
 - margin, brink, suburb, beaded edge （边缘）
+
+:::
 
 
 ## 255. allergic
@@ -1846,6 +1946,8 @@
 
 - configuration, mechanics, texture, structure （框架，骨架；结构，[建]构架）
 
+:::
+
 
 ## 257. milieu
 
@@ -1862,6 +1964,8 @@
 :::warning{title=🤔同义词}
 
 - context, circumstance, setting, surrounding, condition （环境；周围；出身背景）
+
+:::
 
 
 ## 258. pivotal
@@ -1884,6 +1988,8 @@
 
 - central, key （关键的；中枢的；枢轴的）
 
+:::
+
 
 ## 259. fundraise
 
@@ -1892,6 +1998,8 @@
 :::warning{title=🤔同义词}
 
 - collection, whip-round （募捐）
+
+:::
 
 
 ## 260. microorganism
@@ -1917,6 +2025,8 @@
 :::warning{title=🤔同义词}
 
 - organism, animalcule （[微]微生物；微小动植物）
+
+:::
 
 
 ## 261. constraint
@@ -1953,6 +2063,8 @@
 
 - enforcement, restriction （[数]约束；局促，态度不自然；强制）
 
+:::
+
 
 ## 262. entity
 
@@ -1988,6 +2100,8 @@
 
 - presence, existence, essence, principle, texture （实体；存在；本质）
 
+:::
+
 
 ## 263. chronicle
 
@@ -2007,6 +2121,8 @@
 
 - register, to record （记录；把…载入编年史）
 
+:::
+
 
 ## 264. infect
 
@@ -2021,6 +2137,8 @@
 :::warning{title=🤔同义词}
 
 - affect, contract, catch, disease, communicate （[医]感染，传染）
+
+:::
 
 
 ## 265. depletion
@@ -2049,6 +2167,8 @@
 
 - consumption, waste, wear （消耗；损耗；放血）
 
+:::
+
 
 ## 266. prohibit
 
@@ -2070,6 +2190,8 @@
 
 - stem, block, dispute, bar, discourage （阻止，禁止）
 
+:::
+
 
 ## 267. frugal
 
@@ -2086,6 +2208,8 @@
 :::warning{title=🤔同义词}
 
 - plain, provident （节俭的；朴素的；花钱少的）
+
+:::
 
 
 ## 268. franchise
@@ -2113,6 +2237,8 @@
 - jurisdiction, special privilege （[贸易]特权；公民权；经销权；管辖权）
 
 - citizenize （给…以特许（或特权）；赋予公民权）
+
+:::
 
 
 ## 269. fuel
@@ -2177,6 +2303,8 @@
 
 - catalyst, elding （[能源]燃料；刺激因素）
 
+:::
+
 
 ## 270. irreversible
 
@@ -2199,6 +2327,8 @@
 :::warning{title=🤔同义词}
 
 - non-reversible, nonreversing （不可逆的；不能取消的；不能翻转的）
+
+:::
 
 
 ## 271. reign
@@ -2226,6 +2356,8 @@
 - predominate over, to rule （统治；支配；盛行；君临）
 
 - governance, disposal, rule, dominance （统治；统治时期；支配）
+
+:::
 
 
 ## 272. celestial
@@ -2262,6 +2394,8 @@
 
 - jinnee, djinni （神仙，天堂里的居民）
 
+:::
+
 
 ## 273. foresee
 
@@ -2278,6 +2412,8 @@
 :::warning{title=🤔同义词}
 
 - predict, think ahead （预见；预知）
+
+:::
 
 
 ## 274. associate
@@ -2334,6 +2470,8 @@
 
 - deputy, linked, vice, joint, auxiliary （副的；联合的）
 
+:::
+
 
 ## 275. scrupulous
 
@@ -2348,6 +2486,8 @@
 :::warning{title=🤔同义词}
 
 - meticulous, circumspect （细心的；小心谨慎的；一丝不苟的）
+
+:::
 
 
 ## 276. identical
@@ -2371,6 +2511,8 @@
 :::warning{title=🤔同义词}
 
 - self, same （[数]同一的；完全相同的）
+
+:::
 
 
 ## 277. plead
@@ -2401,6 +2543,8 @@
 
 - pray for, cry on （恳求；[法]辩护）
 
+:::
+
 
 ## 278. buttress
 
@@ -2419,6 +2563,8 @@
 - support, upholder （[建]扶壁；拱壁；支撑物）
 
 - encourage, second, back, carry, hand （支持；以扶壁支撑）
+
+:::
 
 
 ## 279. kidney
@@ -2448,6 +2594,8 @@
 :::warning{title=🤔同义词}
 
 - personality, individuality （[解剖]肾脏；腰子；个性）
+
+:::
 
 
 ## 280. lactic
@@ -2479,6 +2627,8 @@
 :::warning{title=🤔同义词}
 
 - galactic （[生理]乳的；乳汁的）
+
+:::
 
 
 ## 281. lag
@@ -2529,6 +2679,8 @@
 
 - finishing, last, eventual, rearmost, dernier （最后的）
 
+:::
+
 
 ## 282. glean
 
@@ -2545,6 +2697,8 @@
 - gather in, to collect （收集（资料）；拾（落穗））
 
 - gather in, to collect （收集；拾落穗）
+
+:::
 
 
 ## 283. automation
@@ -2597,6 +2751,8 @@
 
 - robotization, automatic operation （自动化；[自]自动操作）
 
+:::
+
 
 ## 284. ambitious
 
@@ -2612,6 +2768,8 @@
 
 - thirsty, eager-beaver （野心勃勃的；有雄心的；热望的；炫耀的）
 
+:::
+
 
 ## 285. centrality
 
@@ -2620,6 +2778,8 @@
 :::warning{title=🤔同义词}
 
 - focus, hub, middle （中心；中央；向心性）
+
+:::
 
 
 ## 286. contemptuous
@@ -2635,6 +2795,8 @@
 :::warning{title=🤔同义词}
 
 - scornful, sniffish （轻蔑的；侮辱的）
+
+:::
 
 
 ## 287. charity
@@ -2669,6 +2831,8 @@
 
 - tolerance, mercy （慈善；施舍；慈善团体；宽容；施舍物）
 
+:::
+
 
 ## 288. coral
 
@@ -2683,6 +2847,8 @@
 :::warning{title=🤔同义词}
 
 - polyp （[无脊椎]珊瑚；珊瑚虫）
+
+:::
 
 
 ## 289. academic
@@ -2749,6 +2915,8 @@
 
 - undergraduate, don, scholar, college student, university student （大学生，大学教师；学者）
 
+:::
+
 
 ## 290. function
 
@@ -2814,6 +2982,8 @@
 
 - exercise one's activity （运行；活动；行使职责）
 
+:::
+
 
 ## 291. stationery
 
@@ -2835,6 +3005,8 @@
 
 - writing materials, letter pad （[轻]文具；信纸）
 
+:::
+
 
 ## 292. smokestack
 
@@ -2849,6 +3021,8 @@
 :::warning{title=🤔同义词}
 
 - lum, chimney flue （[铁路][船][建]烟囱，烟窗）
+
+:::
 
 
 ## 293. stock
@@ -2917,6 +3091,8 @@
 
 - corner （囤积；办货；出新芽）
 
+:::
+
 
 ## 294. representative
 
@@ -2980,6 +3156,8 @@
 
 - deputy, model, behalf of, ambassador （[数]代表；典型；众议员）
 
+:::
+
 
 ## 295. comparison
 
@@ -3023,6 +3201,8 @@
 
 - parabole, imagery （比较；对照；比喻；比较关系）
 
+:::
+
 
 ## 296. endothermic
 
@@ -3039,6 +3219,8 @@
 :::warning{title=🤔同义词}
 
 - homeothermic, homoeothermic （[热]吸热的；温血的）
+
+:::
 
 
 ## 297. ritual
@@ -3064,6 +3246,8 @@
 - tradition, ceremony, convention, usage, service （仪式；惯例；礼制）
 
 - routine, ceremonial （仪式的；例行的；礼节性的）
+
+:::
 
 
 ## 298. surge
@@ -3122,6 +3306,8 @@
 
 - jolt, jounce （使颠簸）
 
+:::
+
 
 ## 299. dispense
 
@@ -3144,5 +3330,7 @@
 - perform, implement, portion, discharge, part （分配，分发；免除；执行）
 
 - get free of, exempt from （免除，豁免）
+
+:::
 
 

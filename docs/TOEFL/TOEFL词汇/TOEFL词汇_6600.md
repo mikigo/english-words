@@ -14,6 +14,8 @@
 
 - monkish, sacerdotal （僧侣用的；僧侣的）
 
+:::
+
 
 ## 6601. cater
 
@@ -35,6 +37,8 @@
 
 - humor, meet the demand （投合，迎合；满足需要；提供饮食及服务）
 
+:::
+
 
 ## 6602. intonation
 
@@ -49,6 +53,8 @@
 :::warning{title=🤔同义词}
 
 - parlance （[声]声调，[语]语调；语音的抑扬）
+
+:::
 
 
 ## 6603. composite
@@ -115,6 +121,8 @@
 
 - babelize （使合成；使混合）
 
+:::
+
 
 ## 6604. fibrous
 
@@ -142,6 +150,8 @@
 
 - stringy, filiform （纤维的，纤维性的；纤维状的）
 
+:::
+
 
 ## 6605. pedagogic
 
@@ -156,6 +166,8 @@
 :::warning{title=🤔同义词}
 
 - magistral, preceptorial （教师的（等于pedagogical）；教育学的；教授法的）
+
+:::
 
 
 ## 6606. floe
@@ -180,6 +192,8 @@
 
 - floating ice, pan-ice （[海洋]浮冰；大浮冰）
 
+:::
+
 
 ## 6607. bony
 
@@ -202,6 +216,8 @@
 :::warning{title=🤔同义词}
 
 - osseous, osteal （骨的；多骨的；瘦骨嶙峋的；似骨的）
+
+:::
 
 
 ## 6608. synonym
@@ -233,6 +249,8 @@
 :::warning{title=🤔同义词}
 
 - audience （听众）
+
+:::
 
 
 ## 6610. conductivity
@@ -281,6 +299,8 @@
 
 - electroconductibility （[物][生理]导电性；[声]传导性）
 
+:::
+
 
 ## 6611. physiology
 
@@ -309,6 +329,8 @@
 :::warning{title=🤔同义词}
 
 - physiological function, bionomy （[生理]生理学；生理机能）
+
+:::
 
 
 ## 6612. miocene
@@ -353,6 +375,8 @@
 
 - inexistent, non-existent （不存在的；毫无结果的；不知名的）
 
+:::
+
 
 ## 6615. depiction
 
@@ -367,6 +391,8 @@
 :::warning{title=🤔同义词}
 
 - description, relation, statement, telling, narrative （描写，叙述）
+
+:::
 
 
 ## 6616. gun
@@ -431,6 +457,8 @@
 
 - gunman, rodman （枪枝；枪状物；持枪歹徒）
 
+:::
+
 
 ## 6617. groom
 
@@ -455,6 +483,8 @@
 - bridegroom, stableman （新郎；马夫；男仆）
 
 - dress oneself, sharp （打扮）
+
+:::
 
 
 ## 6618. unfair
@@ -491,6 +521,8 @@
 
 - partial, unjust, inequitable, unequitable （不公平的，不公正的）
 
+:::
+
 
 ## 6619. prickly
 
@@ -516,6 +548,8 @@
 
 - raw, thorny （多刺的；刺痛的；易动怒的）
 
+:::
+
 
 ## 6620. recurrent
 
@@ -538,6 +572,8 @@
 :::warning{title=🤔同义词}
 
 - seasonal, recrudescent （复发的；周期性的，经常发生的）
+
+:::
 
 
 ## 6621. pear
@@ -582,6 +618,8 @@
 
 - floccinaucinihilipilification, scornfulness （轻蔑；公开侮辱）
 
+:::
+
 
 ## 6624. deflect
 
@@ -598,6 +636,8 @@
 - wind, curve （使转向；使偏斜；使弯曲）
 
 - swing, turn towards （转向；偏斜）
+
+:::
 
 
 ## 6625. harper
@@ -629,6 +669,8 @@
 :::warning{title=🤔同义词}
 
 - hardfisted, asocial （自私的；利己主义的）
+
+:::
 
 
 ## 6628. Maine
@@ -673,6 +715,8 @@
 
 - aqueous, enhydrous （水的；淡的；湿的；松软的；有雨意的）
 
+:::
+
 
 ## 6630. fad
 
@@ -687,6 +731,8 @@
 :::warning{title=🤔同义词}
 
 - fashion, mode, style （时尚；一时的爱好；一时流行的狂热）
+
+:::
 
 
 ## 6631. secretary
@@ -747,6 +793,8 @@
 
 - moonshee, clerk （秘书；书记；部长；大臣）
 
+:::
+
 
 ## 6632. shy
 
@@ -786,6 +834,8 @@
 
 - putting, cast, throw, jump （投掷；惊跳）
 
+:::
+
 
 ## 6633. catchment
 
@@ -811,6 +861,8 @@
 
 - valley, river basin （流域；集水）
 
+:::
+
 
 ## 6634. underscore
 
@@ -821,6 +873,8 @@
 - emphasize, stress, highlight （强调；划线于…下）
 
 - bobbin thread, bottom-line （底线，[计]下划线）
+
+:::
 
 
 ## 6635. tambourine
@@ -838,6 +892,8 @@
 :::warning{title=🤔同义词}
 
 - timbrel, bongo drum （小手鼓；非洲野鸽）
+
+:::
 
 
 ## 6636. fluidity
@@ -862,6 +918,8 @@
 
 - liquidity, flowability （[流]流动性；流质；易变性）
 
+:::
+
 
 ## 6637. ongoing
 
@@ -883,6 +941,8 @@
 
 - behavior, dealing, advancement, going, progress （前进；行为，举止）
 
+:::
+
 
 ## 6638. unhindered
 
@@ -897,6 +957,8 @@
 :::warning{title=🤔同义词}
 
 - unencumbered, uncrossed （不受妨碍的，不受阻碍的）
+
+:::
 
 
 ## 6639. fleet
@@ -931,6 +993,8 @@
 
 - spend, while away （消磨）
 
+:::
+
 
 ## 6640. almanac
 
@@ -954,6 +1018,8 @@
 
 - annual, year book （[图情]年鉴；[天]历书；年历）
 
+:::
+
 
 ## 6641. breathtaking
 
@@ -970,6 +1036,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, incredible, spectacular, striking （惊人的；惊险的；令人激动的）
+
+:::
 
 
 ## 6642. coniferous
@@ -1016,6 +1084,8 @@
 
 - cry on, appeal to sb for sth （祈祷；请；恳求）
 
+:::
+
 
 ## 6645. incoming
 
@@ -1052,6 +1122,8 @@
 - incident, proliferative （[计]引入的，入射的；增殖的）
 
 - coming, proceeds, receipt, earning （进来；来到；收入）
+
+:::
 
 
 ## 6646. unpredictably
@@ -1100,6 +1172,8 @@
 
 - anointing （刮，擦（scrape的现在分词））
 
+:::
+
 
 ## 6648. reorganize
 
@@ -1116,6 +1190,8 @@
 - arrange, sort things out （整理；改组；重新制定）
 
 - set in order, to revise （整顿；改编）
+
+:::
 
 
 ## 6649. Turkic
@@ -1135,6 +1211,8 @@
 :::warning{title=🤔同义词}
 
 - crude, rough, raw, coarse, harsh （不成熟的；未成熟的；粗糙的）
+
+:::
 
 
 ## 6651. accuracy
@@ -1207,6 +1285,8 @@
 
 - briefly, soon, immediately, now, shortly （随时地；暂时地；立刻）
 
+:::
+
 
 ## 6653. overconfident
 
@@ -1225,6 +1305,8 @@
 :::warning{title=🤔同义词}
 
 - proud, conceited （过于自信的；自负的）
+
+:::
 
 
 ## 6654. expansionist
@@ -1265,6 +1347,8 @@
 
 - trouble, worry, headache （麻烦；烦恼）
 
+:::
+
 
 ## 6656. boss
 
@@ -1300,6 +1384,8 @@
 
 - call the shots （当首领，发号施令）
 
+:::
+
 
 ## 6657. crowbar
 
@@ -1319,6 +1405,8 @@
 
 - wrecking bar, jimmy （撬棍；铁橇；起货钩）
 
+:::
+
 
 ## 6658. interdependence
 
@@ -1333,6 +1421,8 @@
 :::warning{title=🤔同义词}
 
 - codependency （[统计]互相依赖）
+
+:::
 
 
 ## 6659. magnitude
@@ -1361,6 +1451,8 @@
 
 - dimensions, moment, size, importance （大小；量级；[地震]震级；重要；光度）
 
+:::
+
 
 ## 6660. broaden
 
@@ -1381,6 +1473,8 @@
 - enlarge, extend （扩大，变阔；变宽，加宽）
 
 - exaggerate, bulk out （使扩大；使变宽）
+
+:::
 
 
 ## 6661. till
@@ -1405,6 +1499,8 @@
 
 - plant crops （耕种；耕耘）
 
+:::
+
 
 ## 6662. inappropriate
 
@@ -1425,6 +1521,8 @@
 :::warning{title=🤔同义词}
 
 - inadequate, unhappy, wrong, improper （不适当的；不相称的）
+
+:::
 
 
 ## 6663. jar
@@ -1460,6 +1558,8 @@
 - collide with, conflict with （冲突；不一致；震惊；发刺耳声）
 
 - stimulate, fan, shock （震动；刺激；使震动）
+
+:::
 
 
 ## 6664. residue
@@ -1498,6 +1598,8 @@
 
 - surplus, spare （残渣；[冶][数]剩余；滤渣）
 
+:::
+
 
 ## 6665. enterprising
 
@@ -1521,6 +1623,8 @@
 
 - aggressive, courageous （有事业心的；有进取心的；有魄力的；有胆量的）
 
+:::
+
 
 ## 6666. moisten
 
@@ -1537,6 +1641,8 @@
 - get wet, wet up （弄湿；使…湿润）
 
 - dampen （潮湿；变潮湿）
+
+:::
 
 
 ## 6667. medicinal
@@ -1569,6 +1675,8 @@
 
 - beneficial, helpful, useful, treated, advantageous （[药][医]药的；药用的；治疗的（等于medicinable）；有益的）
 
+:::
+
 
 ## 6668. tribespeople
 
@@ -1587,6 +1695,8 @@
 :::warning{title=🤔同义词}
 
 - charmless, unglamorous （不吸引人注意的；没有魅力的；不美丽的）
+
+:::
 
 
 ## 6670. tug
@@ -1614,6 +1724,8 @@
 - contest, cope （用力拉；竞争；努力做）
 
 - rouse up, stack up against （用力拉；较量；用拖船拖）
+
+:::
 
 
 ## 6671. envelope
@@ -1650,6 +1762,8 @@
 
 - cover, involucrum （信封，封皮；包膜；[天]包层；包迹）
 
+:::
+
 
 ## 6672. crucible
 
@@ -1673,6 +1787,8 @@
 
 - copple, xble （[冶]坩埚；严酷的考验）
 
+:::
+
 
 ## 6673. misty
 
@@ -1693,6 +1809,8 @@
 :::warning{title=🤔同义词}
 
 - fuzzy, dark, vague （模糊的；有雾的）
+
+:::
 
 
 ## 6674. unbreakable
@@ -1740,6 +1858,8 @@
 :::warning{title=🤔同义词}
 
 - turn over, browse through （翻阅；以拇指拨弄；作搭车手势；笨拙地摆弄）
+
+:::
 
 
 ## 6676. intermittently
@@ -1790,6 +1910,8 @@
 
 - floatation （浮选（等于floatation））
 
+:::
+
 
 ## 6678. healthful
 
@@ -1804,6 +1926,8 @@
 :::warning{title=🤔同义词}
 
 - robust, fit, fine, well, sound （健康的；有益健康的；卫生的）
+
+:::
 
 
 ## 6679. mesh
@@ -1868,6 +1992,8 @@
 
 - joggle （[机]啮合；以网捕捉）
 
+:::
+
 
 ## 6680. hydration
 
@@ -1892,6 +2018,8 @@
 :::warning{title=🤔同义词}
 
 - aquation （[化学]水合作用）
+
+:::
 
 
 ## 6681. leafcutter
@@ -1970,6 +2098,8 @@
 
 - side road, passby （旁路；[公路]支路）
 
+:::
+
 
 ## 6685. segregate
 
@@ -1984,6 +2114,8 @@
 :::warning{title=🤔同义词}
 
 - separate, split, divorce （使隔离；[生物]使分离；在…实行种族隔离）
+
+:::
 
 
 ## 6686. willingness
@@ -2004,6 +2136,8 @@
 
 - willing to, What Makes a Man （乐意；心甘情愿；自动自发）
 
+:::
+
 
 ## 6687. marketplace
 
@@ -2018,6 +2152,8 @@
 :::warning{title=🤔同义词}
 
 - exchanges, plaza, fair （市场；商场；市集）
+
+:::
 
 
 ## 6688. revenue
@@ -2080,6 +2216,8 @@
 
 - taxes, income, proceeds, yield （税收，国家的收入；[会计]收益）
 
+:::
+
 
 ## 6689. unconsciously
 
@@ -2095,6 +2233,8 @@
 
 - automatically, senselessly （不知不觉；无意识地）
 
+:::
+
 
 ## 6690. forebear
 
@@ -2109,6 +2249,8 @@
 :::warning{title=🤔同义词}
 
 - father, root （祖先；祖宗）
+
+:::
 
 
 ## 6691. snail
@@ -2130,6 +2272,8 @@
 :::warning{title=🤔同义词}
 
 - pachyderm, schnook （[无脊椎]蜗牛；迟钝的人）
+
+:::
 
 
 ## 6692. topography
@@ -2154,6 +2298,8 @@
 
 - terrain, surface relief （地势；地形学；地志）
 
+:::
+
 
 ## 6693. clergyman
 
@@ -2172,6 +2318,8 @@
 :::warning{title=🤔同义词}
 
 - minister, priest, preacher （牧师；教士）
+
+:::
 
 
 ## 6694. perm
@@ -2262,6 +2410,8 @@
 
 - tire （[生理][心理][力]疲劳）
 
+:::
+
 
 ## 6697. wreck
 
@@ -2285,6 +2435,8 @@
 
 - destroy, undermine, founder （破坏；[水运]使失事；拆毁）
 
+:::
+
 
 ## 6698. disintegrate
 
@@ -2302,6 +2454,8 @@
 
 - collapse, chip （瓦解；碎裂；衰变）
 
+:::
+
 
 ## 6699. moody
 
@@ -2316,5 +2470,7 @@
 :::warning{title=🤔同义词}
 
 - passionate, temperamental （喜怒无常的；易怒的；郁郁寡欢的）
+
+:::
 
 

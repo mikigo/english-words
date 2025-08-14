@@ -42,6 +42,8 @@
 
 - elements, basis, foundation, base, bed （基础；激进分子；[物化]原子团；[数]根数）
 
+:::
+
 
 ## 401. dictate
 
@@ -60,6 +62,8 @@
 - require, order, command （命令；口述；使听写）
 
 - instruction, order, bidding, telling, word （命令；指示）
+
+:::
 
 
 ## 402. historical
@@ -152,6 +156,8 @@
 
 - prince, noble, nobility （贵族；同等的人）
 
+:::
+
 
 ## 404. sequester
 
@@ -166,6 +172,8 @@
 :::warning{title=🤔同义词}
 
 - seclude, expropriate （使隔绝；使隐退；没收，扣押）
+
+:::
 
 
 ## 405. decimate
@@ -246,6 +254,8 @@
 
 - corner （囤积；办货；出新芽）
 
+:::
+
 
 ## 407. welfare
 
@@ -301,6 +311,8 @@
 
 - happiness, weal （福利；幸福；福利事业；安宁）
 
+:::
+
 
 ## 408. correspond
 
@@ -321,6 +333,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, identify, square, accord, meet with （符合，一致；相应；通信）
+
+:::
 
 
 ## 409. contradiction
@@ -347,6 +361,8 @@
 
 - conflict, discrepancy （[数]矛盾；否认；反驳）
 
+:::
+
 
 ## 410. inadequate
 
@@ -363,6 +379,8 @@
 :::warning{title=🤔同义词}
 
 - deficient, unhappy, wrong, inappropriate, improper （不充分的，不适当的）
+
+:::
 
 
 ## 411. authoritative
@@ -386,6 +404,8 @@
 :::warning{title=🤔同义词}
 
 - magisterial, cathedratic （有权威的；命令式的；当局的）
+
+:::
 
 
 ## 412. adolescent
@@ -412,6 +432,8 @@
 
 - youths, teener （[人类]青少年）
 
+:::
+
 
 ## 413. deviate
 
@@ -434,6 +456,8 @@
 - out of contact, break away （脱离；越轨）
 
 - diverge （使偏离）
+
+:::
 
 
 ## 414. senate
@@ -462,6 +486,8 @@
 
 - Red Chamber, curia （参议院，上院；（古罗马的）元老院）
 
+:::
+
 
 ## 415. radiate
 
@@ -489,6 +515,8 @@
 
 - spokewise （[物]辐射状的，有射线的）
 
+:::
+
 
 ## 416. inevitable
 
@@ -503,6 +531,8 @@
 :::warning{title=🤔同义词}
 
 - certain, necessary, automatic （必然的，不可避免的）
+
+:::
 
 
 ## 417. surgeon
@@ -531,6 +561,8 @@
 
 - sawbones, chirurgeon （外科医生）
 
+:::
+
 
 ## 418. abdicate
 
@@ -549,6 +581,8 @@
 - fall out of, render up （退位；放弃）
 
 - yield, desert, quit （退位；放弃）
+
+:::
 
 
 ## 419. bubonic
@@ -629,6 +663,8 @@
 
 - extent, boundary, region, territory, area （[光]光谱；频谱；范围；余象）
 
+:::
+
 
 ## 422. perennial
 
@@ -658,6 +694,8 @@
 
 - repeated, iterative （[植]多年生的；常年的；四季不断的；常在的；反复的）
 
+:::
+
 
 ## 423. enumerate
 
@@ -672,6 +710,8 @@
 :::warning{title=🤔同义词}
 
 - cast, specify, figure （[计]列举；枚举；计算）
+
+:::
 
 
 ## 424. bearer
@@ -697,6 +737,8 @@
 :::warning{title=🤔同义词}
 
 - cheque holder, runner （[专利][金融]持票人；[建]承木；[机]托架；送信人；搬运工人）
+
+:::
 
 
 ## 425. relativity
@@ -727,6 +769,8 @@
 
 - relative theory, pertinency （[相对]相对论；相关性；相对性）
 
+:::
+
 
 ## 426. islet
 
@@ -753,6 +797,8 @@
 :::warning{title=🤔同义词}
 
 - tiny island, eyot （小岛）
+
+:::
 
 
 ## 427. specialization
@@ -817,6 +863,8 @@
 
 - enhanced, reinforced, concentrated, searching, mass （加强的；[经]集中的；透彻的；加强语气的）
 
+:::
+
 
 ## 429. reasoning
 
@@ -858,6 +906,8 @@
 
 - urging （推论；说服（reason的ing形式））
 
+:::
+
 
 ## 430. refrain
 
@@ -882,6 +932,8 @@
 - deny oneself, forbear from （节制，克制；避免；制止）
 
 - repeat, iteration （叠句，副歌；重复）
+
+:::
 
 
 ## 431. illegal
@@ -924,6 +976,8 @@
 
 - espionage, secret agent （非法移民；间谍）
 
+:::
+
 
 ## 432. eligible
 
@@ -953,6 +1007,8 @@
 
 - acceptee （合格者；适任者；有资格者）
 
+:::
+
 
 ## 433. alumnus
 
@@ -975,6 +1031,8 @@
 :::warning{title=🤔同义词}
 
 - committed, healthy, firm, robust, confirmed （坚定的；强健的；健全的）
+
+:::
 
 
 ## 435. excessive
@@ -1015,6 +1073,8 @@
 
 - extreme, ultra, tall （过多的，极度的；过分的）
 
+:::
+
 
 ## 436. shimmer
 
@@ -1035,6 +1095,8 @@
 - spark, coruscate （闪烁；发闪烁的微光）
 
 - flicker （使闪烁）
+
+:::
 
 
 ## 437. possibility
@@ -1071,6 +1133,8 @@
 
 - probability, feasibility, potential, maybe, chance （可能性；可能发生的事物）
 
+:::
+
 
 ## 438. inscription
 
@@ -1085,6 +1149,8 @@
 :::warning{title=🤔同义词}
 
 - epigraph, mintage （题词；铭文；刻印）
+
+:::
 
 
 ## 439. monarch
@@ -1101,6 +1167,8 @@
 
 - emperor, sovereignty （君主，帝王；最高统治者）
 
+:::
+
 
 ## 440. songbird
 
@@ -1109,6 +1177,8 @@
 :::warning{title=🤔同义词}
 
 - accentor, warbler （鸣禽，鸣鸟；女歌手；告密者）
+
+:::
 
 
 ## 441. responsive
@@ -1125,6 +1195,8 @@
 
 - answering （响应的；应答的；回答的）
 
+:::
+
 
 ## 442. calefaction
 
@@ -1133,6 +1205,8 @@
 :::warning{title=🤔同义词}
 
 - heating up, thermal pollution （加热；热污染（等于thermal pollution）；温暖（的状态））
+
+:::
 
 
 ## 443. prestige
@@ -1152,6 +1226,8 @@
 :::warning{title=🤔同义词}
 
 - reputation, credit （威望，声望；声誉）
+
+:::
 
 
 ## 444. substantial
@@ -1193,6 +1269,8 @@
 - massive, extensive, macro, much, volume （大量的；实质的；内容充实的）
 
 - essence, entity, principle, texture, interior （本质；重要材料）
+
+:::
 
 
 ## 445. file
@@ -1259,6 +1337,8 @@
 
 - procession （列队行进；用锉刀锉）
 
+:::
+
 
 ## 446. laurel
 
@@ -1281,6 +1361,8 @@
 :::warning{title=🤔同义词}
 
 - great honor, cherry bay （桂冠，殊荣；月桂树）
+
+:::
 
 
 ## 447. involvement
@@ -1310,6 +1392,8 @@
 :::warning{title=🤔同义词}
 
 - containing, chaos, disorder, confusion, involved in （[法]牵连；包含；混乱；财政困难）
+
+:::
 
 
 ## 448. probability
@@ -1370,6 +1454,8 @@
 
 - possibility, feasibility, potential, maybe, chance （可能性；机率；[数]或然率）
 
+:::
+
 
 ## 449. indomethacin
 
@@ -1409,6 +1495,8 @@
 
 - turn, spin, swing （使旋转；卷走，飞快地带走）
 
+:::
+
 
 ## 451. mound
 
@@ -1435,6 +1523,8 @@
 - height, pile, raise, altitude, rise （堆；高地；坟堆；护堤）
 
 - heap up （堆起；筑堤）
+
+:::
 
 
 ## 452. optimal
@@ -1473,6 +1563,8 @@
 
 - first-rank （最佳的；最理想的）
 
+:::
+
 
 ## 453. autobiography
 
@@ -1487,6 +1579,8 @@
 :::warning{title=🤔同义词}
 
 - memoir （自传；自传文学）
+
+:::
 
 
 ## 454. minuend
@@ -1569,6 +1663,8 @@
 
 - fossil oil, geoline （[油气]石油）
 
+:::
+
 
 ## 457. primitive
 
@@ -1610,6 +1706,8 @@
 
 - Euroman （[数][生物][地质]原始人）
 
+:::
+
 
 ## 458. womb
 
@@ -1628,6 +1726,8 @@
 - matrix, uterus （[解剖]子宫；发源地）
 
 - contain, accept, accommodate, hold up to （容纳）
+
+:::
 
 
 ## 459. delinquent
@@ -1653,6 +1753,8 @@
 - blameable, peccant （有过失的；怠忽的；拖欠债务的）
 
 - swashbuckler, rapscallion （流氓；行为不良的人；失职者）
+
+:::
 
 
 ## 460. orientation
@@ -1713,6 +1815,8 @@
 
 - aspect, way, quarter, guiding, adaptation （方向；[测]定向；适应；情况介绍；向东方）
 
+:::
+
 
 ## 461. ironic
 
@@ -1731,6 +1835,8 @@
 :::warning{title=🤔同义词}
 
 - acid, satiric （讽刺的；反话的）
+
+:::
 
 
 ## 462. megalithic
@@ -1825,6 +1931,8 @@
 
 - plain, two dimensional （平的；[数]平面的）
 
+:::
+
 
 ## 465. interservice
 
@@ -1892,6 +2000,8 @@
 
 - spending, payout （[会计]支出，花费；经费，消费额）
 
+:::
+
 
 ## 467. severe
 
@@ -1945,6 +2055,8 @@
 
 - tight, hard, smart, harsh, rigorous （严峻的；严厉的；剧烈的；苛刻的）
 
+:::
+
 
 ## 468. slump
 
@@ -1975,6 +2087,8 @@
 - recession, downturn, decline （衰退；[金融]暴跌；消沉）
 
 - drop （使降低；使衰落；使倒下）
+
+:::
 
 
 ## 469. terrestrial
@@ -2011,6 +2125,8 @@
 
 - earthly, telluric （[天]地球的；[生物]陆地的，陆生的；人间的）
 
+:::
+
 
 ## 470. microorganism
 
@@ -2031,6 +2147,8 @@
 :::warning{title=🤔同义词}
 
 - organism, animalcule （[微]微生物；微小动植物）
+
+:::
 
 
 ## 471. vegetarian
@@ -2063,6 +2181,8 @@
 
 - meatless, maigre （素食的）
 
+:::
+
 
 ## 472. intensify
 
@@ -2079,6 +2199,8 @@
 :::warning{title=🤔同义词}
 
 - rise, tone up （增强，强化；变激烈）
+
+:::
 
 
 ## 473. mosquito
@@ -2107,6 +2229,8 @@
 
 - skeeter （蚊子）
 
+:::
+
 
 ## 474. resent
 
@@ -2121,6 +2245,8 @@
 :::warning{title=🤔同义词}
 
 - hate, be down on （怨恨；愤恨；厌恶）
+
+:::
 
 
 ## 475. lymph
@@ -2146,6 +2272,8 @@
 :::warning{title=🤔同义词}
 
 - serum, chyle （[解剖]淋巴，淋巴液；血清）
+
+:::
 
 
 ## 476. stake
@@ -2185,6 +2313,8 @@
 - encourage, carry, fund, second, back （资助，支持；系…于桩上；把…押下打赌）
 
 - lay, make a bet （打赌）
+
+:::
 
 
 ## 477. sodium
@@ -2245,6 +2375,8 @@
 
 - natrium （[化学]钠（11号元素，符号 Na））
 
+:::
+
 
 ## 478. organelle
 
@@ -2272,6 +2404,8 @@
 
 - recall, suppress （废除，废止；取消，革除）
 
+:::
+
 
 ## 480. defiant
 
@@ -2286,6 +2420,8 @@
 :::warning{title=🤔同义词}
 
 - challenging, in-your-face （挑衅的；目中无人的，蔑视的；挑战的）
+
+:::
 
 
 ## 481. currency
@@ -2350,6 +2486,8 @@
 
 - money, circulating medium （[金融]货币；通货）
 
+:::
+
 
 ## 482. dedicated
 
@@ -2378,6 +2516,8 @@
 :::warning{title=🤔同义词}
 
 - devoted, special （[计]专用的；专注的；献身的）
+
+:::
 
 
 ## 483. toxic
@@ -2420,6 +2560,8 @@
 
 - poisonous, virous （[内科][毒物]有毒的；中毒的）
 
+:::
+
 
 ## 484. listlessness
 
@@ -2428,6 +2570,8 @@
 :::warning{title=🤔同义词}
 
 - laziness, deadness （无精打采；精神萎靡）
+
+:::
 
 
 ## 485. astronomy
@@ -2456,6 +2600,8 @@
 
 - uranology （[天]天文学）
 
+:::
+
 
 ## 486. regressive
 
@@ -2470,6 +2616,8 @@
 :::warning{title=🤔同义词}
 
 - degenerative, vestigial （[数]回归的；后退的；退化的）
+
+:::
 
 
 ## 487. reclaim
@@ -2492,6 +2640,8 @@
 
 - reconstruction, influence （改造，感化；再生胶）
 
+:::
+
 
 ## 488. swiftly
 
@@ -2506,6 +2656,8 @@
 :::warning{title=🤔同义词}
 
 - quickly, rapidly, promptly （很快地；敏捷地；即刻）
+
+:::
 
 
 ## 489. cabinet
@@ -2571,6 +2723,8 @@
 - ambry, council of ministers （内阁；[家具]橱柜；展览艺术品的小陈列室）
 
 - private, secret, underground, chamber, inside （内阁的；私下的，秘密的）
+
+:::
 
 
 ## 490. flat
@@ -2651,6 +2805,8 @@
 
 - even （变平）
 
+:::
+
 
 ## 491. simultaneous
 
@@ -2696,6 +2852,8 @@
 
 - synchronous, coinstantaneous （同时的；联立的；同时发生的）
 
+:::
+
 
 ## 492. bygone
 
@@ -2712,6 +2870,8 @@
 :::warning{title=🤔同义词}
 
 - past, ago, back, bypast （过去的）
+
+:::
 
 
 ## 493. abstract
@@ -2763,6 +2923,8 @@
 - deep, nonobjective （抽象的；深奥的）
 
 - extract, brief （[图情]摘要；提取；使……抽象化）
+
+:::
 
 
 ## 494. finite
@@ -2823,6 +2985,8 @@
 
 - limited, narrow （有限的；限定的）
 
+:::
+
 
 ## 495. matrix
 
@@ -2882,6 +3046,8 @@
 
 - model, shape, former, substrate （[数]矩阵；模型；[生物][地质]基质；母体；子宫；脉石）
 
+:::
+
 
 ## 496. incursion
 
@@ -2896,6 +3062,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （入侵；侵犯）
+
+:::
 
 
 ## 497. pelvic
@@ -2940,6 +3108,8 @@
 
 - mysterious, hidden, latent （神秘的，含义模糊的；[动]隐藏的）
 
+:::
+
 
 ## 499. rotational
 
@@ -2976,5 +3146,7 @@
 :::warning{title=🤔同义词}
 
 - totating, pivoted （[机]转动的；回转的；轮流的）
+
+:::
 
 

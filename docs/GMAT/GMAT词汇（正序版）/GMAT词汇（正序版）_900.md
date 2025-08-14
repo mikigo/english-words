@@ -14,6 +14,8 @@
 
 - moola, siller （[食品]生面团；金钱）
 
+:::
+
 
 ## 901. downplay
 
@@ -51,6 +53,8 @@
 
 - lower （[水文]下游的；顺流的）
 
+:::
+
 
 ## 903. drab
 
@@ -81,6 +85,8 @@
 - sandy beige, cafe au lait （浅褐色；无生气；邋遢；小额）
 
 - lethargize （使无生气）
+
+:::
 
 
 ## 904. draft
@@ -205,6 +211,8 @@
 
 - wastewater, bailing （[农工][建]排水；排水系统；污水；排水面积）
 
+:::
+
 
 ## 906. dramatize
 
@@ -219,6 +227,8 @@
 :::warning{title=🤔同义词}
 
 - theatricalize （使戏剧化；编写剧本；改编成戏剧）
+
+:::
 
 
 ## 907. drastic
@@ -238,6 +248,8 @@
 :::warning{title=🤔同义词}
 
 - fierce, acute, violent, hard, furious （激烈的；猛烈的）
+
+:::
 
 
 ## 908. drift
@@ -301,6 +313,8 @@
 - tendency, direction, tide, trend, set （漂流，[电子]漂移；趋势；漂流物）
 
 - extravagate, knock about （漂流，[电子]漂移；漂泊）
+
+:::
 
 
 ## 909. drilling
@@ -367,6 +381,8 @@
 
 - training, boring （[机]钻孔；训练（drill的ing形式））
 
+:::
+
 
 ## 910. drizzle
 
@@ -383,6 +399,8 @@
 :::warning{title=🤔同义词}
 
 - mizzle, drow （细雨，[气象]毛毛雨）
+
+:::
 
 
 ## 911. droplet
@@ -404,6 +422,8 @@
 :::warning{title=🤔同义词}
 
 - microsphere （小滴，[气象]微滴）
+
+:::
 
 
 ## 912. dropout
@@ -446,6 +466,8 @@
 
 - shortage, deficiency, need, short of, want （[气候]干旱；缺乏）
 
+:::
+
 
 ## 914. dubious
 
@@ -464,6 +486,8 @@
 :::warning{title=🤔同义词}
 
 - suspicious, doubtful, questionable （可疑的；暧昧的；无把握的；半信半疑的）
+
+:::
 
 
 ## 915. ductile
@@ -487,6 +511,8 @@
 :::warning{title=🤔同义词}
 
 - soft, tender （柔软的；易教导的；[材]易延展的）
+
+:::
 
 
 ## 916. dump
@@ -522,6 +548,8 @@
 - pour in （倾倒；倾卸）
 
 - empty the trash （倒垃圾）
+
+:::
 
 
 ## 917. dumpster
@@ -564,6 +592,8 @@
 
 - print off, to copy （[印刷][专利]复制；重复）
 
+:::
+
 
 ## 919. duplication
 
@@ -578,6 +608,8 @@
 :::warning{title=🤔同义词}
 
 - reproduction, repeat, replication （[印刷][遗]复制；副本；成倍）
+
+:::
 
 
 ## 920. durability
@@ -601,6 +633,8 @@
 :::warning{title=🤔同义词}
 
 - steel, wear （耐久性；坚固；耐用年限）
+
+:::
 
 
 ## 921. duration
@@ -645,6 +679,8 @@
 
 - standing, persistence, abidance, continuance （持续）
 
+:::
+
 
 ## 922. dwarf
 
@@ -677,6 +713,8 @@
 - homuncle, mannikin （侏儒，[内科]矮子）
 
 - scrubby, runty （[生物]矮小的）
+
+:::
 
 
 ## 923. dwelling
@@ -715,6 +753,8 @@
 
 - living （居住（dwell的现在分词））
 
+:::
+
 
 ## 924. dwindle
 
@@ -733,6 +773,8 @@
 - to cut down, fall off （减少；变小）
 
 - shrink, astrict （使缩小，使减少）
+
+:::
 
 
 ## 925. dye
@@ -792,6 +834,8 @@
 - dyeing, dyestuff （[染料]染料；染色）
 
 - tint （染；把…染上颜色）
+
+:::
 
 
 ## 926. dynamic
@@ -856,6 +900,8 @@
 
 - trends, momentum, impetus （动态；[力]动力）
 
+:::
+
 
 ## 927. ease
 
@@ -910,6 +956,8 @@
 - comfort, leisure （轻松，舒适；安逸，悠闲）
 
 - relax, to alleviate （减轻，缓和；放松；灵活地移动）
+
+:::
 
 
 ## 928. echolocation
@@ -1004,6 +1052,8 @@
 
 - oecology, bionomics （[生态]生态学；社会生态学）
 
+:::
+
 
 ## 931. economy
 
@@ -1065,6 +1115,8 @@
 
 - saving, thrift （经济；[经]节约；理财）
 
+:::
+
 
 ## 932. ecosystem
 
@@ -1099,6 +1151,8 @@
 :::warning{title=🤔同义词}
 
 - ecological constellation, ecological systems （[生态]生态系统）
+
+:::
 
 
 ## 933. edge
@@ -1165,6 +1219,8 @@
 
 - margin, superiority, advantage, brink, suburb （[地质]边缘；优势；刀刃；锋利）
 
+:::
+
 
 ## 934. edible
 
@@ -1200,6 +1256,8 @@
 
 - diet, eating （食品；食物）
 
+:::
+
 
 ## 935. editorial
 
@@ -1229,6 +1287,8 @@
 
 - compilatory （编辑的；社论的）
 
+:::
+
 
 ## 936. educator
 
@@ -1243,6 +1303,8 @@
 :::warning{title=🤔同义词}
 
 - teacher, professor, master （教育家；教育工作者；教师）
+
+:::
 
 
 ## 937. effect
@@ -1319,6 +1381,8 @@
 
 - form, inspire （产生；达到目的）
 
+:::
+
 
 ## 938. efficacy
 
@@ -1333,6 +1397,8 @@
 :::warning{title=🤔同义词}
 
 - effectiveness, virtue （功效，效力）
+
+:::
 
 
 ## 939. efficiency
@@ -1393,6 +1459,8 @@
 
 - virtue, potency （效率；效能；功效）
 
+:::
+
 
 ## 940. efficient
 
@@ -1436,6 +1504,8 @@
 
 - able, competent （有效率的；有能力的；生效的）
 
+:::
+
 
 ## 941. effigy
 
@@ -1454,6 +1524,8 @@
 :::warning{title=🤔同义词}
 
 - image, statue, portrait, icon （[建]雕像，肖像）
+
+:::
 
 
 ## 942. effluent
@@ -1490,6 +1562,8 @@
 
 - effusive, excurrent （[环境]流出的，发出的）
 
+:::
+
 
 ## 943. egalitarianism
 
@@ -1504,6 +1578,8 @@
 :::warning{title=🤔同义词}
 
 - equalitarianism （[经]平等主义，平均主义）
+
+:::
 
 
 ## 944. egoistic
@@ -1524,6 +1600,8 @@
 
 - self-centred （自私自利的，自我中心的）
 
+:::
+
 
 ## 945. eject
 
@@ -1538,6 +1616,8 @@
 :::warning{title=🤔同义词}
 
 - to spray, spray on （喷射；驱逐，逐出）
+
+:::
 
 
 ## 946. elective
@@ -1572,6 +1652,8 @@
 
 - optional course （选修课程）
 
+:::
+
 
 ## 947. electorate
 
@@ -1586,6 +1668,8 @@
 :::warning{title=🤔同义词}
 
 - constituent, precinct （选民；选区）
+
+:::
 
 
 ## 948. electricity
@@ -1638,6 +1722,8 @@
 
 - electric power, electric force （电力；电流；强烈的紧张情绪）
 
+:::
+
 
 ## 949. electro
 
@@ -1660,6 +1746,8 @@
 :::warning{title=🤔同义词}
 
 - plate （电镀）
+
+:::
 
 
 ## 950. electromagnetic
@@ -1720,6 +1808,8 @@
 
 - galvanomagnetic （[电磁]电磁的）
 
+:::
+
 
 ## 951. electron
 
@@ -1778,6 +1868,8 @@
 :::warning{title=🤔同义词}
 
 - elektron （[物]电子）
+
+:::
 
 
 ## 952. element
@@ -1838,6 +1930,8 @@
 
 - theory, mechanism, factor, basic, essential （[数]元素；要素；原理；成分；自然环境）
 
+:::
+
 
 ## 953. elevate
 
@@ -1852,6 +1946,8 @@
 :::warning{title=🤔同义词}
 
 - promote, upgrade, prefer （提升；举起；振奋情绪等；提升…的职位）
+
+:::
 
 
 ## 954. elevation
@@ -1880,6 +1976,8 @@
 
 - height, raise, increase, altitude, rise （[地理]高地；海拔；提高；崇高；正面图）
 
+:::
+
 
 ## 955. elicit
 
@@ -1894,6 +1992,8 @@
 :::warning{title=🤔同义词}
 
 - premise, attract, produce, cause, operate （抽出，引出；引起）
+
+:::
 
 
 ## 956. eligible
@@ -1924,6 +2024,8 @@
 
 - acceptee （合格者；适任者；有资格者）
 
+:::
+
 
 ## 957. eliminate
 
@@ -1949,6 +2051,8 @@
 
 - avoid, exclude （消除；排除）
 
+:::
+
 
 ## 958. elite
 
@@ -1969,6 +2073,8 @@
 :::warning{title=🤔同义词}
 
 - essence, flower, regular, prime, distillation （精英；精华；中坚分子）
+
+:::
 
 
 ## 959. elliptical
@@ -1993,6 +2099,8 @@
 
 - oval, omissive （椭圆的；省略的）
 
+:::
+
 
 ## 960. elongate
 
@@ -2014,6 +2122,8 @@
 
 - prolonged, stretched-out （[植][力]伸长的；延长的）
 
+:::
+
 
 ## 961. eloquent
 
@@ -2029,6 +2139,8 @@
 
 - meaningful, affecting, significant, moving, speaking （意味深长的；雄辩的，有口才的；有说服力的；动人的）
 
+:::
+
 
 ## 962. elude
 
@@ -2043,6 +2155,8 @@
 :::warning{title=🤔同义词}
 
 - escape, avoid, get out of （逃避，躲避）
+
+:::
 
 
 ## 963. emancipation
@@ -2065,6 +2179,8 @@
 
 - liberation, release, enfranchisement （解放；释放）
 
+:::
+
 
 ## 964. embalm
 
@@ -2079,6 +2195,8 @@
 :::warning{title=🤔同义词}
 
 - immortalise, eternalize （铭记于心；使不朽；防腐；使充满香气）
+
+:::
 
 
 ## 965. embargo
@@ -2107,6 +2225,8 @@
 
 - ban, prohibition （禁令；禁止；封港令）
 
+:::
+
 
 ## 966. embark
 
@@ -2132,6 +2252,8 @@
 
 - imbark （使从事；使上船）
 
+:::
+
 
 ## 967. embarrass
 
@@ -2146,6 +2268,8 @@
 :::warning{title=🤔同义词}
 
 - slow, abash （使局促不安；使困窘；阻碍）
+
+:::
 
 
 ## 968. embarrassed
@@ -2172,6 +2296,8 @@
 
 - awkward, abashed （尴尬的；窘迫的）
 
+:::
+
 
 ## 969. embed
 
@@ -2193,6 +2319,8 @@
 
 - rear, bed （栽种；使嵌入，使插入；使深留脑中）
 
+:::
+
 
 ## 970. embellish
 
@@ -2207,6 +2335,8 @@
 :::warning{title=🤔同义词}
 
 - paint, hang, modify （修饰；装饰；润色）
+
+:::
 
 
 ## 971. embrace
@@ -2236,6 +2366,8 @@
 - hug, cuddle （拥抱）
 
 - hug （拥抱）
+
+:::
 
 
 ## 972. embryo
@@ -2271,6 +2403,8 @@
 - morning, prime （[胚]胚胎；胚芽；初期）
 
 - earlier, young （[胚]胚胎的；初期的）
+
+:::
 
 
 ## 973. embryonic
@@ -2319,6 +2453,8 @@
 
 - ray, cast off （浮现；摆脱；暴露）
 
+:::
+
 
 ## 975. emergence
 
@@ -2333,6 +2469,8 @@
 :::warning{title=🤔同义词}
 
 - occurrence, appearance, going on, becoming, rise （出现，浮现；发生；露头）
+
+:::
 
 
 ## 976. emergency
@@ -2405,6 +2543,8 @@
 
 - urgent, instant （紧急的；备用的）
 
+:::
+
 
 ## 977. emigrate
 
@@ -2421,6 +2561,8 @@
 - transmigrate （移居；移居外国）
 
 - to immigrate, to migrate （移民）
+
+:::
 
 
 ## 978. eminent
@@ -2442,6 +2584,8 @@
 :::warning{title=🤔同义词}
 
 - outstanding, excellent, obvious, prominent, brilliant （杰出的；有名的；明显的）
+
+:::
 
 
 ## 979. emission
@@ -2502,6 +2646,8 @@
 
 - shot, sending, launch, jet, projection （（光、热等的）[物]发射，散发；喷射；发行）
 
+:::
+
 
 ## 980. emit
 
@@ -2516,6 +2662,8 @@
 :::warning{title=🤔同义词}
 
 - deliver, ray （发出，放射；发行；发表）
+
+:::
 
 
 ## 981. emphasis
@@ -2546,6 +2694,8 @@
 
 - stress, unode （重点；强调；加强语气）
 
+:::
+
 
 ## 982. emphasize
 
@@ -2562,6 +2712,8 @@
 :::warning{title=🤔同义词}
 
 - stress, highlight （强调，着重）
+
+:::
 
 
 ## 983. empirical
@@ -2626,6 +2778,8 @@
 
 - simulation, stylization （仿真；仿效）
 
+:::
+
 
 ## 985. enact
 
@@ -2640,6 +2794,8 @@
 :::warning{title=🤔同义词}
 
 - play, portray （颁布；制定法律；扮演）
+
+:::
 
 
 ## 986. enamel
@@ -2692,6 +2848,8 @@
 
 - cephalitis, phrenitis （[内科]脑炎）
 
+:::
+
 
 ## 988. enclose
 
@@ -2706,6 +2864,8 @@
 :::warning{title=🤔同义词}
 
 - enring, inclose （围绕；装入；放入封套）
+
+:::
 
 
 ## 989. encode
@@ -2722,6 +2882,8 @@
 
 - to code, to decode （[计]编码，译码）
 
+:::
+
 
 ## 990. encompass
 
@@ -2736,6 +2898,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain, carry out, accomplish, achieve （包含；包围，环绕；完成）
+
+:::
 
 
 ## 991. encounter
@@ -2766,6 +2930,8 @@
 
 - bring up against, run into （遭遇；偶然相遇）
 
+:::
+
 
 ## 992. encroach
 
@@ -2789,6 +2955,8 @@
 
 - to infringe on, infringe upon （侵犯）
 
+:::
+
 
 ## 993. encyclopedia
 
@@ -2810,6 +2978,8 @@
 
 - cyclopaedia （百科全书）
 
+:::
+
 
 ## 994. endanger
 
@@ -2824,6 +2994,8 @@
 :::warning{title=🤔同义词}
 
 - jeopard, imperil （危及；使遭到危险）
+
+:::
 
 
 ## 995. endeavor
@@ -2850,6 +3022,8 @@
 
 - apply oneself, try one's best （努力；尽力（等于endeavour））
 
+:::
+
 
 ## 996. endemic
 
@@ -2874,6 +3048,8 @@
 :::warning{title=🤔同义词}
 
 - provincial, local （[医][内科]地方性的；[生物]风土的）
+
+:::
 
 
 ## 997. endorphin
@@ -2904,6 +3080,8 @@
 
 - ink, allow, back, sign （背书；认可；签署；赞同；在背面签名）
 
+:::
+
 
 ## 999. endothermic
 
@@ -2928,5 +3106,7 @@
 :::warning{title=🤔同义词}
 
 - homeothermic, homoeothermic （[热]吸热的；温血的）
+
+:::
 
 

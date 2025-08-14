@@ -58,6 +58,8 @@
 
 - cloven, cleft （劈开的）
 
+:::
+
 
 ## 301. revise
 
@@ -87,6 +89,8 @@
 
 - recension, emendation （[图情]修订；[印刷]校订）
 
+:::
+
 
 ## 302. cliff
 
@@ -107,6 +111,8 @@
 :::warning{title=🤔同义词}
 
 - precipice, escarpment （[地理]悬崖；绝壁）
+
+:::
 
 
 ## 303. penetrate
@@ -135,6 +141,8 @@
 
 - sink, osmose （渗透；刺入；看透）
 
+:::
+
 
 ## 304. irritant
 
@@ -153,6 +161,8 @@
 - incentive, stimulating （[医]刺激的；刺激性的）
 
 - stimulus, inducement （[医]刺激物，刺激剂）
+
+:::
 
 
 ## 305. sum
@@ -219,6 +229,8 @@
 
 - summarize, tally up （总结；合计）
 
+:::
+
 
 ## 306. ranch
 
@@ -244,6 +256,8 @@
 
 - estancia, plantation （大农场；大牧场）
 
+:::
+
 
 ## 307. diagnose
 
@@ -264,6 +278,8 @@
 - tell, figure out （诊断；断定）
 
 - judge of, pass upon （诊断；判断）
+
+:::
 
 
 ## 308. cranberry
@@ -306,6 +322,8 @@
 
 - molder （崩塌）
 
+:::
+
 
 ## 310. apex
 
@@ -332,6 +350,8 @@
 :::warning{title=🤔同义词}
 
 - height, summit, sky, peak, point （[数]顶点；尖端）
+
+:::
 
 
 ## 311. inspection
@@ -392,6 +412,8 @@
 
 - examination, checking, monitoring （视察，检查）
 
+:::
+
 
 ## 312. distinguish
 
@@ -419,6 +441,8 @@
 
 - differentiate, tell from （区别，区分；辨别）
 
+:::
+
 
 ## 313. gecko
 
@@ -438,6 +462,8 @@
 
 - grebe （[脊椎]壁虎）
 
+:::
+
 
 ## 314. appoint
 
@@ -454,6 +480,8 @@
 - install, constitute, name, place, specify （任命；指定；约定）
 
 - nominate sb to, institute to （任命；委派）
+
+:::
 
 
 ## 315. merchandise
@@ -496,6 +524,8 @@
 
 - do business （经商）
 
+:::
+
 
 ## 316. shed
 
@@ -531,6 +561,8 @@
 
 - cottage, divide, cabin （小屋，棚；分水岭）
 
+:::
+
 
 ## 317. underwrite
 
@@ -551,6 +583,8 @@
 :::warning{title=🤔同义词}
 
 - area, proportion （面积，[测]英亩数）
+
+:::
 
 
 ## 319. reindeer
@@ -582,6 +616,8 @@
 - breathe （呼吸）
 
 - breathe （呼吸）
+
+:::
 
 
 ## 321. deficiency
@@ -620,6 +656,8 @@
 
 - defect, shortage, vice, need, fault （缺陷，缺点；缺乏；不足的数额）
 
+:::
+
 
 ## 322. downstream
 
@@ -646,6 +684,8 @@
 :::warning{title=🤔同义词}
 
 - lower （[水文]下游的；顺流的）
+
+:::
 
 
 ## 323. venom
@@ -679,6 +719,8 @@
 - spite, malice （[毒物]毒液；恶意）
 
 - envenom （使有毒；放毒）
+
+:::
 
 
 ## 324. tap
@@ -735,6 +777,8 @@
 
 - water faucet, rotary swivel （水龙头；轻打）
 
+:::
+
 
 ## 325. psyche
 
@@ -751,6 +795,8 @@
 :::warning{title=🤔同义词}
 
 - soul, ka （灵魂；心智）
+
+:::
 
 
 ## 326. embargo
@@ -778,6 +824,8 @@
 :::warning{title=🤔同义词}
 
 - ban, prohibition （禁令；禁止；封港令）
+
+:::
 
 
 ## 327. luminous
@@ -814,6 +862,8 @@
 
 - distinct, bright, liquid, clear, explicit （[光]发光的；明亮的；清楚的）
 
+:::
+
 
 ## 328. egalitarianism
 
@@ -828,6 +878,8 @@
 :::warning{title=🤔同义词}
 
 - equalitarianism （[经]平等主义，平均主义）
+
+:::
 
 
 ## 329. inhabit
@@ -848,6 +900,8 @@
 
 - belong, room, harbor, live, dwell （（古）居住；栖息）
 
+:::
+
 
 ## 330. embalm
 
@@ -862,6 +916,8 @@
 :::warning{title=🤔同义词}
 
 - immortalise, eternalize （铭记于心；使不朽；防腐；使充满香气）
+
+:::
 
 
 ## 331. obsidian
@@ -899,6 +955,8 @@
 - gator, aligator （[脊椎]短吻鳄（产于美国及中国）；短吻鳄皮革；鳄口式工具）
 
 - gap, seam （皱裂；裂开）
+
+:::
 
 
 ## 333. appropriate
@@ -941,6 +999,8 @@
 
 - engage, take up to （占用；拨出）
 
+:::
+
 
 ## 334. commensurate
 
@@ -962,6 +1022,8 @@
 
 - matching, worthy, fitting （相称的；同量的；同样大小的）
 
+:::
+
 
 ## 335. scrupulous
 
@@ -976,6 +1038,8 @@
 :::warning{title=🤔同义词}
 
 - meticulous, circumspect （细心的；小心谨慎的；一丝不苟的）
+
+:::
 
 
 ## 336. nutritious
@@ -995,6 +1059,8 @@
 :::warning{title=🤔同义词}
 
 - alible, nourishing （有营养的，滋养的）
+
+:::
 
 
 ## 337. coronary
@@ -1037,6 +1103,8 @@
 
 - cristated （冠的；冠状的；花冠的）
 
+:::
+
 
 ## 338. notify
 
@@ -1059,6 +1127,8 @@
 :::warning{title=🤔同义词}
 
 - message, post, publish （通告，通知；公布）
+
+:::
 
 
 ## 339. deprivation
@@ -1083,6 +1153,8 @@
 
 - removal, losing, expense, disadvantage, cost （剥夺；损失；免职）
 
+:::
+
 
 ## 340. specious
 
@@ -1098,6 +1170,8 @@
 
 - purple, colorable （似是而非的；外表美观的；华而不实的；徒有其表的）
 
+:::
+
 
 ## 341. debunk
 
@@ -1106,6 +1180,8 @@
 :::warning{title=🤔同义词}
 
 - divulgate, come to light （揭穿；拆穿…的假面具；暴露）
+
+:::
 
 
 ## 342. suppress
@@ -1127,6 +1203,8 @@
 :::warning{title=🤔同义词}
 
 - control, restrain, stay （抑制；镇压；废止）
+
+:::
 
 
 ## 343. spiral
@@ -1195,6 +1273,8 @@
 
 - helical, gyroidal （螺旋形的；盘旋的）
 
+:::
+
 
 ## 344. samurai
 
@@ -1209,6 +1289,8 @@
 :::warning{title=🤔同义词}
 
 - knight, swordsman （（日）武士；武士阶级）
+
+:::
 
 
 ## 345. proceed
@@ -1238,6 +1320,8 @@
 :::warning{title=🤔同义词}
 
 - occur, happen, travel, pursue （开始；继续进行；发生；行进）
+
+:::
 
 
 ## 346. scramjet
@@ -1284,6 +1368,8 @@
 
 - dependent, secondary, supporting, minor, peripheral （从属的；次要的）
 
+:::
+
 
 ## 348. entity
 
@@ -1319,6 +1405,8 @@
 
 - presence, existence, essence, principle, texture （实体；存在；本质）
 
+:::
+
 
 ## 349. irreconcilable
 
@@ -1333,6 +1421,8 @@
 :::warning{title=🤔同义词}
 
 - contradictory, conflictive （矛盾的；不能和解的；不能协调的）
+
+:::
 
 
 ## 350. preliminary
@@ -1397,6 +1487,8 @@
 
 - opening, rudimentary （初步的；开始的；预备的）
 
+:::
+
 
 ## 351. define
 
@@ -1422,6 +1514,8 @@
 
 - regulate, state, rule （定义；使明确；规定）
 
+:::
+
 
 ## 352. sensitize
 
@@ -1436,6 +1530,8 @@
 :::warning{title=🤔同义词}
 
 - string up （使敏感；使具有感光性）
+
+:::
 
 
 ## 353. offset
@@ -1492,6 +1588,8 @@
 
 - kill, recover （抵消；弥补；用平版印刷术印刷）
 
+:::
+
 
 ## 354. stringent
 
@@ -1515,6 +1613,8 @@
 
 - severe, tight, hard, harsh, pressing （严厉的；迫切的；银根紧的）
 
+:::
+
 
 ## 355. metaphor
 
@@ -1531,6 +1631,8 @@
 :::warning{title=🤔同义词}
 
 - parabole （暗喻，隐喻；比喻说法）
+
+:::
 
 
 ## 356. ratification
@@ -1553,6 +1655,8 @@
 
 - recognition, confirmation, authorization, validation, approval of （批准；承认，认可）
 
+:::
+
 
 ## 357. centrality
 
@@ -1561,6 +1665,8 @@
 :::warning{title=🤔同义词}
 
 - focus, hub, middle （中心；中央；向心性）
+
+:::
 
 
 ## 358. assertion
@@ -1576,6 +1682,8 @@
 :::warning{title=🤔同义词}
 
 - statement, opinion, requirement, assurance, profession （断言，声明；主张，要求；坚持）
+
+:::
 
 
 ## 359. screen
@@ -1644,6 +1752,8 @@
 
 - shoot, make a film （拍电影）
 
+:::
+
 
 ## 360. instill
 
@@ -1662,6 +1772,8 @@
 :::warning{title=🤔同义词}
 
 - mean, hint at （意味；暗示；隐含）
+
+:::
 
 
 ## 362. derivative
@@ -1703,6 +1815,8 @@
 - ramification, offshoot （[化学]衍生物，派生物）
 
 - extracted, descendent （派生的；引出的）
+
+:::
 
 
 ## 363. crude
@@ -1763,6 +1877,8 @@
 
 - rough, native, robust, raw, coarse （粗糙的；天然的，未加工的；粗鲁的）
 
+:::
+
 
 ## 364. rivalry
 
@@ -1786,6 +1902,8 @@
 
 - competition, war, struggle, match, contest （竞争；对抗；竞赛）
 
+:::
+
 
 ## 365. embellish
 
@@ -1800,6 +1918,8 @@
 :::warning{title=🤔同义词}
 
 - paint, hang, modify （修饰；装饰；润色）
+
+:::
 
 
 ## 366. nucleotide
@@ -1848,6 +1968,8 @@
 
 - amalgamative, pooled （合并的；一体化的；组成公司的）
 
+:::
+
 
 ## 368. flock
 
@@ -1876,6 +1998,8 @@
 - cluster, gang, bunch, qun （群；棉束（等于floc））
 
 - concentrate, collect, mass, crowd （聚集；成群而行）
+
+:::
 
 
 ## 369. patent
@@ -1942,6 +2066,8 @@
 
 - license, permit （[专利]专利权；执照；专利品）
 
+:::
+
 
 ## 370. broker
 
@@ -1970,6 +2096,8 @@
 :::warning{title=🤔同义词}
 
 - booking agent, middleman （[经]经纪人，[劳经]掮客）
+
+:::
 
 
 ## 371. missile
@@ -2018,6 +2146,8 @@
 
 - dejectile （[航][军]导弹；投射物）
 
+:::
+
 
 ## 372. fortify
 
@@ -2032,6 +2162,8 @@
 :::warning{title=🤔同义词}
 
 - enhance, cement, muscle, build up （加强；增强；（酒）的酒精含量；设防于）
+
+:::
 
 
 ## 373. salvage
@@ -2059,6 +2191,8 @@
 :::warning{title=🤔同义词}
 
 - refloatation （打捞；[水运][安全]海上救助；抢救财货；救难的奖金）
+
+:::
 
 
 ## 374. biodegradable
@@ -2107,6 +2241,8 @@
 
 - omission, oversight （疏忽；忽视；粗心大意）
 
+:::
+
 
 ## 377. rinse
 
@@ -2140,6 +2276,8 @@
 
 - irrigation, hair dye （冲洗；漂洗；[轻]染发剂；染发）
 
+:::
+
 
 ## 378. resuscitation
 
@@ -2156,6 +2294,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruction, renewal, revitalization （[医]复苏；复兴；复活）
+
+:::
 
 
 ## 379. hazard
@@ -2219,6 +2359,8 @@
 - risk （赌运气；冒…的危险，使遭受危险）
 
 - risk, throw, venture, adventure （[安全]危险，冒险；冒险的事）
+
+:::
 
 
 ## 380. root
@@ -2287,6 +2429,8 @@
 
 - fix on, hold in place （生根，固定；根源在于）
 
+:::
+
 
 ## 381. irregularity
 
@@ -2296,6 +2440,8 @@
 
 - anomaly, abnormity （不规则；无规律；[电子]不整齐）
 
+:::
+
 
 ## 382. disorient
 
@@ -2304,6 +2450,8 @@
 :::warning{title=🤔同义词}
 
 - bemaze （使…迷惑；使…失去方向感）
+
+:::
 
 
 ## 383. coincide
@@ -2327,6 +2475,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, square, identify, accord （一致，符合；同时发生）
+
+:::
 
 
 ## 384. replacement
@@ -2361,6 +2511,8 @@
 
 - restoration, substitute （更换；复位；代替者；补充兵员）
 
+:::
+
 
 ## 385. hatch
 
@@ -2394,6 +2546,8 @@
 
 - incubate （孵化）
 
+:::
+
 
 ## 386. bolster
 
@@ -2423,6 +2577,8 @@
 
 - encourage, second, carry, hand, champion （支持；支撑）
 
+:::
+
 
 ## 387. racism
 
@@ -2439,6 +2595,8 @@
 :::warning{title=🤔同义词}
 
 - racial discrimination, the colour bar （种族主义，种族歧视；人种偏见）
+
+:::
 
 
 ## 388. fertilized
@@ -2486,6 +2644,8 @@
 :::warning{title=🤔同义词}
 
 - ecphyaditis, caecitis （[医]阑尾炎；盲肠炎）
+
+:::
 
 
 ## 390. credit
@@ -2552,6 +2712,8 @@
 
 - put faith in, believe in （相信，信任；把…归给，归功于；赞颂）
 
+:::
+
 
 ## 391. aerobic
 
@@ -2582,6 +2744,8 @@
 :::warning{title=🤔同义词}
 
 - oxybiotic （[生物][环境]需氧的；增氧健身法的）
+
+:::
 
 
 ## 392. bolt
@@ -2652,6 +2816,8 @@
 
 - suddenly, sharp, abruptly （突然地；直立地）
 
+:::
+
 
 ## 393. incur
 
@@ -2666,6 +2832,8 @@
 :::warning{title=🤔同义词}
 
 - invite, court, secure, spell, trigger （招致，引发；蒙受）
+
+:::
 
 
 ## 394. illustrate
@@ -2692,6 +2860,8 @@
 
 - give an example, cite an example （举例）
 
+:::
+
 
 ## 395. teem
 
@@ -2717,6 +2887,8 @@
 
 - swill （倒出）
 
+:::
+
 
 ## 396. retard
 
@@ -2735,6 +2907,8 @@
 - dispute, let, stem, block （延迟；阻止；妨碍；使减速）
 
 - prevention, check, detention （延迟；阻止）
+
+:::
 
 
 ## 397. velocity
@@ -2799,6 +2973,8 @@
 
 - speed rate, expedition （[力]速率；迅速；周转率）
 
+:::
+
 
 ## 398. circulatory
 
@@ -2819,6 +2995,8 @@
 :::warning{title=🤔同义词}
 
 - cyclic, recursive （循环的）
+
+:::
 
 
 ## 399. endeavor
@@ -2844,5 +3022,7 @@
 - apply oneself, struggle, labor, strain, try one's best （努力；尽力（等于endeavour））
 
 - apply oneself, try one's best （努力；尽力（等于endeavour））
+
+:::
 
 

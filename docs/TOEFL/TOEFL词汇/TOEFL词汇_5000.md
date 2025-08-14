@@ -18,6 +18,8 @@
 
 - enteron, bowel （[解剖]肠）
 
+:::
+
 
 ## 5001. tavern
 
@@ -32,6 +34,8 @@
 :::warning{title=🤔同义词}
 
 - hotel, pub （[建]酒馆；客栈）
+
+:::
 
 
 ## 5002. uncompetitive
@@ -53,6 +57,8 @@
 - decuple （十倍的；十重的）
 
 - decuple （十倍）
+
+:::
 
 
 ## 5004. panic
@@ -96,6 +102,8 @@
 - unfounded （恐慌的；没有理由的）
 
 - flurry （使恐慌）
+
+:::
 
 
 ## 5005. aircraft
@@ -146,6 +154,8 @@
 
 - plane, airplane, aeroplane （[航]飞机，航空器）
 
+:::
+
 
 ## 5006. desiccation
 
@@ -160,6 +170,8 @@
 :::warning{title=🤔同义词}
 
 - drying, dryness, aridness （干燥）
+
+:::
 
 
 ## 5007. chimney
@@ -184,6 +196,8 @@
 
 - smoke stack, lum （[建]烟囱）
 
+:::
+
 
 ## 5008. shin
 
@@ -202,6 +216,8 @@
 - climb （爬；攀）
 
 - double （攀；快步走）
+
+:::
 
 
 ## 5009. mandarin
@@ -230,6 +246,8 @@
 
 - national language, Mandarin Chinese （国语；官话；满清官吏）
 
+:::
+
 
 ## 5010. conceive
 
@@ -252,6 +270,8 @@
 - design, hold （怀孕；构思；以为；持有）
 
 - allow, think of, think about （怀孕；设想；考虑）
+
+:::
 
 
 ## 5011. guilde
@@ -283,6 +303,8 @@
 :::warning{title=🤔同义词}
 
 - acquire, buy, find, make, score （赚，赚得；获得，挣得；使得到；博得）
+
+:::
 
 
 ## 5013. Iroquois
@@ -355,6 +377,8 @@
 
 - write on （写；关入栏中）
 
+:::
+
 
 ## 5015. quietly
 
@@ -380,6 +404,8 @@
 
 - smoothly, underground, privately, secretly （安静地；秘密地；平稳地）
 
+:::
+
 
 ## 5016. ectotherm
 
@@ -394,6 +420,8 @@
 :::warning{title=🤔同义词}
 
 - cold blooded animal, poikilothermal animal （[动]冷血动物；变温动物）
+
+:::
 
 
 ## 5017. miner
@@ -424,6 +452,8 @@
 
 - collier, pitman （[矿业]矿工；开矿机）
 
+:::
+
 
 ## 5018. vas
 
@@ -439,6 +469,8 @@
 
 - vessel, vein （血管；[组织]脉管）
 
+:::
+
 
 ## 5019. aqueduct
 
@@ -453,6 +485,8 @@
 :::warning{title=🤔同义词}
 
 - conduit, sike （[水利]渡槽；[解剖]导水管；沟渠）
+
+:::
 
 
 ## 5020. triple
@@ -493,6 +527,8 @@
 
 - treble （使成三倍）
 
+:::
+
 
 ## 5021. meanwhile
 
@@ -516,6 +552,8 @@
 
 - together, simul （同时，其间）
 
+:::
+
 
 ## 5022. ravage
 
@@ -537,6 +575,8 @@
 
 - do for, play havoc with （毁坏；掠夺）
 
+:::
+
 
 ## 5023. befriend
 
@@ -552,6 +592,8 @@
 
 - facilitate, lend a hand （帮助；待人如友；扶助）
 
+:::
+
 
 ## 5024. adaptable
 
@@ -566,6 +608,8 @@
 :::warning{title=🤔同义词}
 
 - calculated, propitious （适合的；能适应的；可修改的）
+
+:::
 
 
 ## 5025. converge
@@ -583,6 +627,8 @@
 - group, gather together （聚合；集中于一点）
 
 - cluster （会聚；使聚集；使向一点会合）
+
+:::
 
 
 ## 5026. fortune
@@ -635,6 +681,8 @@
 
 - chance to, happen to （偶然发生）
 
+:::
+
 
 ## 5027. phosphorescence
 
@@ -671,6 +719,8 @@
 - apply oneself, struggle, labor, strain, try one's best （努力；尽力（等于endeavour））
 
 - apply oneself, try one's best （努力；尽力（等于endeavour））
+
+:::
 
 
 ## 5029. supervisor
@@ -709,6 +759,8 @@
 
 - administrator, conductor （监督人，[管理]管理人；检查员）
 
+:::
+
 
 ## 5030. Portugal
 
@@ -740,6 +792,8 @@
 
 - securely, wholesomely （安全地）
 
+:::
+
 
 ## 5032. invisibly
 
@@ -748,6 +802,8 @@
 :::warning{title=🤔同义词}
 
 - blind （看不见地；看不出地）
+
+:::
 
 
 ## 5033. visibility
@@ -786,6 +842,8 @@
 
 - ideate （形成概念）
 
+:::
+
 
 ## 5035. levy
 
@@ -816,6 +874,8 @@
 - toll （[税收]征收（税等）；征集（兵等））
 
 - tax collection, toll （征税；征兵）
+
+:::
 
 
 ## 5036. rye
@@ -851,6 +911,8 @@
 :::warning{title=🤔同义词}
 
 - unacceptable, undesired （不流行的，不受欢迎的）
+
+:::
 
 
 ## 5038. holocene
@@ -963,6 +1025,8 @@
 
 - longitudinal, thready （[数]线的，线型的；直线的，线状的；长度的）
 
+:::
+
 
 ## 5041. tang
 
@@ -981,6 +1045,8 @@
 - quality, identity, specific, character, distinction （特性；强烈的味道；柄脚）
 
 - clash （发出铿锵声；发出当的一声）
+
+:::
 
 
 ## 5042. thesis
@@ -1009,6 +1075,8 @@
 
 - dissertation, tractate （论文；论点）
 
+:::
+
 
 ## 5043. astronaut
 
@@ -1027,6 +1095,8 @@
 :::warning{title=🤔同义词}
 
 - cosmonaut, spaceman （[航]宇航员，航天员；太空旅行者）
+
+:::
 
 
 ## 5044. reuse
@@ -1051,6 +1121,8 @@
 
 - reemployment （重新使用，再用）
 
+:::
+
 
 ## 5045. antagonism
 
@@ -1059,6 +1131,8 @@
 :::warning{title=🤔同义词}
 
 - opposition, war, confrontation （[生化]对抗，敌对；对立；敌意）
+
+:::
 
 
 ## 5046. rehabilitation
@@ -1093,6 +1167,8 @@
 
 - recovery, regression, redintegration （复原）
 
+:::
+
 
 ## 5047. canoe
 
@@ -1110,6 +1186,8 @@
 
 - pirogue, dugout （独木舟；轻舟）
 
+:::
+
 
 ## 5048. dramatize
 
@@ -1124,6 +1202,8 @@
 :::warning{title=🤔同义词}
 
 - theatricalize （使戏剧化；编写剧本；改编成戏剧）
+
+:::
 
 
 ## 5049. leisurely
@@ -1141,6 +1221,8 @@
 - contained, relaxed （悠闲的；从容的）
 
 - by easy stages, containedly （悠闲地；从容不迫地）
+
+:::
 
 
 ## 5050. Minneapolis
@@ -1217,6 +1299,8 @@
 
 - customer, fellow, egg, guy, bird （[园艺]苹果；家伙）
 
+:::
+
 
 ## 5052. Ontario
 
@@ -1275,6 +1359,8 @@
 - reference, make offers （报价；引用；引证）
 
 - citing, citation （引用）
+
+:::
 
 
 ## 5055. delft
@@ -1335,6 +1421,8 @@
 
 - enhance, cement, muscle （养；加强）
 
+:::
+
 
 ## 5057. unobtainable
 
@@ -1350,6 +1438,8 @@
 
 - unreachable （难获得的；不能得到的）
 
+:::
+
 
 ## 5058. utterly
 
@@ -1364,6 +1454,8 @@
 :::warning{title=🤔同义词}
 
 - totally, entirely, completely, absolutely, thoroughly, fully, strictly （完全地；绝对地；全然地；彻底地，十足地）
+
+:::
 
 
 ## 5059. reddish
@@ -1418,6 +1510,8 @@
 
 - refusal, denial （拒绝；抛弃；被抛弃的东西）
 
+:::
+
 
 ## 5061. outweigh
 
@@ -1432,6 +1526,8 @@
 :::warning{title=🤔同义词}
 
 - come before, take precedence over （比…重（在重量上）；比…重要；比…有价值）
+
+:::
 
 
 ## 5062. chariot
@@ -1470,6 +1566,8 @@
 
 - chinny, conversational （交际的；爱说话的，健谈的；无隐讳交谈的）
 
+:::
+
 
 ## 5064. conversely
 
@@ -1478,6 +1576,8 @@
 :::warning{title=🤔同义词}
 
 - contrary, counter, backward, inversely （相反地）
+
+:::
 
 
 ## 5065. instrumentalist
@@ -1536,6 +1636,8 @@
 
 - ethnic, tribal （种族的；人种的）
 
+:::
+
 
 ## 5067. Arab
 
@@ -1589,6 +1691,8 @@
 
 - weaving machine （[纺]织布机；若隐若现的景象）
 
+:::
+
 
 ## 5069. platelet
 
@@ -1615,6 +1719,8 @@
 :::warning{title=🤔同义词}
 
 - slice, thrombocyte （[组织][生物]血小板；薄片）
+
+:::
 
 
 ## 5070. ambient
@@ -1659,6 +1765,8 @@
 
 - mise en scene （周围环境）
 
+:::
+
 
 ## 5071. accrete
 
@@ -1675,6 +1783,8 @@
 - adhere, hang onto （合生；增大生长；依附）
 
 - attach （使依附；使连接；把…吸引过来）
+
+:::
 
 
 ## 5072. bubbly
@@ -1693,6 +1803,8 @@
 
 - champagne （香槟酒）
 
+:::
+
 
 ## 5073. metalwork
 
@@ -1708,6 +1820,8 @@
 
 - metal processing, metal working （金属加工）
 
+:::
+
 
 ## 5074. resent
 
@@ -1722,6 +1836,8 @@
 :::warning{title=🤔同义词}
 
 - hate, be down on （怨恨；愤恨；厌恶）
+
+:::
 
 
 ## 5075. correlation
@@ -1782,6 +1898,8 @@
 
 - relationship, associations, relevance （[数]相关，[理物]关联；相互关系）
 
+:::
+
 
 ## 5076. devotion
 
@@ -1804,6 +1922,8 @@
 :::warning{title=🤔同义词}
 
 - commitment, dedication, loyalty （献身，奉献；忠诚；热爱）
+
+:::
 
 
 ## 5077. useless
@@ -1840,6 +1960,8 @@
 
 - elegy, dirge （痛哭，挽歌）
 
+:::
+
 
 ## 5079. bulldozer
 
@@ -1858,6 +1980,8 @@
 :::warning{title=🤔同义词}
 
 - pushdozer, dozer （[机]推土机；欺凌者，威吓者）
+
+:::
 
 
 ## 5080. politically
@@ -1902,6 +2026,8 @@
 
 - Celsius （摄氏的；[仪]摄氏温度的；百分度的）
 
+:::
+
 
 ## 5082. alchemist
 
@@ -1918,6 +2044,8 @@
 :::warning{title=🤔同义词}
 
 - hermetic （炼金术士）
+
+:::
 
 
 ## 5083. optimum
@@ -1998,6 +2126,8 @@
 
 - manual, handmade （手工的）
 
+:::
+
 
 ## 5085. blame
 
@@ -2031,6 +2161,8 @@
 
 - duty, liability, error, burden, trust （责备；责任；过失）
 
+:::
+
 
 ## 5086. presently
 
@@ -2047,6 +2179,8 @@
 :::warning{title=🤔同义词}
 
 - soon, erelong （（美）目前；不久）
+
+:::
 
 
 ## 5087. reelect
@@ -2105,6 +2239,8 @@
 
 - stockroom, godown （[建][经]仓库；[贸易]货栈；大商店）
 
+:::
+
 
 ## 5089. ensue
 
@@ -2121,6 +2257,8 @@
 - follow on, succeed to （跟着发生，接着发生；继起）
 
 - ambition, pursue / pursuit （追求）
+
+:::
 
 
 ## 5090. cherry
@@ -2166,6 +2304,8 @@
 :::warning{title=🤔同义词}
 
 - hymen, virginal membrane （[木][园艺]樱桃；樱桃树；如樱桃的鲜红色；处女膜，处女）
+
+:::
 
 
 ## 5091. historic
@@ -2216,6 +2356,8 @@
 
 - huge, enormous, tremendous, massive, macro （巨大的，庞大的）
 
+:::
+
 
 ## 5093. tapeworm
 
@@ -2235,6 +2377,8 @@
 
 - taenia, cestode （[基医]绦虫）
 
+:::
+
 
 ## 5094. languish
 
@@ -2250,6 +2394,8 @@
 
 - consume away, pine （憔悴；凋萎；失去活力；苦思）
 
+:::
+
 
 ## 5095. mythology
 
@@ -2264,6 +2410,8 @@
 :::warning{title=🤔同义词}
 
 - fairy story, fairy tales （神话；神话学；神话集）
+
+:::
 
 
 ## 5096. lateness
@@ -2296,6 +2444,8 @@
 
 - in the interim （在其中，在其间）
 
+:::
+
 
 ## 5098. mythological
 
@@ -2314,6 +2464,8 @@
 :::warning{title=🤔同义词}
 
 - fictitious, imaginary （神话的；神话学的；虚构的）
+
+:::
 
 
 ## 5099. prototype
@@ -2351,5 +2503,7 @@
 :::warning{title=🤔同义词}
 
 - criterion, standard, level, norms, type （[生物]原型；标准，模范）
+
+:::
 
 

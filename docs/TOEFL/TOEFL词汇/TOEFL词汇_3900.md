@@ -76,6 +76,8 @@
 
 - harmony, equilibrium, quiet （和平；平静；和睦；秩序）
 
+:::
+
 
 ## 3901. domain
 
@@ -135,6 +137,8 @@
 
 - province, territory, world, industry, kingdom, universe, field （领域；域名；产业；地产）
 
+:::
+
 
 ## 3902. agitate
 
@@ -158,6 +162,8 @@
 
 - blow the coals, stir up （煽动）
 
+:::
+
 
 ## 3903. farce
 
@@ -173,6 +179,8 @@
 
 - slapstick comedy, dido （闹剧；胡闹；笑剧）
 
+:::
+
 
 ## 3904. aborigine
 
@@ -187,6 +195,8 @@
 :::warning{title=🤔同义词}
 
 - indigenous population, native son （土著；土著居民）
+
+:::
 
 
 ## 3905. attest
@@ -205,6 +215,8 @@
 
 - give evidence of, bear witness to （证明；作证）
 
+:::
+
 
 ## 3906. aggressiveness
 
@@ -213,6 +225,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （攻击性；侵犯；进取精神）
+
+:::
 
 
 ## 3907. privately
@@ -229,6 +243,8 @@
 
 - quietly, underground, secretly （私下地；秘密地）
 
+:::
+
 
 ## 3908. vague
 
@@ -243,6 +259,8 @@
 :::warning{title=🤔同义词}
 
 - fuzzy, dark, uncertain （模糊的；含糊的；不明确的；暧昧的）
+
+:::
 
 
 ## 3909. lawlike
@@ -262,6 +280,8 @@
 :::warning{title=🤔同义词}
 
 - one-on-one （反向地；在相反的位置；面对面）
+
+:::
 
 
 ## 3911. anecdotal
@@ -303,6 +323,8 @@
 :::warning{title=🤔同义词}
 
 - bit, tad （[金融]盎司；少量；雪豹）
+
+:::
 
 
 ## 3913. disorder
@@ -365,6 +387,8 @@
 
 - upset, disarrange （[医]使失调；[电子]扰乱）
 
+:::
+
 
 ## 3914. defeat
 
@@ -387,6 +411,8 @@
 - down, get the best of （击败，战胜；挫败；使…失败）
 
 - failure, loss, losing, reverse, collapse （失败；战胜）
+
+:::
 
 
 ## 3915. synchronization
@@ -418,6 +444,8 @@
 :::warning{title=🤔同义词}
 
 - hold-in, in-phase （[物]同步；同时性）
+
+:::
 
 
 ## 3916. dress
@@ -482,6 +510,8 @@
 
 - frock, suit-dress （[服装]连衣裙；女装）
 
+:::
+
 
 ## 3917. biographer
 
@@ -510,6 +540,8 @@
 :::warning{title=🤔同义词}
 
 - creative power, originality （创造力；创造性）
+
+:::
 
 
 ## 3919. illness
@@ -549,6 +581,8 @@
 :::warning{title=🤔同义词}
 
 - disease, ill, sickness, complaint, maladie （病；[医]疾病）
+
+:::
 
 
 ## 3920. curriculum
@@ -623,6 +657,8 @@
 
 - reconstruction, renaissance, renewal, resurrection （复兴；复活；苏醒；恢复精神；再生效）
 
+:::
+
 
 ## 3923. Hampshire
 
@@ -684,6 +720,8 @@
 
 - illegal, espionage （[军]间谍；密探）
 
+:::
+
 
 ## 3926. instinctive
 
@@ -698,6 +736,8 @@
 :::warning{title=🤔同义词}
 
 - natural, born （本能的；直觉的；天生的）
+
+:::
 
 
 ## 3927. signaler
@@ -715,6 +755,8 @@
 :::warning{title=🤔同义词}
 
 - signalling device, marshaller （信号装置；信号员）
+
+:::
 
 
 ## 3928. retire
@@ -743,6 +785,8 @@
 
 - superannuation, sequestration （退休；退隐；退兵信号）
 
+:::
+
 
 ## 3929. turbulence
 
@@ -768,6 +812,8 @@
 
 - disturbance, disorder （骚乱，动荡；[流]湍流；狂暴）
 
+:::
+
 
 ## 3930. paradigm
 
@@ -788,6 +834,8 @@
 :::warning{title=🤔同义词}
 
 - exemplification （范例；词形变化表）
+
+:::
 
 
 ## 3931. insight
@@ -812,6 +860,8 @@
 
 - perception, penetration （洞察力；洞悉）
 
+:::
+
 
 ## 3932. penchant
 
@@ -827,6 +877,8 @@
 
 - tendency, liability, weakness, habit, trend （嗜好；倾向）
 
+:::
+
 
 ## 3933. sinkhole
 
@@ -841,6 +893,8 @@
 :::warning{title=🤔同义词}
 
 - cesspool, outfall （污水坑；排水口；阴沟口）
+
+:::
 
 
 ## 3934. neptune
@@ -873,6 +927,8 @@
 
 - prussiate （[无化]氰化物）
 
+:::
+
 
 ## 3936. gin
 
@@ -895,6 +951,8 @@
 :::warning{title=🤔同义词}
 
 - trap, pit （[食品]杜松子酒；[农机]轧棉机；陷阱）
+
+:::
 
 
 ## 3937. flax
@@ -925,6 +983,8 @@
 
 - linen cloth （[作物]亚麻；亚麻纤维；亚麻布；亚麻织品）
 
+:::
+
 
 ## 3938. revolve
 
@@ -954,6 +1014,8 @@
 
 - rotation, rolling, circulation, turning, cycle （[物]旋转；循环；旋转舞台）
 
+:::
+
 
 ## 3939. withdraw
 
@@ -982,6 +1044,8 @@
 - beat a retreat, bug out （撤退；收回；撤消；拉开）
 
 - leave, split （撤退；离开）
+
+:::
 
 
 ## 3940. purple
@@ -1028,6 +1092,8 @@
 
 - empurple （使成紫色）
 
+:::
+
 
 ## 3941. comprise
 
@@ -1048,6 +1114,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain （包含；由…组成）
+
+:::
 
 
 ## 3942. timer
@@ -1076,6 +1144,8 @@
 
 - MyTimer, calculagraph （[电子]定时器；计时器；计时员，记时员；跑表；延时调节器）
 
+:::
+
 
 ## 3943. supplant
 
@@ -1090,6 +1160,8 @@
 :::warning{title=🤔同义词}
 
 - replace, substitute for （代替；排挤掉）
+
+:::
 
 
 ## 3944. harpsichord
@@ -1107,6 +1179,8 @@
 :::warning{title=🤔同义词}
 
 - clavecin, cembalo （羽管键琴，大键琴）
+
+:::
 
 
 ## 3945. peaceful
@@ -1141,6 +1215,8 @@
 
 - pacific, calm, still （和平的，爱好和平的；平静的）
 
+:::
+
 
 ## 3946. reign
 
@@ -1169,6 +1245,8 @@
 - predominate over, to rule （统治；支配；盛行；君临）
 
 - governance, disposal, rule, dominance （统治；统治时期；支配）
+
+:::
 
 
 ## 3947. appreciation
@@ -1205,6 +1283,8 @@
 
 - thank, acknowledgement （欣赏，鉴别；[经]增值；感谢）
 
+:::
+
 
 ## 3948. tempt
 
@@ -1219,6 +1299,8 @@
 :::warning{title=🤔同义词}
 
 - attract, produce, cause, operate, occasion （诱惑；引起；冒…的风险；使感兴趣）
+
+:::
 
 
 ## 3949. boast
@@ -1244,6 +1326,8 @@
 - braggadocio, self-praise （自夸；值得夸耀的事物，引以为荣的事物）
 
 - blow one's own born, blow one's own trumpet, blow one's own horn （自吹自擂）
+
+:::
 
 
 ## 3950. revitalize
@@ -1298,6 +1382,8 @@
 
 - mental, inner （精神的，心灵的）
 
+:::
+
 
 ## 3952. clan
 
@@ -1315,6 +1401,8 @@
 
 - nationality, collective, tribe （宗族；部落；集团）
 
+:::
+
 
 ## 3953. fictional
 
@@ -1331,6 +1419,8 @@
 :::warning{title=🤔同义词}
 
 - imaginary, figmentary （虚构的；小说的）
+
+:::
 
 
 ## 3954. heterogeneous
@@ -1367,6 +1457,8 @@
 
 - uneven, polyphase （多相的；[生物]异种的；[物][化学]不均匀的；由不同成分形成的）
 
+:::
+
 
 ## 3955. diversion
 
@@ -1396,6 +1488,8 @@
 
 - entertainment, transfer, occupation, recreation, metastasis （转移；消遣；分散注意力）
 
+:::
+
 
 ## 3956. protrude
 
@@ -1412,6 +1506,8 @@
 - exsert, advertise （使突出，使伸出）
 
 - stand out, excel at （突出，伸出）
+
+:::
 
 
 ## 3957. recrystallize
@@ -1468,6 +1564,8 @@
 
 - read into, put a force upon （变歪，变弯；曲解）
 
+:::
+
 
 ## 3959. Nevada
 
@@ -1510,6 +1608,8 @@
 :::warning{title=🤔同义词}
 
 - entertainment, fun, occupation, pleasure, joy （消遣，娱乐；乐趣）
+
+:::
 
 
 ## 3961. monetary
@@ -1570,6 +1670,8 @@
 
 - financial, fiscal （货币的；财政的）
 
+:::
+
 
 ## 3962. reed
 
@@ -1599,6 +1701,8 @@
 
 - Phragmites, phragmites communis （[作物]芦苇；簧片；牧笛；不可依靠的人）
 
+:::
+
 
 ## 3963. legislature
 
@@ -1613,6 +1717,8 @@
 :::warning{title=🤔同义词}
 
 - legislative body （立法机关；立法机构）
+
+:::
 
 
 ## 3964. baboon
@@ -1630,6 +1736,8 @@
 :::warning{title=🤔同义词}
 
 - gelada, hamadryas （[脊椎]狒狒）
+
+:::
 
 
 ## 3965. wedge
@@ -1670,6 +1778,8 @@
 
 - cleat （楔子；楔形物；导致分裂的东西）
 
+:::
+
 
 ## 3966. overgraze
 
@@ -1695,6 +1805,8 @@
 
 - rear, bed （栽种；使嵌入，使插入；使深留脑中）
 
+:::
+
 
 ## 3968. blowhole
 
@@ -1709,6 +1821,8 @@
 :::warning{title=🤔同义词}
 
 - bubble, spiracle （（鲸、海豚等的）喷水孔；（隧道等的）通风孔；[岩]岩石孔穴；[材]气泡）
+
+:::
 
 
 ## 3969. imagist
@@ -1773,6 +1887,8 @@
 
 - Arial, aerial （[电讯]天线；[动]触角，[昆]触须）
 
+:::
+
 
 ## 3971. receptor
 
@@ -1800,6 +1916,8 @@
 
 - ceptor, holding tank （[生化]受体；[电讯][生理]接受器；感觉器官）
 
+:::
+
 
 ## 3972. magenta
 
@@ -1821,6 +1939,8 @@
 
 - carmine （洋红色的；[染料]品红色的）
 
+:::
+
 
 ## 3973. valse
 
@@ -1833,6 +1953,8 @@
 - round dance （圆舞曲；华尔兹舞）
 
 - catfoot, tread lightly （轻轻地走；跳华尔兹舞）
+
+:::
 
 
 ## 3974. rebellion
@@ -1855,6 +1977,8 @@
 
 - resistance, insurgency （叛乱；反抗；谋反；不服从）
 
+:::
+
 
 ## 3975. discoverer
 
@@ -1873,6 +1997,8 @@
 :::warning{title=🤔同义词}
 
 - detector, finder （发现者）
+
+:::
 
 
 ## 3976. charcoal
@@ -1900,6 +2026,8 @@
 :::warning{title=🤔同义词}
 
 - xylanthrax, wood coal （[木]木炭（过去式charcoaled，过去分词charcoaled，现在分词charcoaling，第三人称单数charcoals）；炭笔）
+
+:::
 
 
 ## 3977. conifer
@@ -1944,6 +2072,8 @@
 
 - relater, commentator （叙述者；解说员）
 
+:::
+
 
 ## 3980. critically
 
@@ -1966,6 +2096,8 @@
 :::warning{title=🤔同义词}
 
 - minutely （精密地；危急地；批评性地；用钻研眼光地）
+
+:::
 
 
 ## 3981. Inca
@@ -2014,6 +2146,8 @@
 
 - haircloth, woollen fabric （毛织品）
 
+:::
+
 
 ## 3983. dialogue
 
@@ -2036,6 +2170,8 @@
 :::warning{title=🤔同义词}
 
 - sesion, interlocution （对话；意见交换）
+
+:::
 
 
 ## 3984. void
@@ -2072,6 +2208,8 @@
 
 - invalidate, nullify （使无效；排放）
 
+:::
+
 
 ## 3985. variously
 
@@ -2086,6 +2224,8 @@
 :::warning{title=🤔同义词}
 
 - separately, personally, differently （不同地；多方面地；个别地；多彩地）
+
+:::
 
 
 ## 3986. dictate
@@ -2104,6 +2244,8 @@
 
 - instruction, order, bidding, telling, word （命令；指示）
 
+:::
+
 
 ## 3987. incursion
 
@@ -2118,6 +2260,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （入侵；侵犯）
+
+:::
 
 
 ## 3988. sweet
@@ -2184,6 +2328,8 @@
 
 - fun, joy, aroma, honey, enjoyment （芳香；（英）糖果；宝贝（用作称呼）；乐趣）
 
+:::
+
 
 ## 3989. decode
 
@@ -2199,6 +2345,8 @@
 
 - encode （[计][通信]译码，解码）
 
+:::
+
 
 ## 3990. advantageous
 
@@ -2213,6 +2361,8 @@
 :::warning{title=🤔同义词}
 
 - beneficial, favorable, helpful, useful, conducive （有利的；有益的）
+
+:::
 
 
 ## 3991. legend
@@ -2236,6 +2386,8 @@
 :::warning{title=🤔同义词}
 
 - explanation, notes, romance, illustration （传奇；说明；[测]图例；刻印文字）
+
+:::
 
 
 ## 3992. toll
@@ -2282,6 +2434,8 @@
 
 - ring the bell, levy tax （鸣钟；征税）
 
+:::
+
 
 ## 3993. deliberate
 
@@ -2308,6 +2462,8 @@
 - intended, studied, designed, contained, conscious （故意的；深思熟虑的；从容的）
 
 - negotiate, mull over （仔细考虑；商议）
+
+:::
 
 
 ## 3994. milk
@@ -2374,6 +2530,8 @@
 
 - extract, ream （榨取；挤…的奶）
 
+:::
+
 
 ## 3995. subside
 
@@ -2390,6 +2548,8 @@
 :::warning{title=🤔同义词}
 
 - fall, settle, lower, cool, deposit （平息；减弱；沉淀；坐下）
+
+:::
 
 
 ## 3996. socially
@@ -2454,6 +2614,8 @@
 
 - goods in stock, stock-sheet （[贸易]存货，存货清单；详细目录；[会计]财产清册）
 
+:::
+
 
 ## 3998. twin
 
@@ -2493,6 +2655,8 @@
 
 - conjugate （使成对）
 
+:::
+
 
 ## 3999. drastic
 
@@ -2509,5 +2673,7 @@
 :::warning{title=🤔同义词}
 
 - fierce, acute, violent, hard, furious （激烈的；猛烈的）
+
+:::
 
 

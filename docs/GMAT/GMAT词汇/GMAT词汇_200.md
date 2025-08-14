@@ -16,6 +16,8 @@
 
 - bite on, to acquire （取得）
 
+:::
+
 
 ## 201. predation
 
@@ -32,6 +34,8 @@
 :::warning{title=🤔同义词}
 
 - prey, rapine （[动]捕食；掠夺）
+
+:::
 
 
 ## 202. calcium
@@ -148,6 +152,8 @@
 
 - rare, aspire, long for, yearn for, die for （渴望）
 
+:::
+
 
 ## 205. providing
 
@@ -181,6 +187,8 @@
 
 - furnishing （供给（provide的ing形式）；预备）
 
+:::
+
 
 ## 206. grill
 
@@ -203,6 +211,8 @@
 - to roast （烧，烤；严加盘问）
 
 - gridiron, bulgogi （烤架，铁格子；烤肉）
+
+:::
 
 
 ## 207. questionnaire
@@ -251,6 +261,8 @@
 
 - contain, regulate, bit, bottle, manage （控制；使掌握；持有；迷住）
 
+:::
+
 
 ## 209. vertex
 
@@ -267,6 +279,8 @@
 :::warning{title=🤔同义词}
 
 - height, summit, sky, peak, apex （[解剖]顶点；[昆]头顶；[天]天顶）
+
+:::
 
 
 ## 210. altitude
@@ -299,6 +313,8 @@
 
 - height, raise, elevation, rise （高地；高度；[数]顶垂线；（等级和地位等的）高级）
 
+:::
+
 
 ## 211. foreshadow
 
@@ -317,6 +333,8 @@
 - indicate, shadow, announce （预示；成为…的前兆）
 
 - warning, predictive signs, bodement （预兆）
+
+:::
 
 
 ## 212. rental
@@ -369,6 +387,8 @@
 
 - leasehold （租赁的；收取租金的）
 
+:::
+
 
 ## 213. anesthesia
 
@@ -407,6 +427,8 @@
 :::warning{title=🤔同义词}
 
 - anaesthesia, narcosis （[外科]麻醉；麻木（等于anaesthesia））
+
+:::
 
 
 ## 214. bowerbird
@@ -457,6 +479,8 @@
 
 - infringe upon, infringe on （挖战壕；侵害）
 
+:::
+
 
 ## 216. plantation
 
@@ -479,6 +503,8 @@
 :::warning{title=🤔同义词}
 
 - settlement, colonization （栽植；殖民；大农场）
+
+:::
 
 
 ## 217. infrastructure
@@ -561,6 +587,8 @@
 
 - stove, burner （[炉窑]火炉，熔炉）
 
+:::
+
 
 ## 219. exquisite
 
@@ -585,6 +613,8 @@
 :::warning{title=🤔同义词}
 
 - elegant, severe, novel, sophisticated, pretty （精致的；细腻的；优美的，高雅的；异常的；剧烈的）
+
+:::
 
 
 ## 220. affluent
@@ -612,6 +642,8 @@
 - abundant, fluid, full, fluent, luxurious （富裕的；丰富的；流畅的）
 
 - branch, distributary （[地理][水文]支流；富人）
+
+:::
 
 
 ## 221. council
@@ -674,6 +706,8 @@
 
 - committee, session, congress, meeting, soviet （委员会；会议；理事会；地方议会；顾问班子）
 
+:::
+
 
 ## 222. encompass
 
@@ -689,6 +723,8 @@
 
 - involve, contain, carry out, accomplish, achieve （包含；包围，环绕；完成）
 
+:::
+
 
 ## 223. rigor
 
@@ -697,6 +733,8 @@
 :::warning{title=🤔同义词}
 
 - precision, stiffness （严厉；精确；苛刻；僵硬）
+
+:::
 
 
 ## 224. carotenoid
@@ -749,6 +787,8 @@
 
 - exonerative （[免疫]免疫的；免于……的，免除的）
 
+:::
+
 
 ## 226. enlist
 
@@ -765,6 +805,8 @@
 - support of, stand up for sb （支持；从军；应募；赞助）
 
 - recruit （使入伍；征募；谋取…的赞助或帮助）
+
+:::
 
 
 ## 227. essence
@@ -792,6 +834,8 @@
 :::warning{title=🤔同义词}
 
 - substance, truth, principle, entity, texture （本质，实质；精华；[化工]香精）
+
+:::
 
 
 ## 228. corresponding
@@ -827,6 +871,8 @@
 - united, consistent, comparative, solid, matching （相当的，相应的；一致的；通信的）
 
 - suiting （类似（correspond的ing形式）；相配）
+
+:::
 
 
 ## 229. tissue
@@ -889,6 +935,8 @@
 
 - set, gauze （纸巾；[纺]薄纱；一套）
 
+:::
+
 
 ## 230. treaty
 
@@ -928,6 +976,8 @@
 
 - agreement, protocol, negotiation, understanding, accord （[法]条约，协议；谈判）
 
+:::
+
 
 ## 231. oblateness
 
@@ -945,6 +995,8 @@
 
 - flattening （扁圆形；[天]扁率）
 
+:::
+
 
 ## 232. inaccurate
 
@@ -961,6 +1013,8 @@
 :::warning{title=🤔同义词}
 
 - false, wrong, incorrect, improper, erroneous （错误的）
+
+:::
 
 
 ## 233. qualitative
@@ -1025,6 +1079,8 @@
 
 - orthogon （[数]矩形；长方形）
 
+:::
+
 
 ## 235. migrate
 
@@ -1042,6 +1098,8 @@
 
 - transplant （使移居；使移植）
 
+:::
+
 
 ## 236. induce
 
@@ -1056,6 +1114,8 @@
 :::warning{title=🤔同义词}
 
 - attract, produce, cause, operate, occasion （诱导；引起；引诱；感应）
+
+:::
 
 
 ## 237. block
@@ -1124,6 +1184,8 @@
 
 - batched, wholescale （成批的，大块的；交通堵塞的）
 
+:::
+
 
 ## 238. division
 
@@ -1183,6 +1245,8 @@
 
 - ministry, department, sector, segmentation, dom （师（军队）；[管理]部门；分割；[数]除法）
 
+:::
+
 
 ## 239. intersperse
 
@@ -1199,6 +1263,8 @@
 - distribute, spread （点缀；散布）
 
 - shed, lie around （点缀；散布）
+
+:::
 
 
 ## 240. melancholy
@@ -1219,6 +1285,8 @@
 
 - sadness, doldrums （忧郁；悲哀；愁思）
 
+:::
+
 
 ## 241. perturb
 
@@ -1233,6 +1301,8 @@
 :::warning{title=🤔同义词}
 
 - disorder, upset （扰乱；使…混乱；使…心绪不宁）
+
+:::
 
 
 ## 242. contractor
@@ -1263,6 +1333,8 @@
 
 - entrepreneur （[经]承包人；立契约者）
 
+:::
+
 
 ## 243. contingent
 
@@ -1292,6 +1364,8 @@
 
 - happenchance, detachment （分遣队；偶然事件；分得部分）
 
+:::
+
 
 ## 244. beehive
 
@@ -1310,6 +1384,8 @@
 :::warning{title=🤔同义词}
 
 - skep, honeycombing （蜂窝；[蜂]蜂箱）
+
+:::
 
 
 ## 245. ecosystem
@@ -1346,6 +1422,8 @@
 
 - ecological constellation, ecological systems （[生态]生态系统）
 
+:::
+
 
 ## 246. envelop
 
@@ -1364,6 +1442,8 @@
 - case, invest （包围；包封；遮盖）
 
 - package, parcel （信封；包裹）
+
+:::
 
 
 ## 247. dismal
@@ -1390,6 +1470,8 @@
 
 - dark, blue, terrible, heavy （凄凉的，忧郁的；阴沉的，沉闷的；可怕的）
 
+:::
+
 
 ## 248. acquiesce
 
@@ -1411,6 +1493,8 @@
 
 - connive （默许；勉强同意）
 
+:::
+
 
 ## 249. stature
 
@@ -1425,6 +1509,8 @@
 :::warning{title=🤔同义词}
 
 - height, shape, altitude （身高，[人类]身材；（精神、道德等的）高度）
+
+:::
 
 
 ## 250. bead
@@ -1461,6 +1547,8 @@
 
 - foam formation （形成珠状，起泡）
 
+:::
+
 
 ## 251. eject
 
@@ -1475,6 +1563,8 @@
 :::warning{title=🤔同义词}
 
 - to spray, spray on （喷射；驱逐，逐出）
+
+:::
 
 
 ## 252. planetary
@@ -1529,6 +1619,8 @@
 
 - airscrew, airfoil （[印刷][航][船]螺旋桨；推进器）
 
+:::
+
 
 ## 254. persist
 
@@ -1551,6 +1643,8 @@
 - stay, abide （存留，坚持；持续，固执）
 
 - iterate （坚持说，反复说）
+
+:::
 
 
 ## 255. prompt
@@ -1601,6 +1695,8 @@
 
 - punctually （准时地）
 
+:::
+
 
 ## 256. overt
 
@@ -1615,6 +1711,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, distinct, visible, declared, evident （明显的；公然的；蓄意的）
+
+:::
 
 
 ## 257. latitude
@@ -1648,6 +1746,8 @@
 :::warning{title=🤔同义词}
 
 - bourn, circumscription （[地理]纬度；界限；活动范围）
+
+:::
 
 
 ## 258. subsidiary
@@ -1688,6 +1788,8 @@
 
 - auxiliary, subcompany （子公司；辅助者）
 
+:::
+
 
 ## 259. ration
 
@@ -1713,6 +1815,8 @@
 
 - quantification, definite quantity （定量；口粮；配给量）
 
+:::
+
 
 ## 260. catastrophe
 
@@ -1737,6 +1841,8 @@
 :::warning{title=🤔同义词}
 
 - fiasco, smashup （大灾难；大祸；惨败）
+
+:::
 
 
 ## 261. episodic
@@ -1764,6 +1870,8 @@
 :::warning{title=🤔同义词}
 
 - criminality, sinfulness （可责；有过失；[法]有罪）
+
+:::
 
 
 ## 263. aquatic
@@ -1806,6 +1914,8 @@
 
 - acquatic, aquicolous （[生物][化学][水产]水生的；水栖的；在水中或水面进行的）
 
+:::
+
 
 ## 264. generational
 
@@ -1822,6 +1932,8 @@
 :::warning{title=🤔同义词}
 
 - birthing （一代的；生育的）
+
+:::
 
 
 ## 265. overflow
@@ -1866,6 +1978,8 @@
 
 - spill （[计]使溢出；使泛滥；使充溢）
 
+:::
+
 
 ## 266. profitable
 
@@ -1884,6 +1998,8 @@
 :::warning{title=🤔同义词}
 
 - beneficial, helpful, useful, advantageous, conducive （有利可图的；赚钱的；有益的）
+
+:::
 
 
 ## 267. epochal
@@ -1928,6 +2044,8 @@
 
 - moneyman, money changer （金融家；投资家）
 
+:::
+
 
 ## 270. exemplify
 
@@ -1947,6 +2065,8 @@
 
 - example of, instantiate （例证；例示）
 
+:::
+
 
 ## 271. underline
 
@@ -1963,6 +2083,8 @@
 :::warning{title=🤔同义词}
 
 - emphasize, stress, highlight （强调；在…下面划线；预告）
+
+:::
 
 
 ## 272. mesothelioma
@@ -1991,6 +2113,8 @@
 
 - freely, directly, straight （坦率地，直率地；迟钝地）
 
+:::
+
 
 ## 274. exhale
 
@@ -2007,6 +2131,8 @@
 - emit, to send out （呼气；发出；发散；使蒸发）
 
 - to send out, give off （呼气；发出；发散）
+
+:::
 
 
 ## 275. etched
@@ -2028,6 +2154,8 @@
 :::warning{title=🤔同义词}
 
 - eroded, efflorescent （被侵蚀的；风化的）
+
+:::
 
 
 ## 276. refund
@@ -2056,6 +2184,8 @@
 
 - payment, repayment （退款；[金融]偿还，[会计]偿还额）
 
+:::
+
 
 ## 277. inability
 
@@ -2070,6 +2200,8 @@
 :::warning{title=🤔同义词}
 
 - incapacity, incompetency （无能力；无才能）
+
+:::
 
 
 ## 278. psychological
@@ -2133,6 +2265,8 @@
 :::warning{title=🤔同义词}
 
 - moral, numinous （心理的；心理学的；精神上的）
+
+:::
 
 
 ## 279. plutonium
@@ -2205,6 +2339,8 @@
 
 - stickiness, adhesiveness （粘性，[物]粘度）
 
+:::
+
 
 ## 281. innovative
 
@@ -2230,6 +2366,8 @@
 
 - reformatory （革新的，创新的）
 
+:::
+
 
 ## 282. rationale
 
@@ -2244,6 +2382,8 @@
 :::warning{title=🤔同义词}
 
 - fundamental, basic principle （基本原理；原理的阐述）
+
+:::
 
 
 ## 283. staggering
@@ -2263,6 +2403,8 @@
 - doddery, hitchy （蹒跚的；另人惊愕的；犹豫的）
 
 - tottering （蹒跚（stagger的ing形式））
+
+:::
 
 
 ## 284. previous
@@ -2300,6 +2442,8 @@
 - ago, fore （以前的；早先的；过早的）
 
 - antecedently （在先；在…以前）
+
+:::
 
 
 ## 285. opposite
@@ -2360,6 +2504,8 @@
 
 - across （在对面）
 
+:::
+
 
 ## 286. quiescent
 
@@ -2375,6 +2521,8 @@
 
 - still, resting （静止的；不活动的；沉寂的）
 
+:::
+
 
 ## 287. endorsement
 
@@ -2389,6 +2537,8 @@
 :::warning{title=🤔同义词}
 
 - approval, holding, support, authorization, adhesion （认可，支持；[金融]背书；签注（文件））
+
+:::
 
 
 ## 288. boreal
@@ -2416,6 +2566,8 @@
 :::warning{title=🤔同义词}
 
 - Northern （北的，北方的；北风的）
+
+:::
 
 
 ## 289. photosynthesis
@@ -2458,6 +2610,8 @@
 
 - addition, adjunction （添加；增加物；连生；冲积层）
 
+:::
+
 
 ## 291. mature
 
@@ -2492,6 +2646,8 @@
 - developed, adult, due （[农学][地质]成熟的；充分考虑的；到期的；成年人的）
 
 - age, flower （[农学][地质]成熟；到期）
+
+:::
 
 
 ## 292. Confucian
@@ -2534,6 +2690,8 @@
 
 - recover from, unsave （恢复；还原）
 
+:::
+
 
 ## 294. marrow
 
@@ -2561,6 +2719,8 @@
 
 - essence, energy, vitality, elite, flower （髓，[解剖]骨髓；精华；活力）
 
+:::
+
 
 ## 295. allude
 
@@ -2585,6 +2745,8 @@
 :::warning{title=🤔同义词}
 
 - humanity, mercy, kindness, good （仁慈；善行）
+
+:::
 
 
 ## 297. distributor
@@ -2625,6 +2787,8 @@
 
 - dealer, franchiser （经销商；[纺][电]分配器；分配者；散布者；配电盘）
 
+:::
+
 
 ## 298. sufficiency
 
@@ -2639,6 +2803,8 @@
 :::warning{title=🤔同义词}
 
 - plenty, amplitude, enough （足量，充足；自满）
+
+:::
 
 
 ## 299. hominid
@@ -2658,5 +2824,7 @@
 :::warning{title=🤔同义词}
 
 - homonid （原始人类；人科动物）
+
+:::
 
 

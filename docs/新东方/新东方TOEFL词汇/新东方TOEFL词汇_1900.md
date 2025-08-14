@@ -44,6 +44,8 @@
 
 - solidification, coagulation （[物]冻结；凝固）
 
+:::
+
 
 ## 1901. inevitably
 
@@ -60,6 +62,8 @@
 :::warning{title=🤔同义词}
 
 - necessarily, ineluctably （不可避免地；必然地）
+
+:::
 
 
 ## 1902. estimate
@@ -115,6 +119,8 @@
 - computation, appraisal, calculation, assessment, judgment, evaluation, viewpoint （估计，估价；判断，看法）
 
 - measure, value, score （估计，[数]估量；判断，评价）
+
+:::
 
 
 ## 1903. brand
@@ -179,6 +185,8 @@
 
 - logo, label （[贸易]商标，[经管]牌子；烙印）
 
+:::
+
 
 ## 1904. suspension
 
@@ -238,6 +246,8 @@
 
 - hang, weighing （[化工][化学][物化]悬浮；暂停；停职）
 
+:::
+
 
 ## 1905. proposal
 
@@ -281,6 +291,8 @@
 
 - suggestion, advice, offer, instance, recommendation （提议，建议；求婚）
 
+:::
+
 
 ## 1906. vibrant
 
@@ -298,6 +310,8 @@
 
 - oscillatory, libratory （[力]振动的；充满生气的；响亮的；战栗的）
 
+:::
+
 
 ## 1907. insanity
 
@@ -312,6 +326,8 @@
 :::warning{title=🤔同义词}
 
 - madness, flightiness （疯狂；精神错乱；[内科]精神病；愚顽）
+
+:::
 
 
 ## 1908. recreation
@@ -347,6 +363,8 @@
 :::warning{title=🤔同义词}
 
 - entertainment, pleasure, sport, occupation, amusement （娱乐；消遣；休养）
+
+:::
 
 
 ## 1909. skyscraper
@@ -396,6 +414,8 @@
 :::warning{title=🤔同义词}
 
 - luggable, hand-held （手提的，便携式的；轻便的）
+
+:::
 
 
 ## 1911. ancient
@@ -454,6 +474,8 @@
 
 - elder, old folk （古代人；老人）
 
+:::
+
 
 ## 1912. antecede
 
@@ -462,6 +484,8 @@
 :::warning{title=🤔同义词}
 
 - overcome, exceed, cap （在...之前；胜过；居前）
+
+:::
 
 
 ## 1913. squirrel
@@ -489,6 +513,8 @@
 :::warning{title=🤔同义词}
 
 - store, reposit （贮藏）
+
+:::
 
 
 ## 1914. cognitive
@@ -549,6 +575,8 @@
 
 - recognitive, epistemic （认知的，认识的）
 
+:::
+
 
 ## 1915. attorney
 
@@ -584,6 +612,8 @@
 
 - lawyer, deputy, agent, factor, secondary （律师；[法]代理人）
 
+:::
+
 
 ## 1916. adopt
 
@@ -607,6 +637,8 @@
 
 - assume, take in sth （采取；接受；收养；正式通过）
 
+:::
+
 
 ## 1917. expire
 
@@ -625,6 +657,8 @@
 - die, drop, determine, finish, pass （期满；终止；死亡；呼气）
 
 - breathe out, exsufflate （呼出（空气））
+
+:::
 
 
 ## 1918. viral
@@ -669,6 +703,8 @@
 
 - object, sit down on （反对）
 
+:::
+
 
 ## 1920. singular
 
@@ -703,6 +739,8 @@
 :::warning{title=🤔同义词}
 
 - remarkable, extraordinary, novel, wonder, exquisite （单数的；单一的；非凡的；[数]异常的）
+
+:::
 
 
 ## 1921. device
@@ -763,6 +801,8 @@
 
 - apparatus, installation, strategy, unit, gear （[机]装置；策略；图案）
 
+:::
+
 
 ## 1922. evaporation
 
@@ -802,6 +842,8 @@
 
 - extinction, vaporization （[物][化学]蒸发；消失）
 
+:::
+
 
 ## 1923. commentary
 
@@ -825,6 +867,8 @@
 
 - notes, explanation, legend （评论；注释；评注；说明）
 
+:::
+
 
 ## 1924. homosexuality
 
@@ -843,6 +887,8 @@
 :::warning{title=🤔同义词}
 
 - uranism （[心理]同性恋）
+
+:::
 
 
 ## 1925. minus
@@ -874,6 +920,8 @@
 - shortage, short of, lack, insufficient （[数]负号，减号；不足；负数）
 
 - negative, nonpositive （减的；负的）
+
+:::
 
 
 ## 1926. conservative
@@ -910,6 +958,8 @@
 
 - old guard, pontificator （保守派，守旧者）
 
+:::
+
 
 ## 1927. skeletal
 
@@ -932,6 +982,8 @@
 :::warning{title=🤔同义词}
 
 - boned, osteal （[生物]骨骼的，像骨骼的；骸骨的；骨瘦如柴的）
+
+:::
 
 
 ## 1928. seep
@@ -956,6 +1008,8 @@
 
 - springlet （小泉；水陆两用的吉普车）
 
+:::
+
 
 ## 1929. unsubstantiated
 
@@ -970,6 +1024,8 @@
 :::warning{title=🤔同义词}
 
 - uncorroborated, unattested （未经证实的，无事实根据的）
+
+:::
 
 
 ## 1930. cabin
@@ -999,6 +1055,8 @@
 :::warning{title=🤔同义词}
 
 - shed, cottage （小屋；[船]客舱；船舱）
+
+:::
 
 
 ## 1931. seem
@@ -1030,6 +1088,8 @@
 :::warning{title=🤔同义词}
 
 - appear to （似乎；像是；装作）
+
+:::
 
 
 ## 1932. apprenticeship
@@ -1068,6 +1128,8 @@
 
 - intrude upon, hinder from （打扰；妨碍）
 
+:::
+
 
 ## 1934. persist
 
@@ -1090,6 +1152,8 @@
 - stay, abide （存留，坚持；持续，固执）
 
 - iterate （坚持说，反复说）
+
+:::
 
 
 ## 1935. pump
@@ -1154,6 +1218,8 @@
 
 - inflator （[机]泵，抽水机；打气筒）
 
+:::
+
 
 ## 1936. pierce
 
@@ -1180,6 +1246,8 @@
 - cut through, transpierce （刺穿；洞察；响彻；深深地打动）
 
 - come into, go into, get into, enter into （进入；透入）
+
+:::
 
 
 ## 1937. calendar
@@ -1226,6 +1294,8 @@
 
 - daily schedule, ephemeris （日历；[天]历法；[管理]日程表）
 
+:::
+
 
 ## 1938. patriarch
 
@@ -1240,6 +1310,8 @@
 :::warning{title=🤔同义词}
 
 - author, paterfamilias （家长；族长；元老；创始人）
+
+:::
 
 
 ## 1939. intern
@@ -1260,6 +1332,8 @@
 
 - hold, detain （拘留，软禁）
 
+:::
+
 
 ## 1940. sensual
 
@@ -1275,6 +1349,8 @@
 
 - lay, mundane （感觉的；肉欲的；世俗的；感觉论的）
 
+:::
+
 
 ## 1941. righteous
 
@@ -1289,6 +1365,8 @@
 :::warning{title=🤔同义词}
 
 - judicial, straight, just, square （正义的；正直的；公正的）
+
+:::
 
 
 ## 1942. speculate
@@ -1312,6 +1390,8 @@
 - guess, venture （推测；投机；思索）
 
 - understand, conclude （推断）
+
+:::
 
 
 ## 1943. closet
@@ -1340,6 +1420,8 @@
 
 - secret, private, underground, theoretic, chamber （秘密的，私下的；空谈的）
 
+:::
+
 
 ## 1944. heed
 
@@ -1357,6 +1439,8 @@
 
 - watching, take care of, be mindful of, mind you （注意，留心）
 
+:::
+
 
 ## 1945. adorn
 
@@ -1371,6 +1455,8 @@
 :::warning{title=🤔同义词}
 
 - paint, hang （装饰；使生色）
+
+:::
 
 
 ## 1946. monster
@@ -1402,6 +1488,8 @@
 - giant, bugbear （怪物；巨人，巨兽；残忍的人）
 
 - huge, enormous, tremendous, massive, macro （巨大的，庞大的）
+
+:::
 
 
 ## 1947. cement
@@ -1466,6 +1554,8 @@
 
 - jointing compound （[建]水泥；[胶粘]接合剂）
 
+:::
+
 
 ## 1948. subway
 
@@ -1501,6 +1591,8 @@
 
 - tube （[铁路]乘地铁）
 
+:::
+
 
 ## 1949. scourge
 
@@ -1519,6 +1611,8 @@
 - hide, whip up （鞭打；蹂躏；严斥；痛斥）
 
 - disaster, misfortune （鞭；灾祸；鞭子；苦难的根源）
+
+:::
 
 
 ## 1950. acquaint
@@ -1540,6 +1634,8 @@
 :::warning{title=🤔同义词}
 
 - familiarize （使熟悉；使认识）
+
+:::
 
 
 ## 1951. atrophy
@@ -1567,6 +1663,8 @@
 - depauperation, stunting （[病理]萎缩，萎缩症；发育停止）
 
 - die back （[病理]萎缩；虚脱）
+
+:::
 
 
 ## 1952. pulp
@@ -1621,6 +1719,8 @@
 
 - sarcocarp （纸浆；[食品]果肉；黏浆状物质）
 
+:::
+
 
 ## 1953. undergraduate
 
@@ -1656,6 +1756,8 @@
 
 - collegiate （大学生的）
 
+:::
+
 
 ## 1954. antibiotic
 
@@ -1682,6 +1784,8 @@
 - germproof （[药][微]抗生的；抗菌的）
 
 - microbiotic, bacteriophage （[药]抗生素，[微]抗菌素）
+
+:::
 
 
 ## 1955. joint
@@ -1756,6 +1860,8 @@
 
 - cement, piece, couple （连接，贴合；[建]接合；使有接头）
 
+:::
+
 
 ## 1956. separate
 
@@ -1807,6 +1913,8 @@
 
 - partition, fall-away （分开；抽印本）
 
+:::
+
 
 ## 1957. reasonable
 
@@ -1848,6 +1956,8 @@
 
 - rational, logical, possible, just, legitimate （合理的，公道的；通情达理的）
 
+:::
+
 
 ## 1958. endangered
 
@@ -1881,6 +1991,8 @@
 
 - accidentally, fortuitously （偶然地；随意地）
 
+:::
+
 
 ## 1960. wick
 
@@ -1895,6 +2007,8 @@
 :::warning{title=🤔同义词}
 
 - lampwick （灯芯，蜡烛心）
+
+:::
 
 
 ## 1961. biannual
@@ -1911,6 +2025,8 @@
 
 - semiannual （一年两次的）
 
+:::
+
 
 ## 1962. elicit
 
@@ -1926,6 +2042,8 @@
 
 - premise, attract, produce, cause, operate （抽出，引出；引起）
 
+:::
+
 
 ## 1963. relegate
 
@@ -1940,6 +2058,8 @@
 :::warning{title=🤔同义词}
 
 - put in, hand in （把降低到；归入；提交）
+
+:::
 
 
 ## 1964. ambiguity
@@ -1966,6 +2086,8 @@
 
 - vagueness, opacity （含糊；不明确；暧昧；模棱两可的话）
 
+:::
+
 
 ## 1965. trivial
 
@@ -1988,6 +2110,8 @@
 :::warning{title=🤔同义词}
 
 - small, unimportant （不重要的，琐碎的；琐细的）
+
+:::
 
 
 ## 1966. awareness
@@ -2022,6 +2146,8 @@
 
 - consciousness, knowledge, cognition （意识，认识；明白，知道）
 
+:::
+
 
 ## 1967. postcard
 
@@ -2043,6 +2169,8 @@
 
 - postal card （明信片）
 
+:::
+
 
 ## 1968. longevity
 
@@ -2063,6 +2191,8 @@
 :::warning{title=🤔同义词}
 
 - age, macrobiosis （长寿，长命；[生物]寿命）
+
+:::
 
 
 ## 1969. military
@@ -2135,6 +2265,8 @@
 
 - force, soldier, battalion （军队；军人）
 
+:::
+
 
 ## 1970. reluctant
 
@@ -2156,6 +2288,8 @@
 
 - narrow, unwilling （不情愿的；勉强的；顽抗的）
 
+:::
+
 
 ## 1971. conscientious
 
@@ -2172,6 +2306,8 @@
 :::warning{title=🤔同义词}
 
 - serious, earnest （认真的；尽责的；本着良心的；小心谨慎的）
+
+:::
 
 
 ## 1972. coil
@@ -2242,6 +2378,8 @@
 
 - wreathe （成圈状）
 
+:::
+
 
 ## 1973. authoritative
 
@@ -2265,6 +2403,8 @@
 
 - magisterial, cathedratic （有权威的；命令式的；当局的）
 
+:::
+
 
 ## 1974. ensure
 
@@ -2287,6 +2427,8 @@
 :::warning{title=🤔同义词}
 
 - undertake, assure, insure （保证，确保；使安全）
+
+:::
 
 
 ## 1975. organism
@@ -2318,6 +2460,8 @@
 :::warning{title=🤔同义词}
 
 - living being, biosome （有机体；[生物]生物体；微生物）
+
+:::
 
 
 ## 1976. epidemic
@@ -2356,6 +2500,8 @@
 
 - infection, infectious disease （传染病；流行病；风尚等的流行）
 
+:::
+
 
 ## 1977. suppose
 
@@ -2374,6 +2520,8 @@
 - expect, have, count, say, guess （假设；认为；让（虚拟语气）；推想）
 
 - believe, imagine （猜想；料想）
+
+:::
 
 
 ## 1978. scruple
@@ -2400,6 +2548,8 @@
 
 - shy of （对…有顾虑）
 
+:::
+
 
 ## 1979. remarkable
 
@@ -2425,6 +2575,8 @@
 
 - excellent, prominent, extraordinary, significant, wonder （卓越的；非凡的；值得注意的）
 
+:::
+
 
 ## 1980. flavor
 
@@ -2445,6 +2597,8 @@
 :::warning{title=🤔同义词}
 
 - sapor, palatability （情味，风味；香料；滋味）
+
+:::
 
 
 ## 1981. recess
@@ -2470,6 +2624,8 @@
 - break, cavity, rest （休息；休会；凹处）
 
 - relax, vacation （休息；休假）
+
+:::
 
 
 ## 1982. extract
@@ -2534,6 +2690,8 @@
 
 - juice, succus （汁；[图情]摘录；[化学][药][化工]榨出物；选粹）
 
+:::
+
 
 ## 1983. outspoken
 
@@ -2548,6 +2706,8 @@
 :::warning{title=🤔同义词}
 
 - honest, transparent, open （坦率的，直言不讳的）
+
+:::
 
 
 ## 1984. obscure
@@ -2576,6 +2736,8 @@
 
 - overcurtain, becloud （遮掩；使变暗；使难理解）
 
+:::
+
 
 ## 1985. noxious
 
@@ -2598,6 +2760,8 @@
 :::warning{title=🤔同义词}
 
 - harmful, toxic, evil, poisonous, rank （有害的；有毒的；败坏道德的；讨厌的）
+
+:::
 
 
 ## 1986. bolster
@@ -2625,6 +2789,8 @@
 - holding, support, adhesion, backing （支持；长枕）
 
 - encourage, second, carry, hand, champion （支持；支撑）
+
+:::
 
 
 ## 1987. region
@@ -2685,6 +2851,8 @@
 
 - area, extent, boundary, zone, spectrum, territory （[地理]地区；范围；[医]部位）
 
+:::
+
 
 ## 1988. deceive
 
@@ -2706,6 +2874,8 @@
 
 - take in sb, give the shaft （欺骗；行骗）
 
+:::
+
 
 ## 1989. ingenious
 
@@ -2722,6 +2892,8 @@
 :::warning{title=🤔同义词}
 
 - prepared, clever （有独创性的；机灵的，精制的；心灵手巧的）
+
+:::
 
 
 ## 1990. questionnaire
@@ -2768,6 +2940,8 @@
 
 - penetration （突破；突破性进展）
 
+:::
+
 
 ## 1992. snack
 
@@ -2799,6 +2973,8 @@
 
 - nosh （吃快餐，吃点心）
 
+:::
+
 
 ## 1993. amphibious
 
@@ -2825,6 +3001,8 @@
 :::warning{title=🤔同义词}
 
 - mark, print, characteristic, trace （印记；[法]痕迹；特征；版本说明）
+
+:::
 
 
 ## 1995. destination
@@ -2873,6 +3051,8 @@
 
 - goal, end-point （[计]目的地，终点）
 
+:::
+
 
 ## 1996. yoke
 
@@ -2899,6 +3079,8 @@
 - couple, become one, link （结合；给…上轭）
 
 - bond, couple, become one, combine （结合；匹配）
+
+:::
 
 
 ## 1997. vertical
@@ -2967,6 +3149,8 @@
 
 - perpendicular plane, perpendicular line （[数]垂直线，垂直面）
 
+:::
+
 
 ## 1998. reciprocal
 
@@ -2998,6 +3182,8 @@
 
 - mutual, au pair （[贸易]互惠的；相互的；[数]倒数的，彼此相反的）
 
+:::
+
 
 ## 1999. perpetuate
 
@@ -3012,5 +3198,7 @@
 :::warning{title=🤔同义词}
 
 - retain, keep up （使不朽；保持）
+
+:::
 
 

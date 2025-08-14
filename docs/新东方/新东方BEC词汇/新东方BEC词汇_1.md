@@ -32,6 +32,8 @@
 
 - withdrawal, revocation （[计]取消，撤销）
 
+:::
+
 
 ## 2. prepare
 
@@ -64,6 +66,8 @@
 :::warning{title=🤔同义词}
 
 - provide, make, fix （准备；使适合；装备；起草）
+
+:::
 
 
 ## 3. half
@@ -130,6 +134,8 @@
 
 - incomplete, synsemantic （一半的；不完全的；半途的）
 
+:::
+
 
 ## 4. spacious
 
@@ -144,6 +150,8 @@
 :::warning{title=🤔同义词}
 
 - extensive, vast, wider, capacious （宽敞的，广阔的；无边无际的）
+
+:::
 
 
 ## 5. analyse
@@ -163,6 +171,8 @@
 :::warning{title=🤔同义词}
 
 - study, break down （分析；分解；细察）
+
+:::
 
 
 ## 6. costing
@@ -191,6 +201,8 @@
 
 - spending （花费（cost的ing形式））
 
+:::
+
 
 ## 7. nowadays
 
@@ -207,6 +219,8 @@
 :::warning{title=🤔同义词}
 
 - today, contemporarily （现今；时下）
+
+:::
 
 
 ## 8. hall
@@ -267,6 +281,8 @@
 
 - passage, corridor （门厅，走廊；[建]会堂；食堂；学生宿舍）
 
+:::
+
 
 ## 9. salary
 
@@ -318,6 +334,8 @@
 
 - emolument, paycheck （[劳经]薪水）
 
+:::
+
 
 ## 10. rider
 
@@ -338,6 +356,8 @@
 :::warning{title=🤔同义词}
 
 - rail, caballero （骑手；附文；扶手）
+
+:::
 
 
 ## 11. acceptability
@@ -362,6 +382,8 @@
 
 - permissibility （可接受性；可容许性）
 
+:::
+
 
 ## 12. debtee
 
@@ -376,6 +398,8 @@
 :::warning{title=🤔同义词}
 
 - creditor, loaner （[法]债权人）
+
+:::
 
 
 ## 13. paragon
@@ -393,6 +417,8 @@
 - type, model, prototype （模范；完美之物；优秀之人）
 
 - perfect, ideal, full, flawless （完美的）
+
+:::
 
 
 ## 14. pick
@@ -463,6 +489,8 @@
 
 - chose, selection, choice （选择；挖；[农机]鹤嘴锄）
 
+:::
+
 
 ## 15. know-how
 
@@ -486,6 +514,8 @@
 
 - knack, actual knowledge （诀窍；实际知识；专门技能）
 
+:::
+
 
 ## 16. fluctuate
 
@@ -502,6 +532,8 @@
 - wave motion, shake （波动；涨落；动摇）
 
 - destabilize （使波动；使动摇）
+
+:::
 
 
 ## 17. reposition
@@ -520,6 +552,8 @@
 
 - replacement, store, restoration （复位；贮藏；放回）
 
+:::
+
 
 ## 18. kidnap
 
@@ -534,6 +568,8 @@
 :::warning{title=🤔同义词}
 
 - spirit, abduct （绑架；诱拐；拐骗）
+
+:::
 
 
 ## 19. calculate
@@ -560,6 +596,8 @@
 
 - expect, propose, forecast, cast, find （计算；预测；认为；打算）
 
+:::
+
 
 ## 20. authorize
 
@@ -574,6 +612,8 @@
 :::warning{title=🤔同义词}
 
 - confirm, allow （批准，认可；授权给；委托代替）
+
+:::
 
 
 ## 21. organizational
@@ -620,6 +660,8 @@
 
 - anatomic, tissular （组织的；编制的）
 
+:::
+
 
 ## 22. reinsure
 
@@ -634,6 +676,8 @@
 :::warning{title=🤔同义词}
 
 - cede insurance （再保险；分保）
+
+:::
 
 
 ## 23. audience
@@ -665,6 +709,8 @@
 :::warning{title=🤔同义词}
 
 - reader, interview （观众；听众；读者；接见）
+
+:::
 
 
 ## 24. solid
@@ -735,6 +781,8 @@
 
 - cube （[物]固体；[数]立方体）
 
+:::
+
 
 ## 25. chopstick
 
@@ -776,6 +824,8 @@
 
 - contain, regulate, bit, bottle, manage （控制；使掌握；持有；迷住）
 
+:::
+
 
 ## 27. coincide
 
@@ -798,6 +848,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, square, identify, accord （一致，符合；同时发生）
+
+:::
 
 
 ## 28. competent
@@ -831,6 +883,8 @@
 :::warning{title=🤔同义词}
 
 - able, capable, efficient, sufficient, adequate （胜任的；有能力的；能干的；足够的）
+
+:::
 
 
 ## 29. investment
@@ -890,6 +944,8 @@
 :::warning{title=🤔同义词}
 
 - input, introjection （[经]投资；投入；封锁）
+
+:::
 
 
 ## 30. circular
@@ -956,6 +1012,8 @@
 
 - notice, advice, information （通知，传单）
 
+:::
+
 
 ## 31. analysis
 
@@ -1015,6 +1073,8 @@
 
 - decomposition, dissolution （[化学][数]分析；分解；验定）
 
+:::
+
 
 ## 32. avoidance
 
@@ -1042,6 +1102,8 @@
 
 - evasion, elusion （逃避；废止；职位空缺）
 
+:::
+
 
 ## 33. revaluation
 
@@ -1056,6 +1118,8 @@
 :::warning{title=🤔同义词}
 
 - reassessment （[经]重新估价；再评价）
+
+:::
 
 
 ## 34. devise
@@ -1074,6 +1138,8 @@
 
 - legacy, bequest （遗赠）
 
+:::
+
 
 ## 35. fashionable
 
@@ -1088,6 +1154,8 @@
 :::warning{title=🤔同义词}
 
 - popular, going, modern, ruling, epidemic （流行的；时髦的；上流社会的）
+
+:::
 
 
 ## 36. backwards
@@ -1113,6 +1181,8 @@
 :::warning{title=🤔同义词}
 
 - rear, fro （倒；向后；逆）
+
+:::
 
 
 ## 37. cooperative
@@ -1163,6 +1233,8 @@
 
 - artel, co-op （[农经]合作社）
 
+:::
+
 
 ## 38. shortlist
 
@@ -1197,6 +1269,8 @@
 :::warning{title=🤔同义词}
 
 - passionate, hypersusceptible （过敏的；急躁的；易怒的）
+
+:::
 
 
 ## 40. correlation
@@ -1257,6 +1331,8 @@
 
 - relationship, associations, relevance （[数]相关，[理物]关联；相互关系）
 
+:::
+
 
 ## 41. exposure
 
@@ -1316,6 +1392,8 @@
 
 - layout, reveal, showing （暴露；[摄]曝光；揭露；陈列）
 
+:::
+
 
 ## 42. statute
 
@@ -1338,6 +1416,8 @@
 :::warning{title=🤔同义词}
 
 - act, ordinance （[法]法规；法令；条例）
+
+:::
 
 
 ## 43. object
@@ -1402,6 +1482,8 @@
 
 - refuse, sit down on （反对；拒绝）
 
+:::
+
 
 ## 44. accessible
 
@@ -1422,6 +1504,8 @@
 :::warning{title=🤔同义词}
 
 - accostable, comprehensible （易接近的；可进入的；可理解的）
+
+:::
 
 
 ## 45. commodity
@@ -1478,6 +1562,8 @@
 
 - cargo, merchandise （商品，[贸易]货物；日用品）
 
+:::
+
 
 ## 46. harbour
 
@@ -1506,6 +1592,8 @@
 - secrete （庇护；藏匿；入港停泊）
 
 - haven, home （海港（等于harbor）；避难所）
+
+:::
 
 
 ## 47. hang
@@ -1570,6 +1658,8 @@
 
 - moratorium, pause （悬挂；暂停，中止）
 
+:::
+
 
 ## 48. poise
 
@@ -1593,6 +1683,8 @@
 
 - hang, balance of, get ready （平衡；准备好；悬着）
 
+:::
+
 
 ## 49. authenticate
 
@@ -1607,6 +1699,8 @@
 :::warning{title=🤔同义词}
 
 - appraise, to identify （鉴定；证明…是真实的）
+
+:::
 
 
 ## 50. role
@@ -1667,6 +1761,8 @@
 
 - workers, mission, part, assignment, character （角色；任务）
 
+:::
+
 
 ## 51. turf
 
@@ -1689,6 +1785,8 @@
 :::warning{title=🤔同义词}
 
 - greensward, divot （[建]草皮；泥炭；跑马场）
+
+:::
 
 
 ## 52. independent
@@ -1755,6 +1853,8 @@
 
 - alone, free, isolated, separate, specialty （独立的；单独的；无党派的；不受约束的）
 
+:::
+
 
 ## 53. carriage
 
@@ -1789,6 +1889,8 @@
 :::warning{title=🤔同义词}
 
 - transportation, behavior, traffic, charges, bearing （运输；运费；四轮马车；举止；[铁路]客车厢）
+
+:::
 
 
 ## 54. ahead
@@ -1855,6 +1957,8 @@
 
 - forward, antrorse （领先的；向前的）
 
+:::
+
 
 ## 55. roll
 
@@ -1919,6 +2023,8 @@
 - wave, turn, screw, rock （卷；滚动；转动；起伏，摇晃）
 
 - book, volume （卷，卷形物；名单；摇晃）
+
+:::
 
 
 ## 56. turn
@@ -1989,6 +2095,8 @@
 
 - variation, shift, change, diversification, mutation （转弯；变化）
 
+:::
+
 
 ## 57. unparalleled
 
@@ -2003,6 +2111,8 @@
 :::warning{title=🤔同义词}
 
 - matchless, incomparable （无比的；无双的；空前未有的）
+
+:::
 
 
 ## 58. plausible
@@ -2020,6 +2130,8 @@
 :::warning{title=🤔同义词}
 
 - smooth-tongued, rhetoric （貌似可信的，花言巧语的；貌似真实的，貌似有理的）
+
+:::
 
 
 ## 59. elect
@@ -2049,6 +2161,8 @@
 - opt for, to make a choice （选举；选择；推选）
 
 - take one's choice （作出选择；进行选举）
+
+:::
 
 
 ## 60. example
@@ -2102,6 +2216,8 @@
 - mirror, lead, sample （例子；榜样）
 
 - illustrate （举例）
+
+:::
 
 
 ## 61. result
@@ -2166,6 +2282,8 @@
 
 - set, account, breed （结果；导致；产生）
 
+:::
+
 
 ## 62. commission
 
@@ -2229,6 +2347,8 @@
 
 - depute, authorise （委任；使服役；委托制作）
 
+:::
+
 
 ## 63. listing
 
@@ -2249,6 +2369,8 @@
 - statement, bill （[计]列表，清单）
 
 - tabbing （[计]列表（list的现在分词））
+
+:::
 
 
 ## 64. policy
@@ -2309,6 +2431,8 @@
 
 - deal, programm （政策，方针；[保险]保险单）
 
+:::
+
 
 ## 65. rescind
 
@@ -2323,6 +2447,8 @@
 :::warning{title=🤔同义词}
 
 - release from, want out （解除；废除；撤回）
+
+:::
 
 
 ## 66. hand
@@ -2389,6 +2515,8 @@
 
 - encourage, carry, second, back, transfer （传递，交给；支持；搀扶）
 
+:::
+
 
 ## 67. contractual
 
@@ -2414,6 +2542,8 @@
 
 - stipulatory （契约的，合同的）
 
+:::
+
 
 ## 68. provocative
 
@@ -2435,6 +2565,8 @@
 
 - stimulus, irritation （刺激物，挑拨物；兴奋剂）
 
+:::
+
 
 ## 69. caretaker
 
@@ -2451,6 +2583,8 @@
 :::warning{title=🤔同义词}
 
 - gatekeeper, doorman （看管者；看门人；守护者）
+
+:::
 
 
 ## 70. address
@@ -2514,6 +2648,8 @@
 - undertake, pursue, have （演说；从事；忙于；写姓名地址；向…致辞）
 
 - speech, lecture, talk （[计]地址；演讲；致辞；说话的技巧）
+
+:::
 
 
 ## 71. licensee
@@ -2586,6 +2722,8 @@
 
 - alliance, league, unity, combination, combined with （联盟，协会；工会；联合）
 
+:::
+
 
 ## 73. abbreviation
 
@@ -2601,6 +2739,8 @@
 
 - abridgement, sigillum （[语]缩写；缩写词）
 
+:::
+
 
 ## 74. vocation
 
@@ -2615,6 +2755,8 @@
 :::warning{title=🤔同义词}
 
 - profession, employment, career, calling, pursuit, occupation （[劳经]职业；天职；天命；神召）
+
+:::
 
 
 ## 75. component
@@ -2679,6 +2821,8 @@
 
 - module, element, constituent （成分；组件；[电子]元件）
 
+:::
+
 
 ## 76. sale
 
@@ -2742,6 +2886,8 @@
 
 - marketing, sell, auction （销售；[贸易]出售；拍卖；销售额；廉价出售）
 
+:::
+
 
 ## 77. suite
 
@@ -2780,6 +2926,8 @@
 :::warning{title=🤔同义词}
 
 - furniture, satellite （（一套）家具；套房；组曲；（一批）[劳经]随员，随从）
+
+:::
 
 
 ## 78. blue
@@ -2844,6 +2992,8 @@
 
 - azur, blau （[光]蓝色）
 
+:::
+
 
 ## 79. consultant
 
@@ -2871,6 +3021,8 @@
 
 - adviser, counselor （[经]顾问；咨询者；会诊医生）
 
+:::
+
 
 ## 80. unprecedented
 
@@ -2894,6 +3046,8 @@
 
 - unheard-of, all-time （空前的；无前例的）
 
+:::
+
 
 ## 81. obvious
 
@@ -2908,6 +3062,8 @@
 :::warning{title=🤔同义词}
 
 - distinct, visible, prominent, marked, evident （明显的；显著的；平淡无奇的）
+
+:::
 
 
 ## 82. quarantine
@@ -2941,6 +3097,8 @@
 - insulate, segregant （[医]检疫；隔离；使隔离）
 
 - investment, insulation, isolation （[医]检疫；隔离；检疫期；封锁）
+
+:::
 
 
 ## 83. information
@@ -3001,6 +3159,8 @@
 
 - feedback, advice, notice, knowledge of, cognition （[计][通信]信息，资料；知识；[图情]情报；通知）
 
+:::
+
 
 ## 84. Rep
 
@@ -3025,6 +3185,8 @@
 :::warning{title=🤔同义词}
 
 - repp （棱纹平布；雷普（物体伦琴当量））
+
+:::
 
 
 ## 85. rationalize
@@ -3083,6 +3245,8 @@
 
 - latitudinarian （自由主义者）
 
+:::
+
 
 ## 87. discuss
 
@@ -3105,6 +3269,8 @@
 :::warning{title=🤔同义词}
 
 - debate, reason, argue （讨论；论述，辩论）
+
+:::
 
 
 ## 88. standard
@@ -3171,6 +3337,8 @@
 
 - normal, par （[标准]标准的；合规格的；公认为优秀的）
 
+:::
+
 
 ## 89. reimburse
 
@@ -3185,6 +3353,8 @@
 :::warning{title=🤔同义词}
 
 - replace, tender （偿还；赔偿）
+
+:::
 
 
 ## 90. acknowledgement
@@ -3206,6 +3376,8 @@
 :::warning{title=🤔同义词}
 
 - recognition, appreciation, verification, confirmation, thank （承认；确认；感谢）
+
+:::
 
 
 ## 91. correct
@@ -3254,6 +3426,8 @@
 
 - right, true, just （正确的；恰当的；端正的）
 
+:::
+
 
 ## 92. resolve
 
@@ -3283,6 +3457,8 @@
 
 - determinateness （坚决；决定要做的事）
 
+:::
+
 
 ## 93. sharply
 
@@ -3291,6 +3467,8 @@
 :::warning{title=🤔同义词}
 
 - keenly, trenchantly （急剧地；锐利地）
+
+:::
 
 
 ## 94. confront
@@ -3312,6 +3490,8 @@
 :::warning{title=🤔同义词}
 
 - front, compare （面对；遭遇；比较）
+
+:::
 
 
 ## 95. onus
@@ -3336,6 +3516,8 @@
 
 - liability, duty, burden, obligation, weight （责任，义务；负担）
 
+:::
+
 
 ## 96. accommodator
 
@@ -3344,6 +3526,8 @@
 :::warning{title=🤔同义词}
 
 - intercessor, pacifier （调解人；适应者；提供方便者）
+
+:::
 
 
 ## 97. faithful
@@ -3371,6 +3555,8 @@
 :::warning{title=🤔同义词}
 
 - loving, devoted （忠实的，忠诚的；如实的；准确可靠的）
+
+:::
 
 
 ## 98. dominate
@@ -3401,6 +3587,8 @@
 
 - advantage over, prevail over （占优势；处于支配地位）
 
+:::
+
 
 ## 99. rearrange
 
@@ -3415,5 +3603,7 @@
 :::warning{title=🤔同义词}
 
 - replume （重新排列；重新整理）
+
+:::
 
 

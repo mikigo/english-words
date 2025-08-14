@@ -42,6 +42,8 @@
 
 - crag, krantz （峭壁；浸渍）
 
+:::
+
 
 ## 501. infect
 
@@ -56,6 +58,8 @@
 :::warning{title=🤔同义词}
 
 - affect, contract, catch, disease, communicate （[医]感染，传染）
+
+:::
 
 
 ## 502. conglomerate
@@ -83,6 +87,8 @@
 - enterprise group, keiretsu （[岩]砾岩；企业集团；[动]聚合物）
 
 - volumed （成团的；砾岩性的）
+
+:::
 
 
 ## 503. fuse
@@ -127,6 +133,8 @@
 
 - signal, safety wire （[电]保险丝；[军][矿业]导火线，雷管）
 
+:::
+
 
 ## 504. contribute
 
@@ -144,6 +152,8 @@
 
 - make contribution, offer up （贡献，出力；[图情]投稿；[经]捐献）
 
+:::
+
 
 ## 505. ambitious
 
@@ -158,6 +168,8 @@
 :::warning{title=🤔同义词}
 
 - thirsty, eager-beaver （野心勃勃的；有雄心的；热望的；炫耀的）
+
+:::
 
 
 ## 506. nonstarter
@@ -177,6 +189,8 @@
 :::warning{title=🤔同义词}
 
 - loose, overindulgence （松驰；放纵）
+
+:::
 
 
 ## 508. spin
@@ -228,6 +242,8 @@
 - turn, swing （[物]使旋转；纺纱；编造；结网）
 
 - revolution, rotation, rolling, turning （[物]旋转；疾驰）
+
+:::
 
 
 ## 509. fault
@@ -298,6 +314,8 @@
 
 - carp at, trip up （（通常用于疑问句或否定句）挑剔）
 
+:::
+
 
 ## 510. transaction
 
@@ -359,6 +377,8 @@
 
 - relations, trade, truck （[贸易]交易；[计]事务；办理；会报，[图情]学报）
 
+:::
+
 
 ## 511. rib
 
@@ -393,6 +413,8 @@
 - costa, sparerib （[解剖]肋骨；排骨；肋状物）
 
 - fool with, kid （戏弄；装肋于）
+
+:::
 
 
 ## 512. toxin
@@ -440,6 +462,8 @@
 :::warning{title=🤔同义词}
 
 - cockles, Sparkling Raindrops （波纹；涟漪；[物]涟波）
+
+:::
 
 
 ## 514. fusion
@@ -500,6 +524,8 @@
 
 - melt, amalgamation （融合；[物]熔化；熔接；融合物）
 
+:::
+
 
 ## 515. stew
 
@@ -527,6 +553,8 @@
 
 - simmer, fret one's gizzard （炖，炖汤；焖；受闷热；忧虑）
 
+:::
+
 
 ## 516. caste
 
@@ -548,6 +576,8 @@
 
 - social status, social position （（印度社会中的）种姓；（具有严格等级差别的）社会地位；（排他的）社会团体）
 
+:::
+
 
 ## 517. peddle
 
@@ -566,6 +596,8 @@
 :::warning{title=🤔同义词}
 
 - strow, strew （叫卖；兜售；散播）
+
+:::
 
 
 ## 518. porpoise
@@ -592,6 +624,8 @@
 
 - sea hog, common dolphin （[脊椎]海豚；鼠海豚）
 
+:::
+
 
 ## 519. scarcity
 
@@ -613,6 +647,8 @@
 
 - shortage, short of, deficiency, insufficient, need （不足；缺乏）
 
+:::
+
 
 ## 520. clan
 
@@ -629,6 +665,8 @@
 :::warning{title=🤔同义词}
 
 - nationality, collective, tribe （宗族；部落；集团）
+
+:::
 
 
 ## 521. entitle
@@ -662,6 +700,8 @@
 :::warning{title=🤔同义词}
 
 - bottom, termination point （端点；末端，终结点）
+
+:::
 
 
 ## 524. grant
@@ -704,6 +744,8 @@
 
 - appropriation （拨款；[法][专利]授予物）
 
+:::
+
 
 ## 525. urbanize
 
@@ -712,6 +754,8 @@
 :::warning{title=🤔同义词}
 
 - citify （使都市化；使文雅）
+
+:::
 
 
 ## 526. realistic
@@ -733,6 +777,8 @@
 :::warning{title=🤔同义词}
 
 - living, breathing （现实的；现实主义的；逼真的；实在论的）
+
+:::
 
 
 ## 527. confirm
@@ -757,6 +803,8 @@
 
 - identify, favor, sustain, validate （确认；确定；证实；批准；使巩固）
 
+:::
+
 
 ## 528. pristine
 
@@ -771,6 +819,8 @@
 :::warning{title=🤔同义词}
 
 - original, primitive （原始的，古时的；纯朴的）
+
+:::
 
 
 ## 529. random
@@ -845,6 +895,8 @@
 
 - wild （胡乱地）
 
+:::
+
 
 ## 530. provision
 
@@ -880,6 +932,8 @@
 
 - item, preparation, arrangement, preliminary, do （规定；条款；准备；[经]供应品）
 
+:::
+
 
 ## 531. prudent
 
@@ -902,6 +956,8 @@
 :::warning{title=🤔同义词}
 
 - cautious, wary, provident （谨慎的；精明的；节俭的）
+
+:::
 
 
 ## 532. additive
@@ -952,6 +1008,8 @@
 
 - attached, plus, more, second, excess （[数]附加的；加法的）
 
+:::
+
 
 ## 533. annoyed
 
@@ -980,6 +1038,8 @@
 - peeved, irritated （恼怒的；烦闷的）
 
 - hassled （使烦恼；打扰（annoy的过去分词））
+
+:::
 
 
 ## 534. supernova
@@ -1012,6 +1072,8 @@
 
 - reveal, ooze out （泄露；暴露）
 
+:::
+
 
 ## 536. velvet
 
@@ -1036,6 +1098,8 @@
 :::warning{title=🤔同义词}
 
 - continental quilt, velour （天鹅绒，[纺]丝绒；天鹅绒似的东西）
+
+:::
 
 
 ## 537. circumference
@@ -1064,6 +1128,8 @@
 
 - periphery, chest/bust （[数]圆周；周长；胸围）
 
+:::
+
 
 ## 538. signify
 
@@ -1082,6 +1148,8 @@
 - indicate, bid, forecast, mean, shadow （表示；意味；预示）
 
 - matter, count for （有重要性；要紧；冒充内行）
+
+:::
 
 
 ## 539. parallelogram
@@ -1112,6 +1180,8 @@
 
 - booklet, tract （小册子）
 
+:::
+
 
 ## 541. unaccompanied
 
@@ -1126,6 +1196,8 @@
 :::warning{title=🤔同义词}
 
 - acappella, secco （无伴奏的；无伴侣的；无伴随的）
+
+:::
 
 
 ## 542. competence
@@ -1164,6 +1236,8 @@
 
 - ability, capacity, rights, power, jurisdiction （能力，[胚]胜任；权限；作证能力；足以过舒适生活的收入）
 
+:::
+
 
 ## 543. megacity
 
@@ -1178,6 +1252,8 @@
 :::warning{title=🤔同义词}
 
 - great city, large city （大城市（人口超过100万的））
+
+:::
 
 
 ## 544. testimony
@@ -1203,6 +1279,8 @@
 :::warning{title=🤔同义词}
 
 - proof, witness （[法]证词，证言；证据）
+
+:::
 
 
 ## 545. peculiar
@@ -1232,6 +1310,8 @@
 - specific, distinct, unique, strange, individual （特殊的；独特的；奇怪的；罕见的）
 
 - franchise, special privilege （特权；特有财产）
+
+:::
 
 
 ## 546. complaint
@@ -1266,6 +1346,8 @@
 
 - sickness, complain of （抱怨；诉苦；疾病；委屈）
 
+:::
+
 
 ## 547. snout
 
@@ -1280,6 +1362,8 @@
 :::warning{title=🤔同义词}
 
 - tobacco, nose （鼻子；猪嘴；烟草；鼻口部；口吻状物）
+
+:::
 
 
 ## 548. participate
@@ -1305,6 +1389,8 @@
 - mix, take part in （参与，参加；分享）
 
 - share in, partake in （分享；分担）
+
+:::
 
 
 ## 549. garment
@@ -1343,6 +1429,8 @@
 
 - dress sb. in （给…穿衣服）
 
+:::
+
 
 ## 550. centigrade
 
@@ -1364,6 +1452,8 @@
 
 - Celsius （摄氏的；[仪]摄氏温度的；百分度的）
 
+:::
+
 
 ## 551. approbation
 
@@ -1372,6 +1462,8 @@
 :::warning{title=🤔同义词}
 
 - confirmation, authorization, endorsement （认可；赞许；批准）
+
+:::
 
 
 ## 552. scribe
@@ -1387,6 +1479,8 @@
 - write down, take down （写下，记下；[建]用划线器划）
 
 - write down, take down （写下，记下；担任抄写员）
+
+:::
 
 
 ## 553. ergonomic
@@ -1433,6 +1527,8 @@
 
 - citizenize （给…以特许（或特权）；赋予公民权）
 
+:::
+
 
 ## 555. unique
 
@@ -1478,6 +1574,8 @@
 
 - distinct, individual, one, sole, picturesque （独特的，稀罕的；[数]唯一的，独一无二的）
 
+:::
+
 
 ## 556. delineate
 
@@ -1493,6 +1591,8 @@
 
 - represent, trace, picture, figure （描绘；描写；画…的轮廓）
 
+:::
+
 
 ## 557. subsidize
 
@@ -1507,6 +1607,8 @@
 :::warning{title=🤔同义词}
 
 - fund, stake （资助；给与奖助金；向…行贿）
+
+:::
 
 
 ## 558. mount
@@ -1557,6 +1659,8 @@
 
 - peak, foundation plate （山峰；底座；乘骑用马）
 
+:::
+
 
 ## 559. inertia
 
@@ -1596,6 +1700,8 @@
 
 - nonreactivity, inaction （[力]惯性；[化学]惰性，迟钝；不活动）
 
+:::
+
 
 ## 560. genuine
 
@@ -1623,6 +1729,8 @@
 
 - actual, sincere, true, real, positive （真实的，真正的；诚恳的）
 
+:::
+
 
 ## 561. anole
 
@@ -1639,6 +1747,8 @@
 :::warning{title=🤔同义词}
 
 - chameleon, Zelig （[脊椎]变色龙）
+
+:::
 
 
 ## 562. adverse
@@ -1685,6 +1795,8 @@
 
 - against, contrary, opposite, counter, cross （不利的；相反的；[植]敌对的（名词adverseness，副词adversely））
 
+:::
+
 
 ## 563. stipend
 
@@ -1693,6 +1805,8 @@
 :::warning{title=🤔同义词}
 
 - scholarship, fellowship （奖学金；固定薪金；定期津贴；养老金）
+
+:::
 
 
 ## 564. control
@@ -1765,6 +1879,8 @@
 
 - possess, manage, regulate, bottle, conduct （[自]控制；[管理]管理；抑制）
 
+:::
+
 
 ## 565. principle
 
@@ -1828,6 +1944,8 @@
 
 - theory, mechanism, element, essence, parent （原理，原则；主义，道义；本质，本义；根源，源泉）
 
+:::
+
 
 ## 566. squash
 
@@ -1858,6 +1976,8 @@
 - wedge in, pile in （受挤压；发出挤压声；挤入）
 
 - nobbing （壁球；挤压；咯吱声；南瓜属植物；（英）果汁饮料）
+
+:::
 
 
 ## 567. brass
@@ -1908,6 +2028,8 @@
 
 - orichalc, yellow metal （[材]黄铜；黄铜制品；铜管乐器；厚脸皮）
 
+:::
+
 
 ## 568. grove
 
@@ -1928,6 +2050,8 @@
 :::warning{title=🤔同义词}
 
 - bosket, orchard garden （[林]小树林；果园）
+
+:::
 
 
 ## 569. extraordinary
@@ -1951,6 +2075,8 @@
 :::warning{title=🤔同义词}
 
 - remarkable, particular, temporary, special, wonder （非凡的；特别的；离奇的；临时的；特派的）
+
+:::
 
 
 ## 570. interest
@@ -2019,6 +2145,8 @@
 
 - like, fond of （兴趣，爱好；[金融]利息；趣味；同行）
 
+:::
+
 
 ## 571. prejudice
 
@@ -2054,6 +2182,8 @@
 
 - hurt, blast （损害；使有偏见）
 
+:::
+
 
 ## 572. regret
 
@@ -2080,6 +2210,8 @@
 - pity, sorriness （遗憾；抱歉；悲叹）
 
 - grieve over, mourn over （后悔；惋惜；哀悼）
+
+:::
 
 
 ## 573. gimmick
@@ -2130,6 +2262,8 @@
 
 - description, statement, representation, characterization （描述，陈述；介绍；赠送）
 
+:::
+
 
 ## 575. inhalation
 
@@ -2152,6 +2286,8 @@
 :::warning{title=🤔同义词}
 
 - imbibition, indraft （[生理]吸入；吸入药剂）
+
+:::
 
 
 ## 576. lounge
@@ -2186,6 +2322,8 @@
 
 - hack around, fiddle around （虚度光阴）
 
+:::
+
 
 ## 577. remedy
 
@@ -2216,6 +2354,8 @@
 - cure, help, repair （补救；治疗；纠正）
 
 - therapy, satisfaction, cure （补救；治疗；赔偿）
+
+:::
 
 
 ## 578. dietary
@@ -2324,6 +2464,8 @@
 
 - profoundity, deepness （[海洋]深度；深奥）
 
+:::
+
 
 ## 581. substance
 
@@ -2383,6 +2525,8 @@
 
 - matter, asset, essence, truth, texture （[物]物质；实质；资产；主旨）
 
+:::
+
 
 ## 582. carpenter
 
@@ -2405,6 +2549,8 @@
 - squareman, woodworker （木匠，木工）
 
 - to make （制作）
+
+:::
 
 
 ## 583. dumpster
@@ -2437,6 +2583,8 @@
 
 - botanic, floristic （植物的；植物人状态的，无所作为的；促使植物生长的；[生物]有生长力的）
 
+:::
+
 
 ## 585. resign
 
@@ -2462,6 +2610,8 @@
 
 - step down, quit （辞职）
 
+:::
+
 
 ## 586. superb
 
@@ -2480,6 +2630,8 @@
 :::warning{title=🤔同义词}
 
 - wonderful, excellent, famous, grand, great （极好的；华丽的；宏伟的）
+
+:::
 
 
 ## 587. preventive
@@ -2516,6 +2668,8 @@
 
 - precautionary （预防的，防止的）
 
+:::
+
 
 ## 588. expulsion
 
@@ -2530,6 +2684,8 @@
 :::warning{title=🤔同义词}
 
 - ouster, exclusion （驱逐；开除）
+
+:::
 
 
 ## 589. sanitary
@@ -2578,6 +2734,8 @@
 
 - latrine, public convenience （公共厕所）
 
+:::
+
 
 ## 590. congressional
 
@@ -2605,6 +2763,8 @@
 
 - parliamentary, synodical （国会的；会议的；议会的）
 
+:::
+
 
 ## 591. affiliation
 
@@ -2626,6 +2786,8 @@
 
 - alliance, union, association, league, federation （友好关系；加入；联盟；从属关系）
 
+:::
+
 
 ## 592. allergy
 
@@ -2646,6 +2808,8 @@
 :::warning{title=🤔同义词}
 
 - hate, hypersensitivity （过敏症；反感；厌恶）
+
+:::
 
 
 ## 593. arable
@@ -2673,6 +2837,8 @@
 - tillable （适于耕种的；可开垦的）
 
 - cultivated land, tilth （耕地）
+
+:::
 
 
 ## 594. organization
@@ -2741,6 +2907,8 @@
 
 - fabric, machinery, system, community, body （组织；机构；体制；团体）
 
+:::
+
 
 ## 595. merge
 
@@ -2776,6 +2944,8 @@
 
 - incorporate with, coalesce （合并；融合）
 
+:::
+
 
 ## 596. divisible
 
@@ -2796,6 +2966,8 @@
 :::warning{title=🤔同义词}
 
 - partible, dissectible （[数]可分的；可分割的）
+
+:::
 
 
 ## 597. ethic
@@ -2826,6 +2998,8 @@
 
 - moral （伦理的；道德的（等于ethical））
 
+:::
+
 
 ## 598. forthcoming
 
@@ -2846,6 +3020,8 @@
 - upcoming, imminent （即将来临的）
 
 - oncoming （来临）
+
+:::
 
 
 ## 599. construct
@@ -2871,5 +3047,7 @@
 - found, institute, frame, structure, father （建造，构造；创立）
 
 - concept, formulation, idea, notion （构想，概念）
+
+:::
 
 

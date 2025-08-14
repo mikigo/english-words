@@ -22,6 +22,8 @@
 
 - ownership, possessory right, proprietary rights, proprietorial right （[经]所有权）
 
+:::
+
 
 ## 8801. aie
 
@@ -40,6 +42,8 @@
 :::warning{title=🤔同义词}
 
 - absorb, adopt （吸收，接受；喝；吸入）
+
+:::
 
 
 ## 8803. agility
@@ -62,6 +66,8 @@
 
 - readiness, promptitude （敏捷；灵活；机敏）
 
+:::
+
 
 ## 8804. delightful
 
@@ -78,6 +84,8 @@
 :::warning{title=🤔同义词}
 
 - lovely, pleasant, pretty, taking, grateful （可爱的，可喜的；令人愉快的）
+
+:::
 
 
 ## 8805. overheat
@@ -100,6 +108,8 @@
 
 - violence, excessive heating （[热]过热；激烈）
 
+:::
+
 
 ## 8806. rehydrate
 
@@ -118,6 +128,8 @@
 :::warning{title=🤔同义词}
 
 - effectiveness, virtue （功效，效力）
+
+:::
 
 
 ## 8808. dilution
@@ -150,6 +162,8 @@
 
 - thinning, fluxing （稀释，[化学]冲淡；稀释法；冲淡物）
 
+:::
+
 
 ## 8809. festive
 
@@ -175,6 +189,8 @@
 
 - convivial （节日的；喜庆的；欢乐的）
 
+:::
+
 
 ## 8810. zealous
 
@@ -191,6 +207,8 @@
 :::warning{title=🤔同义词}
 
 - intense, active, positive, eager, warm （热心的，热情的，积极的）
+
+:::
 
 
 ## 8811. bust
@@ -219,6 +237,8 @@
 
 - failure, bankruptcy, chest, breast （破产；半身像；萧条；胸部）
 
+:::
+
 
 ## 8812. equestrian
 
@@ -236,6 +256,8 @@
 
 - rider, caballero （骑手；骑马者）
 
+:::
+
 
 ## 8813. urn
 
@@ -250,6 +272,8 @@
 :::warning{title=🤔同义词}
 
 - tomb, grave （瓮；缸；茶水壶；坟墓；骨灰瓮）
+
+:::
 
 
 ## 8814. timidity
@@ -270,6 +294,8 @@
 
 - cowardliness, timorousness （胆怯，胆小；羞怯）
 
+:::
+
 
 ## 8815. stonemason
 
@@ -287,6 +313,8 @@
 
 - jadder, masonry （石匠；石工；石工锤）
 
+:::
+
 
 ## 8816. biter
 
@@ -301,6 +329,8 @@
 :::warning{title=🤔同义词}
 
 - fraud, sharp （咬人的动物；骗子）
+
+:::
 
 
 ## 8817. bitterness
@@ -317,6 +347,8 @@
 
 - spite, hardship （苦味；苦难；怨恨）
 
+:::
+
 
 ## 8818. plainspoken
 
@@ -331,6 +363,8 @@
 :::warning{title=🤔同义词}
 
 - outspoken （老实说的；直言不讳的；说话直率的）
+
+:::
 
 
 ## 8819. grit
@@ -351,6 +385,8 @@
 
 - coarse sand, arenes （[岩][地质]粗砂，砂砾）
 
+:::
+
 
 ## 8820. aero
 
@@ -366,6 +402,8 @@
 
 - flying, aviatic （航空的；[航]飞机的；飞行的）
 
+:::
+
 
 ## 8821. cheapen
 
@@ -376,6 +414,8 @@
 - lower, bemean （减去…的价格；贬低）
 
 - cut down the price, cut rate （减价；跌价）
+
+:::
 
 
 ## 8822. thorny
@@ -391,6 +431,8 @@
 :::warning{title=🤔同义词}
 
 - painful, bitter, hurt （多刺的；痛苦的；令人苦恼的）
+
+:::
 
 
 ## 8823. inchworm
@@ -410,6 +452,8 @@
 :::warning{title=🤔同义词}
 
 - cankerworm, spanworm, loopworm （[植保]尺蠖）
+
+:::
 
 
 ## 8824. escalator
@@ -480,6 +524,8 @@
 
 - electric tension, electrical pressure （[电]电压）
 
+:::
+
 
 ## 8826. smite
 
@@ -498,6 +544,8 @@
 - strike, hit （打；重击）
 
 - hit, beating （打；重击）
+
+:::
 
 
 ## 8827. follower
@@ -524,6 +572,8 @@
 
 - Christian, old faithful （追随者；信徒；属下）
 
+:::
+
 
 ## 8828. indifference
 
@@ -545,6 +595,8 @@
 
 - nonchalance, dryness （漠不关心；冷淡；不重视；中立）
 
+:::
+
 
 ## 8829. eyelid
 
@@ -561,6 +613,8 @@
 :::warning{title=🤔同义词}
 
 - palpebrae, lid （[解剖]眼睑；眼皮）
+
+:::
 
 
 ## 8830. comfortably
@@ -585,6 +639,8 @@
 
 - copiously, cozily （舒服地；安乐地；充裕地）
 
+:::
+
 
 ## 8831. hatchet
 
@@ -608,6 +664,8 @@
 
 - kill, snuff out （用短柄小斧砍伐；扼杀）
 
+:::
+
 
 ## 8832. axe
 
@@ -626,6 +684,8 @@
 :::warning{title=🤔同义词}
 
 - cut to the bone, cut down to （削减；用斧砍）
+
+:::
 
 
 ## 8833. ambidextrous
@@ -655,6 +715,8 @@
 :::warning{title=🤔同义词}
 
 - superiority, advantage, edge, dominance （优势；卓越）
+
+:::
 
 
 ## 8836. petrify
@@ -693,6 +755,8 @@
 
 - antagonism, opponency （[物]极性；两极；对立）
 
+:::
+
 
 ## 8838. ax
 
@@ -703,6 +767,8 @@
 - cut to the bone, cut down to （削减；用斧修整；解雇）
 
 - oxe （斧头）
+
+:::
 
 
 ## 8839. ferromagnetic
@@ -741,6 +807,8 @@
 
 - since, subsequently （以后，后来）
 
+:::
+
 
 ## 8841. occupant
 
@@ -756,6 +824,8 @@
 
 - dweller, inhabitant （居住者；[法]占有者）
 
+:::
+
 
 ## 8842. inflexible
 
@@ -770,6 +840,8 @@
 :::warning{title=🤔同义词}
 
 - resistant, stubborn （顽固的；不可弯曲的；不屈挠的；不能转变的）
+
+:::
 
 
 ## 8843. lotus
@@ -810,6 +882,8 @@
 
 - padma （莲花；[建]荷花；莲饰）
 
+:::
+
 
 ## 8844. inexplicable
 
@@ -826,6 +900,8 @@
 :::warning{title=🤔同义词}
 
 - unexplainable, incomprehensible （费解的；无法说明的；不能解释的）
+
+:::
 
 
 ## 8845. nineteen
@@ -866,6 +942,8 @@
 
 - healthy, treated, medicinal, remedial （治疗的；治疗学的；有益于健康的）
 
+:::
+
 
 ## 8847. restrictive
 
@@ -889,6 +967,8 @@
 
 - limiting, confining （限制的；限制性的；约束的）
 
+:::
+
 
 ## 8848. ail
 
@@ -908,6 +988,8 @@
 
 - misery, agony （病痛，苦恼）
 
+:::
+
 
 ## 8849. unbind
 
@@ -922,6 +1004,8 @@
 :::warning{title=🤔同义词}
 
 - unriddle, unlash （解开；解放）
+
+:::
 
 
 ## 8850. Grecian
@@ -956,6 +1040,8 @@
 
 - champion, supporter （防卫者，守卫者；[法]辩护者；拥护者；卫冕者）
 
+:::
+
 
 ## 8852. volcanism
 
@@ -989,6 +1075,8 @@
 
 - elimination, subtraction （俯冲；除去；减法）
 
+:::
+
 
 ## 8854. diverge
 
@@ -1014,6 +1102,8 @@
 
 - deviate （使偏离；使分叉）
 
+:::
+
 
 ## 8855. electrocardiogram
 
@@ -1030,6 +1120,8 @@
 :::warning{title=🤔同义词}
 
 - cardiogram （[内科]心电图）
+
+:::
 
 
 ## 8856. grope
@@ -1056,6 +1148,8 @@
 
 - feel, floccillation （摸索；触摸）
 
+:::
+
 
 ## 8857. hesitate
 
@@ -1080,6 +1174,8 @@
 - vacillate, stand at （踌躇，犹豫；不愿）
 
 - stand at, hang back （踌躇，犹豫；有疑虑，不愿意）
+
+:::
 
 
 ## 8858. electroencephalogram
@@ -1110,6 +1206,8 @@
 
 - dimout （灯火管制；灯火熄灭；暂时的意识丧失）
 
+:::
+
 
 ## 8860. jolt
 
@@ -1128,6 +1226,8 @@
 - rock, roll （摇晃；颠簸而行）
 
 - shock, roll （颠簸；摇晃；震惊；严重挫折）
+
+:::
 
 
 ## 8861. bandleader
@@ -1155,6 +1255,8 @@
 :::warning{title=🤔同义词}
 
 - dancery, palais （舞厅；跳舞场）
+
+:::
 
 
 ## 8863. memorandum
@@ -1185,6 +1287,8 @@
 
 - note, minute （备忘录；便笺）
 
+:::
+
 
 ## 8864. nickname
 
@@ -1199,6 +1303,8 @@
 :::warning{title=🤔同义词}
 
 - sobriquet, agname （绰号；昵称）
+
+:::
 
 
 ## 8865. pepper
@@ -1216,6 +1322,8 @@
 - peper, capsicum （[食品][植]胡椒；[园艺]辣椒；胡椒粉）
 
 - besprinkle （[食品]加胡椒粉于；使布满）
+
+:::
 
 
 ## 8866. accusation
@@ -1238,6 +1346,8 @@
 
 - charge, incrimination （[法]控告，指控；谴责）
 
+:::
+
 
 ## 8867. obligate
 
@@ -1254,6 +1364,8 @@
 - force, enforce （使负义务；强使，强迫；对…施以恩惠）
 
 - responsible, required, bound, necessary, liable （有责任的，有义务的；必需的）
+
+:::
 
 
 ## 8868. forbearance
@@ -1273,6 +1385,8 @@
 :::warning{title=🤔同义词}
 
 - tolerance, possession, charity, mercy （自制，忍耐；宽容）
+
+:::
 
 
 ## 8869. consent
@@ -1304,6 +1418,8 @@
 - grant, comply, engage （同意；赞成；答应）
 
 - agreement, accordance, unity, identity, yes （同意；（意见等的）一致；赞成）
+
+:::
 
 
 ## 8870. Thames
@@ -1342,6 +1458,8 @@
 
 - diverge from （迷途；背离）
 
+:::
+
 
 ## 8872. commemorate
 
@@ -1356,6 +1474,8 @@
 :::warning{title=🤔同义词}
 
 - celebrate with, honour the memory of （庆祝，纪念；成为…的纪念）
+
+:::
 
 
 ## 8873. blower
@@ -1387,6 +1507,8 @@
 :::warning{title=🤔同义词}
 
 - air-blower, blowing engine （[机]鼓风机，吹风机；吹制工；<俚>爱吹牛的人）
+
+:::
 
 
 ## 8874. goldfish
@@ -1425,6 +1547,8 @@
 
 - arrangement, positioning, setting, placement, laying （装饰，布置）
 
+:::
+
 
 ## 8876. fresco
 
@@ -1440,6 +1564,8 @@
 
 - wall painting, mural painting （[建]壁画）
 
+:::
+
 
 ## 8877. rook
 
@@ -1450,6 +1576,8 @@
 - sell, fox, kid, take in sb, give the shaft （欺骗）
 
 - fraud, sharp （（象棋）车；骗子，赌棍；白嘴鸦）
+
+:::
 
 
 ## 8878. fitting
@@ -1498,6 +1626,8 @@
 
 - adaptive, calculated, matching, well, worthy （适合的，适宜的；相称的）
 
+:::
+
 
 ## 8879. equilateral
 
@@ -1518,6 +1648,8 @@
 :::warning{title=🤔同义词}
 
 - isohedral （[数]等边的；等面的）
+
+:::
 
 
 ## 8880. honeycomb
@@ -1544,6 +1676,8 @@
 
 - comb （[纺][蜂]蜂巢，蜂巢状之物）
 
+:::
+
 
 ## 8881. romanticize
 
@@ -1558,6 +1692,8 @@
 :::warning{title=🤔同义词}
 
 - legendize （使浪漫化；使传奇化）
+
+:::
 
 
 ## 8882. misconception
@@ -1574,6 +1710,8 @@
 
 - misunderstanding, misinterpretation （误解；错觉；错误想法）
 
+:::
+
 
 ## 8883. conviction
 
@@ -1588,6 +1726,8 @@
 :::warning{title=🤔同义词}
 
 - assurance, damningness （定罪；确信；证明有罪）
+
+:::
 
 
 ## 8884. poster
@@ -1618,6 +1758,8 @@
 
 - advertisement, bill, publicity （海报，广告；[印刷]招贴）
 
+:::
+
 
 ## 8885. tessellation
 
@@ -1626,6 +1768,8 @@
 :::warning{title=🤔同义词}
 
 - marquetry, buhl （棋盘形布置；[建]棋盘花纹镶嵌；镶嵌式铺装；镶嵌细工；棋盘花纹）
+
+:::
 
 
 ## 8886. victim
@@ -1652,6 +1796,8 @@
 
 - sacrificial lamb （受害人；牺牲品；牺牲者）
 
+:::
+
 
 ## 8887. cate
 
@@ -1666,6 +1812,8 @@
 :::warning{title=🤔同义词}
 
 - gourmet food, gourmandise （美食；佳肴；外购食物）
+
+:::
 
 
 ## 8888. arouse
@@ -1694,6 +1842,8 @@
 
 - make someone tick, wake up （激发；醒来；发奋）
 
+:::
+
 
 ## 8889. officeholder
 
@@ -1708,6 +1858,8 @@
 :::warning{title=🤔同义词}
 
 - Government Officials, civil servants （公务员；官员；办公人员）
+
+:::
 
 
 ## 8890. pentagon
@@ -1734,6 +1886,8 @@
 
 - membrane, parchment paper （羊皮；羊皮纸；羊皮革；毕业证书）
 
+:::
+
 
 ## 8893. perimeter
 
@@ -1757,6 +1911,8 @@
 
 - circumference, campimeter （[数]周长；周界；[眼科]视野计）
 
+:::
+
 
 ## 8894. denomination
 
@@ -1771,6 +1927,8 @@
 :::warning{title=🤔同义词}
 
 - name, church （[金融]面额；名称；教派）
+
+:::
 
 
 ## 8895. breech
@@ -1791,6 +1949,8 @@
 
 - bottom, hip （臀部；后膛）
 
+:::
+
 
 ## 8896. mitigate
 
@@ -1807,6 +1967,8 @@
 - comfort, obtund （使缓和，使减轻）
 
 - to alleviate, ease off （减轻，缓和下来）
+
+:::
 
 
 ## 8897. mighty
@@ -1837,6 +1999,8 @@
 
 - big guns （有势力的人）
 
+:::
+
 
 ## 8898. spaceship
 
@@ -1851,6 +2015,8 @@
 :::warning{title=🤔同义词}
 
 - aerospacecraft （[航]宇宙飞船）
+
+:::
 
 
 ## 8899. adventure
@@ -1882,5 +2048,7 @@
 - take a chance, run a risk （冒险；大胆说出）
 
 - take a risk, run a risk, stick one's neck out, take chances （冒险）
+
+:::
 
 

@@ -14,6 +14,8 @@
 
 - crime, guilt （罪行；犯罪）
 
+:::
+
 
 ## 2. recline
 
@@ -31,6 +33,8 @@
 
 - couch （使躺下；使斜倚）
 
+:::
+
 
 ## 3. belligerent
 
@@ -46,6 +50,8 @@
 
 - fighting, warring （交战的；好战的；交战国的）
 
+:::
+
 
 ## 4. supplant
 
@@ -60,6 +66,8 @@
 :::warning{title=🤔同义词}
 
 - replace, substitute for （代替；排挤掉）
+
+:::
 
 
 ## 5. abrupt
@@ -84,6 +92,8 @@
 
 - sudden, short, angular （生硬的；突然的；唐突的；陡峭的）
 
+:::
+
 
 ## 6. oversee
 
@@ -98,6 +108,8 @@
 :::warning{title=🤔同义词}
 
 - police, survey （监督；审查；俯瞰；偷看到，无意中看到）
+
+:::
 
 
 ## 7. spontaneous
@@ -138,6 +150,8 @@
 
 - autonomous, mechanical, natural, initiative （自发的；自然的；无意识的）
 
+:::
+
 
 ## 8. pretend
 
@@ -163,6 +177,8 @@
 
 - affected, assumed, simulate （假装的）
 
+:::
+
 
 ## 9. licit
 
@@ -180,6 +196,8 @@
 
 - valid, legal, legitimate, lawful （正当的，合法的）
 
+:::
+
 
 ## 10. gloomy
 
@@ -194,6 +212,8 @@
 :::warning{title=🤔同义词}
 
 - dark, sad, blue, gray, disappointed （黑暗的；沮丧的；阴郁的）
+
+:::
 
 
 ## 11. warrant
@@ -226,6 +246,8 @@
 
 - assure, undertake, confirm （保证；担保；批准；辩解）
 
+:::
+
 
 ## 12. scanty
 
@@ -240,6 +262,8 @@
 :::warning{title=🤔同义词}
 
 - tight, lacking, scarce （缺乏的；吝啬的；仅有的；稀疏的）
+
+:::
 
 
 ## 13. energy
@@ -302,6 +326,8 @@
 
 - vitality, spirit, soul, mind, spring （[物]能量；精力；[劳经]活力；精神）
 
+:::
+
 
 ## 14. deference
 
@@ -322,6 +348,8 @@
 :::warning{title=🤔同义词}
 
 - compliance, Friend VS Lover （顺从）
+
+:::
 
 
 ## 15. solid
@@ -392,6 +420,8 @@
 
 - cube （[物]固体；[数]立方体）
 
+:::
+
 
 ## 16. opulent
 
@@ -406,6 +436,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, massive, extensive, substantial, macro （丰富的；富裕的；大量的）
+
+:::
 
 
 ## 17. narrative
@@ -434,6 +466,8 @@
 
 - related, descriptive （叙事的，叙述的；叙事体的）
 
+:::
+
 
 ## 18. coincide
 
@@ -456,6 +490,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, square, identify, accord （一致，符合；同时发生）
+
+:::
 
 
 ## 19. circular
@@ -518,6 +554,8 @@
 
 - notice, advice, information （通知，传单）
 
+:::
+
 
 ## 20. prankster
 
@@ -526,6 +564,8 @@
 :::warning{title=🤔同义词}
 
 - joker, jester （爱开玩笑的人；顽皮的人；恶作剧的人）
+
+:::
 
 
 ## 21. compassionate
@@ -548,6 +588,8 @@
 
 - feel for, have pity on （同情；怜悯）
 
+:::
+
 
 ## 22. perspicacity
 
@@ -556,6 +598,8 @@
 :::warning{title=🤔同义词}
 
 - insight, perception, penetration （洞察力；聪颖；睿智）
+
+:::
 
 
 ## 23. irritable
@@ -577,6 +621,8 @@
 :::warning{title=🤔同义词}
 
 - passionate, hypersusceptible （过敏的；急躁的；易怒的）
+
+:::
 
 
 ## 24. triple
@@ -631,6 +677,8 @@
 
 - treble （使成三倍）
 
+:::
+
 
 ## 25. reserved
 
@@ -663,6 +711,8 @@
 :::warning{title=🤔同义词}
 
 - cold, saving, retained （保留的，预订的；缄默的，冷淡的；包租的）
+
+:::
 
 
 ## 26. temper
@@ -717,6 +767,8 @@
 
 - pop back, back fire （[机]回火；调和）
 
+:::
+
 
 ## 27. munificence
 
@@ -731,6 +783,8 @@
 :::warning{title=🤔同义词}
 
 - generosity, magnanimity （慷慨给与；宽宏大量）
+
+:::
 
 
 ## 28. legible
@@ -747,6 +801,8 @@
 
 - defined, plain （清晰的；易读的；易辨认的）
 
+:::
+
 
 ## 29. resumption
 
@@ -761,6 +817,8 @@
 :::warning{title=🤔同义词}
 
 - recovery, restoration, retrieval, renewal, comeback （恢复；重新开始；取回；重获；恢复硬币支付）
+
+:::
 
 
 ## 30. resurgent
@@ -777,6 +835,8 @@
 
 - revivatory, redivious （复活的；复苏的）
 
+:::
+
 
 ## 31. frantic
 
@@ -792,6 +852,8 @@
 
 - crazy, possessed, mad （狂乱的，疯狂的）
 
+:::
+
 
 ## 32. grandiloquent
 
@@ -800,6 +862,8 @@
 :::warning{title=🤔同义词}
 
 - tall, exaggerative （夸张的；夸大的；大言不惭的）
+
+:::
 
 
 ## 33. statute
@@ -823,6 +887,8 @@
 :::warning{title=🤔同义词}
 
 - act, ordinance （[法]法规；法令；条例）
+
+:::
 
 
 ## 34. cardiac
@@ -882,6 +948,8 @@
 - metrazol （[药]强心剂；强胃剂）
 
 - cordis （[解剖]心脏的；心脏病的；（胃的）喷门）
+
+:::
 
 
 ## 35. object
@@ -948,6 +1016,8 @@
 
 - refuse, sit down on （反对；拒绝）
 
+:::
+
 
 ## 36. accessible
 
@@ -971,6 +1041,8 @@
 
 - accostable, comprehensible （易接近的；可进入的；可理解的）
 
+:::
+
 
 ## 37. indigence
 
@@ -987,6 +1059,8 @@
 :::warning{title=🤔同义词}
 
 - destitution, squalidness （穷困；贫乏；贫穷）
+
+:::
 
 
 ## 38. notable
@@ -1005,6 +1079,8 @@
 
 - personality, lion, celebrity （名人，显要人物）
 
+:::
+
 
 ## 39. concede
 
@@ -1022,6 +1098,8 @@
 
 - meet halfway, give ground （让步）
 
+:::
+
 
 ## 40. unparalleled
 
@@ -1036,6 +1114,8 @@
 :::warning{title=🤔同义词}
 
 - matchless, incomparable （无比的；无双的；空前未有的）
+
+:::
 
 
 ## 41. midway
@@ -1057,6 +1137,8 @@
 - casino, midcourse （中途；娱乐场）
 
 - intermediary, halfway （中途的）
+
+:::
 
 
 ## 42. venous
@@ -1083,6 +1165,8 @@
 
 - veinal （[昆]静脉的；有脉纹的）
 
+:::
+
 
 ## 43. reprimand
 
@@ -1100,6 +1184,8 @@
 
 - condemn, denounce （谴责；训斥；责难）
 
+:::
+
 
 ## 44. wreak
 
@@ -1114,6 +1200,8 @@
 :::warning{title=🤔同义词}
 
 - give vent to, take revenge （发泄；报仇）
+
+:::
 
 
 ## 45. evaporate
@@ -1133,6 +1221,8 @@
 - vapor （使……蒸发；使……脱水；使……消失）
 
 - disappear, blank （蒸发，挥发；消失，失踪）
+
+:::
 
 
 ## 46. commission
@@ -1197,6 +1287,8 @@
 
 - depute, authorise （委任；使服役；委托制作）
 
+:::
+
 
 ## 47. multiplication
 
@@ -1225,6 +1317,8 @@
 :::warning{title=🤔同义词}
 
 - enhancement, increase, gain, rise （[数]乘法；增加）
+
+:::
 
 
 ## 48. rational
@@ -1273,6 +1367,8 @@
 
 - reasonable, logical, possible, just, legitimate （合理的；理性的）
 
+:::
+
 
 ## 49. rescind
 
@@ -1287,6 +1383,8 @@
 :::warning{title=🤔同义词}
 
 - release from, want out （解除；废除；撤回）
+
+:::
 
 
 ## 50. provocative
@@ -1306,6 +1404,8 @@
 - incentive, stimulating （刺激的，挑拨的；气人的）
 
 - stimulus, irritation （刺激物，挑拨物；兴奋剂）
+
+:::
 
 
 ## 51. glucose
@@ -1343,6 +1443,8 @@
 :::warning{title=🤔同义词}
 
 - D-glucose, grape sugar （[有化]葡萄糖；葡糖（等于dextrose））
+
+:::
 
 
 ## 52. Oxygen
@@ -1402,6 +1504,8 @@
 :::warning{title=🤔同义词}
 
 - O2 （氧气，[化学]氧）
+
+:::
 
 
 ## 53. salt
@@ -1468,6 +1572,8 @@
 
 - saliferous, brackish （咸水的；含盐的，咸味的；盐腌的；猥亵的）
 
+:::
+
 
 ## 54. impassioned
 
@@ -1482,6 +1588,8 @@
 :::warning{title=🤔同义词}
 
 - appreciative, obliged （充满激情的；感激的）
+
+:::
 
 
 ## 55. truncated
@@ -1503,6 +1611,8 @@
 :::warning{title=🤔同义词}
 
 - abridged （缩短（truncate的过去分词）；截去…的顶端）
+
+:::
 
 
 ## 56. artistic
@@ -1555,6 +1665,8 @@
 
 - art （艺术的；风雅的；有美感的）
 
+:::
+
 
 ## 57. effrontery
 
@@ -1569,6 +1681,8 @@
 :::warning{title=🤔同义词}
 
 - brazenness, impudence （厚颜无耻）
+
+:::
 
 
 ## 58. decagon
@@ -1603,6 +1717,8 @@
 
 - range, wander off （漫步；漫游；闲逛；漫谈；蔓延）
 
+:::
+
 
 ## 60. vocation
 
@@ -1617,6 +1733,8 @@
 :::warning{title=🤔同义词}
 
 - profession, employment, career, calling, pursuit, occupation （[劳经]职业；天职；天命；神召）
+
+:::
 
 
 ## 61. preponderant
@@ -1635,6 +1753,8 @@
 
 - prominent, dominant, pointed, striking （占优势的；突出的；压倒性的）
 
+:::
+
 
 ## 62. stature
 
@@ -1649,6 +1769,8 @@
 :::warning{title=🤔同义词}
 
 - height, shape, altitude （身高，[人类]身材；（精神、道德等的）高度）
+
+:::
 
 
 ## 63. quarantine
@@ -1682,6 +1804,8 @@
 - insulate, segregant （[医]检疫；隔离；使隔离）
 
 - investment, insulation, isolation （[医]检疫；隔离；检疫期；封锁）
+
+:::
 
 
 ## 64. dogged
@@ -1741,6 +1865,8 @@
 :::warning{title=🤔同义词}
 
 - resistant, stubborn （顽强的；顽固的）
+
+:::
 
 
 ## 65. plasma
@@ -1805,6 +1931,8 @@
 
 - adtevak （[等离子]等离子体；血浆；[矿物]深绿玉髓）
 
+:::
+
 
 ## 66. brevity
 
@@ -1819,6 +1947,8 @@
 :::warning{title=🤔同义词}
 
 - compactness, sententiousness （简洁，简短；短暂，短促）
+
+:::
 
 
 ## 67. exorbitant
@@ -1835,6 +1965,8 @@
 
 - excessive, ultra, tall （（要价等）过高的；（性格等）过分的；不在法律范围之内的）
 
+:::
+
 
 ## 68. reimburse
 
@@ -1849,6 +1981,8 @@
 :::warning{title=🤔同义词}
 
 - replace, tender （偿还；赔偿）
+
+:::
 
 
 ## 69. violent
@@ -1882,6 +2016,8 @@
 :::warning{title=🤔同义词}
 
 - fierce, hard （暴力的；猛烈的）
+
+:::
 
 
 ## 70. inaccessible
@@ -1920,6 +2056,8 @@
 
 - front, compare （面对；遭遇；比较）
 
+:::
+
 
 ## 72. onus
 
@@ -1943,6 +2081,8 @@
 
 - liability, duty, burden, obligation, weight （责任，义务；负担）
 
+:::
+
 
 ## 73. cathartic
 
@@ -1964,6 +2104,8 @@
 
 - jalap, purger （泻药；[药]通便药）
 
+:::
+
 
 ## 74. counterpoint
 
@@ -1981,6 +2123,8 @@
 
 - polyphony, opposite number （复调；对位法；旋律配合；对应物）
 
+:::
+
 
 ## 75. obese
 
@@ -1995,6 +2139,8 @@
 :::warning{title=🤔同义词}
 
 - round, fatty （肥胖的，过胖的）
+
+:::
 
 
 ## 76. undulate
@@ -2015,6 +2161,8 @@
 
 - rolling, wavery （波动的；起伏的；波浪形的）
 
+:::
+
 
 ## 77. beatific
 
@@ -2029,6 +2177,8 @@
 :::warning{title=🤔同义词}
 
 - happy, blessed, festival （幸福的；祝福的；快乐的）
+
+:::
 
 
 ## 78. reproduce
@@ -2046,6 +2196,8 @@
 - generate, repeat （复制；再生；生殖；使…在脑海中重现）
 
 - breed, increase （复制；繁殖）
+
+:::
 
 
 ## 79. skeleton
@@ -2074,6 +2226,8 @@
 
 - boned, scrawny （[解剖]骨骼的；骨瘦如柴的；概略的）
 
+:::
+
 
 ## 80. illiterate
 
@@ -2091,6 +2245,8 @@
 
 - unschooled, analphabetic （文盲）
 
+:::
+
 
 ## 81. federate
 
@@ -2099,6 +2255,8 @@
 :::warning{title=🤔同义词}
 
 - linked, joint （同盟的；联邦制度下的；联合的）
+
+:::
 
 
 ## 82. myriad
@@ -2122,6 +2280,8 @@
 - thousand, countless, million, infinite, innumerable （无数的；种种的）
 
 - million, innumerability （无数，极大数量；无数的人或物）
+
+:::
 
 
 ## 83. inflammable
@@ -2148,6 +2308,8 @@
 
 - tinderbox, flammable （[安全][物]易燃物）
 
+:::
+
 
 ## 84. pervade
 
@@ -2162,6 +2324,8 @@
 :::warning{title=🤔同义词}
 
 - suffuse （遍及；弥漫）
+
+:::
 
 
 ## 85. implement
@@ -2190,6 +2354,8 @@
 
 - instrument, facilities, vehicle, tool, engine （[机]工具，器具；手段）
 
+:::
+
 
 ## 86. erratic
 
@@ -2209,6 +2375,8 @@
 
 - fantastic, weirdo （漂泊无定的人；古怪的人）
 
+:::
+
 
 ## 87. justifiable
 
@@ -2226,6 +2394,8 @@
 
 - explainable, excusable （可辩解的，有道理的；可证明为正当的）
 
+:::
+
 
 ## 88. incinerate
 
@@ -2241,6 +2411,8 @@
 
 - cremate （焚化；烧成灰）
 
+:::
+
 
 ## 89. cajolery
 
@@ -2249,6 +2421,8 @@
 :::warning{title=🤔同义词}
 
 - sugar, sweet talk （甜言蜜语；诱骗；谄媚）
+
+:::
 
 
 ## 90. adoration
@@ -2265,6 +2439,8 @@
 
 - worship, praise （崇拜；爱慕）
 
+:::
+
 
 ## 91. sagacious
 
@@ -2273,6 +2449,8 @@
 :::warning{title=🤔同义词}
 
 - forward-looking, far-sighted （睿智的，聪慧的；有远见的，聪慧的）
+
+:::
 
 
 ## 92. capillary
@@ -2327,6 +2505,8 @@
 
 - hairy, ciliary （[解剖][物]毛细管的；毛状的）
 
+:::
+
 
 ## 93. erode
 
@@ -2345,6 +2525,8 @@
 - weather, eat into （腐蚀，侵蚀）
 
 - eat into, burn into （侵蚀；受腐蚀）
+
+:::
 
 
 ## 94. beset
@@ -2367,6 +2549,8 @@
 
 - eat at, persecute （困扰；镶嵌；围绕）
 
+:::
+
 
 ## 95. nestle
 
@@ -2386,6 +2570,8 @@
 
 - establish, put, station, bed, plant （抱；安置）
 
+:::
+
 
 ## 96. frustrate
 
@@ -2404,6 +2590,8 @@
 - founder, come to naught （失败；受挫）
 
 - thwarted, unprofitable （挫败的；无益的）
+
+:::
 
 
 ## 97. sparse
@@ -2427,6 +2615,8 @@
 :::warning{title=🤔同义词}
 
 - exiguous, infrequent （稀疏的；稀少的）
+
+:::
 
 
 ## 98. pragmatic
@@ -2453,6 +2643,8 @@
 
 - practical, actual, effective, real, positive （实际的；实用主义的；国事的）
 
+:::
+
 
 ## 99. anticyclone
 
@@ -2471,5 +2663,7 @@
 :::warning{title=🤔同义词}
 
 - high pressure, hyperbar （[气象]反气旋，反旋风；高气压）
+
+:::
 
 

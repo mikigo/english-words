@@ -18,6 +18,8 @@
 
 - sector, orthant （[海洋][天][数]象限；[水运]象限仪；四分之一圆）
 
+:::
+
 
 ## 601. endemic
 
@@ -42,6 +44,8 @@
 :::warning{title=🤔同义词}
 
 - provincial, local （[医][内科]地方性的；[生物]风土的）
+
+:::
 
 
 ## 602. magnesium
@@ -110,6 +114,8 @@
 
 - morning, prime （初期；婴儿期；[地质]幼年）
 
+:::
+
 
 ## 604. supreme
 
@@ -143,6 +149,8 @@
 
 - hegemony （至高；霸权）
 
+:::
+
 
 ## 605. heritage
 
@@ -171,6 +179,8 @@
 :::warning{title=🤔同义词}
 
 - tradition, succession, inheritance, legacy （遗产；传统；继承物；继承权）
+
+:::
 
 
 ## 606. priority
@@ -225,6 +235,8 @@
 
 - precedence, preference to sth （[通信][计]优先；优先权；[数]优先次序；优先考虑的事）
 
+:::
+
 
 ## 607. extraction
 
@@ -277,6 +289,8 @@
 :::warning{title=🤔同义词}
 
 - birth, origin （取出；[化工]抽出；拔出；抽出物；出身）
+
+:::
 
 
 ## 608. slope
@@ -345,6 +359,8 @@
 
 - carry, tip up （倾斜；使倾斜；扛）
 
+:::
+
 
 ## 609. philosophy
 
@@ -403,6 +419,8 @@
 :::warning{title=🤔同义词}
 
 - Weltbild, Anschauung （哲学；哲理；人生观）
+
+:::
 
 
 ## 610. inlet
@@ -463,6 +481,8 @@
 
 - threshold, entry, import, portal, way in （[地理][通信]入口，[水利][机]进口；插入物）
 
+:::
+
 
 ## 611. metallic
 
@@ -513,6 +533,8 @@
 :::warning{title=🤔同义词}
 
 - metal bearing （金属的，含金属的）
+
+:::
 
 
 ## 612. creative
@@ -601,6 +623,8 @@
 
 - precautionary （预防的，防止的）
 
+:::
+
 
 ## 614. mythology
 
@@ -615,6 +639,8 @@
 :::warning{title=🤔同义词}
 
 - fairy story, fairy tales （神话；神话学；神话集）
+
+:::
 
 
 ## 615. analog
@@ -664,6 +690,8 @@
 - simulation, similar （[自]模拟；类似物）
 
 - simulated （[自]模拟的；有长短针的）
+
+:::
 
 
 ## 616. judicial
@@ -716,6 +744,8 @@
 
 - just, candid （公正的，明断的；[法]法庭的；审判上的）
 
+:::
+
 
 ## 617. shuttle
 
@@ -746,6 +776,8 @@
 :::warning{title=🤔同义词}
 
 - spaceplane （[航]航天飞机；穿梭；[纺]梭子；穿梭班机、公共汽车等）
+
+:::
 
 
 ## 618. lapse
@@ -778,6 +810,8 @@
 
 - cease to be in force, out of service （失效；流逝；背离，失检；陷入）
 
+:::
+
 
 ## 619. perfunctory
 
@@ -794,6 +828,8 @@
 :::warning{title=🤔同义词}
 
 - slapdash （敷衍的；马虎的；得过且过的）
+
+:::
 
 
 ## 620. regenerate
@@ -815,6 +851,8 @@
 - innovate （再生；革新）
 
 - innovative, reproductive （再生的；革新的）
+
+:::
 
 
 ## 621. allocate
@@ -841,6 +879,8 @@
 
 - parcel out, to assign （分配；指定）
 
+:::
+
 
 ## 622. forestall
 
@@ -855,6 +895,8 @@
 :::warning{title=🤔同义词}
 
 - corner, monopolize （垄断；预先阻止；占先一步）
+
+:::
 
 
 ## 623. eradication
@@ -875,6 +917,8 @@
 
 - extinction, extermination （消灭，扑灭；根除）
 
+:::
+
 
 ## 624. pressboard
 
@@ -883,6 +927,8 @@
 :::warning{title=🤔同义词}
 
 - boards, chipboard （纸板；绝缘用合成纤维板；小熨烫板）
+
+:::
 
 
 ## 625. niche
@@ -909,6 +955,8 @@
 
 - habitacle, alcove （[建]壁龛；合适的职业）
 
+:::
+
 
 ## 626. antibiotics
 
@@ -929,6 +977,8 @@
 :::warning{title=🤔同义词}
 
 - microbiotic （抗生素；抗生学）
+
+:::
 
 
 ## 627. primary
@@ -995,6 +1045,8 @@
 
 - original color, fundamental colour （原色；最主要者）
 
+:::
+
 
 ## 628. pirate
 
@@ -1024,6 +1076,8 @@
 
 - freeboot （做海盗；从事劫掠）
 
+:::
+
 
 ## 629. pant
 
@@ -1050,6 +1104,8 @@
 - rare, aspire （喘息；渴望；气喘吁吁地说出某事）
 
 - asthma, wheeziness （气喘；喘息；喷气声）
+
+:::
 
 
 ## 630. enterprise
@@ -1109,6 +1165,8 @@
 :::warning{title=🤔同义词}
 
 - career, cause, undertaking, project, push （[经]企业；事业；进取心；事业心）
+
+:::
 
 
 ## 631. solar
@@ -1171,6 +1229,8 @@
 
 - sunroom, sun porch （日光浴室）
 
+:::
+
 
 ## 632. seesaw
 
@@ -1193,6 +1253,8 @@
 - alternating, reciprocating （交互的；前后动的）
 
 - teetertotter （玩跷跷板；上下来回摇动）
+
+:::
 
 
 ## 633. formation
@@ -1253,6 +1315,8 @@
 
 - constitution, fabric, becoming, structure, build （形成；[水文]构造；编队）
 
+:::
+
 
 ## 634. fetal
 
@@ -1282,6 +1346,8 @@
 
 - foetal （胎的，胎儿的）
 
+:::
+
 
 ## 635. emigrate
 
@@ -1298,6 +1364,8 @@
 - transmigrate （移居；移居外国）
 
 - to immigrate, to migrate （移民）
+
+:::
 
 
 ## 636. alien
@@ -1328,6 +1396,8 @@
 
 - transfer, negotiate （让渡，转让）
 
+:::
+
 
 ## 637. benefactor
 
@@ -1342,6 +1412,8 @@
 :::warning{title=🤔同义词}
 
 - contributor, doner （恩人；捐助者；施主）
+
+:::
 
 
 ## 638. triangle
@@ -1384,6 +1456,8 @@
 
 - trigona, Misumi （[数][昆][测]三角（形）；三角关系；三角形之物；三人一组）
 
+:::
+
 
 ## 639. fuse
 
@@ -1425,6 +1499,8 @@
 
 - signal, safety wire （[电]保险丝；[军][矿业]导火线，雷管）
 
+:::
+
 
 ## 640. anole
 
@@ -1439,6 +1515,8 @@
 :::warning{title=🤔同义词}
 
 - chameleon, Zelig （[脊椎]变色龙）
+
+:::
 
 
 ## 641. competence
@@ -1477,6 +1555,8 @@
 
 - ability, capacity, rights, power, jurisdiction （能力，[胚]胜任；权限；作证能力；足以过舒适生活的收入）
 
+:::
+
 
 ## 642. elite
 
@@ -1501,6 +1581,8 @@
 :::warning{title=🤔同义词}
 
 - essence, flower, regular, prime, distillation （精英；精华；中坚分子）
+
+:::
 
 
 ## 643. wholesale
@@ -1544,6 +1626,8 @@
 - sales by bulk （[贸易]批发）
 
 - cosmically （大规模地；以批发方式）
+
+:::
 
 
 ## 644. premium
@@ -1602,6 +1686,8 @@
 
 - bonus, dividend （[保险]保险费，额外费用；[劳经]奖金）
 
+:::
+
 
 ## 645. listlessness
 
@@ -1618,6 +1704,8 @@
 :::warning{title=🤔同义词}
 
 - laziness, deadness （无精打采；精神萎靡）
+
+:::
 
 
 ## 646. bucolic
@@ -1636,6 +1724,8 @@
 
 - farmer, idyll （田园诗；农夫）
 
+:::
+
 
 ## 647. solidarity
 
@@ -1652,6 +1742,8 @@
 :::warning{title=🤔同义词}
 
 - unity, consolidation （团结，团结一致）
+
+:::
 
 
 ## 648. theme
@@ -1686,6 +1778,8 @@
 
 - topic, subject, titles, motive （主题；主旋律；题目）
 
+:::
+
 
 ## 649. consult
 
@@ -1709,6 +1803,8 @@
 
 - take advice, seek advice （请教；商议；当顾问）
 
+:::
+
 
 ## 650. electorate
 
@@ -1723,6 +1819,8 @@
 :::warning{title=🤔同义词}
 
 - constituent, precinct （选民；选区）
+
+:::
 
 
 ## 651. determinism
@@ -1755,6 +1853,8 @@
 
 - grant, embezzlement （[财政]拨款；挪用）
 
+:::
+
 
 ## 653. entice
 
@@ -1769,6 +1869,8 @@
 :::warning{title=🤔同义词}
 
 - encourage, egg on （诱使；怂恿）
+
+:::
 
 
 ## 654. contradiction
@@ -1795,6 +1897,8 @@
 
 - conflict, discrepancy （[数]矛盾；否认；反驳）
 
+:::
+
 
 ## 655. pang
 
@@ -1811,6 +1915,8 @@
 - megalgia, violent pain （（肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦）
 
 - harry, worry, trouble, tear （使剧痛；折磨）
+
+:::
 
 
 ## 656. predatory
@@ -1833,6 +1939,8 @@
 
 - rapacious, spoliatory （掠夺的，掠夺成性的；食肉的；捕食生物的）
 
+:::
+
 
 ## 657. preponderance
 
@@ -1847,6 +1955,8 @@
 :::warning{title=🤔同义词}
 
 - majority, superiority, advantage, edge, dominance （优势；多数；占优势）
+
+:::
 
 
 ## 658. barrel
@@ -1895,6 +2005,8 @@
 
 - skirr （快速移动）
 
+:::
+
 
 ## 659. sentinel
 
@@ -1922,6 +2034,8 @@
 
 - keep watch （守卫，放哨）
 
+:::
+
 
 ## 660. disclosure
 
@@ -1948,6 +2062,8 @@
 :::warning{title=🤔同义词}
 
 - lay bare, showup （[审计]披露；[法]揭发；被揭发出来的事情）
+
+:::
 
 
 ## 661. desire
@@ -1985,6 +2101,8 @@
 - feel like, wanna, require, mean, exact （想要；要求；希望得到…）
 
 - rare, aspire, long for, yearn for, die for （渴望）
+
+:::
 
 
 ## 662. initial
@@ -2047,6 +2165,8 @@
 
 - premier, original （[数]最初的；字首的）
 
+:::
+
 
 ## 663. efficient
 
@@ -2089,6 +2209,8 @@
 :::warning{title=🤔同义词}
 
 - able, competent （有效率的；有能力的；生效的）
+
+:::
 
 
 ## 664. nucleotide
@@ -2133,6 +2255,8 @@
 
 - elementary, basic, fundamental, essential, primary （基本的；初步的；退化的；残遗的；[昆]未发展的）
 
+:::
+
 
 ## 666. symbiotic
 
@@ -2155,6 +2279,8 @@
 :::warning{title=🤔同义词}
 
 - paragenetic （[生态]共生的；共栖的）
+
+:::
 
 
 ## 667. consistent
@@ -2184,6 +2310,8 @@
 :::warning{title=🤔同义词}
 
 - united, corresponding, uniform, matching, solid （始终如一的，[数]一致的；坚持的）
+
+:::
 
 
 ## 668. reverse
@@ -2252,6 +2380,8 @@
 
 - retrogress, step backward （倒退；逆叫）
 
+:::
+
 
 ## 669. infest
 
@@ -2266,6 +2396,8 @@
 :::warning{title=🤔同义词}
 
 - harry, ply with （骚扰；寄生于；大批出没；大批滋生）
+
+:::
 
 
 ## 670. conceptual
@@ -2328,6 +2460,8 @@
 
 - waste, wilderness, abandoned land （荒地）
 
+:::
+
 
 ## 672. eternal
 
@@ -2361,6 +2495,8 @@
 
 - permanent, lasting, everlasting, undying, timeless （永恒的；不朽的）
 
+:::
+
 
 ## 673. redress
 
@@ -2384,6 +2520,8 @@
 
 - relief, satisfaction （救济；赔偿；矫正）
 
+:::
+
 
 ## 674. grove
 
@@ -2405,6 +2543,8 @@
 
 - bosket, orchard garden （[林]小树林；果园）
 
+:::
+
 
 ## 675. fungi
 
@@ -2424,6 +2564,8 @@
 
 - mushrooms （真菌；菌类；蘑菇（fungus的复数））
 
+:::
+
 
 ## 676. antiquity
 
@@ -2438,6 +2580,8 @@
 :::warning{title=🤔同义词}
 
 - eld, advanced age （高龄；古物；古代的遗物）
+
+:::
 
 
 ## 677. permanent
@@ -2504,6 +2648,8 @@
 
 - eternal, constant, steady, lasting, perpetual （永久的，永恒的；不变的）
 
+:::
+
 
 ## 678. fetch
 
@@ -2537,6 +2683,8 @@
 
 - taking, procurement, scheme, fraud （取得；诡计）
 
+:::
+
 
 ## 679. foster
 
@@ -2566,6 +2714,8 @@
 
 - cultivate, rear, raise, plant, mother （培养；养育，抚育；抱（希望等））
 
+:::
+
 
 ## 680. prevalent
 
@@ -2580,6 +2730,8 @@
 :::warning{title=🤔同义词}
 
 - popular, widespread, universal, fashionable, going （流行的；普遍的，广传的）
+
+:::
 
 
 ## 681. facility
@@ -2640,6 +2792,8 @@
 
 - equipment, furniture, establishment, plant, fixture （设施；设备；容易；灵巧）
 
+:::
+
 
 ## 682. gregarious
 
@@ -2654,6 +2808,8 @@
 :::warning{title=🤔同义词}
 
 - social （社交的；群居的）
+
+:::
 
 
 ## 683. beam
@@ -2722,6 +2878,8 @@
 
 - irradiate （照射；堆满笑容）
 
+:::
+
 
 ## 684. nutrient
 
@@ -2765,6 +2923,8 @@
 
 - trophic, alimentary （[生物]营养的；滋养的）
 
+:::
+
 
 ## 685. civilization
 
@@ -2795,6 +2955,8 @@
 :::warning{title=🤔同义词}
 
 - culture, kultur （文明；文化）
+
+:::
 
 
 ## 686. compact
@@ -2847,6 +3009,8 @@
 
 - close, brief （[数]紧凑的，紧密的；简洁的）
 
+:::
+
 
 ## 687. alliance
 
@@ -2878,6 +3042,8 @@
 
 - union, association, league, combined with, combination, unity （联盟，联合；联姻）
 
+:::
+
 
 ## 688. outlaw
 
@@ -2894,6 +3060,8 @@
 :::warning{title=🤔同义词}
 
 - gangster, plug-ugly （歹徒；罪犯；亡命之徒；被剥夺法律保护者）
+
+:::
 
 
 ## 689. outlay
@@ -2919,6 +3087,8 @@
 - invested, cost, spend, expend （花费）
 
 - expenditure, fee, charge, cost （经费；支出；[会计]费用）
+
+:::
 
 
 ## 690. bead
@@ -2952,6 +3122,8 @@
 - drop, gutta （珠子；滴；念珠）
 
 - foam formation （形成珠状，起泡）
+
+:::
 
 
 ## 691. aviation
@@ -2998,6 +3170,8 @@
 
 - avigation, airmanship （[航]航空；飞行术；飞机制造业）
 
+:::
+
 
 ## 692. eusocial
 
@@ -3018,6 +3192,8 @@
 - simulate, pattern, imitate （仿真；模仿；尽力赶上；同…竞争）
 
 - simulation, stylization （仿真；仿效）
+
+:::
 
 
 ## 694. experience
@@ -3082,6 +3258,8 @@
 
 - suffer, live, undergo （经验；经历；体验）
 
+:::
+
 
 ## 695. synthesize
 
@@ -3096,6 +3274,8 @@
 :::warning{title=🤔同义词}
 
 - compound, colligate （合成；综合）
+
+:::
 
 
 ## 696. upsurge
@@ -3113,6 +3293,8 @@
 - wave, climax （[海洋]高潮，高涨）
 
 - gather steam, comb （涌起，高涨）
+
+:::
 
 
 ## 697. flatten
@@ -3138,6 +3320,8 @@
 - defeat, triumph over （击败，摧毁；使……平坦）
 
 - even （变平；变单调）
+
+:::
 
 
 ## 698. mammalian
@@ -3181,5 +3365,7 @@
 - wedge in, pile in （受挤压；发出挤压声；挤入）
 
 - nobbing （壁球；挤压；咯吱声；南瓜属植物；（英）果汁饮料）
+
+:::
 
 

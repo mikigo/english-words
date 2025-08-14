@@ -18,6 +18,8 @@
 
 - yield, desert, quit （退位；放弃）
 
+:::
+
 
 ## 2. abnormal
 
@@ -59,6 +61,8 @@
 
 - unnatural, eccentric （反常的，不规则的；变态的）
 
+:::
+
 
 ## 3. abolish
 
@@ -74,6 +78,8 @@
 
 - recall, suppress （废除，废止；取消，革除）
 
+:::
+
 
 ## 4. absenteeism
 
@@ -82,6 +88,8 @@
 :::warning{title=🤔同义词}
 
 - truancy （[劳经]旷工；旷课；有计划的怠工；经常无故缺席）
+
+:::
 
 
 ## 5. absorb
@@ -103,6 +111,8 @@
 :::warning{title=🤔同义词}
 
 - attract, engage, see, read, seize （吸收；吸引；承受；理解；使…全神贯注）
+
+:::
 
 
 ## 6. abstract
@@ -155,6 +165,8 @@
 
 - extract, brief （[图情]摘要；提取；使……抽象化）
 
+:::
+
 
 ## 7. absurd
 
@@ -177,6 +189,8 @@
 :::warning{title=🤔同义词}
 
 - ridiculous, preposterous （荒谬的；可笑的）
+
+:::
 
 
 ## 8. abundant
@@ -202,6 +216,8 @@
 :::warning{title=🤔同义词}
 
 - full, ample, plentiful, luxurious （丰富的；充裕的；盛产）
+
+:::
 
 
 ## 9. academic
@@ -268,6 +284,8 @@
 
 - undergraduate, don, scholar, college student, university student （大学生，大学教师；学者）
 
+:::
+
 
 ## 10. accelerate
 
@@ -282,6 +300,8 @@
 :::warning{title=🤔同义词}
 
 - improve, increase speed （加速；促进；增加）
+
+:::
 
 
 ## 11. access
@@ -346,6 +366,8 @@
 
 - opening, admittance （进入；使用权；[电]通路）
 
+:::
+
 
 ## 12. accessible
 
@@ -369,6 +391,8 @@
 
 - accostable, comprehensible （易接近的；可进入的；可理解的）
 
+:::
+
 
 ## 13. acclaim
 
@@ -391,6 +415,8 @@
 - praise, applause （欢呼，喝彩；称赞）
 
 - cheer （欢呼，喝采）
+
+:::
 
 
 ## 14. accommodate
@@ -417,6 +443,8 @@
 
 - adjust, adapt to something （适应；调解）
 
+:::
+
 
 ## 15. accompaniment
 
@@ -437,6 +465,8 @@
 :::warning{title=🤔同义词}
 
 - obbligato （伴奏；伴随物）
+
+:::
 
 
 ## 16. accomplish
@@ -460,6 +490,8 @@
 :::warning{title=🤔同义词}
 
 - carry out, come true, perform, complete, fulfill （完成；实现；达到）
+
+:::
 
 
 ## 17. accord
@@ -502,6 +534,8 @@
 
 - cotton, identify, square, meet with, correspond with （符合；一致）
 
+:::
+
 
 ## 18. accordingly
 
@@ -524,6 +558,8 @@
 :::warning{title=🤔同义词}
 
 - therefore, hence, consequently, thus, then （因此，于是；相应地；照著）
+
+:::
 
 
 ## 19. accountant
@@ -624,6 +660,8 @@
 
 - relating, explaining （解释（account的ing形式）；叙述）
 
+:::
+
 
 ## 21. accretion
 
@@ -645,6 +683,8 @@
 
 - addition, adjunction （添加；增加物；连生；冲积层）
 
+:::
+
 
 ## 22. accrue
 
@@ -662,6 +702,8 @@
 
 - acquire, earn, buy, score, find （获得；积累）
 
+:::
+
 
 ## 23. accumulate
 
@@ -678,6 +720,8 @@
 - store up （累积；积聚）
 
 - scrape up （积攒）
+
+:::
 
 
 ## 24. accuracy
@@ -770,6 +814,8 @@
 
 - precise, mathematical, strict, rigid, refined （精确的）
 
+:::
+
 
 ## 26. accustomed
 
@@ -796,6 +842,8 @@
 :::warning{title=🤔同义词}
 
 - usual, used, particular, common, exclusive （习惯的；通常的；独有的）
+
+:::
 
 
 ## 27. acidity
@@ -831,6 +879,8 @@
 :::warning{title=🤔同义词}
 
 - accept, agree, recognize, grant, face （承认；答谢；报偿；告知已收到）
+
+:::
 
 
 ## 29. acoustic
@@ -893,6 +943,8 @@
 
 - aural, auditive （声学的；[声]音响的；听觉的）
 
+:::
+
 
 ## 30. acoustical
 
@@ -901,6 +953,8 @@
 :::warning{title=🤔同义词}
 
 - aural, auditive （[声]声学的；听觉的；音响的）
+
+:::
 
 
 ## 31. acquiesce
@@ -923,6 +977,8 @@
 
 - connive （默许；勉强同意）
 
+:::
+
 
 ## 32. acquire
 
@@ -939,6 +995,8 @@
 :::warning{title=🤔同义词}
 
 - earn, buy, score, find, make （获得；取得；学到；捕获）
+
+:::
 
 
 ## 33. acquisition
@@ -991,6 +1049,8 @@
 
 - getting, procurement, winning （获得物，获得）
 
+:::
+
 
 ## 34. acreage
 
@@ -1007,6 +1067,8 @@
 :::warning{title=🤔同义词}
 
 - area, proportion （面积，[测]英亩数）
+
+:::
 
 
 ## 35. activate
@@ -1025,6 +1087,8 @@
 
 - stimulate, fan, motivate, needle （刺激；使活动；使活泼；使产生放射性）
 
+:::
+
 
 ## 36. activism
 
@@ -1042,6 +1106,8 @@
 
 - radicalism （行动主义；激进主义）
 
+:::
+
 
 ## 37. activist
 
@@ -1056,6 +1122,8 @@
 :::warning{title=🤔同义词}
 
 - rustler （积极分子；激进主义分子）
+
+:::
 
 
 ## 38. acute
@@ -1116,6 +1184,8 @@
 
 - serious, bad, keen （严重的，[医][植]急性的；[数][生物]敏锐的；激烈的；尖声的）
 
+:::
+
 
 ## 39. adapt
 
@@ -1140,6 +1210,8 @@
 - condition, suit, season （使适应；改编）
 
 - adjust, accomodate to, accommodate to （适应）
+
+:::
 
 
 ## 40. adaptation
@@ -1168,6 +1240,8 @@
 
 - orientation, reorganization （适应；改编；改编本，改写本）
 
+:::
+
 
 ## 41. adapter
 
@@ -1190,6 +1264,8 @@
 :::warning{title=🤔同义词}
 
 - accommodator （[通信]适配器；改编者；[电子][机][冶]接合器；适应者）
+
+:::
 
 
 ## 42. addict
@@ -1258,6 +1334,8 @@
 
 - add, accretion （添加；[数]加法；增加物）
 
+:::
+
 
 ## 45. additive
 
@@ -1307,6 +1385,8 @@
 
 - attached, plus, more, second, excess （[数]附加的；加法的）
 
+:::
+
 
 ## 46. adept
 
@@ -1334,6 +1414,8 @@
 
 - expert, sharp （内行；能手）
 
+:::
+
 
 ## 47. adhere
 
@@ -1342,6 +1424,8 @@
 :::warning{title=🤔同义词}
 
 - stay, stand on （坚持；依附；粘着；追随）
+
+:::
 
 
 ## 48. adherence
@@ -1357,6 +1441,8 @@
 :::warning{title=🤔同义词}
 
 - loyalty, insistence （坚持；[力]依附；忠诚）
+
+:::
 
 
 ## 49. adjacent
@@ -1389,6 +1475,8 @@
 
 - nearby, neighbor （邻近的，毗连的）
 
+:::
+
 
 ## 50. adjust
 
@@ -1418,6 +1506,8 @@
 
 - correct, adapt to something （调整，校准；适应）
 
+:::
+
 
 ## 51. administer
 
@@ -1440,6 +1530,8 @@
 :::warning{title=🤔同义词}
 
 - manage, afford, perform, conduct, implement （管理；执行；给予）
+
+:::
 
 
 ## 52. admit
@@ -1468,6 +1560,8 @@
 
 - accept, recognize （承认；容许）
 
+:::
+
 
 ## 53. adolescent
 
@@ -1493,6 +1587,8 @@
 
 - youths, teener （[人类]青少年）
 
+:::
+
 
 ## 54. adoption
 
@@ -1513,6 +1609,8 @@
 :::warning{title=🤔同义词}
 
 - acceptance, introduction, receiving （采用；收养；接受）
+
+:::
 
 
 ## 55. advent
@@ -1536,6 +1634,8 @@
 :::warning{title=🤔同义词}
 
 - arrival, occurrence, emergence, appearance, rise （到来；出现；基督降临；基督降临节）
+
+:::
 
 
 ## 56. adverse
@@ -1581,6 +1681,8 @@
 :::warning{title=🤔同义词}
 
 - against, contrary, opposite, counter, cross （不利的；相反的；[植]敌对的（名词adverseness，副词adversely））
+
+:::
 
 
 ## 57. advertising
@@ -1647,6 +1749,8 @@
 
 - bill, publicity （[经]广告；广告业；登广告）
 
+:::
+
 
 ## 58. advocacy
 
@@ -1655,6 +1759,8 @@
 :::warning{title=🤔同义词}
 
 - opinion, up with, affirmation （主张；拥护；辩护）
+
+:::
 
 
 ## 59. aerodynamic
@@ -1705,6 +1811,8 @@
 
 - alliance, union, association, league, federation （友好关系；加入；联盟；从属关系）
 
+:::
+
 
 ## 61. affirmative
 
@@ -1732,6 +1840,8 @@
 
 - positive, active, energetic （肯定的；积极的）
 
+:::
+
 
 ## 62. afflict
 
@@ -1740,6 +1850,8 @@
 :::warning{title=🤔同义词}
 
 - harry, worry, trouble, tear, devil （折磨；使痛苦；使苦恼）
+
+:::
 
 
 ## 63. affluent
@@ -1767,6 +1879,8 @@
 - abundant, fluid, full, fluent, luxurious （富裕的；丰富的；流畅的）
 
 - branch, distributary （[地理][水文]支流；富人）
+
+:::
 
 
 ## 64. affordable
@@ -1803,6 +1917,8 @@
 
 - sequel, backwash （后果；余波）
 
+:::
+
 
 ## 66. aggravate
 
@@ -1819,6 +1935,8 @@
 :::warning{title=🤔同义词}
 
 - anger, complicate （加重；使恶化；激怒）
+
+:::
 
 
 ## 67. aggregate
@@ -1887,6 +2005,8 @@
 
 - collective, polymeric （[植][无脊椎][地质]聚合的；[数]集合的；合计的）
 
+:::
+
 
 ## 68. aggression
 
@@ -1907,6 +2027,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （侵略；进攻；[心理]侵犯；侵害）
+
+:::
 
 
 ## 69. aggressive
@@ -1937,6 +2059,8 @@
 
 - invasive, enterprising （侵略性的；好斗的；有进取心的；有闯劲的）
 
+:::
+
 
 ## 70. agrarian
 
@@ -1960,6 +2084,8 @@
 
 - ground, earth's （土地的；耕地的；有关土地的）
 
+:::
+
 
 ## 71. ailment
 
@@ -1974,6 +2100,8 @@
 :::warning{title=🤔同义词}
 
 - tension, unrest （小病；不安）
+
+:::
 
 
 ## 72. airliner
@@ -1995,6 +2123,8 @@
 :::warning{title=🤔同义词}
 
 - liner, scheduled flight （[航]班机；大型客机）
+
+:::
 
 
 ## 73. ale
@@ -2019,6 +2149,8 @@
 
 - yill （麦芽酒）
 
+:::
+
 
 ## 74. alga
 
@@ -2035,6 +2167,8 @@
 :::warning{title=🤔同义词}
 
 - seaweed, varech （藻类；海藻）
+
+:::
 
 
 ## 75. alien
@@ -2066,6 +2200,8 @@
 - foreigner, uitlander （外国人，外侨；外星人）
 
 - transfer, negotiate （让渡，转让）
+
+:::
 
 
 ## 76. alignment
@@ -2108,6 +2244,8 @@
 
 - standardization, regulation, calibration, rank （队列，成直线；校准；结盟）
 
+:::
+
 
 ## 77. allay
 
@@ -2123,6 +2261,8 @@
 
 - comfort, calm, moderate, compose （减轻；使缓和；使平静）
 
+:::
+
 
 ## 78. allege
 
@@ -2137,6 +2277,8 @@
 :::warning{title=🤔同义词}
 
 - declare, asseverate （宣称，断言；提出…作为理由）
+
+:::
 
 
 ## 79. allegiance
@@ -2160,6 +2302,8 @@
 :::warning{title=🤔同义词}
 
 - loyalty, devotion （效忠，忠诚；忠贞）
+
+:::
 
 
 ## 80. allergic
@@ -2210,6 +2354,8 @@
 
 - hate, hypersensitivity （过敏症；反感；厌恶）
 
+:::
+
 
 ## 82. alleviate
 
@@ -2224,6 +2370,8 @@
 :::warning{title=🤔同义词}
 
 - moderate, relax （减轻，缓和）
+
+:::
 
 
 ## 83. alliance
@@ -2256,6 +2404,8 @@
 
 - union, association, league, combined with, combination, unity （联盟，联合；联姻）
 
+:::
+
 
 ## 84. alligator
 
@@ -2283,6 +2433,8 @@
 
 - gap, seam （皱裂；裂开）
 
+:::
+
 
 ## 85. allocate
 
@@ -2308,6 +2460,8 @@
 
 - parcel out, to assign （分配；指定）
 
+:::
+
 
 ## 86. allotment
 
@@ -2322,6 +2476,8 @@
 :::warning{title=🤔同义词}
 
 - distribution, assignment, fate, fortune, lot （[会计]分配；分配物；养家费；命运）
+
+:::
 
 
 ## 87. allowance
@@ -2376,6 +2532,8 @@
 
 - ration （定量供应）
 
+:::
+
 
 ## 88. allude
 
@@ -2413,6 +2571,8 @@
 
 - deluvial （[地质]冲积的）
 
+:::
+
 
 ## 90. ally
 
@@ -2442,6 +2602,8 @@
 
 - band, combine, connect, league, hand in hand （联合；结盟）
 
+:::
+
 
 ## 91. alpha
 
@@ -2460,6 +2622,8 @@
 :::warning{title=🤔同义词}
 
 - origin, dawn （希腊字母的第一个字母；开端；最初）
+
+:::
 
 
 ## 92. alter
@@ -2489,6 +2653,8 @@
 - influence, fashion, shift, vary, modify （改变，更改）
 
 - modify, veer from （改变；修改）
+
+:::
 
 
 ## 93. alternate
@@ -2545,6 +2711,8 @@
 
 - refill （替换物）
 
+:::
+
 
 ## 94. alternative
 
@@ -2600,6 +2768,8 @@
 
 - selective, vicissitudinary （供选择的；选择性的；交替的）
 
+:::
+
 
 ## 95. altitude
 
@@ -2630,6 +2800,8 @@
 :::warning{title=🤔同义词}
 
 - height, raise, elevation, rise （高地；高度；[数]顶垂线；（等级和地位等的）高级）
+
+:::
 
 
 ## 96. altruism

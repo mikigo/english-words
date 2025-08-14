@@ -58,6 +58,8 @@
 
 - passage, corridor （门厅，走廊；[建]会堂；食堂；学生宿舍）
 
+:::
+
 
 ## 2901. efficiently
 
@@ -73,6 +75,8 @@
 
 - effectively, usefully （有效地；效率高地（efficient的副词形式））
 
+:::
+
 
 ## 2902. tightly
 
@@ -87,6 +91,8 @@
 :::warning{title=🤔同义词}
 
 - firmly, fast （紧紧地；坚固地）
+
+:::
 
 
 ## 2903. medieval
@@ -104,6 +110,8 @@
 :::warning{title=🤔同义词}
 
 - original, primitive （中世纪的；原始的；仿中世纪的；老式的）
+
+:::
 
 
 ## 2904. jewelry
@@ -139,6 +147,8 @@
 :::warning{title=🤔同义词}
 
 - variously, dissimilarly （不同地；差异；各种）
+
+:::
 
 
 ## 2906. church
@@ -203,6 +213,8 @@
 
 - ecclesial, hierurgical （教会的；礼拜的）
 
+:::
+
 
 ## 2907. putt
 
@@ -217,6 +229,8 @@
 :::warning{title=🤔同义词}
 
 - hole out （击球入洞）
+
+:::
 
 
 ## 2908. notion
@@ -233,6 +247,8 @@
 
 - concept, idea, eye, construct, sight （概念；见解；打算）
 
+:::
+
 
 ## 2909. reshape
 
@@ -247,6 +263,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruct, rebuild （改造；再成形）
+
+:::
 
 
 ## 2910. pond
@@ -286,6 +304,8 @@
 :::warning{title=🤔同义词}
 
 - tank, mere （[水文]池塘）
+
+:::
 
 
 ## 2911. metabolic
@@ -332,6 +352,8 @@
 
 - changed, sliding, varying, variational （变化的；[生理]新陈代谢的）
 
+:::
+
 
 ## 2912. methane
 
@@ -356,6 +378,8 @@
 :::warning{title=🤔同义词}
 
 - marsh gas, firedamp （[有化]甲烷；[能源]沼气）
+
+:::
 
 
 ## 2913. tar
@@ -389,6 +413,8 @@
 - asphalt, tarre （[化工]焦油；柏油；水手）
 
 - cloud, pollute （涂以焦油；玷污）
+
+:::
 
 
 ## 2914. fundamentally
@@ -425,6 +451,8 @@
 
 - unheard-of, all-time （空前的；无前例的）
 
+:::
+
 
 ## 2916. conservative
 
@@ -457,6 +485,8 @@
 - standpat, backward-looking （保守的）
 
 - old guard, pontificator （保守派，守旧者）
+
+:::
 
 
 ## 2917. identity
@@ -517,6 +547,8 @@
 
 - accordance, estate, unity, agreement, quality （身份；同一性，一致；特性；恒等式）
 
+:::
+
 
 ## 2918. expenditure
 
@@ -574,6 +606,8 @@
 
 - spending, payout （[会计]支出，花费；经费，消费额）
 
+:::
+
 
 ## 2919. cohesive
 
@@ -599,6 +633,8 @@
 
 - combinative （有结合力的；紧密结合的；有粘着力的）
 
+:::
+
 
 ## 2920. practically
 
@@ -613,6 +649,8 @@
 :::warning{title=🤔同义词}
 
 - almost, nearly, actually, really, most （实际地；几乎；事实上）
+
+:::
 
 
 ## 2921. crew
@@ -658,6 +696,8 @@
 :::warning{title=🤔同义词}
 
 - team, group, personnel, suit （队，组；全体人员，全体船员）
+
+:::
 
 
 ## 2922. circular
@@ -720,6 +760,8 @@
 
 - notice, advice, information （通知，传单）
 
+:::
+
 
 ## 2923. forerunner
 
@@ -734,6 +776,8 @@
 :::warning{title=🤔同义词}
 
 - warning, precursor （先驱；先驱者；预兆）
+
+:::
 
 
 ## 2924. alertness
@@ -751,6 +795,8 @@
 :::warning{title=🤔同义词}
 
 - guard, vigilance （警戒；机敏）
+
+:::
 
 
 ## 2925. invasion
@@ -776,6 +822,8 @@
 :::warning{title=🤔同义词}
 
 - violence, aggression, infringement （入侵，侵略；[医]侵袭；侵犯）
+
+:::
 
 
 ## 2926. recurrence
@@ -808,6 +856,8 @@
 
 - circulation, revolution, rotation, cycle, round （再发生；循环；重现；重新提起）
 
+:::
+
 
 ## 2927. hawk
 
@@ -833,6 +883,8 @@
 
 - eagle （[鸟]鹰；鹰派成员；掠夺他人的人）
 
+:::
+
 
 ## 2928. predatory
 
@@ -853,6 +905,8 @@
 :::warning{title=🤔同义词}
 
 - rapacious, spoliatory （掠夺的，掠夺成性的；食肉的；捕食生物的）
+
+:::
 
 
 ## 2929. complement
@@ -879,6 +933,8 @@
 
 - make up a loss, make sth up （补足，补助）
 
+:::
+
 
 ## 2930. humid
 
@@ -903,6 +959,8 @@
 :::warning{title=🤔同义词}
 
 - wet, moisty （[气象][物]潮湿的；湿润的；多湿气的）
+
+:::
 
 
 ## 2931. limb
@@ -936,6 +994,8 @@
 :::warning{title=🤔同义词}
 
 - extremitas, offshoot （肢，臂；分支；枝干）
+
+:::
 
 
 ## 2932. user
@@ -1000,6 +1060,8 @@
 
 - consumer buyer （[计]用户；使用者）
 
+:::
+
 
 ## 2933. moraine
 
@@ -1044,6 +1106,8 @@
 :::warning{title=🤔同义词}
 
 - gritty, arenaceous （沙地的；多沙的；含沙的）
+
+:::
 
 
 ## 2935. jurassic
@@ -1090,6 +1154,8 @@
 
 - arrive, flower, win, thrive （繁荣，昌盛；成功）
 
+:::
+
 
 ## 2938. traditionally
 
@@ -1108,6 +1174,8 @@
 :::warning{title=🤔同义词}
 
 - customarily （传统上；习惯上；传说上）
+
+:::
 
 
 ## 2939. plot
@@ -1152,6 +1220,8 @@
 
 - be up to something, to plan （密谋；策划；绘制）
 
+:::
+
 
 ## 2940. meadow
 
@@ -1178,6 +1248,8 @@
 :::warning{title=🤔同义词}
 
 - grass, field, lawn （[畜牧]草地；牧场）
+
+:::
 
 
 ## 2941. intelligent
@@ -1230,6 +1302,8 @@
 
 - wise, bright, clever, smart, understanding （智能的；聪明的；理解力强的）
 
+:::
+
 
 ## 2942. comment
 
@@ -1259,6 +1333,8 @@
 
 - declare oneself, air one's opinion （发表评论；发表意见）
 
+:::
+
 
 ## 2943. analogous
 
@@ -1273,6 +1349,8 @@
 :::warning{title=🤔同义词}
 
 - parallel, akin （类似的；[昆]同功的；可比拟的）
+
+:::
 
 
 ## 2944. cavendish
@@ -1349,6 +1427,8 @@
 
 - inspection, checking, monitoring （考试；检查；查问）
 
+:::
+
 
 ## 2947. council
 
@@ -1410,6 +1490,8 @@
 
 - committee, session, congress, meeting, soviet （委员会；会议；理事会；地方议会；顾问班子）
 
+:::
+
 
 ## 2948. exogenous
 
@@ -1424,6 +1506,8 @@
 :::warning{title=🤔同义词}
 
 - ectogenous, epigene （[生物]外生的；外因的；外成的）
+
+:::
 
 
 ## 2949. informative
@@ -1440,6 +1524,8 @@
 
 - beneficial, helpful, useful, advantageous, conducive （教育性的，有益的；情报的；见闻广博的）
 
+:::
+
 
 ## 2950. ooze
 
@@ -1452,6 +1538,8 @@
 - leak out, seep （渗出；泄漏）
 
 - slud （[地质]软泥）
+
+:::
 
 
 ## 2951. educator
@@ -1468,6 +1556,8 @@
 
 - teacher, professor, master （教育家；教育工作者；教师）
 
+:::
+
 
 ## 2952. radically
 
@@ -1476,6 +1566,8 @@
 :::warning{title=🤔同义词}
 
 - thoroughly, entirely, primarily, completely, fully （根本上；彻底地；以激进的方式）
+
+:::
 
 
 ## 2953. republic
@@ -1538,6 +1630,8 @@
 
 - commonwealth, respublica （共和国；共和政体）
 
+:::
+
 
 ## 2954. dwarf
 
@@ -1570,6 +1664,8 @@
 - homuncle, mannikin （侏儒，[内科]矮子）
 
 - scrubby, runty （[生物]矮小的）
+
+:::
 
 
 ## 2955. choreographer
@@ -1644,6 +1740,8 @@
 
 - wedding, merger, consolidation, coalition （结婚；婚姻生活；密切结合，合并）
 
+:::
+
 
 ## 2957. severely
 
@@ -1661,6 +1759,8 @@
 
 - strictly, seriously, badly （严重地；严格地，严厉地；纯朴地）
 
+:::
+
 
 ## 2958. propagate
 
@@ -1677,6 +1777,8 @@
 - breed, transmit （传播；传送；繁殖；宣传）
 
 - breed, increase （繁殖；增殖）
+
+:::
 
 
 ## 2959. confusion
@@ -1702,6 +1804,8 @@
 :::warning{title=🤔同义词}
 
 - chaos, disorder, involvement, mix, turmoil （混淆，混乱；困惑）
+
+:::
 
 
 ## 2960. celebrate
@@ -1731,6 +1835,8 @@
 - stage, praise, bless, commemorate （庆祝；举行；赞美；祝贺）
 
 - rejoice, whoop it up （庆祝；过节；举行宗教仪式）
+
+:::
 
 
 ## 2961. environmentalist
@@ -1782,6 +1888,8 @@
 :::warning{title=🤔同义词}
 
 - prominent, excellent, obvious, brilliant, marked （杰出的；显著的；未解决的；[会计][经]未偿付的）
+
+:::
 
 
 ## 2963. endogenous
@@ -1880,6 +1988,8 @@
 
 - possibility, feasibility, potential, maybe, chance （可能性；机率；[数]或然率）
 
+:::
+
 
 ## 2966. boy
 
@@ -1945,6 +2055,8 @@
 
 - he, guy, man, jack, male （男孩；男人）
 
+:::
+
 
 ## 2967. specifically
 
@@ -1965,6 +2077,8 @@
 :::warning{title=🤔同义词}
 
 - particularly, extra, definitely, positively, explicitly （特别地；明确地）
+
+:::
 
 
 ## 2968. vote
@@ -2027,6 +2141,8 @@
 
 - poll （选举，投票）
 
+:::
+
 
 ## 2969. susceptible
 
@@ -2050,6 +2166,8 @@
 
 - impressionable, suggestible （易受影响的；易感动的；容许…的）
 
+:::
+
 
 ## 2970. envision
 
@@ -2065,6 +2183,8 @@
 
 - vision, image （想象；预想）
 
+:::
+
 
 ## 2971. upside
 
@@ -2079,6 +2199,8 @@
 :::warning{title=🤔同义词}
 
 - top, upper part （上部；上面；上边）
+
+:::
 
 
 ## 2972. adept
@@ -2104,6 +2226,8 @@
 - experienced, skilled, accomplished, clever, practiced （熟练的；擅长…的）
 
 - expert, sharp （内行；能手）
+
+:::
 
 
 ## 2973. notation
@@ -2133,6 +2257,8 @@
 :::warning{title=🤔同义词}
 
 - symbol, notes, sign, mark （[计][数]符号；乐谱；注释；记号法）
+
+:::
 
 
 ## 2974. ease
@@ -2183,6 +2309,8 @@
 
 - relax, to alleviate （减轻，缓和；放松；灵活地移动）
 
+:::
+
 
 ## 2975. capsize
 
@@ -2200,6 +2328,8 @@
 
 - tip, turn turtle （翻；倾覆；翻覆）
 
+:::
+
 
 ## 2976. elicit
 
@@ -2214,6 +2344,8 @@
 :::warning{title=🤔同义词}
 
 - premise, attract, produce, cause, operate （抽出，引出；引起）
+
+:::
 
 
 ## 2977. financier
@@ -2231,6 +2363,8 @@
 - kid, pull a fast one （欺骗；从事欺骗性金融活动）
 
 - moneyman, money changer （金融家；投资家）
+
+:::
 
 
 ## 2978. obscure
@@ -2254,6 +2388,8 @@
 - fuzzy, dark, vague, lowering （模糊的；晦涩的；[光]昏暗的）
 
 - overcurtain, becloud （遮掩；使变暗；使难理解）
+
+:::
 
 
 ## 2979. turbulent
@@ -2290,6 +2426,8 @@
 
 - angry, chaotic, troubled, confused （骚乱的，混乱的；狂暴的；吵闹的）
 
+:::
+
 
 ## 2980. simultaneously
 
@@ -2315,6 +2453,8 @@
 
 - contemporaneously, synchronously （同时地）
 
+:::
+
 
 ## 2981. rodent
 
@@ -2335,6 +2475,8 @@
 - corrosive, erosive （[脊椎]啮齿类的；咬的，嚼的；侵蚀性的）
 
 - gnawer （[脊椎]啮齿动物）
+
+:::
 
 
 ## 2982. prose
@@ -2361,6 +2503,8 @@
 
 - ordinary, stock, stupid （散文的；平凡的；乏味的）
 
+:::
+
 
 ## 2983. seafarer
 
@@ -2376,6 +2520,8 @@
 
 - shipman, navigator （船员；航海家）
 
+:::
+
 
 ## 2984. impart
 
@@ -2390,6 +2536,8 @@
 :::warning{title=🤔同义词}
 
 - afford, allow, deal, reveal, extend （给予（尤指抽象事物），传授；告知，透露）
+
+:::
 
 
 ## 2985. uneven
@@ -2422,6 +2570,8 @@
 
 - odd, heterogeneous （不均匀的；不平坦的；[数]奇数的）
 
+:::
+
 
 ## 2986. repudiate
 
@@ -2436,6 +2586,8 @@
 :::warning{title=🤔同义词}
 
 - negative, refuse, deny （拒绝；否定；批判；与…断绝关系；拒付）
+
+:::
 
 
 ## 2987. faunal
@@ -2469,6 +2621,8 @@
 :::warning{title=🤔同义词}
 
 - nite （夜间）
+
+:::
 
 
 ## 2989. hardly
@@ -2509,6 +2663,8 @@
 
 - just, ill, fresh, scarcely, barely （几乎不，简直不；刚刚）
 
+:::
+
 
 ## 2990. pry
 
@@ -2535,6 +2691,8 @@
 - burrow into （刺探，探查）
 
 - lever, heaver （窥探；[机]杠杆）
+
+:::
 
 
 ## 2991. exclusive
@@ -2597,6 +2755,8 @@
 
 - scoop （独家新闻；独家经营的项目；排外者）
 
+:::
+
 
 ## 2992. enterprise
 
@@ -2656,6 +2816,8 @@
 
 - career, cause, undertaking, project, push （[经]企业；事业；进取心；事业心）
 
+:::
+
 
 ## 2993. discard
 
@@ -2680,6 +2842,8 @@
 - fall out of, render up, to renounce, to abandon, to give up （放弃）
 
 - rejection, abandonment （抛弃；被丢弃的东西或人）
+
+:::
 
 
 ## 2994. simulation
@@ -2740,6 +2904,8 @@
 
 - acting, emulation, analog （[计]仿真；模拟；模仿；假装）
 
+:::
+
 
 ## 2995. resolve
 
@@ -2766,6 +2932,8 @@
 - settle, work out, figure out （解决；决心；分解）
 
 - determinateness （坚决；决定要做的事）
+
+:::
 
 
 ## 2996. mat
@@ -2811,6 +2979,8 @@
 - entwist （缠结；铺席于……上）
 
 - lustreless, unpolished （无光泽的）
+
+:::
 
 
 ## 2997. quick
@@ -2875,6 +3045,8 @@
 
 - rapidly, soon, fast, promptly, ready （迅速地，快）
 
+:::
+
 
 ## 2998. hero
 
@@ -2908,6 +3080,8 @@
 
 - chief actor, starring actor （英雄；男主角，男主人公）
 
+:::
+
 
 ## 2999. manipulate
 
@@ -2930,5 +3104,7 @@
 :::warning{title=🤔同义词}
 
 - man, guide, work, handle （操纵；操作；巧妙地处理；篡改）
+
+:::
 
 

@@ -64,6 +64,8 @@
 
 - exercise one's activity （运行；活动；行使职责）
 
+:::
+
 
 ## 201. raise
 
@@ -134,6 +136,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - height, rise, altitude, elevation, upgrade （高地；上升；加薪）
 
+:::
+
 
 ## 202. delinquency
 
@@ -154,6 +158,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - dereliction of duty, slow-down （行为不良，违法犯罪；[法]失职，怠工）
+
+:::
 
 
 ## 203. pipe
@@ -218,6 +224,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - scream （吹笛；尖叫）
 
+:::
+
 
 ## 204. pliant
 
@@ -237,6 +245,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - compliance, deference, Friend VS Lover （顺从）
 
+:::
+
 
 ## 205. revere
 
@@ -251,6 +261,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - honor, fear, regard, worship （敬畏；尊敬；崇敬）
+
+:::
 
 
 ## 206. representative
@@ -315,6 +327,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - deputy, model, behalf of, ambassador （[数]代表；典型；众议员）
 
+:::
+
 
 ## 207. sneaky
 
@@ -329,6 +343,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - poor, mean, base, dirty （鬼鬼祟祟的；暗中的，卑鄙的）
+
+:::
 
 
 ## 208. longitude
@@ -354,6 +370,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - lon, shute （[地理]经度；经线）
+
+:::
 
 
 ## 209. pigeon
@@ -384,6 +402,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - La paloma, dove （鸽子）
 
+:::
+
 
 ## 210. lax
 
@@ -398,6 +418,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - relaxed, pinic （松的；松懈的；腹泻的）
+
+:::
 
 
 ## 211. comparison
@@ -441,6 +463,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - parabole, imagery （比较；对照；比喻；比较关系）
+
+:::
 
 
 ## 212. lay
@@ -511,6 +535,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - stake, make a bet （下蛋；打赌）
 
+:::
+
 
 ## 213. hatch
 
@@ -544,6 +570,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - incubate （孵化）
 
+:::
+
 
 ## 214. patriot
 
@@ -566,6 +594,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - Aigo, The Patriot （爱国者）
+
+:::
 
 
 ## 215. pernicious
@@ -590,6 +620,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - harmful, evil, kill, malignant, destructive （有害的；恶性的；致命的；险恶的）
 
+:::
+
 
 ## 216. revert
 
@@ -611,6 +643,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - return, respond with （回复；重提；返祖遗传；归还）
 
+:::
+
 
 ## 217. cohabitation
 
@@ -630,6 +664,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - messmateism, mutualism （同居；共栖；同居生活）
 
+:::
+
 
 ## 218. herbivore
 
@@ -648,6 +684,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - phytophagans, primary consumer （[动]食草动物）
+
+:::
 
 
 ## 219. successive
@@ -673,6 +711,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - continuing, straight, endless, running, serial （连续的；继承的；依次的；接替的）
+
+:::
 
 
 ## 220. adventure
@@ -702,6 +742,8 @@ The chairman's speech raised the temperature of the meeting.
 - take a chance, run a risk （冒险；大胆说出）
 
 - take a risk, run a risk, stick one's neck out, take chances （冒险）
+
+:::
 
 
 ## 221. ceremony
@@ -752,6 +794,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - service, protocol, exercise （典礼，仪式；礼节，礼仪；客套，虚礼）
 
+:::
+
 
 ## 222. improve
 
@@ -793,6 +837,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - gain, accelerate, grow in （增加；变得更好）
 
+:::
+
 
 ## 223. idyllic
 
@@ -811,6 +857,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - bucolic （牧歌的，田园诗的）
+
+:::
 
 
 ## 224. hawk
@@ -845,6 +893,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - eagle （[鸟]鹰；鹰派成员；掠夺他人的人）
 
+:::
+
 
 ## 225. speckle
 
@@ -872,6 +922,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - spot, patch （[皮肤][鸟]斑点）
 
+:::
+
 
 ## 226. emanate
 
@@ -892,6 +944,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - to send out, give off （发出；散发；发源）
+
+:::
 
 
 ## 227. exterior
@@ -932,6 +986,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - aspect, without, colour （外部；表面；外型；外貌）
 
+:::
+
 
 ## 228. captivity
 
@@ -946,6 +1002,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - embarment, incage （囚禁；被关）
+
+:::
 
 
 ## 229. levy
@@ -979,6 +1037,8 @@ The chairman's speech raised the temperature of the meeting.
 - toll （[税收]征收（税等）；征集（兵等））
 
 - tax collection, toll （征税；征兵）
+
+:::
 
 
 ## 230. effective
@@ -1045,6 +1105,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - valid, available, virtual, practical, telling, actual, honest （[数]有效的，起作用的；实际的，实在的；给人深刻印象）
 
+:::
+
 
 ## 231. muscle
 
@@ -1110,6 +1172,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - enhance, cement, build up （加强；使劲搬动；使劲挤出）
 
+:::
+
 
 ## 232. generous
 
@@ -1132,6 +1196,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - handsome, liberal （慷慨的，大方的；宽宏大量的；有雅量的）
+
+:::
 
 
 ## 233. flux
@@ -1198,6 +1264,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - discharge, issue, shed （熔化；流出）
 
+:::
+
 
 ## 234. jelly
 
@@ -1224,6 +1292,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - agglutinate （成胶状）
+
+:::
 
 
 ## 235. probe
@@ -1288,6 +1358,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - burrow into （探查；用探针探测）
 
+:::
+
 
 ## 236. crescent
 
@@ -1317,6 +1389,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - meniscoid, lunular （新月形的；逐渐增加的）
 
+:::
+
 
 ## 237. inflate
 
@@ -1335,6 +1409,8 @@ The chairman's speech raised the temperature of the meeting.
 - blow up （使充气；使通货膨胀）
 
 - fill, swell with （膨胀；充气）
+
+:::
 
 
 ## 238. stable
@@ -1391,6 +1467,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - steady, settled, committed, firm, strong （[物]稳定的；牢固的；坚定的）
 
+:::
+
 
 ## 239. quantitative
 
@@ -1446,6 +1524,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - mensurable （[计量]定量的；量的，数量的）
 
+:::
+
 
 ## 240. clamor
 
@@ -1454,6 +1534,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - rumpus, whoop-up （喧闹，叫嚷；大声的要求）
+
+:::
 
 
 ## 241. harness
@@ -1488,6 +1570,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - saddlery, coat of mail （马具；甲胄；挽具状带子；降落伞背带）
 
+:::
+
 
 ## 242. foment
 
@@ -1502,6 +1586,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - fan, egg （煽动；挑起；热敷）
+
+:::
 
 
 ## 243. respond
@@ -1527,6 +1613,8 @@ The chairman's speech raised the temperature of the meeting.
 - reply, answer （回答；作出反应；承担责任）
 
 - answering （应答；唱和）
+
+:::
 
 
 ## 244. incident
@@ -1570,6 +1658,8 @@ The chairman's speech raised the temperature of the meeting.
 - event, circumstance, occurrence, scene, happening （事件，事变；插曲）
 
 - incoming （[光]入射的；附带的；易发生的，伴随而来的）
+
+:::
 
 
 ## 245. cluster
@@ -1626,6 +1716,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - converge （使聚集；聚集在某人的周围）
 
+:::
+
 
 ## 246. prey
 
@@ -1663,6 +1755,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - victim, predation （捕食；牺牲者；被捕食的动物）
 
+:::
+
 
 ## 247. attire
 
@@ -1681,6 +1775,8 @@ The chairman's speech raised the temperature of the meeting.
 - clothing, wear, garment, apparel （服装；盛装）
 
 - dress oneself, habit, array （打扮；使穿衣）
+
+:::
 
 
 ## 248. tug
@@ -1709,6 +1805,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - rouse up, stack up against （用力拉；较量；用拖船拖）
 
+:::
+
 
 ## 249. neuron
 
@@ -1730,6 +1828,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - nerve fiber （[解剖]神经元，神经单位）
 
+:::
+
 
 ## 250. vertebrate
 
@@ -1750,6 +1850,8 @@ The chairman's speech raised the temperature of the meeting.
 - backboned （[脊椎]脊椎动物的；有脊椎的）
 
 - amniote （[脊椎]脊椎动物）
+
+:::
 
 
 ## 251. expedition
@@ -1773,6 +1875,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - velocity, speed （远征；探险队；迅速）
+
+:::
 
 
 ## 252. concert
@@ -1823,6 +1927,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - cooperate, sort （协调；协力）
 
+:::
+
 
 ## 253. absorb
 
@@ -1843,6 +1949,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - attract, engage, see, read, seize （吸收；吸引；承受；理解；使…全神贯注）
+
+:::
 
 
 ## 254. supply
@@ -1911,6 +2019,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - provide with, furnish with （[经]供给；替代）
 
+:::
+
 
 ## 255. concern
 
@@ -1972,6 +2082,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - relationship, connection, attention, consideration, bearing （关系；关心；关心的事）
 
+:::
+
 
 ## 256. circulate
 
@@ -1991,6 +2103,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - cycle （使循环；使流通；使传播）
 
+:::
+
 
 ## 257. incubate
 
@@ -2008,6 +2122,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - hatch （孵化；酝酿）
 
+:::
+
 
 ## 258. rectify
 
@@ -2023,6 +2139,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - correct, straighten up （改正；精馏；整流）
 
+:::
+
 
 ## 259. antonym
 
@@ -2037,6 +2155,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - opposite （[语]反义词）
+
+:::
 
 
 ## 260. integrity
@@ -2075,6 +2195,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - truth, honesty, full, righteousness, completeness （[数]完整；正直；诚实；廉正）
 
+:::
+
 
 ## 261. refrain
 
@@ -2100,6 +2222,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - repeat, iteration （叠句，副歌；重复）
 
+:::
+
 
 ## 262. pact
 
@@ -2122,6 +2246,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - convention, treaty, compact （协定；公约；条约；契约）
+
+:::
 
 
 ## 263. notation
@@ -2152,6 +2278,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - symbol, notes, sign, mark （[计][数]符号；乐谱；注释；记号法）
 
+:::
+
 
 ## 264. liable
 
@@ -2175,6 +2303,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - responsible, bound, accountable, prone （有责任的，有义务的；应受罚的；有…倾向的；易…的）
 
+:::
+
 
 ## 265. homing
 
@@ -2197,6 +2327,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - homebound, redux （回家的；[航]自动导引的；[动]有返回性的）
+
+:::
 
 
 ## 266. state
@@ -2269,6 +2401,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - national, formal, official （国家的；州的；正式的）
 
+:::
+
 
 ## 267. cargo
 
@@ -2327,6 +2461,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - commodity, freight, merchandise （[贸易]货物，船货）
+
+:::
 
 
 ## 268. press
@@ -2395,6 +2531,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - clic, news bulletin （压；按；新闻；出版社；[印刷]印刷机）
 
+:::
+
 
 ## 269. jumble
 
@@ -2423,6 +2561,8 @@ The chairman's speech raised the temperature of the meeting.
 - intermix （混杂；搀杂）
 
 - cloud, confuse （使混乱；搞乱）
+
+:::
 
 
 ## 270. element
@@ -2482,6 +2622,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - theory, mechanism, factor, basic, essential （[数]元素；要素；原理；成分；自然环境）
+
+:::
 
 
 ## 271. environmental
@@ -2548,6 +2690,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - surrounding, ambient （环境的，周围的；有关环境的）
 
+:::
+
 
 ## 272. picky
 
@@ -2562,6 +2706,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - particular, captious （挑剔的；吹毛求疵的）
+
+:::
 
 
 ## 273. crustacean
@@ -2591,6 +2737,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - bay, shout （呼喊，惊叫；大声叫嚷）
+
+:::
 
 
 ## 275. opposite
@@ -2648,6 +2796,8 @@ The chairman's speech raised the temperature of the meeting.
 - antithesis, antonym （对立面；反义词）
 
 - across （在对面）
+
+:::
 
 
 ## 276. pack
@@ -2716,6 +2866,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - pile, crowd, host （挤；包装货物；[包装]被包装；群集）
 
+:::
+
 
 ## 277. restraint
 
@@ -2741,6 +2893,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - checking, control, suppression, inhibition, constraint （[电子][通信]抑制，克制；约束）
 
+:::
+
 
 ## 278. aftermath
 
@@ -2755,6 +2909,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - sequel, backwash （后果；余波）
+
+:::
 
 
 ## 279. pollutant
@@ -2787,6 +2943,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - contamination, fomite （[环境]污染物）
 
+:::
+
 
 ## 280. untapped
 
@@ -2803,6 +2961,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - undeveloped, unexploited （未开发的；未使用的；塞子未开的）
+
+:::
 
 
 ## 281. cue
@@ -2830,6 +2990,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - connotation, implication, reminder （提示，暗示；线索）
+
+:::
 
 
 ## 282. effluent
@@ -2864,6 +3026,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - effusive, excurrent （[环境]流出的，发出的）
 
+:::
+
 
 ## 283. untamed
 
@@ -2878,6 +3042,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - undomesticated, tameless （不能抑制的；难控驭的；未驯服的）
+
+:::
 
 
 ## 284. stereotype
@@ -2896,6 +3062,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - truism, conventionality （陈腔滥调，老套；铅版）
 
+:::
+
 
 ## 285. enroll
 
@@ -2912,6 +3080,8 @@ The chairman's speech raised the temperature of the meeting.
 - register, book in （登记；使加入；把...记入名册；使入伍）
 
 - participate in, take part in, go through （参加；登记；注册；记入名册）
+
+:::
 
 
 ## 286. sweeping
@@ -2958,6 +3128,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - scavenging （打扫；扫除（sweep的现在分词形式））
 
+:::
+
 
 ## 287. ardent
 
@@ -2972,6 +3144,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - intense, acute, warm, eager, tropical （热情的；热心的；激烈的；燃烧般的）
+
+:::
 
 
 ## 288. cohesive
@@ -3003,6 +3177,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - combinative （有结合力的；紧密结合的；有粘着力的）
+
+:::
 
 
 ## 289. battery
@@ -3069,6 +3245,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - electric cell, electric element （[电]电池，蓄电池）
 
+:::
+
 
 ## 290. clay
 
@@ -3128,6 +3306,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - earth, flesh, dirt （[土壤]粘土；泥土；肉体；似黏土的东西）
 
+:::
+
 
 ## 291. irreverent
 
@@ -3144,6 +3324,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - rude, offensive （不敬的，无礼的）
+
+:::
 
 
 ## 292. promote
@@ -3171,6 +3353,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - facilitate, boost, prefer, upgrade, further （促进；提升；推销；发扬）
+
+:::
 
 
 ## 293. façade
@@ -3217,6 +3401,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - separation, detachment （离婚；分离）
 
+:::
+
 
 ## 295. distribute
 
@@ -3231,6 +3417,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - portion, part, spread （分配；散布；分开；把…分类）
+
+:::
 
 
 ## 296. attach
@@ -3257,6 +3445,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - to accompany, be with （附加；附属；伴随）
 
+:::
+
 
 ## 297. cornerstone
 
@@ -3271,6 +3461,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - elements, basis, bed, radical, sole （基础；柱石；地基）
+
+:::
 
 
 ## 298. quiz
@@ -3301,6 +3493,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - dig at, test for （挖苦；张望；对…进行测验）
 
+:::
+
 
 ## 299. inclination
 
@@ -3327,5 +3521,7 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - tendency, liability, hill, trend, interest （倾向，爱好；斜坡）
+
+:::
 
 

@@ -30,6 +30,8 @@
 
 - incubate （孵化）
 
+:::
+
 
 ## 301. pernicious
 
@@ -53,6 +55,8 @@
 
 - harmful, evil, kill, malignant, destructive （有害的；恶性的；致命的；险恶的）
 
+:::
+
 
 ## 302. splinter
 
@@ -71,6 +75,8 @@
 - to split, split up （分裂；裂成碎片）
 
 - tear, disrupt （使分裂；使裂成碎片）
+
+:::
 
 
 ## 303. revert
@@ -93,6 +99,8 @@
 
 - return, respond with （回复；重提；返祖遗传；归还）
 
+:::
+
 
 ## 304. indiscriminate
 
@@ -107,6 +115,8 @@
 :::warning{title=🤔同义词}
 
 - random, arbitrary （任意的；无差别的；不分皂白的）
+
+:::
 
 
 ## 305. herbivore
@@ -126,6 +136,8 @@
 :::warning{title=🤔同义词}
 
 - phytophagans, primary consumer （[动]食草动物）
+
+:::
 
 
 ## 306. reconcile
@@ -147,6 +159,8 @@
 :::warning{title=🤔同义词}
 
 - accord, unify （使一致；使和解；调停，调解；使顺从）
+
+:::
 
 
 ## 307. condition
@@ -211,6 +225,8 @@
 
 - adapt, suit, season, conclude （使适应；使健康；决定；以…为条件）
 
+:::
+
 
 ## 308. tempt
 
@@ -225,6 +241,8 @@
 :::warning{title=🤔同义词}
 
 - attract, produce, cause, operate, occasion （诱惑；引起；冒…的风险；使感兴趣）
+
+:::
 
 
 ## 309. peddle
@@ -242,6 +260,8 @@
 :::warning{title=🤔同义词}
 
 - strow, strew （叫卖；兜售；散播）
+
+:::
 
 
 ## 310. ethic
@@ -271,6 +291,8 @@
 - moral rule, moral appeals （伦理；道德规范）
 
 - moral （伦理的；道德的（等于ethical））
+
+:::
 
 
 ## 311. indistinguishable
@@ -331,6 +353,8 @@
 
 - fuel, activator （[物化]催化剂；刺激因素）
 
+:::
+
 
 ## 313. abdicate
 
@@ -349,6 +373,8 @@
 - fall out of, render up （退位；放弃）
 
 - yield, desert, quit （退位；放弃）
+
+:::
 
 
 ## 314. metabolism
@@ -435,6 +461,8 @@
 
 - sin, disaster, crime, grief （罪恶，邪恶；不幸）
 
+:::
+
 
 ## 316. cartel
 
@@ -455,6 +483,8 @@
 :::warning{title=🤔同义词}
 
 - kartell （卡特尔；企业联合；垄断联盟；俘虏交换条约）
+
+:::
 
 
 ## 317. cardiopulmonary
@@ -490,6 +520,8 @@
 - upcoming, imminent （即将来临的）
 
 - oncoming （来临）
+
+:::
 
 
 ## 319. patriotic
@@ -536,6 +568,8 @@
 
 - chaos, disorder, confusion, involvement, mix （转位；混乱；[医]脱臼）
 
+:::
+
 
 ## 321. perplex
 
@@ -551,6 +585,8 @@
 
 - bepuzzle, confuse （使困惑，使为难；使复杂化）
 
+:::
+
 
 ## 322. complication
 
@@ -565,6 +601,8 @@
 :::warning{title=🤔同义词}
 
 - chaos, confusion, disorder, involvement, mix （并发症；复杂；复杂化；混乱）
+
+:::
 
 
 ## 323. irradiate
@@ -584,6 +622,8 @@
 - beam （照射；使某事物生辉）
 
 - luminous, light-emitting （发光的）
+
+:::
 
 
 ## 324. university
@@ -646,6 +686,8 @@
 
 - college, campus （大学；综合性大学；大学校舍）
 
+:::
+
 
 ## 325. censure
 
@@ -666,6 +708,8 @@
 - decrial, dyslogy （责难）
 
 - accuse of, blame for （谴责，责备）
+
+:::
 
 
 ## 326. chatter
@@ -693,6 +737,8 @@
 - rattle on, rattle away （喋喋不休地说；使卡嗒卡嗒作声）
 
 - newsiness, garrulity （唠叨；饶舌；（动物的）啁啾声；潺潺流水声）
+
+:::
 
 
 ## 327. combat
@@ -743,6 +789,8 @@
 
 - fighting （战斗的；为…斗争的）
 
+:::
+
 
 ## 328. despise
 
@@ -757,6 +805,8 @@
 :::warning{title=🤔同义词}
 
 - slight, set light by （轻视，鄙视）
+
+:::
 
 
 ## 329. plywood
@@ -778,6 +828,8 @@
 :::warning{title=🤔同义词}
 
 - assula, glued board （夹板，[木]胶合板）
+
+:::
 
 
 ## 330. dioxide
@@ -852,6 +904,8 @@
 
 - tax collection, toll （征税；征兵）
 
+:::
+
 
 ## 332. indulge
 
@@ -874,6 +928,8 @@
 - meet, fulfill, fill, please, baby （满足；纵容；使高兴；使沉迷于…）
 
 - luxuriate, to satisfy （沉溺；满足；放任）
+
+:::
 
 
 ## 333. pursue
@@ -902,6 +958,8 @@
 
 - give chase, proceed with （追赶；继续进行）
 
+:::
+
 
 ## 334. haze
 
@@ -918,6 +976,8 @@
 - doubt, mist （阴霾；薄雾；疑惑）
 
 - gloam （变朦胧；变糊涂）
+
+:::
 
 
 ## 335. catastrophe
@@ -944,6 +1004,8 @@
 
 - fiasco, smashup （大灾难；大祸；惨败）
 
+:::
+
 
 ## 336. convey
 
@@ -961,6 +1023,8 @@
 
 - communicate, release, transport （传达；运输；让与）
 
+:::
+
 
 ## 337. detrimental
 
@@ -976,6 +1040,8 @@
 
 - harmful, adverse, against, evil, disadvantageous （不利的；有害的）
 
+:::
+
 
 ## 338. skull
 
@@ -990,6 +1056,8 @@
 :::warning{title=🤔同义词}
 
 - crania, braincase （头盖骨，脑壳）
+
+:::
 
 
 ## 339. possibility
@@ -1025,6 +1093,8 @@
 :::warning{title=🤔同义词}
 
 - probability, feasibility, potential, maybe, chance （可能性；可能发生的事物）
+
+:::
 
 
 ## 340. lane
@@ -1063,6 +1133,8 @@
 
 - vector, driveway （[交]车道；小巷；[航][水运]航线）
 
+:::
+
 
 ## 341. contaminate
 
@@ -1077,6 +1149,8 @@
 :::warning{title=🤔同义词}
 
 - soil, mud, spot, dirty, poison （污染，弄脏）
+
+:::
 
 
 ## 342. allude
@@ -1102,6 +1176,8 @@
 :::warning{title=🤔同义词}
 
 - agued, miasmatic （患疟疾的；毒气的）
+
+:::
 
 
 ## 344. elevation
@@ -1130,6 +1206,8 @@
 
 - height, raise, increase, altitude, rise （[地理]高地；海拔；提高；崇高；正面图）
 
+:::
+
 
 ## 345. resurgence
 
@@ -1151,6 +1229,8 @@
 
 - revival, regenesis （复活；再现；再起）
 
+:::
+
 
 ## 346. predator
 
@@ -1165,6 +1245,8 @@
 :::warning{title=🤔同义词}
 
 - carnivore, reiver （[动]捕食者；食肉动物；掠夺者）
+
+:::
 
 
 ## 347. accord
@@ -1205,6 +1287,8 @@
 
 - cotton, identify, square, meet with, correspond with （符合；一致）
 
+:::
+
 
 ## 348. forfeit
 
@@ -1228,6 +1312,8 @@
 
 - starve of （（因犯罪、失职、违约等）丧失（权利、名誉、生命等））
 
+:::
+
 
 ## 349. updraft
 
@@ -1244,6 +1330,8 @@
 :::warning{title=🤔同义词}
 
 - upcurrent, ascending air current （上升气流；[建]向上之排气）
+
+:::
 
 
 ## 350. automatic
@@ -1310,6 +1398,8 @@
 
 - robot （自动机械；[军]自动手枪）
 
+:::
+
 
 ## 351. citywide
 
@@ -1353,6 +1443,8 @@
 
 - supervisor, looker （[经管][交]检查员；巡视员）
 
+:::
+
 
 ## 353. consecutive
 
@@ -1379,6 +1471,8 @@
 :::warning{title=🤔同义词}
 
 - connected, coherent （连贯的；连续不断的）
+
+:::
 
 
 ## 354. probe
@@ -1443,6 +1537,8 @@
 
 - burrow into （探查；用探针探测）
 
+:::
+
 
 ## 355. quotient
 
@@ -1482,6 +1578,8 @@
 
 - parameter, coefficient, lot, Shang, modulus （[数]商；系数；份额）
 
+:::
+
 
 ## 356. dexterity
 
@@ -1496,6 +1594,8 @@
 :::warning{title=🤔同义词}
 
 - facility, skillfulness （灵巧；敏捷；机敏）
+
+:::
 
 
 ## 357. merchandise
@@ -1536,6 +1636,8 @@
 
 - do business （经商）
 
+:::
+
 
 ## 358. encyclopedia
 
@@ -1556,6 +1658,8 @@
 :::warning{title=🤔同义词}
 
 - cyclopaedia （百科全书）
+
+:::
 
 
 ## 359. conduct
@@ -1602,6 +1706,8 @@
 
 - going on, behavior, dealing, enforcement, administration （进行；行为；实施）
 
+:::
+
 
 ## 360. inflate
 
@@ -1620,6 +1726,8 @@
 - blow up （使充气；使通货膨胀）
 
 - fill, swell with （膨胀；充气）
+
+:::
 
 
 ## 361. velvet
@@ -1645,6 +1753,8 @@
 :::warning{title=🤔同义词}
 
 - continental quilt, velour （天鹅绒，[纺]丝绒；天鹅绒似的东西）
+
+:::
 
 
 ## 362. quantitative
@@ -1701,6 +1811,8 @@
 
 - mensurable （[计量]定量的；量的，数量的）
 
+:::
+
 
 ## 363. harness
 
@@ -1733,6 +1845,8 @@
 - keep on top （治理；套；驾驭；披上甲胄）
 
 - saddlery, coat of mail （马具；甲胄；挽具状带子；降落伞背带）
+
+:::
 
 
 ## 364. drainage
@@ -1795,6 +1909,8 @@
 
 - wastewater, bailing （[农工][建]排水；排水系统；污水；排水面积）
 
+:::
+
 
 ## 365. equilibrium
 
@@ -1854,6 +1970,8 @@
 
 - peace, proportion, equalization （均衡；平静；保持平衡的能力）
 
+:::
+
 
 ## 366. sketch
 
@@ -1892,6 +2010,8 @@
 :::warning{title=🤔同义词}
 
 - outline, croquis （素描；略图；梗概）
+
+:::
 
 
 ## 367. maintenance
@@ -1958,6 +2078,8 @@
 
 - conservation, keep （维护，维修；保持；[经]生活费用）
 
+:::
+
 
 ## 368. cluster
 
@@ -2013,6 +2135,8 @@
 
 - converge （使聚集；聚集在某人的周围）
 
+:::
+
 
 ## 369. prey
 
@@ -2048,6 +2172,8 @@
 
 - victim, predation （捕食；牺牲者；被捕食的动物）
 
+:::
+
 
 ## 370. apparatus
 
@@ -2062,6 +2188,8 @@
 :::warning{title=🤔同义词}
 
 - device, equipment, installation, furniture, facility, unit, organ （装置，[机]设备；[仪]仪器；器官）
+
+:::
 
 
 ## 371. expedition
@@ -2086,6 +2214,8 @@
 
 - velocity, speed （远征；探险队；迅速）
 
+:::
+
 
 ## 372. neuron
 
@@ -2107,6 +2237,8 @@
 
 - nerve fiber （[解剖]神经元，神经单位）
 
+:::
+
 
 ## 373. vertebrate
 
@@ -2119,6 +2251,8 @@
 - backboned （[脊椎]脊椎动物的；有脊椎的）
 
 - amniote （[脊椎]脊椎动物）
+
+:::
 
 
 ## 374. concert
@@ -2169,6 +2303,8 @@
 
 - cooperate, sort （协调；协力）
 
+:::
+
 
 ## 375. decay
 
@@ -2209,6 +2345,8 @@
 - recession, downturn, decline, decomposition （衰退，[核]衰减；腐烂，[木]腐朽）
 
 - corrupt, septicize （使腐烂，使腐败；使衰退，使衰落）
+
+:::
 
 
 ## 376. advertising
@@ -2271,6 +2409,8 @@
 
 - bill, publicity （[经]广告；广告业；登广告）
 
+:::
+
 
 ## 377. absorb
 
@@ -2291,6 +2431,8 @@
 :::warning{title=🤔同义词}
 
 - attract, engage, see, read, seize （吸收；吸引；承受；理解；使…全神贯注）
+
+:::
 
 
 ## 378. osmotic
@@ -2321,6 +2463,8 @@
 
 - infiltrative, saturated （渗透性的，渗透的）
 
+:::
+
 
 ## 379. creditworthiness
 
@@ -2342,6 +2486,8 @@
 
 - cycle （使循环；使流通；使传播）
 
+:::
+
 
 ## 381. revamp
 
@@ -2358,6 +2504,8 @@
 - modify, piece up （修补；翻新；修改）
 
 - improvement, reforming, enrichment （改进；换新鞋面）
+
+:::
 
 
 ## 382. fracture
@@ -2424,6 +2572,8 @@
 
 - crack, flaw （使破裂）
 
+:::
+
 
 ## 383. concern
 
@@ -2485,6 +2635,8 @@
 
 - relationship, connection, attention, consideration, bearing （关系；关心；关心的事）
 
+:::
+
 
 ## 384. incubate
 
@@ -2501,6 +2653,8 @@
 - cultivate, rear, plant, foster, nurse （孵化；培养；温育；逐渐发展）
 
 - hatch （孵化；酝酿）
+
+:::
 
 
 ## 385. figurine
@@ -2525,6 +2679,8 @@
 
 - statuette （小雕像，小塑像）
 
+:::
+
 
 ## 386. eventual
 
@@ -2542,6 +2698,8 @@
 
 - finishing, feasible, possible, last, potential （最后的，结果的；可能的；终于的）
 
+:::
+
 
 ## 387. lessen
 
@@ -2556,6 +2714,8 @@
 :::warning{title=🤔同义词}
 
 - to cut down, fall off （减少；减轻；变小）
+
+:::
 
 
 ## 388. refrain
@@ -2580,6 +2740,8 @@
 
 - repeat, iteration （叠句，副歌；重复）
 
+:::
+
 
 ## 389. pact
 
@@ -2602,6 +2764,8 @@
 :::warning{title=🤔同义词}
 
 - convention, treaty, compact （协定；公约；条约；契约）
+
+:::
 
 
 ## 390. merge
@@ -2636,6 +2800,8 @@
 
 - incorporate with, coalesce （合并；融合）
 
+:::
+
 
 ## 391. liable
 
@@ -2659,6 +2825,8 @@
 
 - responsible, bound, accountable, prone （有责任的，有义务的；应受罚的；有…倾向的；易…的）
 
+:::
+
 
 ## 392. etched
 
@@ -2678,6 +2846,8 @@
 
 - eroded, efflorescent （被侵蚀的；风化的）
 
+:::
+
 
 ## 393. strut
 
@@ -2694,6 +2864,8 @@
 - show off, brag about （炫耀；在…上趾高气扬地走；给…加支撑）
 
 - leg, backbone, stay, mainstay （[建][航]支柱；高视阔步）
+
+:::
 
 
 ## 394. homing
@@ -2717,6 +2889,8 @@
 :::warning{title=🤔同义词}
 
 - homebound, redux （回家的；[航]自动导引的；[动]有返回性的）
+
+:::
 
 
 ## 395. cargo
@@ -2777,6 +2951,8 @@
 
 - commodity, freight, merchandise （[贸易]货物，船货）
 
+:::
+
 
 ## 396. Hispanic
 
@@ -2806,6 +2982,8 @@
 
 - freshman, fresh hand （学徒；[劳经]生手）
 
+:::
+
 
 ## 398. dough
 
@@ -2824,6 +3002,8 @@
 :::warning{title=🤔同义词}
 
 - moola, siller （[食品]生面团；金钱）
+
+:::
 
 
 ## 399. confidential
@@ -2859,5 +3039,7 @@
 :::warning{title=🤔同义词}
 
 - classified, secret （[管理]机密的；表示信任的；获信任的）
+
+:::
 
 

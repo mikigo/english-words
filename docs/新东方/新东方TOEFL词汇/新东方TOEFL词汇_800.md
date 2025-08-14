@@ -28,6 +28,8 @@
 
 - tell on, blow the whistle （告发；告密）
 
+:::
+
 
 ## 801. depend
 
@@ -53,6 +55,8 @@
 
 - hope, tie to （依赖，依靠；取决于；相信，信赖）
 
+:::
+
 
 ## 802. dearth
 
@@ -71,6 +75,8 @@
 :::warning{title=🤔同义词}
 
 - shortage, deficiency, short of, need, drought （缺乏；饥馑；粮食不足）
+
+:::
 
 
 ## 803. commit
@@ -100,6 +106,8 @@
 :::warning{title=🤔同义词}
 
 - sin, do sth. wrong （犯罪，做错事；把...交托给；指派…作战；使…承担义务）
+
+:::
 
 
 ## 804. patch
@@ -144,6 +152,8 @@
 
 - decide, settle （修补；解决；掩饰）
 
+:::
+
 
 ## 805. presidency
 
@@ -161,6 +171,8 @@
 
 - government, disposal, ruling （总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配）
 
+:::
+
 
 ## 806. scurry
 
@@ -176,6 +188,8 @@
 
 - scutter （急赶；急跑）
 
+:::
+
 
 ## 807. scornful
 
@@ -190,6 +204,8 @@
 :::warning{title=🤔同义词}
 
 - sniffish, contemptuous （轻蔑的）
+
+:::
 
 
 ## 808. cholesterol
@@ -274,6 +290,8 @@
 
 - geomagnetic （地磁的；有磁性的；有吸引力的）
 
+:::
+
 
 ## 810. stick
 
@@ -339,6 +357,8 @@
 
 - canne, bastinade （棍；手杖；呆头呆脑的人）
 
+:::
+
 
 ## 811. orbit
 
@@ -385,6 +405,8 @@
 - path, track, railway, trajectory （[天][航]轨道；[昆]眼眶；势力范围；生活常规）
 
 - serpentuate, circle round （盘旋；绕轨道运行）
+
+:::
 
 
 ## 812. band
@@ -449,6 +471,8 @@
 
 - combine, connect, focus, hand in hand （联合；聚焦）
 
+:::
+
 
 ## 813. beneficent
 
@@ -463,6 +487,8 @@
 :::warning{title=🤔同义词}
 
 - eleemosynary （慈善的；善行的）
+
+:::
 
 
 ## 814. comprise
@@ -484,6 +510,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain （包含；由…组成）
+
+:::
 
 
 ## 815. moderate
@@ -538,6 +566,8 @@
 
 - deny oneself, allay （节制；减轻）
 
+:::
+
 
 ## 816. resident
 
@@ -575,6 +605,8 @@
 
 - liver, dweller, inhabitant （居民）
 
+:::
+
 
 ## 817. upheaval
 
@@ -591,6 +623,8 @@
 :::warning{title=🤔同义词}
 
 - up with, lift （剧变；隆起；举起）
+
+:::
 
 
 ## 818. receiver
@@ -631,6 +665,8 @@
 
 - taker, acceptor （接收器；接受者；收信机；收款员，接待者）
 
+:::
+
 
 ## 819. gilding
 
@@ -652,6 +688,8 @@
 
 - gold plated, gilt （[化工]镀金；虚饰的外观）
 
+:::
+
 
 ## 820. execute
 
@@ -672,6 +710,8 @@
 :::warning{title=🤔同义词}
 
 - perform, implement, enforce （实行；执行；处死）
+
+:::
 
 
 ## 821. substantial
@@ -712,6 +752,8 @@
 
 - essence, entity, principle, texture, interior （本质；重要材料）
 
+:::
+
 
 ## 822. balm
 
@@ -734,6 +776,8 @@
 :::warning{title=🤔同义词}
 
 - sesame oil （香油；镇痛软膏；香峰草，[树脂][药]香树膏）
+
+:::
 
 
 ## 823. Paleolithic
@@ -761,6 +805,8 @@
 :::warning{title=🤔同义词}
 
 - palaeolithic （旧石器时代的）
+
+:::
 
 
 ## 824. benefit
@@ -825,6 +871,8 @@
 
 - profit, be good for （有益于，对…有益）
 
+:::
+
 
 ## 825. quality
 
@@ -888,6 +936,8 @@
 
 - talent, capability, ability, identity, character （质量，[统计]品质；特性；才能）
 
+:::
+
 
 ## 826. unique
 
@@ -931,6 +981,8 @@
 
 - distinct, individual, one, sole, picturesque （独特的，稀罕的；[数]唯一的，独一无二的）
 
+:::
+
 
 ## 827. boost
 
@@ -960,6 +1012,8 @@
 
 - assistance, motivation, hand, aid, publicity （推动；帮助；宣扬）
 
+:::
+
 
 ## 828. sober
 
@@ -984,6 +1038,8 @@
 - cool, philosophical （冷静的，清醒的；未醉的）
 
 - disenchant （使严肃；使醒酒，使清醒）
+
+:::
 
 
 ## 829. male
@@ -1036,6 +1092,8 @@
 
 - boy, tom, guy, he, man （男人；[植][动]雄性动物）
 
+:::
+
 
 ## 830. maternal
 
@@ -1077,6 +1135,8 @@
 
 - mother, umbilical （[生物]母亲的；母性的；母系的；母体遗传的）
 
+:::
+
 
 ## 831. prolific
 
@@ -1091,6 +1151,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, productive, full, luxurious （多产的；丰富的）
+
+:::
 
 
 ## 832. expel
@@ -1112,6 +1174,8 @@
 :::warning{title=🤔同义词}
 
 - remove, oust （驱逐；开除）
+
+:::
 
 
 ## 833. shelter
@@ -1164,6 +1228,8 @@
 
 - stay away from, to dodge （躲避，避难）
 
+:::
+
 
 ## 834. externality
 
@@ -1172,6 +1238,8 @@
 :::warning{title=🤔同义词}
 
 - configuration, profile, shell （外在性；外形；外部事物）
+
+:::
 
 
 ## 835. latitude
@@ -1206,6 +1274,8 @@
 
 - bourn, circumscription （[地理]纬度；界限；活动范围）
 
+:::
+
 
 ## 836. vigor
 
@@ -1232,6 +1302,8 @@
 :::warning{title=🤔同义词}
 
 - energy, vitality, spring, steam, razzamatazz （[生物]活力，精力）
+
+:::
 
 
 ## 837. scan
@@ -1285,6 +1357,8 @@
 - glance through, look through （扫描；浏览；细看；详细调查；标出格律）
 
 - survey, scrutiny （扫描；浏览；审视；细看）
+
+:::
 
 
 ## 838. industry
@@ -1347,6 +1421,8 @@
 
 - domain, manufacturing （产业；[工业]工业；勤勉）
 
+:::
+
 
 ## 839. eliminate
 
@@ -1372,6 +1448,8 @@
 
 - avoid, exclude （消除；排除）
 
+:::
+
 
 ## 840. augment
 
@@ -1390,6 +1468,8 @@
 - enhance, boost, jack, mount, hot （增加；增大）
 
 - enhancement, increase, gain, rise, accession （增加；增大）
+
+:::
 
 
 ## 841. tangent
@@ -1440,6 +1520,8 @@
 
 - contiguous, excursive （[数]切线的，相切的；接触的；离题的）
 
+:::
+
 
 ## 842. benign
 
@@ -1460,6 +1542,8 @@
 :::warning{title=🤔同义词}
 
 - nice, friendly, sweet, kind （[肿瘤]良性的；和蔼的，亲切的；吉利的）
+
+:::
 
 
 ## 843. destruction
@@ -1498,6 +1582,8 @@
 
 - breaking, death, blasting, disruption, demolition （破坏，毁灭；摧毁）
 
+:::
+
 
 ## 844. acquit
 
@@ -1512,6 +1598,8 @@
 :::warning{title=🤔同义词}
 
 - conduct oneself, represent, bear oneself （无罪释放；表现；脱卸义务和责任；清偿）
+
+:::
 
 
 ## 845. stiff
@@ -1548,6 +1636,8 @@
 
 - worker, dead body （死尸；令人讨厌者；[金融]流通票据；劳动者）
 
+:::
+
 
 ## 846. prosper
 
@@ -1562,6 +1652,8 @@
 :::warning{title=🤔同义词}
 
 - arrive, flower, win, thrive （繁荣，昌盛；成功）
+
+:::
 
 
 ## 847. blizzard
@@ -1583,6 +1675,8 @@
 :::warning{title=🤔同义词}
 
 - snowstorm, bizzard （暴风雪，大风雪；大打击）
+
+:::
 
 
 ## 848. appeal
@@ -1631,6 +1725,8 @@
 
 - asking, request, motion, charm （呼吁，请求；吸引力，感染力；[法]上诉；诉诸裁判）
 
+:::
+
 
 ## 849. swamp
 
@@ -1651,6 +1747,8 @@
 - embog （使陷于沼泽；使沉没；使陷入困境）
 
 - sunk （下沉；陷入沼泽；陷入困境；不知所措（过去式swamped，过去分词swamped，现在分词swamping，第三人称单数swamps，名词swampiness，形容词swampy））
+
+:::
 
 
 ## 850. entrepreneur
@@ -1676,6 +1774,8 @@
 :::warning{title=🤔同义词}
 
 - contractor, enterpriser （企业家；承包人；主办者）
+
+:::
 
 
 ## 851. transportation
@@ -1736,6 +1836,8 @@
 
 - carriage, traffic （[交]运输；运输系统；运输工具；流放）
 
+:::
+
 
 ## 852. dedicate
 
@@ -1750,6 +1852,8 @@
 :::warning{title=🤔同义词}
 
 - give oneself, devote  to （致力；献身；题献）
+
+:::
 
 
 ## 853. dye
@@ -1810,6 +1914,8 @@
 
 - tint （染；把…染上颜色）
 
+:::
+
 
 ## 854. extensive
 
@@ -1851,6 +1957,8 @@
 
 - widespread, massive, comprehensive, substantial, vast （广泛的；大量的；广阔的）
 
+:::
+
 
 ## 855. monotonous
 
@@ -1867,6 +1975,8 @@
 :::warning{title=🤔同义词}
 
 - same, flat, blank （[声]单调的，无抑扬顿挫的；无变化的）
+
+:::
 
 
 ## 856. negate
@@ -1887,6 +1997,8 @@
 
 - opposite, contrary （对立面；反面）
 
+:::
+
 
 ## 857. impart
 
@@ -1901,6 +2013,8 @@
 :::warning{title=🤔同义词}
 
 - afford, allow, deal, reveal, extend （给予（尤指抽象事物），传授；告知，透露）
+
+:::
 
 
 ## 858. inspire
@@ -1918,6 +2032,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, lift, wake, spirit, effect （激发；鼓舞；启示；产生；使生灵感）
+
+:::
 
 
 ## 859. bureaucracy
@@ -1994,6 +2110,8 @@
 
 - commit oneself to, bend oneself to （致力于；奉献）
 
+:::
+
 
 ## 862. delectable
 
@@ -2008,6 +2126,8 @@
 :::warning{title=🤔同义词}
 
 - delicious, pleasant, lovely, grateful （美味的；令人愉快的）
+
+:::
 
 
 ## 863. barb
@@ -2043,6 +2163,8 @@
 :::warning{title=🤔同义词}
 
 - strained （牵强附会的）
+
+:::
 
 
 ## 866. approximate
@@ -2087,6 +2209,8 @@
 
 - near, broad, round （[数]近似的；大概的）
 
+:::
+
 
 ## 867. craftsman
 
@@ -2101,6 +2225,8 @@
 :::warning{title=🤔同义词}
 
 - workman, artisan （[劳经]工匠；手艺人；技工）
+
+:::
 
 
 ## 868. project
@@ -2169,6 +2295,8 @@
 
 - engineering, career, enterprise, plan, scheme （工程；计划；事业）
 
+:::
+
 
 ## 869. aberrant
 
@@ -2183,6 +2311,8 @@
 :::warning{title=🤔同义词}
 
 - novel, variable, exceptional, exquisite （异常的；畸变的；脱离常轨的；迷乱的）
+
+:::
 
 
 ## 870. lope
@@ -2257,6 +2387,8 @@
 
 - sidepiece （侧部；[语]边音）
 
+:::
+
 
 ## 872. hinterland
 
@@ -2272,6 +2404,8 @@
 
 - inland, outback （内地；穷乡僻壤；靠港口供应的内地贸易区）
 
+:::
+
 
 ## 873. nominate
 
@@ -2286,6 +2420,8 @@
 :::warning{title=🤔同义词}
 
 - install, constitute, name, place, specify （推荐；提名；任命；指定）
+
+:::
 
 
 ## 874. tread
@@ -2333,6 +2469,8 @@
 - trample down, ride down （踏；踩；践踏；跳；踩出）
 
 - step, set foot （踏；踩；行走；交尾）
+
+:::
 
 
 ## 875. diameter
@@ -2429,6 +2567,8 @@
 
 - standing, settled, still, resident, set （固定的；静止的；定居的；常备军的）
 
+:::
+
 
 ## 877. barn
 
@@ -2443,6 +2583,8 @@
 :::warning{title=🤔同义词}
 
 - granary, garage （谷仓；畜棚；车库；靶（核反应截面单位））
+
+:::
 
 
 ## 878. bark
@@ -2483,6 +2625,8 @@
 
 - ululation （吠声；任何似犬狐叫的声音）
 
+:::
+
 
 ## 879. kennel
 
@@ -2504,6 +2648,8 @@
 
 - culvert, cloaca （狗屋；养狗场；[建]阴沟；一群狗）
 
+:::
+
 
 ## 880. ellipse
 
@@ -2518,6 +2664,8 @@
 :::warning{title=🤔同义词}
 
 - elliptical shape, elipse （[数]椭圆形，椭圆）
+
+:::
 
 
 ## 881. bare
@@ -2562,6 +2710,8 @@
 
 - show up （露出，使赤裸）
 
+:::
+
 
 ## 882. sidewalk
 
@@ -2581,6 +2731,8 @@
 
 - pavement, footpath （[交]人行道）
 
+:::
+
 
 ## 883. formidable
 
@@ -2597,6 +2749,8 @@
 :::warning{title=🤔同义词}
 
 - powerful, terrible, august, horrible （强大的；可怕的；令人敬畏的；艰难的）
+
+:::
 
 
 ## 884. abound
@@ -2623,6 +2777,8 @@
 
 - teem with, be imbued with （富于；充满）
 
+:::
+
 
 ## 885. suitcase
 
@@ -2637,6 +2793,8 @@
 :::warning{title=🤔同义词}
 
 - carrying case, hold-all （[轻]手提箱；衣箱）
+
+:::
 
 
 ## 886. invert
@@ -2658,6 +2816,8 @@
 :::warning{title=🤔同义词}
 
 - coup （使…转化；使…颠倒；使…反转；使…前后倒置）
+
+:::
 
 
 ## 887. discrete
@@ -2712,6 +2872,8 @@
 
 - uncontinuous, incontinuous （离散的，[数]不连续的）
 
+:::
+
 
 ## 888. temperate
 
@@ -2739,6 +2901,8 @@
 
 - pacific, moderate, gentle, soft, mild （温和的；适度的；有节制的）
 
+:::
+
 
 ## 889. immutable
 
@@ -2753,6 +2917,8 @@
 :::warning{title=🤔同义词}
 
 - constant, permanent, steady （不变的；不可变的；不能变的）
+
+:::
 
 
 ## 890. disrupt
@@ -2772,6 +2938,8 @@
 - destroy, tear, undermine, founder （破坏；使瓦解；使分裂；使中断；使陷于混乱）
 
 - divided, scattered （分裂的，中断的；分散的）
+
+:::
 
 
 ## 891. scar
@@ -2802,6 +2970,8 @@
 
 - wound, trauma （创伤；伤痕）
 
+:::
+
 
 ## 892. abort
 
@@ -2819,6 +2989,8 @@
 
 - discontinue （使流产；使中止）
 
+:::
+
 
 ## 893. hypothetical
 
@@ -2833,6 +3005,8 @@
 :::warning{title=🤔同义词}
 
 - theoretical, if-then （假设的；爱猜想的）
+
+:::
 
 
 ## 894. coefficient
@@ -2895,6 +3069,8 @@
 
 - cooperative, collaborative （合作的；共同作用的）
 
+:::
+
 
 ## 895. converse
 
@@ -2920,6 +3096,8 @@
 
 - regression, retrogradation （逆行，逆向；倒；相反的事物）
 
+:::
+
 
 ## 896. gospel
 
@@ -2934,6 +3112,8 @@
 :::warning{title=🤔同义词}
 
 - truth, doctrine, tenet, creed （真理；信条）
+
+:::
 
 
 ## 897. eccentric
@@ -2973,6 +3153,8 @@
 - abnormal, odd, curious （古怪的，反常的）
 
 - fantastic, weirdo （古怪的人）
+
+:::
 
 
 ## 898. appliance
@@ -3016,6 +3198,8 @@
 :::warning{title=🤔同义词}
 
 - device, apparatus, installation, unit, tool （器具；器械；[机]装置）
+
+:::
 
 
 ## 899. alloy
@@ -3077,5 +3261,7 @@
 :::warning{title=🤔同义词}
 
 - composition metal （[材]合金）
+
+:::
 
 

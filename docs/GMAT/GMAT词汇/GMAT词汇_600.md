@@ -32,6 +32,8 @@
 
 - containing, involved in, involvement, comprehension （包含；[细胞]内含物）
 
+:::
+
 
 ## 601. barb
 
@@ -75,6 +77,8 @@
 
 - funny, banana （喜剧演员；滑稽人物）
 
+:::
+
 
 ## 604. indifference
 
@@ -95,6 +99,8 @@
 :::warning{title=🤔同义词}
 
 - nonchalance, dryness （漠不关心；冷淡；不重视；中立）
+
+:::
 
 
 ## 605. miniature
@@ -137,6 +143,8 @@
 
 - contracted drawing, microcosm （缩图；微型画；微型图画绘画术）
 
+:::
+
 
 ## 606. collapse
 
@@ -170,6 +178,8 @@
 
 - failure, loss, losing, defeat, reverse （倒塌；失败；衰竭）
 
+:::
+
 
 ## 607. consent
 
@@ -201,6 +211,8 @@
 
 - agreement, accordance, unity, identity, yes （同意；（意见等的）一致；赞成）
 
+:::
+
 
 ## 608. stave
 
@@ -222,6 +234,8 @@
 
 - fall to pieces, come apart （破碎；穿孔）
 
+:::
+
 
 ## 609. semicircle
 
@@ -236,6 +250,8 @@
 :::warning{title=🤔同义词}
 
 - hemicycle （半圆，半圆形）
+
+:::
 
 
 ## 610. gyroscope
@@ -318,6 +334,8 @@
 
 - actuate, get under way （开动；搭上齿轮；使……适合；使……准备好）
 
+:::
+
 
 ## 612. roughly
 
@@ -334,6 +352,8 @@
 :::warning{title=🤔同义词}
 
 - coarsely, crudely （粗糙地；概略地）
+
+:::
 
 
 ## 613. minimum
@@ -396,6 +416,8 @@
 
 - lowest, least, smallest （[数]最小的；最低的）
 
+:::
+
 
 ## 614. anthropologist
 
@@ -415,6 +437,8 @@
 
 - humanist （[人类]人类学家；人类学者）
 
+:::
+
 
 ## 615. passbook
 
@@ -423,6 +447,8 @@
 :::warning{title=🤔同义词}
 
 - bankbook （银行存折；赊帐登录本）
+
+:::
 
 
 ## 616. ridicule
@@ -442,6 +468,8 @@
 - guy, deride （嘲笑；嘲弄；愚弄）
 
 - joke, derision （嘲笑；笑柄；愚弄）
+
+:::
 
 
 ## 617. trait
@@ -475,6 +503,8 @@
 :::warning{title=🤔同义词}
 
 - quality, tang, identity, sort, distinction （特性，特点；[心理]品质；少许）
+
+:::
 
 
 ## 618. fertilizer
@@ -517,6 +547,8 @@
 
 - manure （[肥料]肥料；受精媒介物；促进发展者）
 
+:::
+
 
 ## 619. chaise
 
@@ -550,6 +582,8 @@
 
 - degradation, deterioration （[法]贪污，腐败；堕落）
 
+:::
+
 
 ## 621. illicit
 
@@ -564,6 +598,8 @@
 :::warning{title=🤔同义词}
 
 - illegal, transgressive （违法的；不正当的）
+
+:::
 
 
 ## 622. outnumber
@@ -581,6 +617,8 @@
 :::warning{title=🤔同义词}
 
 - overnumber （[计划]数目超过；比…多）
+
+:::
 
 
 ## 623. intelligence
@@ -641,6 +679,8 @@
 
 - brain, mind, mentality, understanding, head （[心理]智力；情报工作；[图情]情报机关；理解力）
 
+:::
+
 
 ## 624. follicle
 
@@ -658,6 +698,8 @@
 
 - microcyst, saccule （[昆]卵泡；[动]滤泡；[生物]小囊）
 
+:::
+
 
 ## 625. smuggler
 
@@ -672,6 +714,8 @@
 :::warning{title=🤔同义词}
 
 - runner, owler （[法]走私者；走私犯；走私船）
+
+:::
 
 
 ## 626. fickle
@@ -688,6 +732,8 @@
 
 - mobile, variable, liquid, unstable （浮躁的；易变的；变幻无常的）
 
+:::
+
 
 ## 627. marshy
 
@@ -702,6 +748,8 @@
 :::warning{title=🤔同义词}
 
 - swampy, palustrine （沼泽的；湿地的）
+
+:::
 
 
 ## 628. sedentary
@@ -738,6 +786,8 @@
 
 - faith, trust, confidence, dependence （信任；凭证；祭器台（等于credence table，credenza））
 
+:::
+
 
 ## 631. inflict
 
@@ -760,6 +810,8 @@
 :::warning{title=🤔同义词}
 
 - afford, create, allow, extend, deal （造成；使遭受（损伤、痛苦等）；给予（打击等））
+
+:::
 
 
 ## 632. fluorescent
@@ -812,6 +864,8 @@
 
 - daylight lamp （荧光；日光灯）
 
+:::
+
 
 ## 633. isotope
 
@@ -842,6 +896,8 @@
 :::warning{title=🤔同义词}
 
 - isotopic element （[核]同位素）
+
+:::
 
 
 ## 634. prorate
@@ -918,6 +974,8 @@
 
 - assure, undertake, swear for （[金融]保证；[法]担保）
 
+:::
+
 
 ## 636. initiate
 
@@ -940,6 +998,8 @@
 - institute, start in （开始，创始；发起；使初步了解）
 
 - beginning, threshold, opening, conception, fresh （开始；新加入者，接受初步知识者）
+
+:::
 
 
 ## 637. bankruptcy
@@ -978,6 +1038,8 @@
 
 - failure, insolvency, improverishment （[经]破产）
 
+:::
+
 
 ## 638. prediction
 
@@ -1013,6 +1075,8 @@
 
 - message, forecast （预报；预言）
 
+:::
+
 
 ## 639. condominium
 
@@ -1046,6 +1110,8 @@
 
 - instruction, symbol, breath, pointing, evidence （指示，指出；迹象；象征）
 
+:::
+
 
 ## 641. ample
 
@@ -1068,6 +1134,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, sufficient, competent, full, plenty （丰富的；足够的；宽敞的）
+
+:::
 
 
 ## 642. biomedical
@@ -1114,6 +1182,8 @@
 
 - hermit, anchorite （[动]独居者；隐士）
 
+:::
+
 
 ## 644. confront
 
@@ -1134,6 +1204,8 @@
 :::warning{title=🤔同义词}
 
 - front, compare （面对；遭遇；比较）
+
+:::
 
 
 ## 645. triangular
@@ -1164,6 +1236,8 @@
 
 - trigonal, three-cornered （[数]三角的，三角形的；三人间的）
 
+:::
+
 
 ## 646. inequality
 
@@ -1192,6 +1266,8 @@
 :::warning{title=🤔同义词}
 
 - difference, disparity （[数]不平等；不同；不平均）
+
+:::
 
 
 ## 647. competitive
@@ -1252,6 +1328,8 @@
 
 - played, rival （竞争的；比赛的；求胜心切的）
 
+:::
+
 
 ## 648. intent
 
@@ -1278,6 +1356,8 @@
 - goals, purpose, sake, meaning, will （意图；目的；含义）
 
 - focused, determined, decided, anxious （专心的；急切的；坚决的）
+
+:::
 
 
 ## 649. clinging
@@ -1308,6 +1388,8 @@
 
 - persisting, sticking （坚持，紧贴（cling的ing形式））
 
+:::
+
 
 ## 650. potter
 
@@ -1328,6 +1410,8 @@
 - moon, lounge away （闲混，虚度）
 
 - lig, knock around （闲逛；慢条斯理地做事）
+
+:::
 
 
 ## 651. preferential
@@ -1360,6 +1444,8 @@
 
 - prior, underlying （[税收]优先的；选择的；[贸易]特惠的；先取的）
 
+:::
+
 
 ## 652. decrease
 
@@ -1388,6 +1474,8 @@
 - to cut down, fall off （减少，减小）
 
 - shorten, weaken （减少，减小）
+
+:::
 
 
 ## 653. customs
@@ -1448,6 +1536,8 @@
 
 - habits, duties （海关；风俗（custom的复数）；习惯；关税）
 
+:::
+
 
 ## 654. overwhelm
 
@@ -1456,6 +1546,8 @@
 :::warning{title=🤔同义词}
 
 - flood, flow （压倒；淹没；受打击）
+
+:::
 
 
 ## 655. milliliter
@@ -1476,6 +1568,8 @@
 
 - mil （毫升）
 
+:::
+
 
 ## 656. infest
 
@@ -1490,6 +1584,8 @@
 :::warning{title=🤔同义词}
 
 - harry, ply with （骚扰；寄生于；大批出没；大批滋生）
+
+:::
 
 
 ## 657. jumbo
@@ -1515,6 +1611,8 @@
 - huge, tremendous, enormous, massive, macro （巨大的；特大的）
 
 - monolith, leviathan （庞然大物；[航]巨型喷气式飞机；体大而笨拙的人或物）
+
+:::
 
 
 ## 658. mint
@@ -1552,6 +1650,8 @@
 - menta, peppermint （[植]薄荷；[金融]造币厂，巨款）
 
 - coin （铸造，铸币）
+
+:::
 
 
 ## 659. drainage
@@ -1614,6 +1714,8 @@
 
 - wastewater, bailing （[农工][建]排水；排水系统；污水；排水面积）
 
+:::
+
 
 ## 660. hypothalamus
 
@@ -1638,6 +1740,8 @@
 :::warning{title=🤔同义词}
 
 - magnificent, brave, gorgeous （光辉的；华丽的）
+
+:::
 
 
 ## 662. unionist
@@ -1676,6 +1780,8 @@
 
 - possess, contain, regulate, bit, bottle （控制；勒住）
 
+:::
+
 
 ## 664. nomadic
 
@@ -1690,6 +1796,8 @@
 :::warning{title=🤔同义词}
 
 - ragamuffinly, migratory （游牧的；流浪的；游动的）
+
+:::
 
 
 ## 665. intercept
@@ -1716,6 +1824,8 @@
 
 - block tackle, hold up （拦截；截断；窃听）
 
+:::
+
 
 ## 666. proliferation
 
@@ -1734,6 +1844,8 @@
 :::warning{title=🤔同义词}
 
 - diffusion, propagation （[医]增殖，扩散；分芽繁殖）
+
+:::
 
 
 ## 667. ultrasound
@@ -1757,6 +1869,8 @@
 :::warning{title=🤔同义词}
 
 - ultra audible sound （[声]超声；超音波）
+
+:::
 
 
 ## 668. recipient
@@ -1783,6 +1897,8 @@
 
 - acceptant, susceptive （容易接受的，感受性强的）
 
+:::
+
 
 ## 669. emigrate
 
@@ -1799,6 +1915,8 @@
 - transmigrate （移居；移居外国）
 
 - to immigrate, to migrate （移民）
+
+:::
 
 
 ## 670. calf
@@ -1829,6 +1947,8 @@
 
 - crus, shank （[解剖]腓肠，小腿；[印刷]小牛；小牛皮）
 
+:::
+
 
 ## 671. idiosyncrasy
 
@@ -1843,6 +1963,8 @@
 :::warning{title=🤔同义词}
 
 - mode, attribute, style, particularity, colour （特质；气质；风格）
+
+:::
 
 
 ## 672. mode
@@ -1903,6 +2025,8 @@
 
 - way of, manner, pattern, fashion, style （模式；方式；风格；时尚）
 
+:::
+
 
 ## 673. obsolescence
 
@@ -1917,6 +2041,8 @@
 :::warning{title=🤔同义词}
 
 - regression, degradation, deterioration, degeneration （[生物]退化；荒废）
+
+:::
 
 
 ## 674. rim
@@ -1943,6 +2069,8 @@
 
 - margin, suburb （边，边缘；轮辋；圆圈）
 
+:::
+
 
 ## 675. divest
 
@@ -1957,6 +2085,8 @@
 :::warning{title=🤔同义词}
 
 - shear, strip of （剥夺；使脱去，迫使放弃）
+
+:::
 
 
 ## 676. debase
@@ -1974,6 +2104,8 @@
 :::warning{title=🤔同义词}
 
 - lower down, bring down （降低；使…贬值；掺杂）
+
+:::
 
 
 ## 677. provisional
@@ -2008,6 +2140,8 @@
 
 - temporary, extraordinary, interim, odd, occasional （临时的，暂时的；暂定的）
 
+:::
+
 
 ## 678. dependence
 
@@ -2039,6 +2173,8 @@
 
 - belief, faith, confidence, trust, credit （[数][统计]依赖；依靠；信任；信赖）
 
+:::
+
 
 ## 679. partridge
 
@@ -2057,6 +2193,8 @@
 :::warning{title=🤔同义词}
 
 - francolin, jay （[鸟]鹧鸪；松鸡）
+
+:::
 
 
 ## 680. unequivocally
@@ -2085,6 +2223,8 @@
 
 - escape, shun （避免；避开；远避）
 
+:::
+
 
 ## 682. euphoria
 
@@ -2099,6 +2239,8 @@
 :::warning{title=🤔同义词}
 
 - elation, gaiety （精神欢快，[临床]欣快；兴高采烈；欣快症；幸福愉快感）
+
+:::
 
 
 ## 683. rigorous
@@ -2116,6 +2258,8 @@
 :::warning{title=🤔同义词}
 
 - strict, rigid, precise, severe, tight （严格的，严厉的；严密的；严酷的）
+
+:::
 
 
 ## 684. outlaw
@@ -2137,6 +2281,8 @@
 :::warning{title=🤔同义词}
 
 - gangster, plug-ugly （歹徒；罪犯；亡命之徒；被剥夺法律保护者）
+
+:::
 
 
 ## 685. foster
@@ -2173,6 +2319,8 @@
 
 - cultivate, rear, raise, plant, mother （培养；养育，抚育；抱（希望等））
 
+:::
+
 
 ## 686. doctrine
 
@@ -2197,6 +2345,8 @@
 :::warning{title=🤔同义词}
 
 - principle, theory, belief, teaching （主义；学说；教义；信条）
+
+:::
 
 
 ## 687. diplomatic
@@ -2237,6 +2387,8 @@
 
 - foreign, experienced （外交的；外交上的；老练的）
 
+:::
+
 
 ## 688. evaluate
 
@@ -2257,6 +2409,8 @@
 - value, score, rate, prize （评价；估价；求…的值）
 
 - to assess, to appraise （评价；估价）
+
+:::
 
 
 ## 689. accessible
@@ -2280,6 +2434,8 @@
 :::warning{title=🤔同义词}
 
 - accostable, comprehensible （易接近的；可进入的；可理解的）
+
+:::
 
 
 ## 690. promotional
@@ -2308,6 +2464,8 @@
 
 - encouraging, hortative （促销的；增进的；奖励的）
 
+:::
+
 
 ## 691. hesitance
 
@@ -2322,6 +2480,8 @@
 :::warning{title=🤔同义词}
 
 - vibration, vacillation （踌躇；犹豫）
+
+:::
 
 
 ## 692. constituent
@@ -2366,6 +2526,8 @@
 
 - component, electoral （构成的；选举的）
 
+:::
+
 
 ## 693. aversion
 
@@ -2389,6 +2551,8 @@
 
 - abomination, allergy （厌恶；讨厌的人）
 
+:::
+
 
 ## 694. constitute
 
@@ -2409,6 +2573,8 @@
 :::warning{title=🤔同义词}
 
 - install, establish, form, found, build （组成，构成；建立；任命）
+
+:::
 
 
 ## 695. projection
@@ -2469,6 +2635,8 @@
 
 - emission, theory, speculation, planning, sending （[心理][数]投射；规划；突出；发射；推测）
 
+:::
+
 
 ## 696. recommend
 
@@ -2495,6 +2663,8 @@
 - present, put in a good word （推荐，介绍；劝告；使受欢迎；托付）
 
 - put in a good word, advise （推荐；建议）
+
+:::
 
 
 ## 697. addictive
@@ -2527,6 +2697,8 @@
 
 - jampacked （挤满；超负荷（congest的过去分词））
 
+:::
+
 
 ## 699. storefront
 
@@ -2545,5 +2717,7 @@
 :::warning{title=🤔同义词}
 
 - shopfront （[贸易]店面；店头）
+
+:::
 
 

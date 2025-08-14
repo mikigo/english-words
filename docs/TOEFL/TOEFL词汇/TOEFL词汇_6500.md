@@ -28,6 +28,8 @@
 
 - abn, skyborne （[航]空运的；空气传播的；风媒的）
 
+:::
+
 
 ## 6501. catalyst
 
@@ -77,6 +79,8 @@
 
 - fuel, activator （[物化]催化剂；刺激因素）
 
+:::
+
 
 ## 6502. rarity
 
@@ -91,6 +95,8 @@
 :::warning{title=🤔同义词}
 
 - treasure, pearl （罕见；珍贵；珍品（需用复数）；稀薄）
+
+:::
 
 
 ## 6503. fend
@@ -119,6 +125,8 @@
 
 - nurse, attend on （照料；供养；力争）
 
+:::
+
 
 ## 6504. beneficiary
 
@@ -140,6 +148,8 @@
 
 - homager （[金融][保险]受益人，受惠者；封臣）
 
+:::
+
 
 ## 6505. leaflet
 
@@ -154,6 +164,8 @@
 :::warning{title=🤔同义词}
 
 - circular, lobule （[植]小叶；传单）
+
+:::
 
 
 ## 6506. genotype
@@ -238,6 +250,8 @@
 
 - answer （[计]回答；[通信]答复）
 
+:::
+
 
 ## 6510. importation
 
@@ -254,6 +268,8 @@
 :::warning{title=🤔同义词}
 
 - inlet, admission opening （进口；输入品）
+
+:::
 
 
 ## 6511. deny
@@ -282,6 +298,8 @@
 
 - object, refuse （否认；拒绝）
 
+:::
+
 
 ## 6512. intaglio
 
@@ -297,6 +315,8 @@
 
 - diaglyph （[建]凹雕；凹雕玉石；凹雕术）
 
+:::
+
 
 ## 6513. elaboration
 
@@ -311,6 +331,8 @@
 :::warning{title=🤔同义词}
 
 - ingenuity （苦心经营，精巧；详细阐述）
+
+:::
 
 
 ## 6514. congenital
@@ -341,6 +363,8 @@
 
 - natural, native, born, innate （[医]先天的，天生的；天赋的）
 
+:::
+
 
 ## 6515. blockage
 
@@ -349,6 +373,8 @@
 :::warning{title=🤔同义词}
 
 - investment, intervention, prevention, violation, plugging （堵塞，堵塞；封锁；妨碍）
+
+:::
 
 
 ## 6516. photodissociation
@@ -377,6 +403,8 @@
 
 - leavings （幸存者；生还者；残存物）
 
+:::
+
 
 ## 6518. uninhabited
 
@@ -391,6 +419,8 @@
 :::warning{title=🤔同义词}
 
 - unpopulated, tenantless （无人居住的，杳无人迹的）
+
+:::
 
 
 ## 6519. aphid
@@ -408,6 +438,8 @@
 :::warning{title=🤔同义词}
 
 - budworm, greenfly （[昆]蚜虫）
+
+:::
 
 
 ## 6520. weekend
@@ -454,6 +486,8 @@
 
 - Saturday-to-Monday （周末的，周末用的）
 
+:::
+
 
 ## 6521. Miami
 
@@ -489,6 +523,8 @@
 
 - working days, werktag （平日，工作日）
 
+:::
+
 
 ## 6523. paralyze
 
@@ -503,6 +539,8 @@
 :::warning{title=🤔同义词}
 
 - anesthetize （使麻痹；使瘫痪）
+
+:::
 
 
 ## 6524. articulate
@@ -520,6 +558,8 @@
 - pronounce （发音；清楚地讲话；用关节连接起来）
 
 - enunciative （发音清晰的；口才好的；[动][生物]有关节的）
+
+:::
 
 
 ## 6525. airway
@@ -542,6 +582,8 @@
 
 - ventilation slot, aspirail （导气管；空中航线；通风孔）
 
+:::
+
 
 ## 6526. outgassing
 
@@ -554,6 +596,8 @@
 - degassing （除气；释气（outgas的ing形式））
 
 - degassing （除气的；释气的）
+
+:::
 
 
 ## 6527. overrun
@@ -577,6 +621,8 @@
 - better than, top （泛滥；超过；蹂躏）
 
 - creep, to spread （泛滥；蔓延）
+
+:::
 
 
 ## 6528. fever
@@ -645,6 +691,8 @@
 
 - run a temperature, go wild （[医]发烧；狂热；患热病）
 
+:::
+
 
 ## 6529. loosen
 
@@ -672,6 +720,8 @@
 
 - relax, lighten up （放松；松开）
 
+:::
+
 
 ## 6530. Netherland
 
@@ -694,6 +744,8 @@
 :::warning{title=🤔同义词}
 
 - wrong, in error （错误地；不适当地）
+
+:::
 
 
 ## 6532. Athens
@@ -718,6 +770,8 @@
 
 - checkpoint, road-block （关卡；征收通行税的关卡）
 
+:::
+
 
 ## 6534. bravely
 
@@ -735,6 +789,8 @@
 
 - courageously, fearlessly （勇敢地；华丽地）
 
+:::
+
 
 ## 6535. unwilling
 
@@ -750,6 +806,8 @@
 
 - narrow, reluctant （不愿意的；不情愿的；勉强的）
 
+:::
+
 
 ## 6536. impressively
 
@@ -758,6 +816,8 @@
 :::warning{title=🤔同义词}
 
 - movingly （令人难忘地；感人地）
+
+:::
 
 
 ## 6537. overkill
@@ -783,6 +843,8 @@
 :::warning{title=🤔同义词}
 
 - suburban district, banlieue （郊区，市郊）
+
+:::
 
 
 ## 6540. milligram
@@ -817,6 +879,8 @@
 
 - provider （供应厂商，[贸易]供应国；供应者）
 
+:::
+
 
 ## 6542. closeness
 
@@ -825,6 +889,8 @@
 :::warning{title=🤔同义词}
 
 - approach, neighborhood （亲密；接近；密闭；严密）
+
+:::
 
 
 ## 6543. stately
@@ -847,6 +913,8 @@
 
 - grand, magnificent, solemn, sacred, majestic （庄严的；堂皇的，宏伟的）
 
+:::
+
 
 ## 6544. infinitesimally
 
@@ -863,6 +931,8 @@
 :::warning{title=🤔同义词}
 
 - tinily （极小地）
+
+:::
 
 
 ## 6545. viability
@@ -888,6 +958,8 @@
 :::warning{title=🤔同义词}
 
 - feasibility, practicability （[生物]生存能力，发育能力；可行性）
+
+:::
 
 
 ## 6546. lyric
@@ -929,6 +1001,8 @@
 - manage, place in, cope with （处理；安排；（能够）决定）
 
 - make, temperament （处置；性情）
+
+:::
 
 
 ## 6548. uranus
@@ -975,6 +1049,8 @@
 
 - roquette （[航]火箭）
 
+:::
+
 
 ## 6550. insulator
 
@@ -1005,6 +1081,8 @@
 :::warning{title=🤔同义词}
 
 - isolater, nonconductor （[电][物]绝缘体；从事绝缘工作的工人）
+
+:::
 
 
 ## 6551. keelboat
@@ -1045,6 +1123,8 @@
 
 - parabole （暗喻，隐喻；比喻说法）
 
+:::
+
 
 ## 6554. disaffection
 
@@ -1059,6 +1139,8 @@
 :::warning{title=🤔同义词}
 
 - dissatisfaction, grievance （不满；背叛）
+
+:::
 
 
 ## 6555. requisition
@@ -1087,6 +1169,8 @@
 
 - commandeer, expropriate （征用；申请领取）
 
+:::
+
 
 ## 6556. reprint
 
@@ -1103,6 +1187,8 @@
 - republish （再版；[图情][印刷]重印）
 
 - reimpression （[图情][印刷]重印；翻版）
+
+:::
 
 
 ## 6557. cheerful
@@ -1121,6 +1207,8 @@
 
 - happy, pleased, glad, good, bright （快乐的；愉快的；高兴的）
 
+:::
+
 
 ## 6558. entwine
 
@@ -1138,6 +1226,8 @@
 
 - circumvolve （缠住；盘绕）
 
+:::
+
 
 ## 6559. untie
 
@@ -1154,6 +1244,8 @@
 - decide, settle, free （解开；解决；使自由）
 
 - uncoil, disengage from （解开；松开）
+
+:::
 
 
 ## 6560. impermeable
@@ -1230,6 +1322,8 @@
 
 - pig, pigmeat （猪肉）
 
+:::
+
 
 ## 6563. looseness
 
@@ -1238,6 +1332,8 @@
 :::warning{title=🤔同义词}
 
 - flab, slackness （松动；松弛；漠然）
+
+:::
 
 
 ## 6564. anchor
@@ -1300,6 +1396,8 @@
 
 - fix, nail （抛锚；[机]使固定；主持节目）
 
+:::
+
 
 ## 6565. governmental
 
@@ -1320,6 +1418,8 @@
 :::warning{title=🤔同义词}
 
 - political, public （政府的；政治的；统治上的）
+
+:::
 
 
 ## 6566. auction
@@ -1362,6 +1462,8 @@
 
 - public sale, vendue （[贸易]拍卖）
 
+:::
+
 
 ## 6567. successively
 
@@ -1397,6 +1499,8 @@
 
 - comply, be obedient to （服从，顺从；听话）
 
+:::
+
 
 ## 6569. romanize
 
@@ -1423,6 +1527,8 @@
 - filter, penetrate （渗透，透过；弥漫）
 
 - smoke, shed （弥漫；透入；散布）
+
+:::
 
 
 ## 6571. teacup
@@ -1459,6 +1565,8 @@
 
 - comfort, calm, moderate, compose （减轻；使缓和；使平静）
 
+:::
+
 
 ## 6573. characterization
 
@@ -1480,6 +1588,8 @@
 
 - presentation, description （描述；特性描述）
 
+:::
+
 
 ## 6574. earthen
 
@@ -1494,6 +1604,8 @@
 :::warning{title=🤔同义词}
 
 - tellural （土制的；陶制的；地球上的）
+
+:::
 
 
 ## 6575. insistence
@@ -1510,6 +1622,8 @@
 
 - stress, adherence （坚持，强调；坚决主张）
 
+:::
+
 
 ## 6576. whence
 
@@ -1524,6 +1638,8 @@
 :::warning{title=🤔同义词}
 
 - parent, principle, root （根源）
+
+:::
 
 
 ## 6577. nonporous
@@ -1543,6 +1659,8 @@
 :::warning{title=🤔同义词}
 
 - mouthless, holeless （无孔的，无孔隙的）
+
+:::
 
 
 ## 6578. turnover
@@ -1595,6 +1713,8 @@
 
 - upturned, eversible （翻过来的；可翻转的）
 
+:::
+
 
 ## 6579. fork
 
@@ -1644,6 +1764,8 @@
 
 - branch off, diverge （分叉；分歧）
 
+:::
+
 
 ## 6580. deed
 
@@ -1680,6 +1802,8 @@
 :::warning{title=🤔同义词}
 
 - action, letter, certificate, act （行动；证书；[法]契据）
+
+:::
 
 
 ## 6581. southernmost
@@ -1730,6 +1854,8 @@
 
 - gain, increase, rise, accession, escalation （增加；放大）
 
+:::
+
 
 ## 6584. memorize
 
@@ -1744,6 +1870,8 @@
 :::warning{title=🤔同义词}
 
 - retain, keep in mind （记住，背熟；记忆）
+
+:::
 
 
 ## 6585. session
@@ -1804,6 +1932,8 @@
 
 - meeting, congress, term, sitting, semester （会议；（法庭的）[法]开庭；（议会等的）开会；学期；讲习会）
 
+:::
+
 
 ## 6586. indeterminate
 
@@ -1824,6 +1954,8 @@
 :::warning{title=🤔同义词}
 
 - fuzzy, dark, vague, unsure （[数]不确定的；模糊的；含混的）
+
+:::
 
 
 ## 6587. unbalance
@@ -1850,6 +1982,8 @@
 
 - mental derangement, alienation （[力]失衡；精神错乱）
 
+:::
+
 
 ## 6588. conclusively
 
@@ -1858,6 +1992,8 @@
 :::warning{title=🤔同义词}
 
 - finally, last （最后地；决定性地）
+
+:::
 
 
 ## 6589. fortuitous
@@ -1873,6 +2009,8 @@
 :::warning{title=🤔同义词}
 
 - sudden, unexpected, occasional （偶然的；意外的）
+
+:::
 
 
 ## 6590. hieroglyph
@@ -1893,6 +2031,8 @@
 
 - ideograph, pictograph （象形文字；图画文字；秘密符号）
 
+:::
+
 
 ## 6591. admirable
 
@@ -1907,6 +2047,8 @@
 :::warning{title=🤔同义词}
 
 - wonderful, excellent, famous, super, great （令人钦佩的；极好的；值得赞扬的）
+
+:::
 
 
 ## 6592. democratization
@@ -1943,6 +2085,8 @@
 
 - calmly, tranquilly （平静地）
 
+:::
+
 
 ## 6594. upheaval
 
@@ -1959,6 +2103,8 @@
 :::warning{title=🤔同义词}
 
 - up with, lift （剧变；隆起；举起）
+
+:::
 
 
 ## 6595. inflection
@@ -1980,6 +2126,8 @@
 :::warning{title=🤔同义词}
 
 - deformation, transformation, distortion, curve, give （弯曲，变形；音调变化）
+
+:::
 
 
 ## 6596. stocking
@@ -2087,5 +2235,7 @@
 - fixed, persistent, set （横放的；固执的）
 
 - across （横过）
+
+:::
 
 

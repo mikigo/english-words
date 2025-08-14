@@ -26,6 +26,8 @@
 
 - clinical method （[临床][计]诊断法；诊断结论）
 
+:::
+
 
 ## 801. diagonal
 
@@ -55,6 +57,8 @@
 
 - solidus （[数]对角线；斜线）
 
+:::
+
 
 ## 802. dialect
 
@@ -79,6 +83,8 @@
 :::warning{title=🤔同义词}
 
 - patois, provincialism （方言，土话；同源语；行话；个人用语特征）
+
+:::
 
 
 ## 803. diameter
@@ -161,6 +167,8 @@
 
 - didy, nappy （尿布）
 
+:::
+
 
 ## 805. dichotomy
 
@@ -169,6 +177,8 @@
 :::warning{title=🤔同义词}
 
 - disruption, fragmentation （[生物]二分法；两分；分裂；[植]双歧分枝）
+
+:::
 
 
 ## 806. dictate
@@ -188,6 +198,8 @@
 - require, order, command （命令；口述；使听写）
 
 - instruction, order, bidding, telling, word （命令；指示）
+
+:::
 
 
 ## 807. diesel
@@ -248,6 +260,8 @@
 
 - derv, oil engine （[动力]柴油；柴油机）
 
+:::
+
 
 ## 808. dietary
 
@@ -293,6 +307,8 @@
 
 - to distinguish, tell apart （区分，区别）
 
+:::
+
 
 ## 810. differentiation
 
@@ -318,6 +334,8 @@
 
 - variation, distinction, discrimination （[生物]变异，分化；区别）
 
+:::
+
 
 ## 811. digest
 
@@ -336,6 +354,8 @@
 - absorb, drink in （消化；吸收；融会贯通）
 
 - abstract, brief, summary, resume （文摘；摘要）
+
+:::
 
 
 ## 812. digit
@@ -365,6 +385,8 @@
 :::warning{title=🤔同义词}
 
 - figure, number （[计]数字；手指或足趾；一指宽）
+
+:::
 
 
 ## 813. digitize
@@ -407,6 +429,8 @@
 
 - difficulty, corner, fix, predicament （困境；进退两难；两刀论法）
 
+:::
+
 
 ## 815. dilute
 
@@ -443,6 +467,8 @@
 - break, deliquate （稀释；冲淡；削弱）
 
 - thin （变稀薄；变淡）
+
+:::
 
 
 ## 816. dimension
@@ -505,6 +531,8 @@
 
 - measurement, size （[数]维；尺寸；次元；容积）
 
+:::
+
 
 ## 817. diminish
 
@@ -530,6 +558,8 @@
 
 - to cut down, fall off （减少，缩小；变小）
 
+:::
+
 
 ## 818. diminution
 
@@ -544,6 +574,8 @@
 :::warning{title=🤔同义词}
 
 - reduction, loss, decrease （减少，降低；缩小）
+
+:::
 
 
 ## 819. dinosaur
@@ -640,6 +672,8 @@
 
 - graduation certificate, leaving certificate （毕业证书，学位证书；公文，文书；奖状）
 
+:::
+
 
 ## 822. diplomatic
 
@@ -679,6 +713,8 @@
 
 - foreign, experienced （外交的；外交上的；老练的）
 
+:::
+
 
 ## 823. dire
 
@@ -706,6 +742,8 @@
 
 - terrible, ultra, extreme, horrible, awesome （可怕的；悲惨的；极端的）
 
+:::
+
 
 ## 824. disability
 
@@ -730,6 +768,8 @@
 :::warning{title=🤔同义词}
 
 - physical disabilities, drawback （残疾；无能；无资格；不利条件）
+
+:::
 
 
 ## 825. disaster
@@ -792,6 +832,8 @@
 
 - tragedy, evil, calamity, grief （灾难，灾祸；不幸）
 
+:::
+
 
 ## 826. discard
 
@@ -819,6 +861,8 @@
 
 - rejection, abandonment （抛弃；被丢弃的东西或人）
 
+:::
+
 
 ## 827. discern
 
@@ -835,6 +879,8 @@
 - recognize, identify （识别；领悟，认识）
 
 - see clearly, tell from （看清楚，辨别）
+
+:::
 
 
 ## 828. discharge
@@ -901,6 +947,8 @@
 
 - firing, dismissal （[环境]排放；卸货；[劳经]解雇）
 
+:::
+
 
 ## 829. disciple
 
@@ -915,6 +963,8 @@
 :::warning{title=🤔同义词}
 
 - Christian, protege （门徒，信徒；弟子）
+
+:::
 
 
 ## 830. discipline
@@ -959,6 +1009,8 @@
 
 - coach, drill （训练，训导；惩戒）
 
+:::
+
 
 ## 831. disclosure
 
@@ -985,6 +1037,8 @@
 :::warning{title=🤔同义词}
 
 - lay bare, showup （[审计]披露；[法]揭发；被揭发出来的事情）
+
+:::
 
 
 ## 832. discord
@@ -1015,6 +1069,8 @@
 
 - out of tune with, out of line （不一致；刺耳）
 
+:::
+
 
 ## 833. discrepancy
 
@@ -1029,6 +1085,8 @@
 :::warning{title=🤔同义词}
 
 - conflict, unconformity （不符；矛盾；相差）
+
+:::
 
 
 ## 834. discrete
@@ -1085,6 +1143,8 @@
 
 - uncontinuous, incontinuous （离散的，[数]不连续的）
 
+:::
+
 
 ## 835. discretion
 
@@ -1114,6 +1174,8 @@
 
 - care, caution （自由裁量权；谨慎；判断力；判定；考虑周到）
 
+:::
+
 
 ## 836. discretionary
 
@@ -1139,6 +1201,8 @@
 
 - random, arbitrary （任意的；自由决定的）
 
+:::
+
 
 ## 837. discriminate
 
@@ -1162,6 +1226,8 @@
 
 - tell from, distinguish from （歧视；区别；辨别）
 
+:::
+
 
 ## 838. disdainful
 
@@ -1176,6 +1242,8 @@
 :::warning{title=🤔同义词}
 
 - scornful, sniffish （轻蔑的；倨傲的；鄙视的）
+
+:::
 
 
 ## 839. disenchanted
@@ -1218,6 +1286,8 @@
 
 - disgusted （使讨厌（disincline的过去分词））
 
+:::
+
 
 ## 842. disintegration
 
@@ -1226,6 +1296,8 @@
 :::warning{title=🤔同义词}
 
 - analysis, decomposition, crash （瓦解，崩溃；分解）
+
+:::
 
 
 ## 843. dislocation
@@ -1254,6 +1326,8 @@
 
 - chaos, disorder, confusion, involvement, mix （转位；混乱；[医]脱臼）
 
+:::
+
 
 ## 844. dislodge
 
@@ -1270,6 +1344,8 @@
 - cast out, evict （逐出，驱逐；使……移动；用力移动）
 
 - cast out, chase sb./sth. out （驱逐，逐出；离开原位）
+
+:::
 
 
 ## 845. dismal
@@ -1296,6 +1372,8 @@
 
 - dark, blue, terrible, heavy （凄凉的，忧郁的；阴沉的，沉闷的；可怕的）
 
+:::
+
 
 ## 846. dismantle
 
@@ -1310,6 +1388,8 @@
 :::warning{title=🤔同义词}
 
 - recall, demolish （拆除；取消；解散；除掉…的覆盖物）
+
+:::
 
 
 ## 847. dismay
@@ -1331,6 +1411,8 @@
 - depression, alarm, disappointment （沮丧，灰心；惊慌）
 
 - depress, dispirit （使沮丧；使惊慌）
+
+:::
 
 
 ## 848. dismiss
@@ -1355,6 +1437,8 @@
 
 - disband, break up （解散）
 
+:::
+
 
 ## 849. disorient
 
@@ -1363,6 +1447,8 @@
 :::warning{title=🤔同义词}
 
 - bemaze （使…迷惑；使…失去方向感）
+
+:::
 
 
 ## 850. disparaging
@@ -1384,6 +1470,8 @@
 :::warning{title=🤔同义词}
 
 - scornful, contemptuous （毁谤的；轻蔑的）
+
+:::
 
 
 ## 851. disparate
@@ -1410,6 +1498,8 @@
 
 - different, diverse, unlike, varying, another （不同的；不相干的；全异的）
 
+:::
+
 
 ## 852. dispel
 
@@ -1426,6 +1516,8 @@
 :::warning{title=🤔同义词}
 
 - eliminate, avoid （驱散，驱逐；消除（烦恼等））
+
+:::
 
 
 ## 853. dispense
@@ -1449,6 +1541,8 @@
 - perform, implement, portion, discharge, part （分配，分发；免除；执行）
 
 - get free of, exempt from （免除，豁免）
+
+:::
 
 
 ## 854. disperse
@@ -1481,6 +1575,8 @@
 
 - scattered, decentralized （分散的）
 
+:::
+
 
 ## 855. displace
 
@@ -1497,6 +1593,8 @@
 :::warning{title=🤔同义词}
 
 - shift, replace by （取代；置换；转移；把…免职；排水）
+
+:::
 
 
 ## 856. dispose
@@ -1524,6 +1622,8 @@
 - manage, place in, cope with （处理；安排；（能够）决定）
 
 - make, temperament （处置；性情）
+
+:::
 
 
 ## 857. disproportionate
@@ -1582,6 +1682,8 @@
 
 - argument, debate, brush, controversy （辩论；争吵）
 
+:::
+
 
 ## 859. disrupt
 
@@ -1603,6 +1705,8 @@
 
 - divided, scattered （分裂的，中断的；分散的）
 
+:::
+
 
 ## 860. disseminate
 
@@ -1619,6 +1723,8 @@
 - distribute, publicize, transmit （宣传，传播；散布）
 
 - shed, put about （散布；广为传播）
+
+:::
 
 
 ## 861. dissent
@@ -1645,6 +1751,8 @@
 
 - exception, demurral （异议；（大写）不信奉国教）
 
+:::
+
 
 ## 862. dissimilar
 
@@ -1659,6 +1767,8 @@
 :::warning{title=🤔同义词}
 
 - different, diverse, unlike, varying, another （不同的）
+
+:::
 
 
 ## 863. dissipate
@@ -1678,6 +1788,8 @@
 - lose, spend （浪费；使…消散）
 
 - to break up, sow one's wild oats （驱散；放荡）
+
+:::
 
 
 ## 864. dissociate
@@ -1702,6 +1814,8 @@
 
 - split off, separate from （游离；分离；分裂）
 
+:::
+
 
 ## 865. distill
 
@@ -1718,6 +1832,8 @@
 - extract, abstract, still （提取；蒸馏；使滴下）
 
 - still, drip down （蒸馏；滴下；作为精华产生（等于distil））
+
+:::
 
 
 ## 866. distinct
@@ -1740,6 +1856,8 @@
 
 - obvious, visible, unique, evident, individual （明显的；独特的；清楚的；有区别的）
 
+:::
+
 
 ## 867. distinctive
 
@@ -1760,6 +1878,8 @@
 :::warning{title=🤔同义词}
 
 - unusual, different, apart （有特色的，与众不同的）
+
+:::
 
 
 ## 868. distinguish
@@ -1788,6 +1908,8 @@
 
 - differentiate, tell from （区别，区分；辨别）
 
+:::
+
 
 ## 869. distort
 
@@ -1805,6 +1927,8 @@
 
 - become deformed, to morph （扭曲；变形）
 
+:::
+
 
 ## 870. distribute
 
@@ -1819,6 +1943,8 @@
 :::warning{title=🤔同义词}
 
 - portion, part, spread （分配；散布；分开；把…分类）
+
+:::
 
 
 ## 871. distribution
@@ -1879,6 +2005,8 @@
 
 - allocation, assignment （[统计]分布；分配）
 
+:::
+
 
 ## 872. distributor
 
@@ -1917,6 +2045,8 @@
 :::warning{title=🤔同义词}
 
 - dealer, franchiser （经销商；[纺][电]分配器；分配者；散布者；配电盘）
+
+:::
 
 
 ## 873. district
@@ -1977,6 +2107,8 @@
 
 - area, place （[地理]区域；地方；行政区）
 
+:::
+
 
 ## 874. disturb
 
@@ -2004,6 +2136,8 @@
 
 - intrude upon, hinder from （打扰；妨碍）
 
+:::
+
 
 ## 875. diverge
 
@@ -2027,6 +2161,8 @@
 
 - deviate （使偏离；使分叉）
 
+:::
+
 
 ## 876. diverse
 
@@ -2041,6 +2177,8 @@
 :::warning{title=🤔同义词}
 
 - different, unlike, varying, another, dissimilar （不同的；多种多样的；变化多的）
+
+:::
 
 
 ## 877. diversification
@@ -2065,6 +2203,8 @@
 
 - variation, shift, change, turn, mutation （[贸易]多样化；变化）
 
+:::
+
 
 ## 878. diversify
 
@@ -2079,6 +2219,8 @@
 :::warning{title=🤔同义词}
 
 - vary, variegate （使多样化，使变化；增加产品种类以扩大）
+
+:::
 
 
 ## 879. diversion
@@ -2109,6 +2251,8 @@
 
 - entertainment, transfer, occupation, recreation, metastasis （转移；消遣；分散注意力）
 
+:::
+
 
 ## 880. divest
 
@@ -2123,6 +2267,8 @@
 :::warning{title=🤔同义词}
 
 - shear, strip of （剥夺；使脱去，迫使放弃）
+
+:::
 
 
 ## 881. dividend
@@ -2163,6 +2309,8 @@
 
 - bonus, stake （股息；[数]被除数；奖金）
 
+:::
+
 
 ## 882. divisible
 
@@ -2183,6 +2331,8 @@
 :::warning{title=🤔同义词}
 
 - partible, dissectible （[数]可分的；可分割的）
+
+:::
 
 
 ## 883. division
@@ -2243,6 +2393,8 @@
 
 - ministry, department, sector, segmentation, dom （师（军队）；[管理]部门；分割；[数]除法）
 
+:::
+
 
 ## 884. divisive
 
@@ -2258,6 +2410,8 @@
 
 - partite, schismatical （分裂的；区分的；造成不和的）
 
+:::
+
 
 ## 885. divulge
 
@@ -2272,6 +2426,8 @@
 :::warning{title=🤔同义词}
 
 - reveal, ooze out （泄露；暴露）
+
+:::
 
 
 ## 886. doctorate
@@ -2295,6 +2451,8 @@
 :::warning{title=🤔同义词}
 
 - doctoral degree （博士学位；博士头衔）
+
+:::
 
 
 ## 887. doctrine
@@ -2320,6 +2478,8 @@
 :::warning{title=🤔同义词}
 
 - principle, theory, belief, teaching （主义；学说；教义；信条）
+
+:::
 
 
 ## 888. documentation
@@ -2361,6 +2521,8 @@
 :::warning{title=🤔同义词}
 
 - credendum （教条，教理；武断的意见）
+
+:::
 
 
 ## 890. domain
@@ -2420,6 +2582,8 @@
 :::warning{title=🤔同义词}
 
 - province, territory, world, industry, kingdom, universe, field （领域；域名；产业；地产）
+
+:::
 
 
 ## 891. domestic
@@ -2484,6 +2648,8 @@
 
 - servant （国货；佣人）
 
+:::
+
 
 ## 892. domesticate
 
@@ -2498,6 +2664,8 @@
 :::warning{title=🤔同义词}
 
 - introduce, to teach （驯养；教化；引进）
+
+:::
 
 
 ## 893. domestication
@@ -2518,6 +2686,8 @@
 
 - cultivation, enlightenment （[生物]驯养；教化）
 
+:::
+
 
 ## 894. domesticity
 
@@ -2532,6 +2702,8 @@
 :::warning{title=🤔同义词}
 
 - family life, domestic life （家庭生活；专心于家务；对家庭的挚爱）
+
+:::
 
 
 ## 895. dominate
@@ -2562,6 +2734,8 @@
 
 - advantage over, prevail over （占优势；处于支配地位）
 
+:::
+
 
 ## 896. donate
 
@@ -2589,6 +2763,8 @@
 
 - contribution, endowment, subscription （捐赠；[经]捐献）
 
+:::
+
 
 ## 897. dormant
 
@@ -2614,6 +2790,8 @@
 
 - still, resting （休眠的；静止的；睡眠状态的；隐匿的）
 
+:::
+
 
 ## 898. dosage
 
@@ -2636,6 +2814,8 @@
 :::warning{title=🤔同义词}
 
 - dose, dosis （[药]剂量，用量）
+
+:::
 
 
 ## 899. dose
@@ -2685,5 +2865,7 @@
 - take medicine （服药）
 
 - physic （给药；给…服药）
+
+:::
 
 

@@ -12,6 +12,8 @@
 
 - bluff （怒号；吓唬）
 
+:::
+
 
 ## 1301. traverse
 
@@ -41,6 +43,8 @@
 
 - transcurrent （横贯的）
 
+:::
+
 
 ## 1302. impending
 
@@ -64,6 +68,8 @@
 
 - threatening （迫近；悬空（impend的现在分词））
 
+:::
+
 
 ## 1303. rigorous
 
@@ -80,6 +86,8 @@
 :::warning{title=🤔同义词}
 
 - strict, rigid, precise, severe, tight （严格的，严厉的；严密的；严酷的）
+
+:::
 
 
 ## 1304. amino
@@ -120,6 +128,8 @@
 
 - amidogen （[化学]氨基）
 
+:::
+
 
 ## 1305. secular
 
@@ -147,6 +157,8 @@
 
 - minister, priest, preacher （牧师）
 
+:::
+
 
 ## 1306. activate
 
@@ -163,6 +175,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, fan, motivate, needle （刺激；使活动；使活泼；使产生放射性）
+
+:::
 
 
 ## 1307. strenuous
@@ -187,6 +201,8 @@
 
 - intense, tough, rough （紧张的；费力的；奋发的；艰苦的；热烈的）
 
+:::
+
 
 ## 1308. lethargy
 
@@ -201,6 +217,8 @@
 :::warning{title=🤔同义词}
 
 - narcoma, hypnesthesia （昏睡；死气沉沉；[医]嗜眠（症））
+
+:::
 
 
 ## 1309. amusement
@@ -224,6 +242,8 @@
 :::warning{title=🤔同义词}
 
 - entertainment, fun, occupation, pleasure, joy （消遣，娱乐；乐趣）
+
+:::
 
 
 ## 1310. boundary
@@ -296,6 +316,8 @@
 
 - region, extent, spectrum, territory, area （[地质]边界；范围；分界线）
 
+:::
+
 
 ## 1311. shame
 
@@ -343,6 +365,8 @@
 
 - discountenance, abash （使丢脸，使羞愧）
 
+:::
+
 
 ## 1312. endow
 
@@ -363,6 +387,8 @@
 :::warning{title=🤔同义词}
 
 - gift, put （赋予；捐赠；天生具有）
+
+:::
 
 
 ## 1313. precipitate
@@ -387,6 +413,8 @@
 
 - rapid （突如其来的；猛地落下的；急促的）
 
+:::
+
 
 ## 1314. centric
 
@@ -405,6 +433,8 @@
 :::warning{title=🤔同义词}
 
 - nuclear, mid （[解剖]中央的，中心的）
+
+:::
 
 
 ## 1315. mandate
@@ -425,6 +455,8 @@
 
 - empower, accredit （授权；托管）
 
+:::
+
 
 ## 1316. slog
 
@@ -443,6 +475,8 @@
 - drive, belt （猛击；顽强行进）
 
 - tug （苦干；跋涉）
+
+:::
 
 
 ## 1317. financial
@@ -511,6 +545,8 @@
 
 - monetary, fiscal （金融的；财政的，财务的）
 
+:::
+
 
 ## 1318. respective
 
@@ -528,6 +564,8 @@
 
 - several, each （分别的，各自的）
 
+:::
+
 
 ## 1319. inactivate
 
@@ -536,6 +574,8 @@
 :::warning{title=🤔同义词}
 
 - deactivate （使不活动；使不活泼；阻止活动）
+
+:::
 
 
 ## 1320. media
@@ -608,6 +648,8 @@
 
 - admiration, acclamation （喝彩；赞美）
 
+:::
+
 
 ## 1322. exalt
 
@@ -622,6 +664,8 @@
 :::warning{title=🤔同义词}
 
 - promote, upgrade, prefer, elevate （提升；提拔；赞扬；使得意）
+
+:::
 
 
 ## 1323. reversible
@@ -654,6 +698,8 @@
 
 - invertible （可逆的；可撤消的；可反转的）
 
+:::
+
 
 ## 1324. define
 
@@ -677,6 +723,8 @@
 
 - regulate, state, rule （定义；使明确；规定）
 
+:::
+
 
 ## 1325. dictate
 
@@ -697,6 +745,8 @@
 - require, order, command （命令；口述；使听写）
 
 - instruction, order, bidding, telling, word （命令；指示）
+
+:::
 
 
 ## 1326. flick
@@ -724,6 +774,8 @@
 :::warning{title=🤔同义词}
 
 - retain, keep in mind （记住，背熟；记忆）
+
+:::
 
 
 ## 1328. render
@@ -754,6 +806,8 @@
 
 - cosmetic brush （打底；交纳；粉刷）
 
+:::
+
 
 ## 1329. haven
 
@@ -778,6 +832,8 @@
 :::warning{title=🤔同义词}
 
 - port, home, harbor （港口；避难所，安息所）
+
+:::
 
 
 ## 1330. neon
@@ -832,6 +888,8 @@
 
 - apparent, obvious, distinct, transparent, decided （显然的，明显的；明白的）
 
+:::
+
 
 ## 1332. relieve
 
@@ -859,6 +917,8 @@
 
 - moderate, release from （解除，减轻；使不单调乏味；换…的班；解围；使放心）
 
+:::
+
 
 ## 1333. buffalo
 
@@ -884,6 +944,8 @@
 
 - carabao, urus （[畜牧][脊椎]水牛；野牛（产于北美）；水陆两用坦克）
 
+:::
+
 
 ## 1334. endeavor
 
@@ -906,6 +968,8 @@
 - apply oneself, struggle, labor, strain, try one's best （努力；尽力（等于endeavour））
 
 - apply oneself, try one's best （努力；尽力（等于endeavour））
+
+:::
 
 
 ## 1335. quartz
@@ -958,6 +1022,8 @@
 
 - crystalline silica （[矿物]石英）
 
+:::
+
 
 ## 1336. prelude
 
@@ -976,6 +1042,8 @@
 - intrada, prolusion （前奏；序幕；前奏曲）
 
 - sound off （作为序曲；奏序曲）
+
+:::
 
 
 ## 1337. adjacent
@@ -1007,6 +1075,8 @@
 :::warning{title=🤔同义词}
 
 - nearby, neighbor （邻近的，毗连的）
+
+:::
 
 
 ## 1338. transport
@@ -1073,6 +1143,8 @@
 
 - convey, to freight （[植]运输；流放；使狂喜）
 
+:::
+
 
 ## 1339. grump
 
@@ -1085,6 +1157,8 @@
 - inflammation （一阵坏脾气；发火；闹情绪）
 
 - complain, whine about （发牢骚；闹情绪）
+
+:::
 
 
 ## 1340. specific
@@ -1149,6 +1223,8 @@
 
 - quality, tang, identity, detail, character （特性；细节；特效药）
 
+:::
+
 
 ## 1341. sprain
 
@@ -1165,6 +1241,8 @@
 - twist, rick （[外科]扭伤）
 
 - strain, stremma （[外科]扭伤）
+
+:::
 
 
 ## 1342. prioritize
@@ -1203,6 +1281,8 @@
 
 - comply, wage （从事；答应，保证；交战；啮合）
 
+:::
+
 
 ## 1344. adroit
 
@@ -1217,6 +1297,8 @@
 :::warning{title=🤔同义词}
 
 - experienced, skilled, fly, accomplished, sharp （敏捷的，灵巧的；熟练的）
+
+:::
 
 
 ## 1345. appetite
@@ -1253,6 +1335,8 @@
 
 - weakness, habit, hobby （[生理]食欲；嗜好）
 
+:::
+
 
 ## 1346. frivolity
 
@@ -1267,6 +1351,8 @@
 :::warning{title=🤔同义词}
 
 - levity, triviality （轻浮；轻薄；轻率）
+
+:::
 
 
 ## 1347. strategy
@@ -1329,6 +1415,8 @@
 
 - device, tactic （[军]战略，策略）
 
+:::
+
 
 ## 1348. remainder
 
@@ -1362,6 +1450,8 @@
 
 - bargain sale （廉价出售；削价出售）
 
+:::
+
 
 ## 1349. clumsy
 
@@ -1378,6 +1468,8 @@
 :::warning{title=🤔同义词}
 
 - awkward, inept （笨拙的）
+
+:::
 
 
 ## 1350. territory
@@ -1416,6 +1508,8 @@
 
 - domain, province, world, extent, boundary, region, kingdom （领土，领域；范围；地域；[地理]版图）
 
+:::
+
 
 ## 1351. summon
 
@@ -1437,6 +1531,8 @@
 
 - stir oneself, nerve oneself （召唤；召集；鼓起；振作）
 
+:::
+
 
 ## 1352. grovel
 
@@ -1445,6 +1541,8 @@
 :::warning{title=🤔同义词}
 
 - kowtow （匍匐；卑躬屈膝；趴）
+
+:::
 
 
 ## 1353. maintain
@@ -1482,6 +1580,8 @@
 :::warning{title=🤔同义词}
 
 - pursue, submit, sustain, advocate, service （维持；继续；维修；主张；供养）
+
+:::
 
 
 ## 1354. shift
@@ -1548,6 +1648,8 @@
 
 - influence, fashion, vary （转移；改变；替换）
 
+:::
+
 
 ## 1355. implore
 
@@ -1575,6 +1677,8 @@
 
 - revive （复兴；复权；恢复正常生活）
 
+:::
+
 
 ## 1357. expertise
 
@@ -1595,6 +1699,8 @@
 :::warning{title=🤔同义词}
 
 - special knowledge, professional knowledge （专门知识；专门技术；专家的意见）
+
+:::
 
 
 ## 1358. bargain
@@ -1651,6 +1757,8 @@
 
 - bar tack （讨价还价；拿…做交易）
 
+:::
+
 
 ## 1359. elective
 
@@ -1681,6 +1789,8 @@
 - constituent （选修的；选举的；选任的）
 
 - optional course （选修课程）
+
+:::
 
 
 ## 1360. pivot
@@ -1713,6 +1823,8 @@
 
 - key （[力]枢轴的；关键的）
 
+:::
+
 
 ## 1361. dissuade
 
@@ -1728,6 +1840,8 @@
 
 - discourage from, dehort （劝阻，劝止）
 
+:::
+
 
 ## 1362. sneaker
 
@@ -1742,6 +1856,8 @@
 :::warning{title=🤔同义词}
 
 - athletic shoe, gym shoes （运动鞋；卑鄙者；鬼鬼祟祟做事的人）
+
+:::
 
 
 ## 1363. conclusive
@@ -1764,6 +1880,8 @@
 
 - crucial, critical, final, finishing, decisive （决定性的；最后的；确实的；确定性的）
 
+:::
+
 
 ## 1364. encompass
 
@@ -1778,6 +1896,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain, carry out, accomplish, achieve （包含；包围，环绕；完成）
+
+:::
 
 
 ## 1365. sustenance
@@ -1795,6 +1915,8 @@
 :::warning{title=🤔同义词}
 
 - food, diet, holding, eating, support （食物；生计；支持）
+
+:::
 
 
 ## 1366. allergy
@@ -1817,6 +1939,8 @@
 
 - hate, hypersensitivity （过敏症；反感；厌恶）
 
+:::
+
 
 ## 1367. disinterested
 
@@ -1831,6 +1955,8 @@
 :::warning{title=🤔同义词}
 
 - judicial, distant, just, selfless （无私的；公正的；冷漠的；廉洁的）
+
+:::
 
 
 ## 1368. envelope
@@ -1866,6 +1992,8 @@
 :::warning{title=🤔同义词}
 
 - cover, involucrum （信封，封皮；包膜；[天]包层；包迹）
+
+:::
 
 
 ## 1369. deposit
@@ -1930,6 +2058,8 @@
 
 - settle, to precipitate （[电]沉淀）
 
+:::
+
 
 ## 1370. dissipate
 
@@ -1949,6 +2079,8 @@
 
 - to break up, sow one's wild oats （驱散；放荡）
 
+:::
+
 
 ## 1371. recount
 
@@ -1965,6 +2097,8 @@
 - relate, narrate （叙述；重新计算）
 
 - roll-back （重算）
+
+:::
 
 
 ## 1372. flask
@@ -1990,6 +2124,8 @@
 :::warning{title=🤔同义词}
 
 - lagena, winebottle （[分化]烧瓶；长颈瓶，细颈瓶；酒瓶，携带瓶）
+
+:::
 
 
 ## 1373. fluctuation
@@ -2032,6 +2168,8 @@
 
 - wave, undulation （[海洋]起伏，[电子][物]波动）
 
+:::
+
 
 ## 1374. pliable
 
@@ -2046,6 +2184,8 @@
 :::warning{title=🤔同义词}
 
 - flexible, soft, tender （柔韧的；柔软的；圆滑的；易曲折的）
+
+:::
 
 
 ## 1375. flash
@@ -2116,6 +2256,8 @@
 
 - shot, coruscant （闪光的，火速的）
 
+:::
+
 
 ## 1376. continent
 
@@ -2138,6 +2280,8 @@
 - mainland, earth, land （[地理]大陆，洲，陆地）
 
 - self-regulating, restrained （自制的，克制的）
+
+:::
 
 
 ## 1377. disturbance
@@ -2176,6 +2320,8 @@
 
 - interference, care, obstacle, disorder, worries （[通信][电子]干扰；骚乱；忧虑）
 
+:::
+
 
 ## 1378. confidant
 
@@ -2190,6 +2336,8 @@
 :::warning{title=🤔同义词}
 
 - familiar, intimate （知己；密友）
+
+:::
 
 
 ## 1379. simultaneous
@@ -2233,6 +2381,8 @@
 :::warning{title=🤔同义词}
 
 - synchronous, coinstantaneous （同时的；联立的；同时发生的）
+
+:::
 
 
 ## 1380. guarantee
@@ -2297,6 +2447,8 @@
 
 - assure, undertake, swear for （[金融]保证；[法]担保）
 
+:::
+
 
 ## 1381. improvise
 
@@ -2312,6 +2464,8 @@
 
 - extemporize （即兴创作；即兴表演；临时凑合）
 
+:::
+
 
 ## 1382. predation
 
@@ -2326,6 +2480,8 @@
 :::warning{title=🤔同义词}
 
 - prey, rapine （[动]捕食；掠夺）
+
+:::
 
 
 ## 1383. recommend
@@ -2354,6 +2510,8 @@
 
 - put in a good word, advise （推荐；建议）
 
+:::
+
 
 ## 1384. demobilize
 
@@ -2368,6 +2526,8 @@
 :::warning{title=🤔同义词}
 
 - deactivate, muster out （遣散；使复员；使退伍（demobilise））
+
+:::
 
 
 ## 1385. leach
@@ -2394,6 +2554,8 @@
 
 - filter, lauter （过滤；萃取）
 
+:::
+
 
 ## 1386. prodigious
 
@@ -2408,6 +2570,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, wonderful, huge, enormous, massive （惊人的，异常的，奇妙的；巨大的）
+
+:::
 
 
 ## 1387. lost-and-found
@@ -2424,6 +2588,8 @@
 
 - Lost and Found Office （失物招领处）
 
+:::
+
 
 ## 1388. knack
 
@@ -2438,6 +2604,8 @@
 :::warning{title=🤔同义词}
 
 - skill, know-how （诀窍；本领；熟练技术；巧妙手法）
+
+:::
 
 
 ## 1389. default
@@ -2502,6 +2670,8 @@
 
 - walk out on sth., unsatisfy （不履行；不参加（比赛等）；对…处以缺席裁判）
 
+:::
+
 
 ## 1390. indolent
 
@@ -2510,6 +2680,8 @@
 :::warning{title=🤔同义词}
 
 - lazy, idle （懒惰的；[医]无痛的）
+
+:::
 
 
 ## 1391. tropic
@@ -2539,6 +2711,8 @@
 - torrid zone, regression line （[地理]热带；[天]回归线）
 
 - intertropical, subsolar （[地理]热带的）
+
+:::
 
 
 ## 1392. beverage
@@ -2581,6 +2755,8 @@
 
 - drink, belly-wash, bevvy （饮料）
 
+:::
+
 
 ## 1393. diction
 
@@ -2589,6 +2765,8 @@
 :::warning{title=🤔同义词}
 
 - phrase, parlance （用语；措词）
+
+:::
 
 
 ## 1394. ripe
@@ -2612,6 +2790,8 @@
 - developed, mature, adult （[植][医]熟的，成熟的；时机成熟的）
 
 - examine, survey （搜查；调查）
+
+:::
 
 
 ## 1395. attribute
@@ -2647,6 +2827,8 @@
 - particularity, idiosyncracy （属性；特质）
 
 - ascribe to （归属；把…归于）
+
+:::
 
 
 ## 1396. genetic
@@ -2711,6 +2893,8 @@
 
 - inherited, hereditary （遗传的；基因的；起源的）
 
+:::
+
 
 ## 1397. triumph
 
@@ -2738,6 +2922,8 @@
 
 - arrive, win, make good （获得胜利，成功）
 
+:::
+
 
 ## 1398. slumber
 
@@ -2752,6 +2938,8 @@
 :::warning{title=🤔同义词}
 
 - sleep, morpheus （睡眠；麻木状态；静止状态）
+
+:::
 
 
 ## 1399. arouse
@@ -2777,5 +2965,7 @@
 - encourage, attract, cause, produce, occasion （引起；唤醒；鼓励）
 
 - make someone tick, wake up （激发；醒来；发奋）
+
+:::
 
 

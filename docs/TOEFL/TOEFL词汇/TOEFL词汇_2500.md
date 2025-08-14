@@ -60,6 +60,8 @@
 
 - assure, undertake, swear for （[金融]保证；[法]担保）
 
+:::
+
 
 ## 2501. manganese
 
@@ -109,6 +111,8 @@
 
 - eventually, finally, basically, lastly, either （最后；根本；基本上）
 
+:::
+
 
 ## 2503. strange
 
@@ -156,6 +160,8 @@
 
 - queerly, anticly （奇怪地；陌生地，冷淡地）
 
+:::
+
 
 ## 2504. journey
 
@@ -199,6 +205,8 @@
 
 - travel, have a trip, go on a trip, wayfare （[交]旅行）
 
+:::
+
 
 ## 2505. igneous
 
@@ -223,6 +231,8 @@
 :::warning{title=🤔同义词}
 
 - pyrogenic （[岩]火的；火成的；似火的）
+
+:::
 
 
 ## 2506. Zealand
@@ -273,6 +283,8 @@
 
 - gasiform, gassy （[物]气态的，气体的；无实质的）
 
+:::
+
 
 ## 2508. buck
 
@@ -302,6 +314,8 @@
 
 - money, yuan, QIAN, pocket, sen （（美）钱，元；雄鹿；纨绔子弟；年轻的印第安人或黑人）
 
+:::
+
 
 ## 2509. enrich
 
@@ -319,6 +333,8 @@
 
 - fertilize （使充实；使肥沃；使富足）
 
+:::
+
 
 ## 2510. metropolis
 
@@ -333,6 +349,8 @@
 :::warning{title=🤔同义词}
 
 - bigalopolis （[建]大都市；首府；重要中心）
+
+:::
 
 
 ## 2511. botanical
@@ -354,6 +372,8 @@
 :::warning{title=🤔同义词}
 
 - phytological （植物学的）
+
+:::
 
 
 ## 2512. wife
@@ -392,6 +412,8 @@
 
 - lady, Mrs （妻子，已婚妇女；夫人）
 
+:::
+
 
 ## 2513. urge
 
@@ -412,6 +434,8 @@
 - impulse, driving force （强烈的欲望，迫切要求；推动力）
 
 - scream for （强烈要求）
+
+:::
 
 
 ## 2514. lomas
@@ -435,6 +459,8 @@
 - to morph, be out of shape （变形；变畸形）
 
 - ugly, thrawn （畸形的；丑陋的）
+
+:::
 
 
 ## 2516. safe
@@ -501,6 +527,8 @@
 
 - peter, strongbox （[安全]保险箱；[制冷]冷藏室；纱橱）
 
+:::
+
 
 ## 2517. confederacy
 
@@ -515,6 +543,8 @@
 :::warning{title=🤔同义词}
 
 - alliance, union, association, league, federation （联盟；联邦；私党）
+
+:::
 
 
 ## 2518. spite
@@ -547,6 +577,8 @@
 
 - make a difficulty, exasperate （刁难；使恼怒）
 
+:::
+
 
 ## 2519. fertilize
 
@@ -561,6 +593,8 @@
 :::warning{title=🤔同义词}
 
 - enrich （使受精；使肥沃）
+
+:::
 
 
 ## 2520. withstand
@@ -591,6 +625,8 @@
 
 - strive against, come out against （反抗）
 
+:::
+
 
 ## 2521. immense
 
@@ -607,6 +643,8 @@
 :::warning{title=🤔同义词}
 
 - huge, tremendous, enormous, massive, macro （巨大的，广大的；无边无际的；非常好的）
+
+:::
 
 
 ## 2522. singer
@@ -633,6 +671,8 @@
 
 - vocalist, chansonnier （歌手，歌唱家）
 
+:::
+
 
 ## 2523. raft
 
@@ -657,6 +697,8 @@
 :::warning{title=🤔同义词}
 
 - lots of, wealth, ocean, body, billion （筏；救生艇；（美）大量）
+
+:::
 
 
 ## 2524. offshore
@@ -704,6 +746,8 @@
 - paralic （离岸的；[海洋]近海的；吹向海面的）
 
 - seaward （[海洋]向海面，向海）
+
+:::
 
 
 ## 2525. hierarchy
@@ -798,6 +842,8 @@
 
 - depute, authorise （委任；使服役；委托制作）
 
+:::
+
 
 ## 2527. intend
 
@@ -824,6 +870,8 @@
 :::warning{title=🤔同义词}
 
 - feel like, propose, wanna, think, desire （打算；想要；意指）
+
+:::
 
 
 ## 2528. democratic
@@ -877,6 +925,8 @@
 :::warning{title=🤔同义词}
 
 - popular （民主的；民主政治的；大众的）
+
+:::
 
 
 ## 2529. interlock
@@ -953,6 +1003,8 @@
 
 - integrity, essence, substance, texture, honesty （真理；事实；诚实；实质）
 
+:::
+
 
 ## 2531. attachment
 
@@ -975,6 +1027,8 @@
 :::warning{title=🤔同义词}
 
 - joining, enclosure （[机]附件；依恋；连接物；扣押财产）
+
+:::
 
 
 ## 2532. closet
@@ -999,6 +1053,8 @@
 
 - secret, private, underground, theoretic, chamber （秘密的，私下的；空谈的）
 
+:::
+
 
 ## 2533. insulate
 
@@ -1013,6 +1069,8 @@
 :::warning{title=🤔同义词}
 
 - segregant, quarantine （隔离，使孤立；使绝缘，使隔热）
+
+:::
 
 
 ## 2534. mission
@@ -1065,6 +1123,8 @@
 
 - send along, dispatch （派遣；向……传教）
 
+:::
+
 
 ## 2535. odd
 
@@ -1107,6 +1167,8 @@
 - remaining, extraordinary, temporary, surplus, residual （[数]奇数的；古怪的；剩余的；临时的；零散的）
 
 - put, wack （[数]奇数；怪人；奇特的事物）
+
+:::
 
 
 ## 2536. Illinois
@@ -1165,6 +1227,8 @@
 
 - sift （[粮食][数]筛；滤）
 
+:::
+
 
 ## 2538. prosperous
 
@@ -1185,6 +1249,8 @@
 :::warning{title=🤔同义词}
 
 - flourishing, booming （繁荣的；兴旺的）
+
+:::
 
 
 ## 2539. alpine
@@ -1217,6 +1283,8 @@
 
 - subalpine （阿尔卑斯山的，[地理]高山的）
 
+:::
+
 
 ## 2540. monumental
 
@@ -1231,6 +1299,8 @@
 :::warning{title=🤔同义词}
 
 - intense, eternal （不朽的；纪念碑的；非常的）
+
+:::
 
 
 ## 2541. twelve
@@ -1260,6 +1330,8 @@
 - dozen （十二；十二个）
 
 - duodenary （十二的；十二个的）
+
+:::
 
 
 ## 2542. payment
@@ -1324,6 +1396,8 @@
 
 - compensation, punishment, consideration, rod, discipline （付款，[会计]支付；报酬，报答；偿还；惩罚，报应）
 
+:::
+
 
 ## 2543. shed
 
@@ -1353,6 +1427,8 @@
 
 - cottage, divide, cabin （小屋，棚；分水岭）
 
+:::
+
 
 ## 2544. spectator
 
@@ -1373,6 +1449,8 @@
 :::warning{title=🤔同义词}
 
 - audience, onlooker （观众；旁观者）
+
+:::
 
 
 ## 2545. partly
@@ -1400,6 +1478,8 @@
 :::warning{title=🤔同义词}
 
 - half （部分地；在一定程度上）
+
+:::
 
 
 ## 2546. thrust
@@ -1455,6 +1535,8 @@
 - build in, plug in （插；插入；推挤）
 
 - intervene, build in （插入；用向某人刺去；猛然或用力推）
+
+:::
 
 
 ## 2547. delay
@@ -1519,6 +1601,8 @@
 
 - raincheck, postponement （延期；耽搁；被耽搁或推迟的时间）
 
+:::
+
 
 ## 2548. don
 
@@ -1538,6 +1622,8 @@
 
 - attire in, to put on （穿上）
 
+:::
+
 
 ## 2549. novelty
 
@@ -1554,6 +1640,8 @@
 :::warning{title=🤔同义词}
 
 - newness, originality （新奇；新奇的事物；新颖小巧而廉价的物品）
+
+:::
 
 
 ## 2550. bend
@@ -1614,6 +1702,8 @@
 
 - curve, give, winding, inflection （弯曲）
 
+:::
+
 
 ## 2551. duration
 
@@ -1657,6 +1747,8 @@
 
 - standing, persistence, abidance, continuance （持续）
 
+:::
+
 
 ## 2552. everyone
 
@@ -1677,6 +1769,8 @@
 :::warning{title=🤔同义词}
 
 - each one, everybody (a term of address), Every Body （每个人）
+
+:::
 
 
 ## 2553. segment
@@ -1717,6 +1811,8 @@
 
 - to cut up, deleave （分割）
 
+:::
+
 
 ## 2554. compaction
 
@@ -1735,6 +1831,8 @@
 :::warning{title=🤔同义词}
 
 - impaction, condensation （压紧；精简；密封；凝结）
+
+:::
 
 
 ## 2555. carpenter
@@ -1757,6 +1855,8 @@
 
 - to make （制作）
 
+:::
+
 
 ## 2556. assistant
 
@@ -1773,6 +1873,8 @@
 - friend, aid, mate, helper （助手，[管理]助理，助教）
 
 - helpful, useful, subsidiary, auxiliary, aided （[纺]辅助的，[管理]助理的；有帮助的）
+
+:::
 
 
 ## 2557. tape
@@ -1835,6 +1937,8 @@
 
 - sound recording, make a record （录音；用带子捆扎；用胶布把…封住）
 
+:::
+
 
 ## 2558. disaster
 
@@ -1896,6 +2000,8 @@
 
 - tragedy, evil, calamity, grief （灾难，灾祸；不幸）
 
+:::
+
 
 ## 2559. astonish
 
@@ -1914,6 +2020,8 @@
 :::warning{title=🤔同义词}
 
 - emmarvel, gast （使惊讶）
+
+:::
 
 
 ## 2560. adaptive
@@ -1972,6 +2080,8 @@
 
 - calculated, accommodative （[自]适应的，适合的）
 
+:::
+
 
 ## 2561. liberal
 
@@ -2019,6 +2129,8 @@
 
 - latitudinarian （自由主义者）
 
+:::
+
 
 ## 2562. perfectly
 
@@ -2037,6 +2149,8 @@
 :::warning{title=🤔同义词}
 
 - totally, entirely, completely, absolutely, thoroughly, strictly, fully （完美地；完全地；无瑕疵地）
+
+:::
 
 
 ## 2563. manage
@@ -2072,6 +2186,8 @@
 - possess, run, regulate, conduct, direct （管理；经营；控制；设法）
 
 - cope with, handle with （处理；应付过去）
+
+:::
 
 
 ## 2564. hair
@@ -2136,6 +2252,8 @@
 
 - pilar （[解剖]毛发的；护理毛发的；用毛发制成的）
 
+:::
+
 
 ## 2565. admission
 
@@ -2183,6 +2301,8 @@
 
 - recognition, acknowledgement （承认；入场费；进入许可；坦白；录用）
 
+:::
+
 
 ## 2566. manufacturer
 
@@ -2211,6 +2331,8 @@
 :::warning{title=🤔同义词}
 
 - business firm （[工业]制造商；[经]厂商）
+
+:::
 
 
 ## 2567. census
@@ -2243,6 +2365,8 @@
 
 - lustrum, nose-count （人口普查，人口调查）
 
+:::
+
 
 ## 2568. Seattle
 
@@ -2274,6 +2398,8 @@
 
 - birthday suit, entireness （整个；裸体）
 
+:::
+
 
 ## 2570. spectacular
 
@@ -2290,6 +2416,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, incredible （壮观的，惊人的；公开展示的）
+
+:::
 
 
 ## 2571. mathematician
@@ -2364,6 +2492,8 @@
 
 - irradiate （照射；堆满笑容）
 
+:::
+
 
 ## 2573. kerosene
 
@@ -2399,6 +2529,8 @@
 
 - carabao, urus （[畜牧][脊椎]水牛；野牛（产于北美）；水陆两用坦克）
 
+:::
+
 
 ## 2575. cosmic
 
@@ -2423,6 +2555,8 @@
 :::warning{title=🤔同义词}
 
 - universal, mundane （宇宙的（等于cosmical））
+
+:::
 
 
 ## 2576. underwater
@@ -2459,6 +2593,8 @@
 
 - submerged （在水中的；水面下的）
 
+:::
+
 
 ## 2577. superiority
 
@@ -2483,6 +2619,8 @@
 :::warning{title=🤔同义词}
 
 - advantage, edge （优越，优势；优越性）
+
+:::
 
 
 ## 2578. horizontal
@@ -2544,6 +2682,8 @@
 - level, aclinic （[测][天]水平的；地平线的；同一阶层的）
 
 - hydrostatic level, horizon line （[测]水平线，水平面；水平位置）
+
+:::
 
 
 ## 2579. eleven
@@ -2618,6 +2758,8 @@
 
 - moment, evidence, sign, second, wind （呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音）
 
+:::
+
 
 ## 2581. compensate
 
@@ -2640,6 +2782,8 @@
 - make good, to make up for （补偿，赔偿；抵消）
 
 - make good, to make up for （补偿，赔偿；付报酬）
+
+:::
 
 
 ## 2582. acceptance
@@ -2700,6 +2844,8 @@
 
 - receiving, adoption （接受；接纳；[金融]承兑；赞同）
 
+:::
+
 
 ## 2583. naturalistic
 
@@ -2714,6 +2860,8 @@
 :::warning{title=🤔同义词}
 
 - spontaneous, unrestrained （自然的；自然主义的；博物学的）
+
+:::
 
 
 ## 2584. cenozoic
@@ -2745,6 +2893,8 @@
 :::warning{title=🤔同义词}
 
 - settlement, colonization （栽植；殖民；大农场）
+
+:::
 
 
 ## 2586. propulsion
@@ -2796,6 +2946,8 @@
 :::warning{title=🤔同义词}
 
 - excellent, prominent, outstanding, splendid, gorgeous （灿烂的，闪耀的；杰出的；有才气的）
+
+:::
 
 
 ## 2588. chamber
@@ -2862,6 +3014,8 @@
 
 - load （把…关在室内；装填（弹药等））
 
+:::
+
 
 ## 2589. parallel
 
@@ -2925,6 +3079,8 @@
 
 - same, uniform （[天][数]平行的；类似的，相同的）
 
+:::
+
 
 ## 2590. drastically
 
@@ -2933,6 +3089,8 @@
 :::warning{title=🤔同义词}
 
 - thoroughly, entirely, completely, fully, strongly （彻底地；激烈地）
+
+:::
 
 
 ## 2591. tomb
@@ -2956,6 +3114,8 @@
 - death, end （坟墓；死亡）
 
 - bury, entomb （埋葬）
+
+:::
 
 
 ## 2592. obstacle
@@ -2985,6 +3145,8 @@
 :::warning{title=🤔同义词}
 
 - interference, let, bar, disturbance, dam （障碍，干扰；妨害物）
+
+:::
 
 
 ## 2593. Italy
@@ -3027,6 +3189,8 @@
 
 - sensitive, delicate, detailed, refined, designing （微妙的；精细的；敏感的；狡猾的；稀薄的）
 
+:::
+
 
 ## 2595. trolley
 
@@ -3051,6 +3215,8 @@
 - pushcart, manual truck （手推车；（美）无轨电车（等于streetear）；（英）有轨电车（等于trolleybus）；空中吊运车）
 
 - tram （[车辆]乘电车）
+
+:::
 
 
 ## 2596. totally
@@ -3079,6 +3245,8 @@
 
 - entirely, completely, absolutely, thoroughly, strictly, fully, perfectly （完全地）
 
+:::
+
 
 ## 2597. fulfill
 
@@ -3102,6 +3270,8 @@
 
 - accomplish, carry out, come true, implement, meet （履行；实现；满足；使结束（等于fulfil））
 
+:::
+
 
 ## 2598. distort
 
@@ -3118,6 +3288,8 @@
 - contort, misinterpret （扭曲；使失真；曲解）
 
 - become deformed, to morph （扭曲；变形）
+
+:::
 
 
 ## 2599. narrative
@@ -3145,5 +3317,7 @@
 - relation, statement, story, telling, tale （叙述；故事；讲述）
 
 - related, descriptive （叙事的，叙述的；叙事体的）
+
+:::
 
 

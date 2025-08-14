@@ -38,6 +38,8 @@
 
 - ululation （吠声；任何似犬狐叫的声音）
 
+:::
+
 
 ## 701. outlay
 
@@ -64,6 +66,8 @@
 - invested, cost, spend, expend （花费）
 
 - expenditure, fee, charge, cost （经费；支出；[会计]费用）
+
+:::
 
 
 ## 702. documentation
@@ -107,6 +111,8 @@
 :::warning{title=🤔同义词}
 
 - informal, casual （饶舌的；爱讲闲话的；非正式的）
+
+:::
 
 
 ## 704. renal
@@ -159,6 +165,8 @@
 
 - nephritic （[解剖]肾脏的，肾的）
 
+:::
+
 
 ## 705. physiology
 
@@ -187,6 +195,8 @@
 :::warning{title=🤔同义词}
 
 - physiological function, bionomy （[生理]生理学；生理机能）
+
+:::
 
 
 ## 706. protons
@@ -222,6 +232,8 @@
 :::warning{title=🤔同义词}
 
 - recognizable （可辨认的；可认明的；可证明是同一的）
+
+:::
 
 
 ## 708. interval
@@ -273,6 +285,8 @@
 :::warning{title=🤔同义词}
 
 - separation, distance （间隔；间距；幕间休息）
+
+:::
 
 
 ## 709. disaster
@@ -335,6 +349,8 @@
 
 - tragedy, evil, calamity, grief （灾难，灾祸；不幸）
 
+:::
+
 
 ## 710. attendance
 
@@ -367,6 +383,8 @@
 :::warning{title=🤔同义词}
 
 - presence （出席；到场；出席人数）
+
+:::
 
 
 ## 711. saturated
@@ -405,6 +423,8 @@
 
 - satd, penetrating （饱和的；渗透的；深颜色的）
 
+:::
+
 
 ## 712. encounter
 
@@ -434,6 +454,8 @@
 
 - bring up against, run into （遭遇；偶然相遇）
 
+:::
+
 
 ## 713. restrain
 
@@ -456,6 +478,8 @@
 :::warning{title=🤔同义词}
 
 - possess, regulate, contain, manage, bottle （抑制，控制；约束；制止）
+
+:::
 
 
 ## 714. caribou
@@ -481,6 +505,8 @@
 :::warning{title=🤔同义词}
 
 - origin, birth （出处，起源）
+
+:::
 
 
 ## 716. cargo
@@ -540,6 +566,8 @@
 :::warning{title=🤔同义词}
 
 - commodity, freight, merchandise （[贸易]货物，船货）
+
+:::
 
 
 ## 717. effect
@@ -616,6 +644,8 @@
 
 - form, inspire （产生；达到目的）
 
+:::
+
 
 ## 718. gloomy
 
@@ -630,6 +660,8 @@
 :::warning{title=🤔同义词}
 
 - dark, sad, blue, gray, disappointed （黑暗的；沮丧的；阴郁的）
+
+:::
 
 
 ## 719. undesirable
@@ -650,6 +682,8 @@
 
 - persona non grata （不良分子；不受欢迎的人）
 
+:::
+
 
 ## 720. avidly
 
@@ -658,6 +692,8 @@
 :::warning{title=🤔同义词}
 
 - covetously, enthusiastically （贪心地；热心地）
+
+:::
 
 
 ## 721. fjord
@@ -675,6 +711,8 @@
 :::warning{title=🤔同义词}
 
 - forde, flord （[地理]峡湾（等于fiord））
+
+:::
 
 
 ## 722. Catholic
@@ -715,6 +753,8 @@
 
 - earthquake, seismic event, seismos （（美）地震）
 
+:::
+
 
 ## 724. geophysical
 
@@ -752,6 +792,8 @@
 
 - swirls, eddies （[流]旋涡（vortice的复数形式））
 
+:::
+
 
 ## 726. embark
 
@@ -777,6 +819,8 @@
 
 - imbark （使从事；使上船）
 
+:::
+
 
 ## 727. logotype
 
@@ -792,6 +836,8 @@
 
 - brand, label, identifying （连合活字；标识；商标）
 
+:::
+
 
 ## 728. collinear
 
@@ -800,6 +846,8 @@
 :::warning{title=🤔同义词}
 
 - co-linear （[数]共线的；同线的；在同一直线上的）
+
+:::
 
 
 ## 729. nickel
@@ -860,6 +908,8 @@
 
 - Ni, medio （[化学]镍；镍币；五分镍币）
 
+:::
+
 
 ## 730. evolve
 
@@ -885,6 +935,8 @@
 
 - grow, expand, advance （发展，进展；进化；逐步形成）
 
+:::
+
 
 ## 731. clog
 
@@ -904,6 +956,8 @@
 
 - obstacle, let, bar, dam, stop （障碍；木底鞋）
 
+:::
+
 
 ## 732. dubious
 
@@ -922,6 +976,8 @@
 :::warning{title=🤔同义词}
 
 - suspicious, doubtful, questionable （可疑的；暧昧的；无把握的；半信半疑的）
+
+:::
 
 
 ## 733. discharge
@@ -988,6 +1044,8 @@
 
 - firing, dismissal （[环境]排放；卸货；[劳经]解雇）
 
+:::
+
 
 ## 734. rewind
 
@@ -1014,6 +1072,8 @@
 :::warning{title=🤔同义词}
 
 - bepuzzle, confuse （使困惑，使为难；使复杂化）
+
+:::
 
 
 ## 736. format
@@ -1098,6 +1158,8 @@
 
 - mood, emotion, viewpoint, affection, heart （[心理]感情，情绪；情操；观点；多愁善感）
 
+:::
+
 
 ## 738. exemplary
 
@@ -1118,6 +1180,8 @@
 :::warning{title=🤔同义词}
 
 - emulable （典范的；惩戒性的；可仿效的）
+
+:::
 
 
 ## 739. predicate
@@ -1152,6 +1216,8 @@
 
 - adnex （谓语，述语）
 
+:::
+
 
 ## 740. maneuver
 
@@ -1166,6 +1232,8 @@
 - dry run （[军]机动；演习；调遣；用计谋）
 
 - boss, dry run （[军]机动；演习；用计；调遣）
+
+:::
 
 
 ## 741. dye
@@ -1226,6 +1294,8 @@
 
 - tint （染；把…染上颜色）
 
+:::
+
 
 ## 742. cuisine
 
@@ -1254,6 +1324,8 @@
 :::warning{title=🤔同义词}
 
 - cooking （烹饪，烹调法）
+
+:::
 
 
 ## 743. tangent
@@ -1302,6 +1374,8 @@
 
 - contiguous, excursive （[数]切线的，相切的；接触的；离题的）
 
+:::
+
 
 ## 744. vestige
 
@@ -1317,6 +1391,8 @@
 
 - remain, leaving, relic （遗迹；残余；退化的器官）
 
+:::
+
 
 ## 745. reorganization
 
@@ -1331,6 +1407,8 @@
 :::warning{title=🤔同义词}
 
 - restructuring, adaptation （改组；整顿；改编）
+
+:::
 
 
 ## 746. inconsistent
@@ -1352,6 +1430,8 @@
 :::warning{title=🤔同义词}
 
 - nonuniform, discordant （不一致的；前后矛盾的）
+
+:::
 
 
 ## 747. associate
@@ -1408,6 +1488,8 @@
 
 - deputy, linked, vice, joint, auxiliary （副的；联合的）
 
+:::
+
 
 ## 748. snuff
 
@@ -1440,6 +1522,8 @@
 - snus （鼻烟；烛花；灯花）
 
 - smell, stamp out （扑灭；断气；嗅）
+
+:::
 
 
 ## 749. extract
@@ -1503,6 +1587,8 @@
 - abstract, milk, pop （提取；取出；[图情]摘录；榨取）
 
 - juice, succus （汁；[图情]摘录；[化学][药][化工]榨出物；选粹）
+
+:::
 
 
 ## 750. manufacturing
@@ -1577,6 +1663,8 @@
 
 - producing, breeding （[工业]制造；生产（manufacture的ing形式））
 
+:::
+
 
 ## 751. intervention
 
@@ -1612,6 +1700,8 @@
 
 - prevention, violation （介入；调停；妨碍）
 
+:::
+
 
 ## 752. specialize
 
@@ -1628,6 +1718,8 @@
 - specialise in, elaborate on （专门从事；详细说明；特化）
 
 - technicalize, elaborate on （使专门化；使适应特殊情况；详细说明）
+
+:::
 
 
 ## 753. urbanization
@@ -1704,6 +1796,8 @@
 
 - detectophone, invigilator （[电子][环境]监视器；[通信][军]监听器；[自]监控器；班长）
 
+:::
+
 
 ## 755. replicate
 
@@ -1729,6 +1823,8 @@
 
 - reproduction, ectype （复制品；八音阶间隔的反覆音）
 
+:::
+
 
 ## 756. secluded
 
@@ -1746,6 +1842,8 @@
 
 - concealed, reclusive （隐蔽的；隐退的，隐居的）
 
+:::
+
 
 ## 757. diminution
 
@@ -1761,6 +1859,8 @@
 
 - reduction, loss, decrease （减少，降低；缩小）
 
+:::
+
 
 ## 758. cataclysmic
 
@@ -1775,6 +1875,8 @@
 :::warning{title=🤔同义词}
 
 - pluvial （大变动的；洪水的）
+
+:::
 
 
 ## 759. voracious
@@ -1792,6 +1894,8 @@
 :::warning{title=🤔同义词}
 
 - greedy, grasping （贪婪的；贪吃的；狼吞虎咽的）
+
+:::
 
 
 ## 760. industrialization
@@ -1827,6 +1931,8 @@
 :::warning{title=🤔同义词}
 
 - steel, wear （耐久性；坚固；耐用年限）
+
+:::
 
 
 ## 762. progressive
@@ -1873,6 +1979,8 @@
 
 - advanced, ascensive （[数]进步的；先进的）
 
+:::
+
 
 ## 763. circumstance
 
@@ -1904,6 +2012,8 @@
 
 - context, situation, setting, event, occurrence, thing, scene （环境，情况；事件；境遇）
 
+:::
+
 
 ## 764. gregarious
 
@@ -1918,6 +2028,8 @@
 :::warning{title=🤔同义词}
 
 - social （社交的；群居的）
+
+:::
 
 
 ## 765. being
@@ -1973,6 +2085,8 @@
 - presence, existence, entity, essence, personality, principle （存在；生命；本质；品格）
 
 - visible, existent （存在的；现有的）
+
+:::
 
 
 ## 766. residential
@@ -2045,6 +2159,8 @@
 
 - factitive （使役动词）
 
+:::
+
 
 ## 768. luminosity
 
@@ -2059,6 +2175,8 @@
 :::warning{title=🤔同义词}
 
 - flame, magnitude （[天][光]光度；光明；光辉）
+
+:::
 
 
 ## 769. similarity
@@ -2098,6 +2216,8 @@
 :::warning{title=🤔同义词}
 
 - analogy, kinsmanship （类似；[数]相似点）
+
+:::
 
 
 ## 770. surplus
@@ -2151,6 +2271,8 @@
 - residual, spare （[数]剩余；[贸易]顺差；[会计]盈余；[电子][经]过剩）
 
 - remaining, residual, odd （[数][电子]剩余的；[经]过剩的）
+
+:::
 
 
 ## 771. installation
@@ -2211,6 +2333,8 @@
 
 - device, apparatus, unit, gear, appliance （[机]安装，装置；就职）
 
+:::
+
 
 ## 772. dispel
 
@@ -2228,6 +2352,8 @@
 
 - eliminate, avoid （驱散，驱逐；消除（烦恼等））
 
+:::
+
 
 ## 773. pseudonym
 
@@ -2243,6 +2369,8 @@
 
 - assumed name, nom de plume （笔名；[法]假名）
 
+:::
+
 
 ## 774. naturalize
 
@@ -2257,6 +2385,8 @@
 :::warning{title=🤔同义词}
 
 - to transplant, transfer of culture （移植；使入国籍；采纳）
+
+:::
 
 
 ## 775. geographic
@@ -2347,6 +2477,8 @@
 
 - load （把…关在室内；装填（弹药等））
 
+:::
+
 
 ## 777. litigant
 
@@ -2366,6 +2498,8 @@
 
 - contentious （诉讼的）
 
+:::
+
 
 ## 778. infuse
 
@@ -2374,6 +2508,8 @@
 :::warning{title=🤔同义词}
 
 - freight, indoctrinate （灌输；使充满；浸渍）
+
+:::
 
 
 ## 779. factorization
@@ -2399,6 +2535,8 @@
 :::warning{title=🤔同义词}
 
 - phenomenon, wonder, miracle, warning （奇迹，奇事；奇才；奇观；预兆）
+
+:::
 
 
 ## 781. percentage
@@ -2444,6 +2582,8 @@
 :::warning{title=🤔同义词}
 
 - centage （[数]百分比；百分率，百分数）
+
+:::
 
 
 ## 782. magmatic
@@ -2502,6 +2642,8 @@
 
 - essential, inherent, interior, constitutional （[物][生物]本质的，固有的）
 
+:::
+
 
 ## 784. arthritis
 
@@ -2526,6 +2668,8 @@
 :::warning{title=🤔同义词}
 
 - sacroiliitis （[外科]关节炎）
+
+:::
 
 
 ## 785. geometric
@@ -2624,6 +2768,8 @@
 
 - abundance, ocean, plenty, pregnancy, enough （振幅；丰富，充足；广阔）
 
+:::
+
 
 ## 787. submarine
 
@@ -2665,6 +2811,8 @@
 
 - benthonic, undersea （[海洋]海底的；水下的）
 
+:::
+
 
 ## 788. grind
 
@@ -2702,6 +2850,8 @@
 
 - milling （磨；苦工作）
 
+:::
+
 
 ## 789. cripple
 
@@ -2725,6 +2875,8 @@
 
 - disabled, spavined （跛的；[医]残废的）
 
+:::
+
 
 ## 790. circulate
 
@@ -2743,6 +2895,8 @@
 - spread abroad, to disseminate （传播，流传；循环；流通）
 
 - cycle （使循环；使流通；使传播）
+
+:::
 
 
 ## 791. elongate
@@ -2764,6 +2918,8 @@
 - pad out, draw oneselg up （拉长；延长；[力]伸长）
 
 - prolonged, stretched-out （[植][力]伸长的；延长的）
+
+:::
 
 
 ## 792. osmotic
@@ -2796,6 +2952,8 @@
 
 - infiltrative, saturated （渗透性的，渗透的）
 
+:::
+
 
 ## 793. congregation
 
@@ -2810,6 +2968,8 @@
 :::warning{title=🤔同义词}
 
 - assembly, concentration, convergence, meet, gathering （集会；集合；圣会）
+
+:::
 
 
 ## 794. cumbersome
@@ -2827,6 +2987,8 @@
 :::warning{title=🤔同义词}
 
 - problem, hulking （笨重的；累赘的；难处理的）
+
+:::
 
 
 ## 795. outright
@@ -2853,6 +3015,8 @@
 
 - thorough, full, complete, absolute, total （完全的，彻底的；直率的；总共的）
 
+:::
+
 
 ## 796. explore
 
@@ -2871,6 +3035,8 @@
 - detect, probe into （探索；探测；探险）
 
 - probe into, search after （探索；探测；探险）
+
+:::
 
 
 ## 797. facial
@@ -2916,6 +3082,8 @@
 - external, surface （面部的，表面的；脸的，面部用的）
 
 - hairdressing, beauty treatment （美容，美颜；脸部按摩）
+
+:::
 
 
 ## 798. desegregation
@@ -2987,5 +3155,7 @@
 - dong, daut （抚摸；敲击；划尾桨；划掉）
 
 - hit the ball （击球；作尾桨手；敲击键盘）
+
+:::
 
 

@@ -66,6 +66,8 @@
 
 - sidewalk, footpath （人行道）
 
+:::
+
 
 ## 6903. avid
 
@@ -80,6 +82,8 @@
 :::warning{title=🤔同义词}
 
 - eager, hungry, desired, anxious, sick （渴望的，贪婪的；热心的）
+
+:::
 
 
 ## 6904. pity
@@ -114,6 +118,8 @@
 
 - regret, feeling, compassion, mercy, sympathy （怜悯，同情；遗憾）
 
+:::
+
 
 ## 6905. ascribe
 
@@ -129,6 +135,8 @@
 
 - blame, put down to （归因于；归咎于）
 
+:::
+
 
 ## 6906. innumerable
 
@@ -143,6 +151,8 @@
 :::warning{title=🤔同义词}
 
 - thousand, countless, million, infinite （无数的，数不清的）
+
+:::
 
 
 ## 6907. totality
@@ -165,6 +175,8 @@
 
 - sum, amount, gross （[天]全食；全体；总数）
 
+:::
+
 
 ## 6908. emigration
 
@@ -179,6 +191,8 @@
 :::warning{title=🤔同义词}
 
 - migration, transplantation （移民；移民出境；移居外国）
+
+:::
 
 
 ## 6909. peck
@@ -203,6 +217,8 @@
 
 - lots of, sea, hundred, much, thousands of （许多；配克（容量单位，等于2加仑）；啄痕）
 
+:::
+
 
 ## 6910. patriarch
 
@@ -218,6 +234,8 @@
 
 - author, paterfamilias （家长；族长；元老；创始人）
 
+:::
+
 
 ## 6911. grandeur
 
@@ -232,6 +250,8 @@
 :::warning{title=🤔同义词}
 
 - gravity, magnificence （壮丽；庄严；宏伟）
+
+:::
 
 
 ## 6912. everlasting
@@ -264,6 +284,8 @@
 
 - eternal, permanent, lasting, timeless （永恒的；接连不断的）
 
+:::
+
 
 ## 6913. detritus
 
@@ -282,6 +304,8 @@
 :::warning{title=🤔同义词}
 
 - rubble, crushed stone （碎石，[地质]岩屑）
+
+:::
 
 
 ## 6914. hover
@@ -307,6 +331,8 @@
 - vibration, spinning around （徘徊；盘旋；犹豫）
 
 - brood, hatch （孵；徘徊在…近旁）
+
+:::
 
 
 ## 6915. completion
@@ -347,6 +373,8 @@
 
 - achievement, realization, implementation, execution, finish （完成，结束；实现）
 
+:::
+
 
 ## 6916. abound
 
@@ -369,6 +397,8 @@
 :::warning{title=🤔同义词}
 
 - teem with, be imbued with （富于；充满）
+
+:::
 
 
 ## 6917. lipid
@@ -401,6 +431,8 @@
 
 - axunge, grease （[生化]脂质；油脂）
 
+:::
+
 
 ## 6918. smoky
 
@@ -415,6 +447,8 @@
 :::warning{title=🤔同义词}
 
 - fumy, reeky （冒烟的；烟熏味的；熏着的；呛人的；烟状的）
+
+:::
 
 
 ## 6919. confer
@@ -441,6 +475,8 @@
 
 - arrange, treat （协商）
 
+:::
+
 
 ## 6920. primeval
 
@@ -455,6 +491,8 @@
 :::warning{title=🤔同义词}
 
 - original, earlier, young （原始的；初期的（等于primaeval））
+
+:::
 
 
 ## 6921. viral
@@ -507,6 +545,8 @@
 
 - reduction, loss, decrease （[数]减法；减少；差集）
 
+:::
+
 
 ## 6923. concentric
 
@@ -530,6 +570,8 @@
 
 - co-axial, in-line （[电]同轴的；同中心的）
 
+:::
+
 
 ## 6924. iconography
 
@@ -538,6 +580,8 @@
 :::warning{title=🤔同义词}
 
 - diagram, illustration （肖像研究；肖像学；图解）
+
+:::
 
 
 ## 6925. mite
@@ -553,6 +597,8 @@
 :::warning{title=🤔同义词}
 
 - particle, bug （极小量；小虫；小孩儿；微小的东西）
+
+:::
 
 
 ## 6926. innate
@@ -577,6 +623,8 @@
 
 - inherent, native, intrinsic, congenital （[医]先天的；固有的；与生俱来的）
 
+:::
+
 
 ## 6927. indigenous
 
@@ -599,6 +647,8 @@
 :::warning{title=🤔同义词}
 
 - native, inherent, mainland, intrinsic （本土的；土著的；国产的；固有的）
+
+:::
 
 
 ## 6928. fog
@@ -649,6 +699,8 @@
 
 - mist （被雾笼罩；变模糊）
 
+:::
+
 
 ## 6929. remnant
 
@@ -672,6 +724,8 @@
 
 - remaining, surplus, residual, odd （剩余的）
 
+:::
+
 
 ## 6930. graceful
 
@@ -694,6 +748,8 @@
 :::warning{title=🤔同义词}
 
 - elegant, pretty, exquisite （优雅的；优美的）
+
+:::
 
 
 ## 6931. toehold
@@ -748,6 +804,8 @@
 
 - know about, learn about, get to know, make sth of （了解）
 
+:::
+
 
 ## 6933. eon
 
@@ -756,6 +814,8 @@
 :::warning{title=🤔同义词}
 
 - eternity, aeon （永世；无数的年代；极长时期）
+
+:::
 
 
 ## 6934. planetary
@@ -796,6 +856,8 @@
 
 - spittoon, goboon （（美）痰盂）
 
+:::
+
 
 ## 6936. activist
 
@@ -812,6 +874,8 @@
 :::warning{title=🤔同义词}
 
 - rustler （积极分子；激进主义分子）
+
+:::
 
 
 ## 6937. hue
@@ -835,6 +899,8 @@
 :::warning{title=🤔同义词}
 
 - cry, wow （[光]色彩；色度；叫声）
+
+:::
 
 
 ## 6938. identification
@@ -893,6 +959,8 @@
 
 - authentication, recognition （鉴定，[计]识别；认同；身份证明）
 
+:::
+
 
 ## 6939. weakly
 
@@ -909,6 +977,8 @@
 - infirmly, impotently （虚弱地；无力地；软弱地；有病地）
 
 - soft, marantic （虚弱的；软弱的）
+
+:::
 
 
 ## 6940. doorknob
@@ -929,6 +999,8 @@
 
 - door handle （门把手）
 
+:::
+
 
 ## 6941. incessant
 
@@ -945,6 +1017,8 @@
 :::warning{title=🤔同义词}
 
 - continuing, straight, endless, ceaseless, running （不断的；不停的；连续的）
+
+:::
 
 
 ## 6942. fancy
@@ -993,6 +1067,8 @@
 
 - have vision of, to imagine （幻想；想象）
 
+:::
+
 
 ## 6943. widow
 
@@ -1017,6 +1093,8 @@
 :::warning{title=🤔同义词}
 
 - relict （寡妇；孀妇）
+
+:::
 
 
 ## 6944. preliminary
@@ -1081,6 +1159,8 @@
 
 - opening, rudimentary （初步的；开始的；预备的）
 
+:::
+
 
 ## 6945. tieback
 
@@ -1104,6 +1184,8 @@
 
 - loving, devoted, faithful （忠诚的，忠心的；忠贞的）
 
+:::
+
 
 ## 6947. afloat
 
@@ -1112,6 +1194,8 @@
 :::warning{title=🤔同义词}
 
 - waterlogged （在海上的；飘浮的；浸满水的；在传播的）
+
+:::
 
 
 ## 6948. mistrust
@@ -1131,6 +1215,8 @@
 - wonder, question （不信任；怀疑）
 
 - doubt, challenge （不信任；怀疑）
+
+:::
 
 
 ## 6949. interviewer
@@ -1162,6 +1248,8 @@
 :::warning{title=🤔同义词}
 
 - south wind, notos （南风）
+
+:::
 
 
 ## 6952. covering
@@ -1208,6 +1296,8 @@
 
 - clothing, mulching （覆盖；穿（cover的ing形式）；代替）
 
+:::
+
 
 ## 6953. abnormal
 
@@ -1249,6 +1339,8 @@
 
 - unnatural, eccentric （反常的，不规则的；变态的）
 
+:::
+
 
 ## 6954. shopper
 
@@ -1270,6 +1362,8 @@
 
 - customer, client, consumer, guest （购物者；顾客）
 
+:::
+
 
 ## 6955. correspondingly
 
@@ -1284,6 +1378,8 @@
 :::warning{title=🤔同义词}
 
 - relatively, accordingly （相应地，相对地）
+
+:::
 
 
 ## 6956. varicolored
@@ -1301,6 +1397,8 @@
 :::warning{title=🤔同义词}
 
 - shot, versicolor （五颜六色的；杂色的）
+
+:::
 
 
 ## 6957. flap
@@ -1338,6 +1436,8 @@
 - hang （拍动；鼓翼而飞；（帽边等）垂下）
 
 - wash, throw into （拍打；扔；拉下帽边；飘动）
+
+:::
 
 
 ## 6958. psychoanalyst
@@ -1382,6 +1482,8 @@
 
 - memoir （自传；自传文学）
 
+:::
+
 
 ## 6962. bedpan
 
@@ -1415,6 +1517,8 @@
 
 - tear away （飞跑，疾驰；加条纹于）
 
+:::
+
 
 ## 6964. duet
 
@@ -1429,6 +1533,8 @@
 :::warning{title=🤔同义词}
 
 - duo （二重奏）
+
+:::
 
 
 ## 6965. daughter
@@ -1456,6 +1562,8 @@
 :::warning{title=🤔同义词}
 
 - girl, dau. （女儿；[遗][农学]子代）
+
+:::
 
 
 ## 6966. sentimentalized
@@ -1496,6 +1604,8 @@
 
 - massive, extensive, substantial, macro, much （大量的；多卷的，长篇的；著书多的）
 
+:::
+
 
 ## 6969. glare
 
@@ -1517,6 +1627,8 @@
 
 - dazzle （刺眼；[光]耀眼的光；受公众注目）
 
+:::
+
 
 ## 6970. stint
 
@@ -1535,6 +1647,8 @@
 - block, qualify （节省；限制）
 
 - save, tuck in （紧缩，节省）
+
+:::
 
 
 ## 6971. glory
@@ -1573,6 +1687,8 @@
 
 - full of oneself, pride （自豪，骄傲；狂喜）
 
+:::
+
 
 ## 6972. wand
 
@@ -1587,6 +1703,8 @@
 :::warning{title=🤔同义词}
 
 - bar, staff （魔杖；棒；权杖；[植]嫩枝；识别笔（等于wand reader））
+
+:::
 
 
 ## 6973. cud
@@ -1614,6 +1732,8 @@
 :::warning{title=🤔同义词}
 
 - checking, control, restraint, suppression, curb （[心理][电子][通信]抑制；压抑；禁止）
+
+:::
 
 
 ## 6975. innocent
@@ -1644,6 +1764,8 @@
 
 - simple, turkey, put （天真的人；笨蛋）
 
+:::
+
 
 ## 6976. chomp
 
@@ -1652,6 +1774,8 @@
 :::warning{title=🤔同义词}
 
 - gear cutting （格格地咬牙，咬响牙齿；切齿）
+
+:::
 
 
 ## 6977. civic
@@ -1682,6 +1806,8 @@
 
 - municipal （市的；公民的，市民的）
 
+:::
+
 
 ## 6978. stout
 
@@ -1698,6 +1824,8 @@
 - acute, solid, firm, tough, game （结实的；矮胖的；勇敢的；激烈的）
 
 - punchinello （矮胖子；[食品]烈性啤酒）
+
+:::
 
 
 ## 6979. inconsistency
@@ -1720,6 +1848,8 @@
 
 - variance, disagreement, disparity, volatility （不一致；易变）
 
+:::
+
 
 ## 6980. perceivable
 
@@ -1737,6 +1867,8 @@
 
 - appreciable, palpable （可知觉的，可感知的）
 
+:::
+
 
 ## 6981. posit
 
@@ -1747,6 +1879,8 @@
 - establish, put, station, bed, plant （安置；假定）
 
 - conception, hypothesis, if, assumption （假设；设想）
+
+:::
 
 
 ## 6982. incompletely
@@ -1765,6 +1899,8 @@
 
 - lamely （不完全地）
 
+:::
+
 
 ## 6983. subjugate
 
@@ -1779,6 +1915,8 @@
 :::warning{title=🤔同义词}
 
 - submit, master （征服；使服从；克制）
+
+:::
 
 
 ## 6984. lamina
@@ -1798,6 +1936,8 @@
 :::warning{title=🤔同义词}
 
 - blade, sheet, vane （叶片；薄层；薄板）
+
+:::
 
 
 ## 6985. uniformitarianism
@@ -1844,6 +1984,8 @@
 
 - direction, aiming, lead, steering （指导，引导；领导）
 
+:::
+
 
 ## 6987. disappoint
 
@@ -1860,6 +2002,8 @@
 :::warning{title=🤔同义词}
 
 - fail, let down （使失望）
+
+:::
 
 
 ## 6988. wit
@@ -1884,6 +2028,8 @@
 
 - wisdom, intelligence, brain, mind, mentality （智慧；才智；智力）
 
+:::
+
 
 ## 6989. contributory
 
@@ -1900,6 +2046,8 @@
 - conducive （捐助的；贡献的；有助于…的）
 
 - benefactor, doner （捐助者；贡献人）
+
+:::
 
 
 ## 6990. beloved
@@ -1919,6 +2067,8 @@
 - blue-eyed （心爱的；挚爱的）
 
 - darling, the light of one's eyes （心爱的人；亲爱的教友）
+
+:::
 
 
 ## 6991. ration
@@ -1942,6 +2092,8 @@
 - admeasure, allowance （配给；[经管]定量供应）
 
 - quantification, definite quantity （定量；口粮；配给量）
+
+:::
 
 
 ## 6992. sunshine
@@ -1978,6 +2130,8 @@
 
 - brightness, Suny （阳光；愉快；晴天；快活）
 
+:::
+
 
 ## 6993. exponent
 
@@ -2001,6 +2155,8 @@
 
 - illustrative, explanative （说明的）
 
+:::
+
 
 ## 6994. intellectually
 
@@ -2009,6 +2165,8 @@
 :::warning{title=🤔同义词}
 
 - mentally, sanely （智力上；理智地；知性上）
+
+:::
 
 
 ## 6995. concoct
@@ -2024,6 +2182,8 @@
 :::warning{title=🤔同义词}
 
 - manufacture, trump up （捏造；混合而制；调合；图谋）
+
+:::
 
 
 ## 6996. darling
@@ -2045,6 +2205,8 @@
 :::warning{title=🤔同义词}
 
 - beloved, the light of one's eyes （心爱的人；亲爱的）
+
+:::
 
 
 ## 6997. leaning
@@ -2071,6 +2233,8 @@
 
 - tendency, liability, trend, interest, slope （倾向，爱好；倾斜）
 
+:::
+
 
 ## 6998. seclusion
 
@@ -2085,6 +2249,8 @@
 :::warning{title=🤔同义词}
 
 - insulation, isolation, segregation （隔离；隐退；隐蔽的地方）
+
+:::
 
 
 ## 6999. vulnerability
@@ -2110,5 +2276,7 @@
 :::warning{title=🤔同义词}
 
 - weakness, failing （易损性；弱点）
+
+:::
 
 

@@ -52,6 +52,8 @@
 
 - democratic, fashionable, going, welcome, pop （流行的，通俗的；受欢迎的；大众的；普及的）
 
+:::
+
 
 ## 101. consider
 
@@ -80,6 +82,8 @@
 - expect, find, guess, feel, view （考虑；认为；考虑到；细想）
 
 - allow, think about, pore （考虑；认为；细想）
+
+:::
 
 
 ## 102. necessary
@@ -130,6 +134,8 @@
 
 - requirement, want （必需品）
 
+:::
+
 
 ## 103. researcher
 
@@ -152,6 +158,8 @@
 :::warning{title=🤔同义词}
 
 - boffin （研究员）
+
+:::
 
 
 ## 104. upper
@@ -211,6 +219,8 @@
 :::warning{title=🤔同义词}
 
 - higher, over （[流][地质]上面的，上部的；较高的）
+
+:::
 
 
 ## 105. wide
@@ -275,6 +285,8 @@
 
 - fully, extensively, well, adequately, substantially （广泛地；广阔地；充分地）
 
+:::
+
 
 ## 106. forest
 
@@ -337,6 +349,8 @@
 :::warning{title=🤔同义词}
 
 - woodland （森林）
+
+:::
 
 
 ## 107. current
@@ -403,6 +417,8 @@
 
 - tendency, direction, tide, trend, set （（水，气，电）[流]流；趋势；涌流）
 
+:::
+
 
 ## 108. learn
 
@@ -454,6 +470,8 @@
 
 - to study （学习；获悉）
 
+:::
+
 
 ## 109. select
 
@@ -484,6 +502,8 @@
 - wonderful, excellent, famous, chosen, choice （精选的；挑选出来的；极好的）
 
 - choose from, pick on （挑选）
+
+:::
 
 
 ## 110. improve
@@ -525,6 +545,8 @@
 - further, build up （改善，增进；提高…的价值）
 
 - gain, accelerate, grow in （增加；变得更好）
+
+:::
 
 
 ## 111. western
@@ -591,6 +613,8 @@
 
 - occidental （西方人；西部片，西部小说）
 
+:::
+
 
 ## 112. lake
 
@@ -649,6 +673,8 @@
 :::warning{title=🤔同义词}
 
 - lacus, loch （[地理]湖；深红色颜料；胭脂红）
+
+:::
 
 
 ## 113. value
@@ -713,6 +739,8 @@
 
 - score, rate, prize （评价；重视；估价）
 
+:::
+
 
 ## 114. factory
 
@@ -773,6 +801,8 @@
 :::warning{title=🤔同义词}
 
 - plant, mill, work, manufactory （[工经]工厂；制造厂；代理店）
+
+:::
 
 
 ## 115. school
@@ -836,6 +866,8 @@
 - academy, college （学校；学院；学派；鱼群）
 
 - breed, to educate （教育）
+
+:::
 
 
 ## 116. warm
@@ -906,6 +938,8 @@
 
 - heating up, calefaction （取暖；加热）
 
+:::
+
 
 ## 117. scientific
 
@@ -970,6 +1004,8 @@
 :::warning{title=🤔同义词}
 
 - systematic （科学的，系统的）
+
+:::
 
 
 ## 118. raise
@@ -1041,6 +1077,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - height, rise, altitude, elevation, upgrade （高地；上升；加薪）
 
+:::
+
 
 ## 119. political
 
@@ -1102,6 +1140,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - governmental, clannish （政治的；党派的）
 
+:::
+
 
 ## 120. maintain
 
@@ -1139,6 +1179,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - pursue, submit, sustain, advocate, service （维持；继续；维修；主张；供养）
 
+:::
+
 
 ## 121. ant
 
@@ -1159,6 +1201,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - emmet, pismire （蚂蚁）
+
+:::
 
 
 ## 122. affect
@@ -1184,6 +1228,8 @@ The chairman's speech raised the temperature of the meeting.
 - tend, prefer （倾向；喜欢）
 
 - emotion, will, sensibility （情感；引起感情的因素）
+
+:::
 
 
 ## 123. fit
@@ -1250,6 +1296,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - outbreak, episodes （合身；发作；痉挛）
 
+:::
+
 
 ## 124. periodic
 
@@ -1304,6 +1352,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - regular, stated, time, cyclical （周期的；定期的）
+
+:::
 
 
 ## 125. metal
@@ -1372,6 +1422,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - alloy （[材]金属；合金）
 
+:::
+
 
 ## 126. importance
 
@@ -1406,6 +1458,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - moment, price, value, worth, magnitude （价值；重要；重大；傲慢）
+
+:::
 
 
 ## 127. native
@@ -1466,6 +1520,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - indigen, local product （本地人；土产；当地居民）
 
+:::
+
 
 ## 128. identify
 
@@ -1492,6 +1548,8 @@ The chairman's speech raised the temperature of the meeting.
 - confirm, recognize, ascertain （确定；[计]识别；使参与；把…看成一样）
 
 - cotton, square （确定；认同；一致）
+
+:::
 
 
 ## 129. valley
@@ -1541,6 +1599,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - hollow, hill and dale （[地理]山谷；流域；溪谷）
+
+:::
 
 
 ## 130. specific
@@ -1604,6 +1664,8 @@ The chairman's speech raised the temperature of the meeting.
 - precise, strict, decided, detailed, particular （特殊的，特定的；明确的；详细的；[药]具有特效的）
 
 - quality, tang, identity, detail, character （特性；细节；特效药）
+
+:::
 
 
 ## 131. short
@@ -1688,6 +1750,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - deficiency, need, drought, want, default （短；缺乏；短路；短裤）
 
+:::
+
 
 ## 132. foot
 
@@ -1761,6 +1825,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - Make Payment, disburse （支付；给……换底）
 
+:::
+
 
 ## 133. style
 
@@ -1821,6 +1887,8 @@ The chairman's speech raised the temperature of the meeting.
 - mode, description, fashion, type, colour （风格；时尚；类型；字体）
 
 - design, engineer, project, frame, plan （设计；称呼；使合潮流）
+
+:::
 
 
 ## 134. hard
@@ -1889,6 +1957,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - closely, heavily, strong （努力地；困难地；辛苦地；接近地；猛烈地；牢固地）
 
+:::
+
 
 ## 135. origin
 
@@ -1935,6 +2005,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - birth, extraction, dawn （起源；[数]原点；出身；开端）
+
+:::
 
 
 ## 136. grain
@@ -1996,6 +2068,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - particle, texture, corn, commissariat （[粮食]粮食；[摄]颗粒；[作物]谷物；[木][纺][岩]纹理）
+
+:::
 
 
 ## 137. national
@@ -2062,6 +2136,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - subject （国民）
 
+:::
+
 
 ## 138. near
 
@@ -2106,6 +2182,8 @@ The chairman's speech raised the temperature of the meeting.
 - rising, forbye （近；接近）
 
 - next, anigh （靠近；近似于）
+
+:::
 
 
 ## 139. person
@@ -2174,6 +2252,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - body, feature, creature, human being, garment （[人类]人；身体；容貌，外表；人称）
 
+:::
+
 
 ## 140. primary
 
@@ -2241,6 +2321,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - original color, fundamental colour （原色；最主要者）
 
+:::
+
 
 ## 141. mammal
 
@@ -2265,6 +2347,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - suckler （[脊椎]哺乳动物）
+
+:::
 
 
 ## 142. formation
@@ -2324,6 +2408,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - constitution, fabric, becoming, structure, build （形成；[水文]构造；编队）
+
+:::
 
 
 ## 143. deer
@@ -2424,6 +2510,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - sophisticated, involved, synthetic, detailed, intricate （复杂的；合成的）
 
+:::
+
 
 ## 145. past
 
@@ -2496,6 +2584,8 @@ The chairman's speech raised the temperature of the meeting.
 - beyond, over, behind （越过；晚于）
 
 - by （过；经过）
+
+:::
 
 
 ## 146. say
@@ -2576,6 +2666,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - make a gesture, to express （讲；表示；念；假定；背诵）
 
+:::
+
 
 ## 147. flow
 
@@ -2638,6 +2730,8 @@ The chairman's speech raised the temperature of the meeting.
 - flood, drown out （淹没，溢过）
 
 - stream, flux, fresh, flood, quantity of （[流]流动；流量；涨潮，泛滥）
+
+:::
 
 
 ## 148. break
@@ -2708,6 +2802,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - smash in, cut off （打破，弄破；中断；弄坏；削弱）
 
+:::
+
 
 ## 149. low
 
@@ -2770,6 +2866,8 @@ The chairman's speech raised the temperature of the meeting.
 - sotto voce, shamefacedly （低声地；谦卑地，低下地）
 
 - keen price （低；低价；低点；牛叫声）
+
+:::
 
 
 ## 150. seed
@@ -2836,6 +2934,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - sow （播种；（植物）结实）
 
+:::
+
 
 ## 151. perhaps
 
@@ -2858,6 +2958,8 @@ The chairman's speech raised the temperature of the meeting.
 - maybe, possibly, like （也许；可能）
 
 - assumption, presupposition （假定；猜想；未定之事）
+
+:::
 
 
 ## 152. steam
@@ -2919,6 +3021,8 @@ The chairman's speech raised the temperature of the meeting.
 - shed （蒸，散发；用蒸汽处理）
 
 - energy, vigor, vapor （蒸汽；精力）
+
+:::
 
 
 ## 153. picture
@@ -2987,6 +3091,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - draw, imagine, brush, think of （画；想像；描写）
 
+:::
+
 
 ## 154. east
 
@@ -3050,6 +3156,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - oriental （东方的；向东的；从东方来的）
 
+:::
+
 
 ## 155. agriculture
 
@@ -3086,6 +3194,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - farming, extractive industry （[农]农业；农艺，[农学]农学）
+
+:::
 
 
 ## 156. particle
@@ -3146,6 +3256,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - grain, granule （颗粒；[物]质点；极小量；小品词）
 
+:::
+
 
 ## 157. aspect
 
@@ -3172,6 +3284,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - direction, orientation, situation, side, respect （方面；[建]方向；形势；外貌）
+
+:::
 
 
 ## 158. industrial
@@ -3288,6 +3402,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - wild, feral （扫描场；田赛的；野生的）
 
+:::
+
 
 ## 160. experiment
 
@@ -3351,6 +3467,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - stroke, proof, try, go （[试验]实验，试验；尝试）
 
+:::
+
 
 ## 161. itself
 
@@ -3398,6 +3516,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - deal with, identify （涉及；认同；符合；与…有某种联系）
 
+:::
+
 
 ## 163. yet
 
@@ -3428,6 +3548,8 @@ The chairman's speech raised the temperature of the meeting.
 - already, too, even （还；但是；已经）
 
 - but, granted, whereas, and, while （但是；然而）
+
+:::
 
 
 ## 164. instrument
@@ -3487,6 +3609,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - facilities, vehicle, engine, tool, implement （[仪]仪器；[机]工具；乐器；手段；器械）
+
+:::
 
 
 ## 165. speed
@@ -3555,6 +3679,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - make a go of （加快…的速度；使成功，使繁荣）
 
+:::
+
 
 ## 166. thousand
 
@@ -3593,6 +3719,8 @@ The chairman's speech raised the temperature of the meeting.
 - hundreds of, lots and lots （[数]一千；一千个；许许多多）
 
 - million, countless, infinite （成千的；无数的）
+
+:::
 
 
 ## 167. print
@@ -3659,6 +3787,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - bring out, get out （[印刷]印刷；出版；用印刷体写）
 
+:::
+
 
 ## 168. therefore
 
@@ -3675,6 +3805,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - hence, accordingly, consequently, thus, as a result of （因此；所以）
+
+:::
 
 
 ## 169. tradition
@@ -3704,6 +3836,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - convention, usage, heritage, tale, prescription （惯例，传统；传说）
+
+:::
 
 
 ## 170. goods
@@ -3768,6 +3902,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - merchandise, wares （商品；动产；合意的人；真本领）
 
+:::
+
 
 ## 171. represent
 
@@ -3793,6 +3929,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - to stand for, stand for sth （代表；提出异议）
 
+:::
+
 
 ## 172. iceberg
 
@@ -3809,6 +3947,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - Berg, floeberg （[地理]冰山；显露部分）
+
+:::
 
 
 ## 173. our
@@ -3891,6 +4031,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - guide, manipulate （操纵；给…配置人员；使增强勇气；在…就位）
 
+:::
+
 
 ## 175. store
 
@@ -3954,6 +4096,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - reposit, put away （贮藏，[贸易]储存）
 
+:::
+
 
 ## 176. depend
 
@@ -3978,6 +4122,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - hope, tie to （依赖，依靠；取决于；相信，信赖）
+
+:::
 
 
 ## 177. heavy
@@ -4039,6 +4185,8 @@ The chairman's speech raised the temperature of the meeting.
 - huge, tremendous, enormous, massive, macro （沉重的；繁重的，巨大的；阴沉的）
 
 - largely, freely, big, importantly, massively （大量地；笨重地）
+
+:::
 
 
 ## 178. general
@@ -4102,6 +4250,8 @@ The chairman's speech raised the temperature of the meeting.
 - ordinary, integrated, synthetic, comprehensive, average （一般的，普通的；综合的；大体的）
 
 - strategos, aga （一般；将军，上将；常规）
+
+:::
 
 
 ## 179. story
@@ -4170,6 +4320,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - lie （说谎）
 
+:::
+
 
 ## 180. technology
 
@@ -4234,6 +4386,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - science, mechanics, skill （技术；工艺；[语]术语）
+
+:::
 
 
 ## 181. rain
@@ -4300,6 +4454,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - Make it Rain （下雨；降雨）
 
+:::
+
 
 ## 182. contrast
 
@@ -4359,6 +4515,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - parallel, distinction, differential （对比；差别；对照物）
 
+:::
+
 
 ## 183. predator
 
@@ -4373,6 +4531,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - carnivore, reiver （[动]捕食者；食肉动物；掠夺者）
+
+:::
 
 
 ## 184. against
@@ -4406,6 +4566,8 @@ The chairman's speech raised the temperature of the meeting.
 - in opposition to, in contravention of （反对，违反；靠；倚；防备）
 
 - adverse, contrary, opposite, disadvantageous （不利的；对立的）
+
+:::
 
 
 ## 185. survive
@@ -4488,6 +4650,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - biotic, organismal （[生物]生物的；生物学的）
 
+:::
+
 
 ## 187. nature
 
@@ -4551,6 +4715,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - property, category, variety, manner, kind （自然；性质；本性；种类）
 
+:::
+
 
 ## 188. expression
 
@@ -4609,6 +4775,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - utterance, representative of （[数]表达，表示；表情；[遗]表现力；措辞）
+
+:::
 
 
 ## 189. solar
@@ -4671,6 +4839,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - sunroom, sun porch （日光浴室）
 
+:::
+
 
 ## 190. teacher
 
@@ -4728,6 +4898,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - professor, master （教师；导师）
 
+:::
+
 
 ## 191. off
 
@@ -4778,6 +4950,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - removed, available, leisure （远离的；空闲的）
+
+:::
 
 
 ## 192. town
@@ -4840,6 +5014,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - ville, burgh （[建]城镇，市镇；市内商业区）
 
+:::
+
 
 ## 193. architecture
 
@@ -4898,6 +5074,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - architectural style （[建]建筑学；建筑风格；建筑式样）
+
+:::
 
 
 ## 194. train
@@ -4962,6 +5140,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - aim for, take aim at （培养；训练；瞄准）
 
+:::
+
 
 ## 195. contribute
 
@@ -4978,6 +5158,8 @@ The chairman's speech raised the temperature of the meeting.
 - make contribution, offer up （贡献，出力；[图情]投稿；[经]捐献）
 
 - make contribution, offer up （贡献，出力；[图情]投稿；[经]捐献）
+
+:::
 
 
 ## 196. least
@@ -5035,6 +5217,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - lowest, minimum, smallest （最小的；最少的（little的最高级））
+
+:::
 
 
 ## 197. pass
@@ -5105,6 +5289,8 @@ The chairman's speech raised the temperature of the meeting.
 
 - clear, track, hand, transfer （通过；经过；传递）
 
+:::
+
 
 ## 198. always
 
@@ -5141,6 +5327,8 @@ The chairman's speech raised the temperature of the meeting.
 :::warning{title=🤔同义词}
 
 - forever and ever, immer （永远，一直；总是；常常）
+
+:::
 
 
 ## 199. normal
@@ -5206,5 +5394,7 @@ The chairman's speech raised the temperature of the meeting.
 - standard, arm's-length （[数]正常的；正规的，标准的）
 
 - criterion, standard, level, prototype （正常；标准；常态）
+
+:::
 
 

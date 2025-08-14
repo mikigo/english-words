@@ -32,6 +32,8 @@
 
 - twelve （[计量]十二个，一打）
 
+:::
+
 
 ## 4201. tremendous
 
@@ -54,6 +56,8 @@
 :::warning{title=🤔同义词}
 
 - huge, enormous, massive, macro, vast （极大的，巨大的；惊人的）
+
+:::
 
 
 ## 4202. condense
@@ -78,6 +82,8 @@
 
 - dewater, inspissate （使浓缩；使压缩）
 
+:::
+
 
 ## 4203. substantiate
 
@@ -92,6 +98,8 @@
 :::warning{title=🤔同义词}
 
 - favor, make sure, validate, sustain （证实；使实体化）
+
+:::
 
 
 ## 4204. divert
@@ -117,6 +125,8 @@
 - shift, distract from （转移；使…欢娱；使…转向）
 
 - transfer, metastasize （转移）
+
+:::
 
 
 ## 4205. hygiene
@@ -157,6 +167,8 @@
 
 - health （卫生；卫生学；[医]保健法）
 
+:::
+
 
 ## 4206. sage
 
@@ -176,6 +188,8 @@
 
 - wise, calculating, advisable, sensible （明智的；贤明的；审慎的）
 
+:::
+
 
 ## 4207. tycoon
 
@@ -190,6 +204,8 @@
 :::warning{title=🤔同义词}
 
 - magnate, baron （企业界大亨，巨头；巨富）
+
+:::
 
 
 ## 4208. conspicuous
@@ -219,6 +235,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, prominent, marked, noted, outstanding （显著的；显而易见的）
+
+:::
 
 
 ## 4209. justice
@@ -279,6 +297,8 @@
 
 - judge, right, judicature （司法，法律制裁；正义；法官，[法]审判员）
 
+:::
+
 
 ## 4210. verse
 
@@ -310,6 +330,8 @@
 
 - poetry, poem （诗，诗篇；韵文；诗节）
 
+:::
+
 
 ## 4211. furious
 
@@ -324,6 +346,8 @@
 :::warning{title=🤔同义词}
 
 - acute, stinging （激烈的；狂怒的；热烈兴奋的；喧闹的）
+
+:::
 
 
 ## 4212. individual
@@ -390,6 +414,8 @@
 
 - unity, private person （[经]个人，[生物]个体）
 
+:::
+
 
 ## 4213. salmon
 
@@ -421,6 +447,8 @@
 
 - trout, red fish （鲑鱼；[鱼]大马哈鱼；鲑肉色）
 
+:::
+
 
 ## 4214. bouquet
 
@@ -436,6 +464,8 @@
 
 - nosegay, posy （[细胞][植]花束；酒香）
 
+:::
+
 
 ## 4215. instinctual
 
@@ -450,6 +480,8 @@
 :::warning{title=🤔同义词}
 
 - involantary, libidinal （[生物]本能的）
+
+:::
 
 
 ## 4216. constrain
@@ -467,6 +499,8 @@
 :::warning{title=🤔同义词}
 
 - chain, bound, force, provoke, enforce （驱使；强迫；束缚）
+
+:::
 
 
 ## 4217. empress
@@ -489,6 +523,8 @@
 
 - queen, kaiserin （皇后；女皇）
 
+:::
+
 
 ## 4218. informant
 
@@ -503,6 +539,8 @@
 :::warning{title=🤔同义词}
 
 - tattletale, beefer （被调查者；告密者；提供消息者）
+
+:::
 
 
 ## 4219. tendon
@@ -530,6 +568,8 @@
 :::warning{title=🤔同义词}
 
 - chorda （[解剖]腱）
+
+:::
 
 
 ## 4220. interim
@@ -574,6 +614,8 @@
 
 - transition period （过渡时期，中间时期；暂定）
 
+:::
+
 
 ## 4221. testimony
 
@@ -599,6 +641,8 @@
 
 - proof, witness （[法]证词，证言；证据）
 
+:::
+
 
 ## 4222. enforce
 
@@ -619,6 +663,8 @@
 :::warning{title=🤔同义词}
 
 - perform, actualize （实施，执行；强迫，强制）
+
+:::
 
 
 ## 4223. glitter
@@ -641,6 +687,8 @@
 
 - stroboflash, coruscation （[光]闪光；灿烂）
 
+:::
+
 
 ## 4224. destined
 
@@ -661,6 +709,8 @@
 :::warning{title=🤔同义词}
 
 - doomed, predestined （注定的；命定的；去往…的）
+
+:::
 
 
 ## 4225. fragile
@@ -687,6 +737,8 @@
 
 - delicate, crumbly （脆的；易碎的）
 
+:::
+
 
 ## 4226. painstaking
 
@@ -705,6 +757,8 @@
 - careful, tough, rough, diligent （艰苦的；勤勉的；小心的）
 
 - industry, diligence （辛苦；勤勉）
+
+:::
 
 
 ## 4227. sociology
@@ -741,6 +795,8 @@
 
 - demotics, synecology （社会学；群体生态学）
 
+:::
+
 
 ## 4228. stout
 
@@ -758,6 +814,8 @@
 
 - punchinello （矮胖子；[食品]烈性啤酒）
 
+:::
+
 
 ## 4229. gigantic
 
@@ -772,6 +830,8 @@
 :::warning{title=🤔同义词}
 
 - huge, enormous, tremendous, massive, macro （巨大的，庞大的）
+
+:::
 
 
 ## 4230. distinct
@@ -793,6 +853,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, visible, unique, evident, individual （明显的；独特的；清楚的；有区别的）
+
+:::
 
 
 ## 4231. forage
@@ -825,6 +887,8 @@
 
 - search, hunt for （搜寻粮草；搜寻）
 
+:::
+
 
 ## 4232. nomadic
 
@@ -839,6 +903,8 @@
 :::warning{title=🤔同义词}
 
 - ragamuffinly, migratory （游牧的；流浪的；游动的）
+
+:::
 
 
 ## 4233. geology
@@ -887,6 +953,8 @@
 
 - geologic map, geognosy （[地质]地质学；地质情况）
 
+:::
+
 
 ## 4234. hedge
 
@@ -916,6 +984,8 @@
 
 - bar, obstacle, dam, let, stop （[建]树篱；障碍）
 
+:::
+
 
 ## 4235. dragonfly
 
@@ -934,6 +1004,8 @@
 :::warning{title=🤔同义词}
 
 - mosquito hawk, Tombow, Shafrir （[昆]蜻蜓）
+
+:::
 
 
 ## 4236. aware
@@ -962,6 +1034,8 @@
 
 - conscious, sensible （意识到的；知道的；有…方面知识的；懂世故的）
 
+:::
+
 
 ## 4237. eligible
 
@@ -988,6 +1062,8 @@
 - qualified, applicable, becoming, shaped, likely （合格的，合适的；符合条件的；有资格当选的）
 
 - acceptee （合格者；适任者；有资格者）
+
+:::
 
 
 ## 4238. alarm
@@ -1056,6 +1132,8 @@
 
 - exercise, alert, warn （警告；使惊恐）
 
+:::
+
 
 ## 4239. weed
 
@@ -1084,6 +1162,8 @@
 - shovel （除草；铲除）
 
 - fireweed, ruderal （[植]杂草，野草；菸草）
+
+:::
 
 
 ## 4240. Babylonian
@@ -1126,6 +1206,8 @@
 
 - ice floe （冰河，[地理][水文]冰川）
 
+:::
+
 
 ## 4242. ultimatum
 
@@ -1142,6 +1224,8 @@
 :::warning{title=🤔同义词}
 
 - fundamental, basic principle （最后通牒；最后结论；基本原理）
+
+:::
 
 
 ## 4243. horde
@@ -1163,6 +1247,8 @@
 :::warning{title=🤔同义词}
 
 - cluster, cloud, gang （一大群，群；游牧部落）
+
+:::
 
 
 ## 4244. rainfall
@@ -1203,6 +1289,8 @@
 
 - moisture, precip （[气象]降雨；降雨量）
 
+:::
+
 
 ## 4245. racism
 
@@ -1219,6 +1307,8 @@
 :::warning{title=🤔同义词}
 
 - racial discrimination, the colour bar （种族主义，种族歧视；人种偏见）
+
+:::
 
 
 ## 4246. orientation
@@ -1279,6 +1369,8 @@
 
 - aspect, way, quarter, guiding, adaptation （方向；[测]定向；适应；情况介绍；向东方）
 
+:::
+
 
 ## 4247. luxurious
 
@@ -1293,6 +1385,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, super, full, extravagant （奢侈的；丰富的；放纵的；特级的）
+
+:::
 
 
 ## 4248. motion
@@ -1359,6 +1453,8 @@
 
 - do sport, do morning exercise （运动；向…打手势）
 
+:::
+
 
 ## 4249. idle
 
@@ -1412,6 +1508,8 @@
 
 - moon, dream away （虚度；[机]使空转）
 
+:::
+
 
 ## 4250. plight
 
@@ -1428,6 +1526,8 @@
 - difficulty, corner, dilemma, fix, predicament （困境；境况；誓约）
 
 - undertake, assure （保证；约定）
+
+:::
 
 
 ## 4251. match
@@ -1498,6 +1598,8 @@
 
 - competition, game, tournament, play, contest （比赛，竞赛；匹配；对手；火柴）
 
+:::
+
 
 ## 4252. fault
 
@@ -1563,6 +1665,8 @@
 
 - carp at, trip up （（通常用于疑问句或否定句）挑剔）
 
+:::
+
 
 ## 4253. interplay
 
@@ -1577,6 +1681,8 @@
 :::warning{title=🤔同义词}
 
 - interaction effect, reciprocity （相互影响，相互作用）
+
+:::
 
 
 ## 4254. hail
@@ -1605,6 +1711,8 @@
 
 - welcome, rah （万岁；欢迎）
 
+:::
+
 
 ## 4255. accent
 
@@ -1623,6 +1731,8 @@
 - stress, trait （口音；[语]重音；强调；特点；重音符号）
 
 - emphasize, stress, highlight （强调；重读；带…口音讲话）
+
+:::
 
 
 ## 4256. passive
@@ -1685,6 +1795,8 @@
 
 - driven, negative （被动的，消极的；被动语态的）
 
+:::
+
 
 ## 4257. nauseous
 
@@ -1701,6 +1813,8 @@
 :::warning{title=🤔同义词}
 
 - sick, mawkish （令人作呕的；厌恶的）
+
+:::
 
 
 ## 4258. fragment
@@ -1731,6 +1845,8 @@
 
 - debris, chip （碎片；片断或不完整部分）
 
+:::
+
 
 ## 4259. granite
 
@@ -1759,6 +1875,8 @@
 :::warning{title=🤔同义词}
 
 - moorstone （[岩]花岗岩；坚毅；冷酷无情）
+
+:::
 
 
 ## 4260. response
@@ -1821,6 +1939,8 @@
 
 - reaction, behavior, reception, reply, answer （响应；反应；回答）
 
+:::
+
 
 ## 4261. refreshing
 
@@ -1844,6 +1964,8 @@
 
 - life-giving （提神的；使清爽的；使人重新振作的）
 
+:::
+
 
 ## 4262. oblivious
 
@@ -1858,6 +1980,8 @@
 :::warning{title=🤔同义词}
 
 - amnesic, forgetful （遗忘的；健忘的；不注意的；不知道的）
+
+:::
 
 
 ## 4263. category
@@ -1900,6 +2024,8 @@
 
 - variety, classification, kind, manner, sort, nature （种类，分类；[数]范畴）
 
+:::
+
 
 ## 4264. rival
 
@@ -1930,5 +2056,7 @@
 - contest, cope, struggle to （[劳经]竞争）
 
 - competitive, vying （[劳经]竞争的）
+
+:::
 
 

@@ -14,6 +14,8 @@
 
 - comfort, calm, moderate, compose （减轻；使缓和；使平静）
 
+:::
+
 
 ## 801. crack
 
@@ -89,6 +91,8 @@
 
 - greatest, best, perfect, prime （最好的；高明的）
 
+:::
+
 
 ## 802. bind
 
@@ -118,6 +122,8 @@
 
 - difficulty, corner, dilemma, fix （捆绑；困境；讨厌的事情；植物的藤蔓）
 
+:::
+
 
 ## 803. stimulant
 
@@ -134,6 +140,8 @@
 - a shot in the arm, irritation （[药]兴奋剂；刺激物；酒精饮料）
 
 - incentive, hortatory （激励的；使人兴奋的）
+
+:::
 
 
 ## 804. stimuli
@@ -160,6 +168,8 @@
 
 - salts （刺激；剌激物；促进因素（stimulus的复数））
 
+:::
+
 
 ## 805. interdependence
 
@@ -174,6 +184,8 @@
 :::warning{title=🤔同义词}
 
 - codependency （[统计]互相依赖）
+
+:::
 
 
 ## 806. qualitative
@@ -232,6 +244,8 @@
 
 - different, unlike, varying, another, dissimilar （不同的；多种多样的；变化多的）
 
+:::
+
 
 ## 808. cube
 
@@ -267,6 +281,8 @@
 
 - solid, die （[数]立方；立方体；骰子）
 
+:::
+
 
 ## 809. rally
 
@@ -296,6 +312,8 @@
 
 - assembly, feedback, meet, gathering, congregation （集会；回复；公路赛车会）
 
+:::
+
 
 ## 810. announcement
 
@@ -319,6 +337,8 @@
 
 - publication, declaration （公告；宣告；发表；通告）
 
+:::
+
 
 ## 811. synchronize
 
@@ -333,6 +353,8 @@
 :::warning{title=🤔同义词}
 
 - sync up, coincide （同步；同时发生）
+
+:::
 
 
 ## 812. clot
@@ -361,6 +383,8 @@
 
 - clump （使凝结成块）
 
+:::
+
 
 ## 813. memoir
 
@@ -375,6 +399,8 @@
 :::warning{title=🤔同义词}
 
 - autobiography （回忆录；研究报告；自传；实录）
+
+:::
 
 
 ## 814. impact
@@ -439,6 +465,8 @@
 
 - effect, impression, influence, infection, affection （影响；效果；[物]碰撞；[力]冲击力）
 
+:::
+
 
 ## 815. profile
 
@@ -498,6 +526,8 @@
 
 - configuration, side, shell, outline （侧面；轮廓；外形；[建][地质]剖面）
 
+:::
+
 
 ## 816. preference
 
@@ -549,6 +579,8 @@
 
 - tendency, liability, priority, trend, favour （偏爱，倾向；[经][计]优先权）
 
+:::
+
 
 ## 817. mainstream
 
@@ -563,6 +595,8 @@
 :::warning{title=🤔同义词}
 
 - artery, main river （主流）
+
+:::
 
 
 ## 818. scavenge
@@ -580,6 +614,8 @@
 - do out, clear up （打扫；排除废气；以…为食）
 
 - clean, do out （清除污物；打扫）
+
+:::
 
 
 ## 819. paralysis
@@ -607,6 +643,8 @@
 :::warning{title=🤔同义词}
 
 - numbness, asthenia （[内科]麻痹；无力；停顿）
+
+:::
 
 
 ## 820. stiffness
@@ -649,6 +687,8 @@
 
 - hardness, rigidity （僵硬；坚硬；不自然；顽固）
 
+:::
+
 
 ## 821. distort
 
@@ -665,6 +705,8 @@
 - contort, misinterpret （扭曲；使失真；曲解）
 
 - become deformed, to morph （扭曲；变形）
+
+:::
 
 
 ## 822. subsidiary
@@ -704,6 +746,8 @@
 - assistant, helping, affiliated, auxiliary （附属的；辅助的）
 
 - auxiliary, subcompany （子公司；辅助者）
+
+:::
 
 
 ## 823. venture
@@ -768,6 +812,8 @@
 
 - enterprise, risk, undertaking, throw （企业；风险；冒险）
 
+:::
+
 
 ## 824. clog
 
@@ -784,6 +830,8 @@
 - choke with, plug up （阻塞；障碍）
 
 - obstacle, let, bar, dam, stop （障碍；木底鞋）
+
+:::
 
 
 ## 825. population
@@ -844,6 +892,8 @@
 
 - syngen, species group （人口；种群，[生物]群体；全体居民）
 
+:::
+
 
 ## 826. bucket
 
@@ -889,6 +939,8 @@
 
 - pour down （倾盆而下；颠簸着行进）
 
+:::
+
 
 ## 827. corrosive
 
@@ -915,6 +967,8 @@
 :::warning{title=🤔同义词}
 
 - erosive, rusty （[助剂]腐蚀的；侵蚀性的）
+
+:::
 
 
 ## 828. dose
@@ -963,6 +1017,8 @@
 
 - physic （给药；给…服药）
 
+:::
+
 
 ## 829. discern
 
@@ -979,6 +1035,8 @@
 - recognize, identify （识别；领悟，认识）
 
 - see clearly, tell from （看清楚，辨别）
+
+:::
 
 
 ## 830. flexible
@@ -1041,6 +1099,8 @@
 
 - elastic, pliable （灵活的；[力]柔韧的；易弯曲的）
 
+:::
+
 
 ## 831. census
 
@@ -1071,6 +1131,8 @@
 :::warning{title=🤔同义词}
 
 - lustrum, nose-count （人口普查，人口调查）
+
+:::
 
 
 ## 832. domain
@@ -1131,6 +1193,8 @@
 
 - province, territory, world, industry, kingdom, universe, field （领域；域名；产业；地产）
 
+:::
+
 
 ## 833. smear
 
@@ -1158,6 +1222,8 @@
 
 - smudge （被弄脏）
 
+:::
+
 
 ## 834. secluded
 
@@ -1172,6 +1238,8 @@
 :::warning{title=🤔同义词}
 
 - concealed, reclusive （隐蔽的；隐退的，隐居的）
+
+:::
 
 
 ## 835. relative
@@ -1240,6 +1308,8 @@
 
 - kin, belongings （亲戚；相关物；[语]关系词；亲缘植物）
 
+:::
+
 
 ## 836. amenable
 
@@ -1254,6 +1324,8 @@
 :::warning{title=🤔同义词}
 
 - responsible, bound, liable, accountable （有责任的，应服从的；有义务的；经得起检验的）
+
+:::
 
 
 ## 837. subgroup
@@ -1278,6 +1350,8 @@
 
 - subtitle （给…加副标题）
 
+:::
+
 
 ## 838. depict
 
@@ -1292,6 +1366,8 @@
 :::warning{title=🤔同义词}
 
 - bewrite, describe  v. say what is like （描述；描画）
+
+:::
 
 
 ## 839. perennial
@@ -1324,6 +1400,8 @@
 
 - repeated, iterative （[植]多年生的；常年的；四季不断的；常在的；反复的）
 
+:::
+
 
 ## 840. typhoid
 
@@ -1349,6 +1427,8 @@
 
 - enteric fever （伤寒）
 
+:::
+
 
 ## 841. amenity
 
@@ -1365,6 +1445,8 @@
 :::warning{title=🤔同义词}
 
 - ceremony, comfort, sunshine, protocol, ease （舒适；礼仪；愉快；便利设施）
+
+:::
 
 
 ## 842. off-season
@@ -1384,6 +1466,8 @@
 :::warning{title=🤔同义词}
 
 - dead season （淡季）
+
+:::
 
 
 ## 843. inflammatory
@@ -1409,6 +1493,8 @@
 :::warning{title=🤔同义词}
 
 - excited, hot （炎症性的；煽动性的；激动的）
+
+:::
 
 
 ## 844. linkage
@@ -1444,6 +1530,8 @@
 :::warning{title=🤔同义词}
 
 - connection, combination, coupling, wedding, bond （[计]连接；结合；联接；联动装置）
+
+:::
 
 
 ## 845. interloper
@@ -1516,6 +1604,8 @@
 
 - inner, domestic, essential, inside, home （内部的；国内的；本质的）
 
+:::
+
 
 ## 847. mint
 
@@ -1544,6 +1634,8 @@
 - menta, peppermint （[植]薄荷；[金融]造币厂，巨款）
 
 - coin （铸造，铸币）
+
+:::
 
 
 ## 848. embryonic
@@ -1594,6 +1686,8 @@
 
 - serum, chyle （[解剖]淋巴，淋巴液；血清）
 
+:::
+
 
 ## 850. adoption
 
@@ -1614,6 +1708,8 @@
 :::warning{title=🤔同义词}
 
 - acceptance, introduction, receiving （采用；收养；接受）
+
+:::
 
 
 ## 851. involvement
@@ -1644,6 +1740,8 @@
 
 - containing, chaos, disorder, confusion, involved in （[法]牵连；包含；混乱；财政困难）
 
+:::
+
 
 ## 852. harmonize
 
@@ -1660,6 +1758,8 @@
 - accord, unify （使和谐；使一致；以和声唱）
 
 - sort, cotton, concert （协调；和谐；以和声唱）
+
+:::
 
 
 ## 853. distinctive
@@ -1682,6 +1782,8 @@
 
 - unusual, different, apart （有特色的，与众不同的）
 
+:::
+
 
 ## 854. prefigure
 
@@ -1696,6 +1798,8 @@
 :::warning{title=🤔同义词}
 
 - indicate, forecast, shadow, announce （预示；预想）
+
+:::
 
 
 ## 855. composition
@@ -1756,6 +1860,8 @@
 
 - synthetic, songwriting （作文，作曲；[材]构成；合成物）
 
+:::
+
 
 ## 856. comet
 
@@ -1790,6 +1896,8 @@
 :::warning{title=🤔同义词}
 
 - focus, hub （[地震]震中；中心）
+
+:::
 
 
 ## 858. acquisition
@@ -1842,6 +1950,8 @@
 
 - getting, procurement, winning （获得物，获得）
 
+:::
+
 
 ## 859. latch
 
@@ -1866,6 +1976,8 @@
 - take possession of, seize on （占有，抓住；闭锁）
 
 - door release, bolt （门闩）
+
+:::
 
 
 ## 860. rigid
@@ -1914,6 +2026,8 @@
 
 - strict, precise, wooden, accurate, mathematical （严格的；僵硬的，死板的；坚硬的；精确的）
 
+:::
+
 
 ## 861. replicate
 
@@ -1936,6 +2050,8 @@
 - scored, reproductive （复制的；折叠的）
 
 - reproduction, ectype （复制品；八音阶间隔的反覆音）
+
+:::
 
 
 ## 862. Confucian
@@ -2012,6 +2128,8 @@
 
 - debris, patch （[电子]芯片；筹码；碎片）
 
+:::
+
 
 ## 864. migraine
 
@@ -2033,6 +2151,8 @@
 
 - megrim （[内科][中医]偏头痛）
 
+:::
+
 
 ## 865. reverence
 
@@ -2049,6 +2169,8 @@
 - dignity, sanctity （崇敬；尊严；敬礼）
 
 - honor, fear, regard, worship （敬畏；尊敬）
+
+:::
 
 
 ## 866. emergence
@@ -2070,6 +2192,8 @@
 :::warning{title=🤔同义词}
 
 - occurrence, appearance, going on, becoming, rise （出现，浮现；发生；露头）
+
+:::
 
 
 ## 867. advent
@@ -2094,6 +2218,8 @@
 
 - arrival, occurrence, emergence, appearance, rise （到来；出现；基督降临；基督降临节）
 
+:::
+
 
 ## 868. medieval
 
@@ -2110,6 +2236,8 @@
 :::warning{title=🤔同义词}
 
 - original, primitive （中世纪的；原始的；仿中世纪的；老式的）
+
+:::
 
 
 ## 869. assemble
@@ -2140,6 +2268,8 @@
 
 - concentrate, collect, aggregate, mass, crowd （集合，聚集）
 
+:::
+
 
 ## 870. elude
 
@@ -2154,6 +2284,8 @@
 :::warning{title=🤔同义词}
 
 - escape, avoid, get out of （逃避，躲避）
+
+:::
 
 
 ## 871. transition
@@ -2218,6 +2350,8 @@
 
 - conversion, switching, changing （过渡；转变；[分子生物]转换；变调）
 
+:::
+
 
 ## 872. blast
 
@@ -2281,6 +2415,8 @@
 
 - hurt, blow apart （[力]爆炸；损害；使枯萎）
 
+:::
+
 
 ## 873. countervail
 
@@ -2291,6 +2427,8 @@
 - pay, make good （抵销；补偿；对抗）
 
 - compete, war, balance （抵销；对抗）
+
+:::
 
 
 ## 874. underscore
@@ -2309,6 +2447,8 @@
 
 - bobbin thread, bottom-line （底线，[计]下划线）
 
+:::
+
 
 ## 875. bylaw
 
@@ -2324,6 +2464,8 @@
 
 - spec （次要法规；细则；地方法则；（社团制定的）内部章程）
 
+:::
+
 
 ## 876. supersede
 
@@ -2338,6 +2480,8 @@
 :::warning{title=🤔同义词}
 
 - substitute for, displace （取代，代替；紧接着……而到来）
+
+:::
 
 
 ## 877. cultivate
@@ -2359,6 +2503,8 @@
 :::warning{title=🤔同义词}
 
 - rear, foster, plant, nurse （培养；陶冶；耕作）
+
+:::
 
 
 ## 878. diversification
@@ -2387,6 +2533,8 @@
 
 - variation, shift, change, turn, mutation （[贸易]多样化；变化）
 
+:::
+
 
 ## 879. thrive
 
@@ -2409,6 +2557,8 @@
 :::warning{title=🤔同义词}
 
 - succeed, flower （繁荣，兴旺；茁壮成长）
+
+:::
 
 
 ## 880. analytic
@@ -2469,6 +2619,8 @@
 
 - patois, provincialism （方言，土话；同源语；行话；个人用语特征）
 
+:::
+
 
 ## 882. archaeologist
 
@@ -2489,6 +2641,8 @@
 :::warning{title=🤔同义词}
 
 - precision, stiffness （严厉；精确；苛刻；僵硬）
+
+:::
 
 
 ## 884. accountant
@@ -2593,6 +2747,8 @@
 
 - urgent, instant （紧急的；备用的）
 
+:::
+
 
 ## 886. recreational
 
@@ -2622,6 +2778,8 @@
 
 - sportful （娱乐的，消遣的；休养的）
 
+:::
+
 
 ## 887. dramatize
 
@@ -2636,6 +2794,8 @@
 :::warning{title=🤔同义词}
 
 - theatricalize （使戏剧化；编写剧本；改编成戏剧）
+
+:::
 
 
 ## 888. bulge
@@ -2655,6 +2815,8 @@
 - expand, plim （使膨胀；使凸起）
 
 - fill, swell with （膨胀；凸出）
+
+:::
 
 
 ## 889. exemplary
@@ -2676,6 +2838,8 @@
 :::warning{title=🤔同义词}
 
 - emulable （典范的；惩戒性的；可仿效的）
+
+:::
 
 
 ## 890. faculty
@@ -2722,6 +2886,8 @@
 
 - ability, capacity, competence, department, power （科，系；能力；全体教员）
 
+:::
+
 
 ## 891. absurd
 
@@ -2742,6 +2908,8 @@
 :::warning{title=🤔同义词}
 
 - ridiculous, preposterous （荒谬的；可笑的）
+
+:::
 
 
 ## 892. limestone
@@ -2792,6 +2960,8 @@
 
 - sea hog, common dolphin （[脊椎]海豚；鼠海豚）
 
+:::
+
 
 ## 894. airliner
 
@@ -2814,6 +2984,8 @@
 :::warning{title=🤔同义词}
 
 - liner, scheduled flight （[航]班机；大型客机）
+
+:::
 
 
 ## 895. trait
@@ -2848,6 +3020,8 @@
 
 - quality, tang, identity, sort, distinction （特性，特点；[心理]品质；少许）
 
+:::
+
 
 ## 896. meteorite
 
@@ -2866,6 +3040,8 @@
 :::warning{title=🤔同义词}
 
 - Shooting stars, falling star （[天]陨星；流星）
+
+:::
 
 
 ## 897. molten
@@ -2901,6 +3077,8 @@
 :::warning{title=🤔同义词}
 
 - fusional, fused （熔化的；铸造的；炽热的）
+
+:::
 
 
 ## 898. radius
@@ -2961,6 +3139,8 @@
 
 - semidiameter （[数]半径，半径范围；[解剖]桡骨；辐射光线；有效航程）
 
+:::
+
 
 ## 899. disintegration
 
@@ -2979,5 +3159,7 @@
 :::warning{title=🤔同义词}
 
 - analysis, decomposition, crash （瓦解，崩溃；分解）
+
+:::
 
 

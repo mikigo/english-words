@@ -66,6 +66,8 @@
 
 - extremely, badly, highly, greatly, too （非常；相当）
 
+:::
+
 
 ## 1301. obvious
 
@@ -80,6 +82,8 @@
 :::warning{title=🤔同义词}
 
 - distinct, visible, prominent, marked, evident （明显的；显著的；平淡无奇的）
+
+:::
 
 
 ## 1302. station
@@ -149,6 +153,8 @@
 - capacity, condition, standing （站；驻地；地位；身分）
 
 - establish, put, bed, plant （配置；安置；驻扎）
+
+:::
 
 
 ## 1303. limestone
@@ -243,6 +249,8 @@
 
 - suntan （褐色，棕色）
 
+:::
+
 
 ## 1306. gazelle
 
@@ -251,6 +259,8 @@
 :::warning{title=🤔同义词}
 
 - ariel, duiker （[脊椎]瞪羚；小羚羊）
+
+:::
 
 
 ## 1307. Columbia
@@ -353,6 +363,8 @@
 
 - extinction, vaporization （[物][化学]蒸发；消失）
 
+:::
+
 
 ## 1310. archaeology
 
@@ -382,6 +394,8 @@
 
 - liver, resident, inhabitant, habitant （居民，居住者）
 
+:::
+
 
 ## 1312. possess
 
@@ -409,6 +423,8 @@
 
 - contain, regulate, bit, bottle, manage （控制；使掌握；持有；迷住）
 
+:::
+
 
 ## 1313. elsewhere
 
@@ -425,6 +441,8 @@
 :::warning{title=🤔同义词}
 
 - otherwhere （在别处；到别处）
+
+:::
 
 
 ## 1314. seasonal
@@ -450,6 +468,8 @@
 :::warning{title=🤔同义词}
 
 - recurrent （[天]季节的；周期性的；依照季节的）
+
+:::
 
 
 ## 1315. assemble
@@ -479,6 +499,8 @@
 - aggregate, fall in （集合，聚集；装配；收集）
 
 - concentrate, collect, aggregate, mass, crowd （集合，聚集）
+
+:::
 
 
 ## 1316. mask
@@ -524,6 +546,8 @@
 - dissimulate, make sb up （掩饰；戴面具；化装）
 
 - belie, disguise （掩饰；戴面具；使模糊）
+
+:::
 
 
 ## 1317. reality
@@ -576,6 +600,8 @@
 
 - fact, actuality, sincerity, true （现实；实际；真实）
 
+:::
+
 
 ## 1318. alone
 
@@ -624,6 +650,8 @@
 - independent, isolated, separate, sole （独自的；单独的；孤独的）
 
 - respectively, solely （独自地；单独地）
+
+:::
 
 
 ## 1319. college
@@ -686,6 +714,8 @@
 
 - university, academy, campus, school （大学；学院；学会）
 
+:::
+
 
 ## 1320. definition
 
@@ -732,6 +762,8 @@
 :::warning{title=🤔同义词}
 
 - difinition, sharpness （[数]定义；[物]清晰度；解说）
+
+:::
 
 
 ## 1321. dead
@@ -822,6 +854,8 @@
 
 - decedent, departed （死者）
 
+:::
+
 
 ## 1322. regional
 
@@ -883,6 +917,8 @@
 
 - partial, local （地区的；局部的；整个地区的）
 
+:::
+
 
 ## 1323. border
 
@@ -941,6 +977,8 @@
 - go on for, come close to （接近；与…接壤；在…上镶边）
 
 - aprx （接界；近似）
+
+:::
 
 
 ## 1324. household
@@ -1004,6 +1042,8 @@
 - domestic, family, daily, everyday, routine （家庭的；日常的；王室的）
 
 - family, race （家庭；一家人）
+
+:::
 
 
 ## 1325. trend
@@ -1074,6 +1114,8 @@
 
 - verge on, tend towards （趋向，伸向）
 
+:::
+
 
 ## 1326. sandstone
 
@@ -1098,6 +1140,8 @@
 :::warning{title=🤔同义词}
 
 - quar （[岩]砂岩；沙岩）
+
+:::
 
 
 ## 1327. Sweden
@@ -1143,6 +1187,8 @@
 - introject （吸吮；吸取）
 
 - curry favor with, crawl to （吸吮；糟糕；巴结）
+
+:::
 
 
 ## 1329. speech
@@ -1205,6 +1251,8 @@
 
 - address, lecture, talk, sound （演讲；讲话；[语]语音；演说）
 
+:::
+
 
 ## 1330. consequent
 
@@ -1227,6 +1275,8 @@
 - outcome, product, result, event, harvest （结果）
 
 - resulting （随之发生的；作为结果的）
+
+:::
 
 
 ## 1331. crisis
@@ -1301,6 +1351,8 @@
 
 - defining moment, critical stage （危机；危险期；决定性时刻）
 
+:::
+
 
 ## 1332. modem
 
@@ -1323,6 +1375,8 @@
 :::warning{title=🤔同义词}
 
 - MODEM Modulator And Demodulator, modulator-demodulator （调制解调器（等于modulator-demodulator））
+
+:::
 
 
 ## 1333. literary
@@ -1357,6 +1411,8 @@
 
 - written （文学的；书面的；精通文学的）
 
+:::
+
 
 ## 1334. pioneer
 
@@ -1386,6 +1442,8 @@
 
 - advocate, inaugurate （开辟；倡导；提倡）
 
+:::
+
 
 ## 1335. criticize
 
@@ -1404,6 +1462,8 @@
 - observe on, to comment on （批评；评论；非难）
 
 - observe on, to comment on （批评；评论；苛求）
+
+:::
 
 
 ## 1336. originally
@@ -1425,6 +1485,8 @@
 :::warning{title=🤔同义词}
 
 - initially, essentially （最初，起初；本来）
+
+:::
 
 
 ## 1337. salinity
@@ -1513,6 +1575,8 @@
 
 - belong, harbor, live, quarter, dwell （居住；住宿）
 
+:::
+
 
 ## 1339. shrub
 
@@ -1527,6 +1591,8 @@
 :::warning{title=🤔同义词}
 
 - bush, frutex （[林]灌木；灌木丛）
+
+:::
 
 
 ## 1340. weapon
@@ -1564,6 +1630,8 @@
 :::warning{title=🤔同义词}
 
 - arm, armament （武器，[军]兵器）
+
+:::
 
 
 ## 1341. clean
@@ -1644,6 +1712,8 @@
 
 - dusting, sweep （打扫）
 
+:::
+
 
 ## 1342. corn
 
@@ -1705,6 +1775,8 @@
 
 - preserve （腌；使成颗粒）
 
+:::
+
 
 ## 1343. dynasty
 
@@ -1762,6 +1834,8 @@
 
 - cattle, dumb things （牲畜；[畜牧]家畜）
 
+:::
+
 
 ## 1345. drama
 
@@ -1807,6 +1881,8 @@
 
 - stage, theater, scenario （戏剧，戏剧艺术；剧本；戏剧性事件）
 
+:::
+
 
 ## 1346. photography
 
@@ -1842,6 +1918,8 @@
 
 - photo shoot, camerawork （[摄]摄影；摄影术）
 
+:::
+
 
 ## 1347. colonist
 
@@ -1856,6 +1934,8 @@
 :::warning{title=🤔同义词}
 
 - migration, transplantation （殖民者；殖民地居民；移民）
+
+:::
 
 
 ## 1348. extra
@@ -1926,6 +2006,8 @@
 
 - additional, added, excess （额外的，[经]另外收费的；特大的）
 
+:::
+
 
 ## 1349. algae
 
@@ -1963,6 +2045,8 @@
 
 - seaweed, varech （藻类；[植]海藻）
 
+:::
+
 
 ## 1350. lowland
 
@@ -1981,6 +2065,8 @@
 - Lallan （[地理]低地；苏格兰低地）
 
 - Lallan （[地理]低地的；苏格兰低地的）
+
+:::
 
 
 ## 1351. otherwise
@@ -2010,6 +2096,8 @@
 - else, extra （否则；另外；在其他方面）
 
 - another, elsewise （另外的；其他方面的）
+
+:::
 
 
 ## 1352. round
@@ -2084,6 +2172,8 @@
 
 - about, around （附近；绕过；大约；在…周围）
 
+:::
+
 
 ## 1353. imagine
 
@@ -2100,6 +2190,8 @@
 - picture, think of （想像；猜想；臆断）
 
 - think of, suppose （想像；猜想；想像起来）
+
+:::
 
 
 ## 1354. selection
@@ -2160,6 +2252,8 @@
 
 - chose, choice, pick （选择，挑选；选集；精选品）
 
+:::
+
 
 ## 1355. vertebrate
 
@@ -2179,6 +2273,8 @@
 
 - amniote （[脊椎]脊椎动物）
 
+:::
+
 
 ## 1356. sixteenth
 
@@ -2193,6 +2289,8 @@
 :::warning{title=🤔同义词}
 
 - sexadecimal （第十六；十六分之一）
+
+:::
 
 
 ## 1357. recover
@@ -2216,6 +2314,8 @@
 - restore, repair, offset, resume （恢复；弥补；重新获得）
 
 - restore, unsave （恢复；胜诉；重新得球）
+
+:::
 
 
 ## 1358. forward
@@ -2288,6 +2388,8 @@
 
 - stricker, vanguard （前锋）
 
+:::
+
 
 ## 1359. expense
 
@@ -2342,6 +2444,8 @@
 :::warning{title=🤔同义词}
 
 - consumption, losing, price, cost, disadvantage （损失，代价；消费；开支）
+
+:::
 
 
 ## 1360. smooth
@@ -2408,6 +2512,8 @@
 
 - quietly, glossily （光滑地；平稳地；流畅地）
 
+:::
+
 
 ## 1361. talk
 
@@ -2473,6 +2579,8 @@
 
 - speech, address, lecture, discourse （谈话；演讲；空谈）
 
+:::
+
 
 ## 1362. scheme
 
@@ -2536,6 +2644,8 @@
 
 - design, map, propose, project, engineer （计划；策划）
 
+:::
+
 
 ## 1363. tower
 
@@ -2598,6 +2708,8 @@
 - minar, turm （[建]塔；高楼；堡垒）
 
 - rise, top, rear （高耸；超越）
+
+:::
 
 
 ## 1364. bright
@@ -2664,6 +2776,8 @@
 
 - transparently （明亮地；光明地；欢快地）
 
+:::
+
 
 ## 1365. anthropologist
 
@@ -2682,6 +2796,8 @@
 :::warning{title=🤔同义词}
 
 - humanist （[人类]人类学家；人类学者）
+
+:::
 
 
 ## 1366. discipline
@@ -2723,6 +2839,8 @@
 - science, punishment, rod, knowledge, payment （学科；[管理]纪律；训练；惩罚）
 
 - coach, drill （训练，训导；惩戒）
+
+:::
 
 
 ## 1367. opposite
@@ -2779,6 +2897,8 @@
 
 - across （在对面）
 
+:::
+
 
 ## 1368. oyster
 
@@ -2807,6 +2927,8 @@
 :::warning{title=🤔同义词}
 
 - Gigas, ostracean （牡蛎，[无脊椎]蚝；沉默寡言的人）
+
+:::
 
 
 ## 1369. interval
@@ -2858,6 +2980,8 @@
 :::warning{title=🤔同义词}
 
 - separation, distance （间隔；间距；幕间休息）
+
+:::
 
 
 ## 1370. volcano
@@ -2942,6 +3066,8 @@
 
 - worship, take a fancy to （喜欢；热爱；爱慕）
 
+:::
+
 
 ## 1372. mind
 
@@ -3011,6 +3137,8 @@
 
 - take care of, take notice （介意；注意）
 
+:::
+
 
 ## 1373. steady
 
@@ -3053,6 +3181,8 @@
 - firmly, equably （稳定地；稳固地）
 
 - fixed bolster, fixed support （关系固定的情侣；固定支架）
+
+:::
 
 
 ## 1374. full
@@ -3121,6 +3251,8 @@
 
 - integrity, entirety （全部；完整）
 
+:::
+
 
 ## 1375. universal
 
@@ -3188,6 +3320,8 @@
 
 - general concept （一般概念；普通性）
 
+:::
+
 
 ## 1376. union
 
@@ -3247,6 +3381,8 @@
 
 - alliance, league, unity, combination, combined with （联盟，协会；工会；联合）
 
+:::
+
 
 ## 1377. terrain
 
@@ -3275,6 +3411,8 @@
 :::warning{title=🤔同义词}
 
 - domain, province, world, kingdom, universe （地形，地势；领域；[地理]地带）
+
+:::
 
 
 ## 1378. fluid
@@ -3341,6 +3479,8 @@
 
 - liquid medium （[流]流体；[物]液体）
 
+:::
+
 
 ## 1379. wildebeest
 
@@ -3359,6 +3499,8 @@
 :::warning{title=🤔同义词}
 
 - bongo, gnu （羚羊的一种；牛羚（产于非洲））
+
+:::
 
 
 ## 1380. resistance
@@ -3419,6 +3561,8 @@
 
 - resisting force, rebellion （阻力；[电]电阻；[力]抵抗；[法]反抗；抵抗力）
 
+:::
+
 
 ## 1381. rabbit
 
@@ -3458,6 +3602,8 @@
 
 - to hell with （让…见鬼去吧）
 
+:::
+
 
 ## 1382. candidate
 
@@ -3486,6 +3632,8 @@
 :::warning{title=🤔同义词}
 
 - examinee （候选人，候补者；应试者）
+
+:::
 
 
 ## 1383. museum
@@ -3596,6 +3744,8 @@
 
 - incretion, corticosteroids （[生理]激素，荷尔蒙）
 
+:::
+
 
 ## 1385. countryside
 
@@ -3617,6 +3767,8 @@
 
 - ruralarea, campagna （农村，乡下；乡下的全体居民）
 
+:::
+
 
 ## 1386. thereby
 
@@ -3631,6 +3783,8 @@
 :::warning{title=🤔同义词}
 
 - hence, accordingly, thus, consequently, as a result of （从而，因此；在那附近；在那方面）
+
+:::
 
 
 ## 1387. violin
@@ -3658,6 +3812,8 @@
 :::warning{title=🤔同义词}
 
 - fiddle （小提琴；小提琴手）
+
+:::
 
 
 ## 1388. bad
@@ -3730,6 +3886,8 @@
 
 - greatly, quite, badly, extremely, too, highly, far （很，非常；坏地；邪恶地）
 
+:::
+
 
 ## 1389. copy
 
@@ -3795,6 +3953,8 @@
 
 - repeat, counterpart （[印刷]副本；一册；摹仿）
 
+:::
+
 
 ## 1390. distant
 
@@ -3829,6 +3989,8 @@
 :::warning{title=🤔同义词}
 
 - remote, faraway （遥远的；冷漠的；远隔的）
+
+:::
 
 
 ## 1391. lens
@@ -3888,6 +4050,8 @@
 :::warning{title=🤔同义词}
 
 - cryst （[摄]镜头；[光]透镜；[解剖]晶状体）
+
+:::
 
 
 ## 1392. track
@@ -3954,6 +4118,8 @@
 
 - go, walk, step （追踪；走；留下足迹）
 
+:::
+
 
 ## 1393. porcelain
 
@@ -4003,6 +4169,8 @@
 
 - china, delicate, fine （瓷制的；精美的）
 
+:::
+
 
 ## 1394. pellet
 
@@ -4025,6 +4193,8 @@
 :::warning{title=🤔同义词}
 
 - glomeruli, spherule （小球；[军]小子弹（枪用））
+
+:::
 
 
 ## 1395. physics
@@ -4139,6 +4309,8 @@
 
 - extent, boundary, region, territory, area （[光]光谱；频谱；范围；余象）
 
+:::
+
 
 ## 1397. forth
 
@@ -4196,6 +4368,8 @@
 
 - to, ahead, along, forwards, front （向前，向外；自…以后）
 
+:::
+
 
 ## 1398. mesozoic
 
@@ -4228,5 +4402,7 @@
 :::warning{title=🤔同义词}
 
 - portion, part, ticket （分配；指派；[计][数]赋值）
+
+:::
 
 

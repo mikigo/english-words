@@ -18,6 +18,8 @@
 
 - latter, back, rear （后面的）
 
+:::
+
 
 ## 4001. scent
 
@@ -47,6 +49,8 @@
 
 - show evidence of （发出…的气味；有…的迹象；嗅着气味追赶）
 
+:::
+
 
 ## 4002. exhibit
 
@@ -72,6 +76,8 @@
 
 - proof, witness （[贸易]展览品；证据；展示会）
 
+:::
+
 
 ## 4003. adjunct
 
@@ -88,6 +94,8 @@
 - friend, assistant, aid, belonging （附属物；助手；修饰语）
 
 - subsidiary, affiliated （附属的）
+
+:::
 
 
 ## 4004. mushroom
@@ -130,6 +138,8 @@
 
 - rocket （迅速增加；采蘑菇；迅速生长）
 
+:::
+
 
 ## 4005. pinpoint
 
@@ -154,6 +164,8 @@
 - accurate, precise, mathematical, strict, rigid （精确的；详尽的）
 
 - needlepoint, fingerling （针尖；精确位置；极小之物）
+
+:::
 
 
 ## 4006. altruistic
@@ -196,6 +208,8 @@
 
 - radicalness, Desperate Remedies （极端；绝境；非常手段；手足）
 
+:::
+
 
 ## 4008. deny
 
@@ -223,6 +237,8 @@
 
 - object, refuse （否认；拒绝）
 
+:::
+
 
 ## 4009. alchemist
 
@@ -241,6 +257,8 @@
 :::warning{title=🤔同义词}
 
 - hermetic （炼金术士）
+
+:::
 
 
 ## 4010. trench
@@ -281,6 +299,8 @@
 
 - infringe upon, infringe on （挖战壕；侵害）
 
+:::
+
 
 ## 4011. miserable
 
@@ -301,6 +321,8 @@
 :::warning{title=🤔同义词}
 
 - poor, painful, mean, base, dirty （悲惨的；痛苦的；卑鄙的）
+
+:::
 
 
 ## 4012. subtract
@@ -326,6 +348,8 @@
 :::warning{title=🤔同义词}
 
 - substract, subduce （减去；扣掉）
+
+:::
 
 
 ## 4013. dent
@@ -358,6 +382,8 @@
 
 - break, to weaken （削弱；使产生凹痕）
 
+:::
+
 
 ## 4014. hurricane
 
@@ -385,6 +411,8 @@
 
 - cyclone, storms （飓风，[气象]暴风）
 
+:::
+
 
 ## 4015. asthma
 
@@ -411,6 +439,8 @@
 :::warning{title=🤔同义词}
 
 - wheezing （[内科][中医]哮喘，气喘）
+
+:::
 
 
 ## 4016. hike
@@ -445,6 +475,8 @@
 
 - walking tour, excursion （远足；徒步旅行；涨价）
 
+:::
+
 
 ## 4017. zigzag
 
@@ -475,6 +507,8 @@
 - zz （之字形；Z字形）
 
 - circuitously （曲折地；之字形地；Z字形地）
+
+:::
 
 
 ## 4018. mission
@@ -527,6 +561,8 @@
 
 - send along, dispatch （派遣；向……传教）
 
+:::
+
 
 ## 4019. generalization
 
@@ -541,6 +577,8 @@
 :::warning{title=🤔同义词}
 
 - recapitulation, universalization （概括；普遍化；一般化）
+
+:::
 
 
 ## 4020. biologist
@@ -599,6 +637,8 @@
 
 - push, jundy （推；奔忙；拥挤喧嚷）
 
+:::
+
 
 ## 4023. mercantile
 
@@ -624,6 +664,8 @@
 
 - goods, wares, merchantable product （商品）
 
+:::
+
 
 ## 4024. dosage
 
@@ -646,6 +688,8 @@
 :::warning{title=🤔同义词}
 
 - dose, dosis （[药]剂量，用量）
+
+:::
 
 
 ## 4025. motor
@@ -716,6 +760,8 @@
 
 - auto （乘汽车）
 
+:::
+
 
 ## 4026. access
 
@@ -779,6 +825,8 @@
 
 - opening, admittance （进入；使用权；[电]通路）
 
+:::
+
 
 ## 4027. primitive
 
@@ -820,6 +868,8 @@
 
 - Euroman （[数][生物][地质]原始人）
 
+:::
+
 
 ## 4028. advisable
 
@@ -836,6 +886,8 @@
 :::warning{title=🤔同义词}
 
 - suitable, wise, adequate, appropriate, proper （明智的，可取的，适当的）
+
+:::
 
 
 ## 4029. dormitory
@@ -862,6 +914,8 @@
 
 - uptown （住宅区的）
 
+:::
+
 
 ## 4030. hind
 
@@ -887,6 +941,8 @@
 
 - retral, rearend （后部的）
 
+:::
+
 
 ## 4031. overcome
 
@@ -911,6 +967,8 @@
 - exceed, cap, surmount （克服；胜过）
 
 - rise above, get over sth （克服；得胜）
+
+:::
 
 
 ## 4032. sum
@@ -977,6 +1035,8 @@
 
 - summarize, tally up （总结；合计）
 
+:::
+
 
 ## 4033. stratigraphy
 
@@ -1005,6 +1065,8 @@
 :::warning{title=🤔同义词}
 
 - destroy, kill off （消灭；涂去；冲刷；忘掉）
+
+:::
 
 
 ## 4035. current
@@ -1071,6 +1133,8 @@
 
 - tendency, direction, tide, trend, set （（水，气，电）[流]流；趋势；涌流）
 
+:::
+
 
 ## 4036. bookstore
 
@@ -1096,6 +1160,8 @@
 
 - libraire （[贸易]书店（等于bookshop））
 
+:::
+
 
 ## 4037. obligate
 
@@ -1112,6 +1178,8 @@
 - force, enforce （使负义务；强使，强迫；对…施以恩惠）
 
 - responsible, required, bound, necessary, liable （有责任的，有义务的；必需的）
+
+:::
 
 
 ## 4038. democrat
@@ -1206,6 +1274,8 @@
 
 - sit in on （（美）旁听）
 
+:::
+
 
 ## 4041. cactus
 
@@ -1224,6 +1294,8 @@
 :::warning{title=🤔同义词}
 
 - Cholla Stem, cholla （[园艺]仙人掌）
+
+:::
 
 
 ## 4042. copper
@@ -1286,6 +1358,8 @@
 
 - cupreous （铜的）
 
+:::
+
 
 ## 4043. audio
 
@@ -1337,6 +1411,8 @@
 
 - vocal, sonic （[声]声音的；音频的，声频的）
 
+:::
+
 
 ## 4044. patriarchy
 
@@ -1372,6 +1448,8 @@
 
 - court, joss stick （香；奉承）
 
+:::
+
 
 ## 4046. offensive
 
@@ -1402,6 +1480,8 @@
 - evil, rank （攻击的；冒犯的；无礼的；讨厌的）
 
 - attack, attempt, push （攻势；攻击）
+
+:::
 
 
 ## 4047. texture
@@ -1442,6 +1522,8 @@
 
 - essence, configuration, mechanics, framework, substance, truth, principle （质地；纹理；结构；本质，实质）
 
+:::
+
 
 ## 4048. amid
 
@@ -1456,6 +1538,8 @@
 :::warning{title=🤔同义词}
 
 - in the interim （在其中，在其间）
+
+:::
 
 
 ## 4049. launch
@@ -1504,6 +1588,8 @@
 
 - emission, shot, sending, projection, loose （[航]发射；发行，投放市场；下水；汽艇）
 
+:::
+
 
 ## 4050. silt
 
@@ -1537,6 +1623,8 @@
 
 - land up （使淤塞；充塞）
 
+:::
+
 
 ## 4051. quell
 
@@ -1551,6 +1639,8 @@
 :::warning{title=🤔同义词}
 
 - eliminate, avoid, moderate, suppress （平息；镇压；减轻；消除）
+
+:::
 
 
 ## 4052. understate
@@ -1584,6 +1674,8 @@
 :::warning{title=🤔同义词}
 
 - identify, favor, sustain, validate （确认；确定；证实；批准；使巩固）
+
+:::
 
 
 ## 4054. detectable
@@ -1642,6 +1734,8 @@
 
 - germinate, sprout （使发芽）
 
+:::
+
 
 ## 4056. uppermost
 
@@ -1661,6 +1755,8 @@
 
 - superlatively, maximally （最高地；最重要地；最突出地）
 
+:::
+
 
 ## 4057. expeditious
 
@@ -1675,6 +1771,8 @@
 :::warning{title=🤔同义词}
 
 - rapid, fast, forward, ready, quick （迅速的；敏捷的）
+
+:::
 
 
 ## 4058. gallop
@@ -1700,6 +1798,8 @@
 - spin, dead run （疾驰；飞奔）
 
 - rocket, hell （飞驰；急速进行；急急忙忙地说）
+
+:::
 
 
 ## 4059. neoclassical
@@ -1748,6 +1848,8 @@
 
 - Deaths, death rate （[医]死亡数，死亡率；必死性，必死的命运）
 
+:::
+
 
 ## 4061. vast
 
@@ -1777,6 +1879,8 @@
 
 - voluminousness （浩瀚；广阔无垠的空间）
 
+:::
+
 
 ## 4062. dissent
 
@@ -1801,6 +1905,8 @@
 - to disapprove of, disagree with （不同意；不信奉国教）
 
 - exception, demurral （异议；（大写）不信奉国教）
+
+:::
 
 
 ## 4063. symbol
@@ -1841,6 +1947,8 @@
 
 - significant, seal, indication, flag （象征；符号；标志）
 
+:::
+
 
 ## 4064. ignite
 
@@ -1859,6 +1967,8 @@
 - heat, light （点燃；使燃烧；使激动）
 
 - burn, light the fire （点火；燃烧）
+
+:::
 
 
 ## 4065. declare
@@ -1897,6 +2007,8 @@
 
 - to announce, hand down （声明，宣布）
 
+:::
+
 
 ## 4066. calamitous
 
@@ -1911,6 +2023,8 @@
 :::warning{title=🤔同义词}
 
 - evil, catastrophic, miserable （灾难的，悲惨的；不幸的）
+
+:::
 
 
 ## 4067. available
@@ -1975,6 +2089,8 @@
 
 - valid, effective, virtual, telling, significant （[交]有效的，可得的；可利用的；空闲的）
 
+:::
+
 
 ## 4068. unequal
 
@@ -1992,6 +2108,8 @@
 
 - abnormal, inequal （[数]不平等的；不规则的；不胜任的）
 
+:::
+
 
 ## 4069. confine
 
@@ -2008,6 +2126,8 @@
 - boundary, border （界限，边界）
 
 - block, set a limit to （限制；禁闭）
+
+:::
 
 
 ## 4070. advocate
@@ -2033,6 +2153,8 @@
 - maintain, submit （提倡，主张，拥护）
 
 - prophet, supporter （提倡者；支持者；律师）
+
+:::
 
 
 ## 4071. posthumous
@@ -2105,6 +2227,8 @@
 
 - hydrostatic level, horizon line （[测]水平线，水平面；水平位置）
 
+:::
+
 
 ## 4073. consort
 
@@ -2132,6 +2256,8 @@
 
 - comrade, spouse （配偶；伙伴）
 
+:::
+
 
 ## 4074. drawback
 
@@ -2146,6 +2272,8 @@
 :::warning{title=🤔同义词}
 
 - defect, deficiency, disadvantage, vice, fault （缺点，不利条件；退税）
+
+:::
 
 
 ## 4075. missile
@@ -2192,6 +2320,8 @@
 
 - dejectile （[航][军]导弹；投射物）
 
+:::
+
 
 ## 4076. variant
 
@@ -2214,6 +2344,8 @@
 - different, diverse, unlike, multiple, varying （不同的；多样的）
 
 - transformation, converting （[生物][计]变体；转化）
+
+:::
 
 
 ## 4077. generate
@@ -2240,6 +2372,8 @@
 
 - go on, call into being （使形成；发生；[生物]生殖）
 
+:::
+
 
 ## 4078. beaver
 
@@ -2262,6 +2396,8 @@
 :::warning{title=🤔同义词}
 
 - castor （[脊椎]海狸；海狸皮毛）
+
+:::
 
 
 ## 4079. passion
@@ -2291,6 +2427,8 @@
 :::warning{title=🤔同义词}
 
 - flame, love, fire, warmth （激情；热情；酷爱；盛怒）
+
+:::
 
 
 ## 4080. extreme
@@ -2340,6 +2478,8 @@
 - ultra, excessive （极端的；极度的；偏激的；尽头的）
 
 - terminal, bottom （极端；末端；最大程度；极端的事物）
+
+:::
 
 
 ## 4081. anecdotal
@@ -2422,6 +2562,8 @@
 
 - sort, concert （协调）
 
+:::
+
 
 ## 4083. athlete
 
@@ -2437,6 +2579,8 @@
 
 - player, sportsman （运动员，体育家；身强力壮的人）
 
+:::
+
 
 ## 4084. despoil
 
@@ -2451,6 +2595,8 @@
 :::warning{title=🤔同义词}
 
 - harry, shear, seize （掠夺，剥夺；夺取）
+
+:::
 
 
 ## 4085. query
@@ -2484,6 +2630,8 @@
 - question, inquire about （[计]询问；对……表示疑问）
 
 - question, inquire about （[计]询问；表示怀疑）
+
+:::
 
 
 ## 4086. degree
@@ -2544,6 +2692,8 @@
 
 - extent, classification, measure, grade, plane （程度，等级；度；学位；阶层）
 
+:::
+
 
 ## 4087. dismal
 
@@ -2567,6 +2717,8 @@
 
 - dark, blue, terrible, heavy （凄凉的，忧郁的；阴沉的，沉闷的；可怕的）
 
+:::
+
 
 ## 4088. vocalize
 
@@ -2583,6 +2735,8 @@
 - sound production, phonate （发声；喊叫）
 
 - sound （使发成元音；使发声）
+
+:::
 
 
 ## 4089. astronomy
@@ -2613,6 +2767,8 @@
 
 - uranology （[天]天文学）
 
+:::
+
 
 ## 4090. ranch
 
@@ -2635,6 +2791,8 @@
 :::warning{title=🤔同义词}
 
 - estancia, plantation （大农场；大牧场）
+
+:::
 
 
 ## 4091. tube
@@ -2697,6 +2855,8 @@
 
 - fail, take the subway （乘地铁；不及格）
 
+:::
+
 
 ## 4092. discord
 
@@ -2723,6 +2883,8 @@
 - misunderstanding, strife （[声]不和；不调和；嘈杂声）
 
 - out of tune with, out of line （不一致；刺耳）
+
+:::
 
 
 ## 4093. ripple
@@ -2761,6 +2923,8 @@
 
 - cockles, Sparkling Raindrops （波纹；涟漪；[物]涟波）
 
+:::
+
 
 ## 4094. dismay
 
@@ -2779,6 +2943,8 @@
 - depression, alarm, disappointment （沮丧，灰心；惊慌）
 
 - depress, dispirit （使沮丧；使惊慌）
+
+:::
 
 
 ## 4095. naval
@@ -2847,6 +3013,8 @@
 
 - beckon （示意）
 
+:::
+
 
 ## 4097. myopic
 
@@ -2862,6 +3030,8 @@
 
 - bleary-eyed, near-sighted （近视的；目光短浅的）
 
+:::
+
 
 ## 4098. illegible
 
@@ -2876,6 +3046,8 @@
 :::warning{title=🤔同义词}
 
 - undecipherable, indecipherable （难辨认的；字迹模糊的）
+
+:::
 
 
 ## 4099. demonstrate
@@ -2893,5 +3065,7 @@
 :::warning{title=🤔同义词}
 
 - prove, give evidence of （证明；展示；论证）
+
+:::
 
 

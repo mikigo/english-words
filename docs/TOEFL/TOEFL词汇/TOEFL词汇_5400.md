@@ -20,6 +20,8 @@
 
 - well-proportioned, meristic （匀称的，对称的）
 
+:::
+
 
 ## 5401. lily
 
@@ -51,6 +53,8 @@
 
 - stainless, pure, white （洁白的，纯洁的）
 
+:::
+
 
 ## 5402. theropod
 
@@ -70,6 +74,8 @@
 
 - champion, advocate （支持者；拥护者）
 
+:::
+
 
 ## 5404. precarious
 
@@ -87,6 +93,8 @@
 
 - dangerous, critical, risky, threatening （危险的；不确定的）
 
+:::
+
 
 ## 5405. wispy
 
@@ -102,6 +110,8 @@
 
 - tender, slight （象小束状的，纤细的；脆弱的）
 
+:::
+
 
 ## 5406. artificially
 
@@ -110,6 +120,8 @@
 :::warning{title=🤔同义词}
 
 - factitiously, self-consciously （人工地；人为地；不自然地）
+
+:::
 
 
 ## 5407. exempt
@@ -142,6 +154,8 @@
 
 - discharge, forgive （免除；豁免）
 
+:::
+
 
 ## 5408. vacancy
 
@@ -173,6 +187,8 @@
 
 - gap, blank （空缺；[电子]空位；空白；空虚）
 
+:::
+
 
 ## 5409. rehabilitate
 
@@ -189,6 +205,8 @@
 - repristinate, unmake （使康复；使恢复名誉；使恢复原状）
 
 - revive （复兴；复权；恢复正常生活）
+
+:::
 
 
 ## 5410. persuade
@@ -208,6 +226,8 @@
 - talk around, win over （说服；被说服）
 
 - available, leisure, off （空闲的，有闲的）
+
+:::
 
 
 ## 5411. sunset
@@ -238,6 +258,8 @@
 
 - Sundown, early evening （日落，傍晚）
 
+:::
+
 
 ## 5412. intoxication
 
@@ -258,6 +280,8 @@
 :::warning{title=🤔同义词}
 
 - poisoning, toxicosis （[内科]中毒；陶醉；喝醉）
+
+:::
 
 
 ## 5413. genuine
@@ -285,6 +309,8 @@
 :::warning{title=🤔同义词}
 
 - actual, sincere, true, real, positive （真实的，真正的；诚恳的）
+
+:::
 
 
 ## 5414. whereby
@@ -323,6 +349,8 @@
 
 - twist drill （[木][机]螺旋钻；木螺钻；地螺钻）
 
+:::
+
 
 ## 5416. alteration
 
@@ -348,6 +376,8 @@
 
 - modification, changing （修改，改变；变更）
 
+:::
+
 
 ## 5417. longtime
 
@@ -364,6 +394,8 @@
 :::warning{title=🤔同义词}
 
 - muchly （长久地）
+
+:::
 
 
 ## 5418. customary
@@ -386,6 +418,8 @@
 
 - usual, used, common, accustomed （习惯的；通常的）
 
+:::
+
 
 ## 5419. validate
 
@@ -402,6 +436,8 @@
 :::warning{title=🤔同义词}
 
 - favor, implement, make sure, sustain （证实，验证；确认；使生效）
+
+:::
 
 
 ## 5420. sulfide
@@ -444,6 +480,8 @@
 
 - sulphide （[化学]硫化物）
 
+:::
+
 
 ## 5421. sensibility
 
@@ -458,6 +496,8 @@
 :::warning{title=🤔同义词}
 
 - emotion, consciousness, will, affect, discrimination （情感；敏感性；感觉；识别力）
+
+:::
 
 
 ## 5422. ether
@@ -518,6 +558,8 @@
 
 - aether, expanse （[药]乙醚；[有化]以太；苍天；天空醚）
 
+:::
+
 
 ## 5423. tenon
 
@@ -563,6 +605,8 @@
 
 - butcher knife （屠刀）
 
+:::
+
 
 ## 5425. supersede
 
@@ -577,6 +621,8 @@
 :::warning{title=🤔同义词}
 
 - substitute for, displace （取代，代替；紧接着……而到来）
+
+:::
 
 
 ## 5426. dehydrate
@@ -635,6 +681,8 @@
 
 - amidogen （[化学]氨基）
 
+:::
+
 
 ## 5428. subjective
 
@@ -668,6 +716,8 @@
 
 - personal, individual （主观的；个人的；自觉的）
 
+:::
+
 
 ## 5429. milky
 
@@ -682,6 +732,8 @@
 :::warning{title=🤔同义词}
 
 - female, delicate （乳白色的；牛奶的；乳状的；柔和的；混浊不清的）
+
+:::
 
 
 ## 5430. fertilization
@@ -699,6 +751,8 @@
 :::warning{title=🤔同义词}
 
 - enrichment, richness （[农]施肥；[胚]受精；肥沃）
+
+:::
 
 
 ## 5431. celestial
@@ -737,6 +791,8 @@
 
 - jinnee, djinni （神仙，天堂里的居民）
 
+:::
+
 
 ## 5432. appreciable
 
@@ -752,6 +808,8 @@
 
 - palpable, perceptible （可感知的；[经]可评估的；相当可观的）
 
+:::
+
 
 ## 5433. eject
 
@@ -766,6 +824,8 @@
 :::warning{title=🤔同义词}
 
 - to spray, spray on （喷射；驱逐，逐出）
+
+:::
 
 
 ## 5434. victory
@@ -796,6 +856,8 @@
 
 - success, prosperity, win, hit （胜利；成功；克服）
 
+:::
+
 
 ## 5435. tent
 
@@ -821,6 +883,8 @@
 
 - residence, accommodation （帐篷；住处；帷幕）
 
+:::
+
 
 ## 5436. petrifaction
 
@@ -835,6 +899,8 @@
 :::warning{title=🤔同义词}
 
 - fossilization, landification （[地质]石化；化石；吓呆）
+
+:::
 
 
 ## 5437. regolith
@@ -852,6 +918,8 @@
 :::warning{title=🤔同义词}
 
 - weathered layer, mantlerock （[地质]风化层；表皮土；土被）
+
+:::
 
 
 ## 5438. marrow
@@ -880,6 +948,8 @@
 
 - essence, energy, vitality, elite, flower （髓，[解剖]骨髓；精华；活力）
 
+:::
+
 
 ## 5439. rim
 
@@ -905,6 +975,8 @@
 
 - margin, suburb （边，边缘；轮辋；圆圈）
 
+:::
+
 
 ## 5440. ptarmigan
 
@@ -923,6 +995,8 @@
 :::warning{title=🤔同义词}
 
 - thunderbird （[鸟]雷鸟；松鸡类）
+
+:::
 
 
 ## 5441. hydroxyapatite
@@ -953,6 +1027,8 @@
 
 - transduate, diffusate （滤过液；渗出液）
 
+:::
+
 
 ## 5443. stun
 
@@ -972,6 +1048,8 @@
 
 - coma, stupor （昏迷；打昏；惊倒；令人惊叹的事物）
 
+:::
+
 
 ## 5444. rapidity
 
@@ -986,6 +1064,8 @@
 :::warning{title=🤔同义词}
 
 - velocity, rate, speed （迅速，急速；速度；险峻）
+
+:::
 
 
 ## 5445. mudflats
@@ -1038,6 +1118,8 @@
 
 - limy （钙质的，[植]石灰质的）
 
+:::
+
 
 ## 5448. tailor
 
@@ -1054,6 +1136,8 @@
 :::warning{title=🤔同义词}
 
 - dressmaker, needlecraft, sartor, seamster （[服装]裁缝）
+
+:::
 
 
 ## 5449. eyebrow
@@ -1076,6 +1160,8 @@
 
 - valla, brovo （[解剖]眉毛）
 
+:::
+
 
 ## 5450. bedcover
 
@@ -1092,6 +1178,8 @@
 :::warning{title=🤔同义词}
 
 - bedspread, counterpane （床罩；被面）
+
+:::
 
 
 ## 5451. pillow
@@ -1122,6 +1210,8 @@
 
 - weeping willow （枕头）
 
+:::
+
 
 ## 5452. heal
 
@@ -1147,6 +1237,8 @@
 
 - cure, scar （痊愈）
 
+:::
+
 
 ## 5453. vaguely
 
@@ -1161,6 +1253,8 @@
 :::warning{title=🤔同义词}
 
 - doubtfully, equivocally （含糊地；暧昧地；茫然地）
+
+:::
 
 
 ## 5454. hundredfold
@@ -1184,6 +1278,8 @@
 - centuplicate （[数]百倍）
 
 - centuple （[数]百倍的）
+
+:::
 
 
 ## 5455. agriculturally
@@ -1213,6 +1309,8 @@
 :::warning{title=🤔同义词}
 
 - tuppence （针头；微不足道的东西）
+
+:::
 
 
 ## 5457. immersion
@@ -1245,6 +1343,8 @@
 
 - stuck in, single-mindedness （沉浸；陷入；专心）
 
+:::
+
 
 ## 5458. founding
 
@@ -1268,6 +1368,8 @@
 
 - casting, molding, solution （[机]铸造；溶解）
 
+:::
+
 
 ## 5459. indispensable
 
@@ -1286,6 +1388,8 @@
 :::warning{title=🤔同义词}
 
 - obbligato （不可缺少的；绝对必要的；责无旁贷的）
+
+:::
 
 
 ## 5460. nail
@@ -1336,6 +1440,8 @@
 
 - clou （[解剖]指甲；[五金]钉子）
 
+:::
+
 
 ## 5461. entertain
 
@@ -1355,6 +1461,8 @@
 
 - welcome in （款待）
 
+:::
+
 
 ## 5462. scuba
 
@@ -1373,6 +1481,8 @@
 :::warning{title=🤔同义词}
 
 - aqualung （[水运]水肺；水中呼吸器）
+
+:::
 
 
 ## 5463. frustrate
@@ -1394,6 +1504,8 @@
 - founder, come to naught （失败；受挫）
 
 - thwarted, unprofitable （挫败的；无益的）
+
+:::
 
 
 ## 5464. sunlit
@@ -1420,6 +1532,8 @@
 
 - ungratified （不令人满意的；不满足的；不符合要求的）
 
+:::
+
 
 ## 5466. separately
 
@@ -1440,6 +1554,8 @@
 :::warning{title=🤔同义词}
 
 - respectively, personally, in several （分别地；分离地；个别地）
+
+:::
 
 
 ## 5467. collectible
@@ -1478,6 +1594,8 @@
 
 - energy, spirit, soul, mind, genius （[化学]水银；水银柱；精神）
 
+:::
+
 
 ## 5469. rider
 
@@ -1498,6 +1616,8 @@
 :::warning{title=🤔同义词}
 
 - rail, caballero （骑手；附文；扶手）
+
+:::
 
 
 ## 5470. opera
@@ -1580,6 +1700,8 @@
 
 - flying colours, mudslide （[地质]山崩；大胜利）
 
+:::
+
 
 ## 5473. counteract
 
@@ -1595,6 +1717,8 @@
 
 - offset, kill, slow （抵消；中和；阻碍）
 
+:::
+
 
 ## 5474. stature
 
@@ -1609,6 +1733,8 @@
 :::warning{title=🤔同义词}
 
 - height, shape, altitude （身高，[人类]身材；（精神、道德等的）高度）
+
+:::
 
 
 ## 5475. relaxation
@@ -1655,6 +1781,8 @@
 
 - entertainment, occupation, recreation （放松；缓和；消遣）
 
+:::
+
 
 ## 5476. remediation
 
@@ -1671,6 +1799,8 @@
 :::warning{title=🤔同义词}
 
 - rectification, reclamation （补救；矫正；补习）
+
+:::
 
 
 ## 5477. unincorporated
@@ -1734,6 +1864,8 @@
 :::warning{title=🤔同义词}
 
 - configuration, side, shell, outline （侧面；轮廓；外形；[建][地质]剖面）
+
+:::
 
 
 ## 5479. spurge
@@ -1810,6 +1942,8 @@
 
 - forestall, monopolize （垄断；迫至一隅；使陷入绝境；把…难住）
 
+:::
+
 
 ## 5481. calotype
 
@@ -1849,6 +1983,8 @@
 
 - additional, attached, marginal, plus, more （边缘的；附加的）
 
+:::
+
 
 ## 5483. molasses
 
@@ -1873,6 +2009,8 @@
 :::warning{title=🤔同义词}
 
 - treacle, sirup （[食品]糖蜜，糖浆）
+
+:::
 
 
 ## 5484. torque
@@ -1935,6 +2073,8 @@
 
 - torgue, turning moment （转矩，[力]扭矩；项圈，金属领圈）
 
+:::
+
 
 ## 5485. battlefield
 
@@ -1955,6 +2095,8 @@
 :::warning{title=🤔同义词}
 
 - field, ground （[军]战场；沙场）
+
+:::
 
 
 ## 5486. dish
@@ -2015,6 +2157,8 @@
 
 - visit, chin music （成碟状；闲谈）
 
+:::
+
 
 ## 5487. needlefish
 
@@ -2050,6 +2194,8 @@
 
 - tell from, distinguish from （歧视；区别；辨别）
 
+:::
+
 
 ## 5489. fireball
 
@@ -2064,6 +2210,8 @@
 :::warning{title=🤔同义词}
 
 - demon, bolide （（热核武器爆炸后在空中出现的）[核]火球；[天]大流星；精力充沛的人）
+
+:::
 
 
 ## 5490. improvisation
@@ -2100,6 +2248,8 @@
 
 - suggestion, advice, proposal, instance （推荐；建议；推荐信）
 
+:::
+
 
 ## 5492. meteor
 
@@ -2123,6 +2273,8 @@
 
 - shooting star, falling star （[天]流星；[气象]大气现象）
 
+:::
+
 
 ## 5493. comprehensible
 
@@ -2137,6 +2289,8 @@
 :::warning{title=🤔同义词}
 
 - accessible, intelligible （可理解的）
+
+:::
 
 
 ## 5494. etch
@@ -2155,6 +2309,8 @@
 
 - sculpture, mechanical erosion （刻蚀；腐蚀剂）
 
+:::
+
 
 ## 5495. my
 
@@ -2171,6 +2327,8 @@
 :::warning{title=🤔同义词}
 
 - oh, dear （哎呀（表示惊奇等）；喔唷）
+
+:::
 
 
 ## 5496. hay
@@ -2199,6 +2357,8 @@
 
 - hey, stover （干草）
 
+:::
+
 
 ## 5497. hale
 
@@ -2226,6 +2386,8 @@
 
 - pressure, reduce to （迫使；猛拉）
 
+:::
+
 
 ## 5498. instantly
 
@@ -2242,6 +2404,8 @@
 :::warning{title=🤔同义词}
 
 - promptly, offhandedly （立即地；马上地；即刻地）
+
+:::
 
 
 ## 5499. ingoing
@@ -2265,5 +2429,7 @@
 - entered （新进的；进入的）
 
 - access, admittance （迁入；进入；就任）
+
+:::
 
 

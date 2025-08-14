@@ -22,6 +22,8 @@
 
 - sewage, cloacae （[建]下水道；阴沟；裁缝师）
 
+:::
+
 
 ## 7501. slum
 
@@ -40,6 +42,8 @@
 :::warning{title=🤔同义词}
 
 - bustee, rookery （[经]贫民窟；陋巷；脏乱的地方）
+
+:::
 
 
 ## 7502. detection
@@ -100,6 +104,8 @@
 
 - exploration, discovery, occurrence, find （侦查，探测；发觉，发现；察觉）
 
+:::
+
 
 ## 7503. glider
 
@@ -119,6 +125,8 @@
 
 - sailplane, soarer （[航]滑翔机；滑翔员；滑翔导弹）
 
+:::
+
 
 ## 7504. anytime
 
@@ -135,6 +143,8 @@
 :::warning{title=🤔同义词}
 
 - in season and out of season, unlimitedly （任何时候；无例外地）
+
+:::
 
 
 ## 7505. intuitive
@@ -159,6 +169,8 @@
 
 - instinctive, presentative （[心理]直觉的；凭直觉获知的）
 
+:::
+
 
 ## 7506. undernutrition
 
@@ -173,6 +185,8 @@
 :::warning{title=🤔同义词}
 
 - nutritional deficiency, innutrition （[医]营养不良；营养不足）
+
+:::
 
 
 ## 7507. urgent
@@ -211,6 +225,8 @@
 
 - emergency, instant （紧急的；急迫的）
 
+:::
+
 
 ## 7508. hohokam
 
@@ -236,6 +252,8 @@
 
 - unreliable, trustless （不负责任的；不可靠的）
 
+:::
+
 
 ## 7510. retrospect
 
@@ -260,6 +278,8 @@
 - to look back, look back on （回顾，追溯；回想）
 
 - to look back, look back on （回顾；追忆）
+
+:::
 
 
 ## 7511. chronic
@@ -324,6 +344,8 @@
 
 - long time, standing, extended （[医]慢性的；长期的；习惯性的）
 
+:::
+
 
 ## 7512. index
 
@@ -385,6 +407,8 @@
 
 - to point out, to indicate （指出；编入索引中）
 
+:::
+
 
 ## 7513. flatfish
 
@@ -401,6 +425,8 @@
 :::warning{title=🤔同义词}
 
 - plaice （[鱼]比目鱼（鲽形目鱼的总称））
+
+:::
 
 
 ## 7514. attic
@@ -427,6 +453,8 @@
 
 - garret, mezzanine floor （阁楼；[建]顶楼；鼓室上的隐窝）
 
+:::
+
 
 ## 7515. sundial
 
@@ -435,6 +463,8 @@
 :::warning{title=🤔同义词}
 
 - gnomon, solarium （日晷，[天]日规；羽扇豆（产于美国东部））
+
+:::
 
 
 ## 7516. butte
@@ -455,6 +485,8 @@
 
 - easily, gently, easy, readily （轻轻地；轻松地；容易地；不费力地）
 
+:::
+
 
 ## 7518. uneducated
 
@@ -469,6 +501,8 @@
 :::warning{title=🤔同义词}
 
 - dark, empty, ignorant, innocent （无知的；未受教育的）
+
+:::
 
 
 ## 7519. securely
@@ -485,6 +519,8 @@
 
 - safely, hard （安全地；牢固地；安心地；有把握地）
 
+:::
+
 
 ## 7520. uncorrupt
 
@@ -499,6 +535,8 @@
 :::warning{title=🤔同义词}
 
 - incorrupt （不腐败的；未堕落的；无讹误的；纯正的）
+
+:::
 
 
 ## 7521. landscapist
@@ -518,6 +556,8 @@
 :::warning{title=🤔同义词}
 
 - landscape painter （风景画家）
+
+:::
 
 
 ## 7522. scenery
@@ -544,6 +584,8 @@
 
 - landscape, view, picture, prospect, outlook （风景；景色；舞台布景）
 
+:::
+
 
 ## 7523. complimentary
 
@@ -569,6 +611,8 @@
 
 - laudatory （赠送的；称赞的；问候的）
 
+:::
+
 
 ## 7524. incorporation
 
@@ -588,6 +632,8 @@
 
 - corporation, establishment, company, marriage, merger （公司；合并，编入；团体组织）
 
+:::
+
 
 ## 7525. sobriquet
 
@@ -602,6 +648,8 @@
 :::warning{title=🤔同义词}
 
 - agname, epithet （绰号）
+
+:::
 
 
 ## 7526. socialize
@@ -618,6 +666,8 @@
 
 - rub elbows （交际；参与社交）
 
+:::
+
 
 ## 7527. rename
 
@@ -632,6 +682,8 @@
 :::warning{title=🤔同义词}
 
 - rechristen （[计]重新命名，改名）
+
+:::
 
 
 ## 7528. awaken
@@ -652,6 +704,8 @@
 
 - waken up, be awake to （觉醒；醒来；意识到）
 
+:::
+
 
 ## 7529. afflict
 
@@ -660,6 +714,8 @@
 :::warning{title=🤔同义词}
 
 - harry, worry, trouble, tear, devil （折磨；使痛苦；使苦恼）
+
+:::
 
 
 ## 7530. governance
@@ -684,6 +740,8 @@
 
 - administration, management, supervision, regulation, disposal （管理；统治；支配）
 
+:::
+
 
 ## 7531. methodically
 
@@ -699,6 +757,8 @@
 
 - systematically （有方法地；有系统地）
 
+:::
+
 
 ## 7532. feverishly
 
@@ -707,6 +767,8 @@
 :::warning{title=🤔同义词}
 
 - excitedly, crazily （狂热地；兴奋地）
+
+:::
 
 
 ## 7533. personnel
@@ -766,6 +828,8 @@
 :::warning{title=🤔同义词}
 
 - crew, Personnel Department （人事部门；全体人员）
+
+:::
 
 
 ## 7534. antifungal
@@ -852,6 +916,8 @@
 
 - superior officer, nibs （上司；较年长者；毕业班学生）
 
+:::
+
 
 ## 7536. flashy
 
@@ -866,6 +932,8 @@
 :::warning{title=🤔同义词}
 
 - fierce, shot, instantaneous （闪光的；瞬间的；俗丽的；暴躁的）
+
+:::
 
 
 ## 7537. dimly
@@ -883,6 +951,8 @@
 :::warning{title=🤔同义词}
 
 - indistinctly, hazily （朦胧地；微暗）
+
+:::
 
 
 ## 7538. earthward
@@ -948,6 +1018,8 @@
 :::warning{title=🤔同义词}
 
 - judge, right, judicature （司法，法律制裁；正义；法官，[法]审判员）
+
+:::
 
 
 ## 7540. overwhelmingly
@@ -1016,6 +1088,8 @@
 
 - concentration, convergence, fishing, set, gathering （[机]装配；集会，集合）
 
+:::
+
 
 ## 7542. stressful
 
@@ -1037,6 +1111,8 @@
 
 - intense, tense （紧张的；有压力的）
 
+:::
+
 
 ## 7543. exertion
 
@@ -1052,6 +1128,8 @@
 
 - effort, use, trial, pain, struggle （发挥；运用；努力）
 
+:::
+
 
 ## 7544. deformity
 
@@ -1066,6 +1144,8 @@
 :::warning{title=🤔同义词}
 
 - malformation, hesitation mark terata （[医]畸形；畸形的人或物；道德方面的缺陷）
+
+:::
 
 
 ## 7545. disruptive
@@ -1089,6 +1169,8 @@
 :::warning{title=🤔同义词}
 
 - destructive, devastative （破坏的；分裂性的；制造混乱的）
+
+:::
 
 
 ## 7546. girder
@@ -1141,6 +1223,8 @@
 
 - sommer, carling （[建]大梁，纵梁）
 
+:::
+
 
 ## 7547. bustle
 
@@ -1168,6 +1252,8 @@
 
 - activity, rumpus （喧闹；活跃；裙撑；热闹的活动）
 
+:::
+
 
 ## 7548. unforeseen
 
@@ -1188,6 +1274,8 @@
 :::warning{title=🤔同义词}
 
 - unexpectable （未预见到的，无法预料的）
+
+:::
 
 
 ## 7549. conversational
@@ -1211,6 +1299,8 @@
 :::warning{title=🤔同义词}
 
 - dialogic, communicative （对话的；健谈的）
+
+:::
 
 
 ## 7550. governor
@@ -1241,6 +1331,8 @@
 
 - managers, adjustment, ruler （主管人员；统治者，管理者；[机][自]调节器；地方长官）
 
+:::
+
 
 ## 7551. abbreviate
 
@@ -1259,6 +1351,8 @@
 :::warning{title=🤔同义词}
 
 - syncopate （缩写，使省略；使简短）
+
+:::
 
 
 ## 7552. restrain
@@ -1283,6 +1377,8 @@
 
 - possess, regulate, contain, manage, bottle （抑制，控制；约束；制止）
 
+:::
+
 
 ## 7553. broadcaster
 
@@ -1297,6 +1393,8 @@
 :::warning{title=🤔同义词}
 
 - announcer （广播公司；广播员；播送设备；[农机]撒播物）
+
+:::
 
 
 ## 7554. adviser
@@ -1329,6 +1427,8 @@
 
 - don, consultant, counselor （顾问；劝告者；指导教师（等于advisor））
 
+:::
+
 
 ## 7555. clarification
 
@@ -1349,6 +1449,8 @@
 :::warning{title=🤔同义词}
 
 - explanation, notes, purification, legend, illustration （[化工]澄清，说明；净化）
+
+:::
 
 
 ## 7556. awful
@@ -1376,6 +1478,8 @@
 - terrible, august, horrible, awesome, fearful （可怕的，吓人的；糟糕的，糟透的（口语）；庄严的，威严的）
 
 - extremely, full, most, rare （十分，极其）
+
+:::
 
 
 ## 7557. speechwriter
@@ -1406,6 +1510,8 @@
 
 - video （电视的；适于上电视镜头的）
 
+:::
+
 
 ## 7559. electrify
 
@@ -1420,6 +1526,8 @@
 :::warning{title=🤔同义词}
 
 - charge, heat （使电气化；使充电；使触电；使激动）
+
+:::
 
 
 ## 7560. legislative
@@ -1470,6 +1578,8 @@
 
 - canorous, tuneful （有旋律的；音调优美的）
 
+:::
+
 
 ## 7562. predictably
 
@@ -1502,6 +1612,8 @@
 :::warning{title=🤔同义词}
 
 - soporose, pulseless （[动]昏睡的；无生气的；泠漠的）
+
+:::
 
 
 ## 7565. chicken
@@ -1564,6 +1676,8 @@
 
 - small, baby （鸡肉的；胆怯的；幼小的）
 
+:::
+
 
 ## 7566. compute
 
@@ -1588,6 +1702,8 @@
 - figure, cast （[数]计算；估算；推断）
 
 - calculation, estimation, appraisal, valuation, count （[数]计算；估计；推断）
+
+:::
 
 
 ## 7567. pathology
@@ -1637,6 +1753,8 @@
 - give offense, gross out （冒犯；使…不愉快）
 
 - vary, be in breach of （违反；进攻；引起不舒服）
+
+:::
 
 
 ## 7569. disk
@@ -1697,6 +1815,8 @@
 
 - magneticdisc, circular disc （[计]磁盘，磁碟片；圆盘，盘状物；[电子]唱片）
 
+:::
+
 
 ## 7570. helper
 
@@ -1711,6 +1831,8 @@
 :::warning{title=🤔同义词}
 
 - friend, assistant, aid, mate （助手，帮手）
+
+:::
 
 
 ## 7571. triangular
@@ -1740,6 +1862,8 @@
 :::warning{title=🤔同义词}
 
 - trigonal, three-cornered （[数]三角的，三角形的；三人间的）
+
+:::
 
 
 ## 7572. counsel
@@ -1776,6 +1900,8 @@
 
 - agree to sb, make suggestions （建议；劝告）
 
+:::
+
 
 ## 7573. programme
 
@@ -1802,6 +1928,8 @@
 - plan, scheme, procedure, routine, formulation （计划，规划；节目；[计]程序）
 
 - formulate, mark out （规划；拟…计划）
+
+:::
 
 
 ## 7574. curvature
@@ -1842,6 +1970,8 @@
 
 - give, winding （弯曲，[数]曲率）
 
+:::
+
 
 ## 7575. endpoint
 
@@ -1860,6 +1990,8 @@
 :::warning{title=🤔同义词}
 
 - bottom, termination point （端点；末端，终结点）
+
+:::
 
 
 ## 7576. vocational
@@ -1903,6 +2035,8 @@
 :::warning{title=🤔同义词}
 
 - professional, occupational （职业的，行业的）
+
+:::
 
 
 ## 7577. datebase
@@ -1953,6 +2087,8 @@
 
 - required routine （（花样滑冰、竞技体操等的）规定动作）
 
+:::
+
 
 ## 7579. shyness
 
@@ -1970,6 +2106,8 @@
 
 - bashfulness, coyness （羞怯）
 
+:::
+
 
 ## 7580. lethargy
 
@@ -1978,6 +2116,8 @@
 :::warning{title=🤔同义词}
 
 - narcoma, hypnesthesia （昏睡；死气沉沉；[医]嗜眠（症））
+
+:::
 
 
 ## 7581. hostility
@@ -1994,6 +2134,8 @@
 
 - hatred, enmity （[心理]敌意；战争行动）
 
+:::
+
 
 ## 7582. credential
 
@@ -2002,6 +2144,8 @@
 :::warning{title=🤔同义词}
 
 - certificate, letter （证书；凭据；国书）
+
+:::
 
 
 ## 7583. disorientation
@@ -2020,6 +2164,8 @@
 
 - delusion, fog （迷失方向；迷惑）
 
+:::
+
 
 ## 7584. additionally
 
@@ -2034,6 +2180,8 @@
 :::warning{title=🤔同义词}
 
 - again, moreover, besides, then, both （此外；又，加之）
+
+:::
 
 
 ## 7585. uninterrupted
@@ -2057,6 +2205,8 @@
 :::warning{title=🤔同义词}
 
 - continuing, straight, endless, ongoing, running （[计]不间断的；连续的）
+
+:::
 
 
 ## 7586. bureaucratization
@@ -2093,6 +2243,8 @@
 
 - skewing, short trip （偏移；远足；短程旅行；离题；游览圆）
 
+:::
+
 
 ## 7588. dissension
 
@@ -2107,6 +2259,8 @@
 :::warning{title=🤔同义词}
 
 - argument, brush, dispute （纠纷；意见不合；争吵；倾轧）
+
+:::
 
 
 ## 7589. embryonic
@@ -2145,6 +2299,8 @@
 
 - stop, stay, stand, crash （解体；分裂；崩溃；馏分组成；停止）
 
+:::
+
 
 ## 7591. necklace
 
@@ -2178,6 +2334,8 @@
 
 - spec （次要法规；细则；地方法则；（社团制定的）内部章程）
 
+:::
+
 
 ## 7593. republish
 
@@ -2197,6 +2355,8 @@
 
 - reprint （再版，翻版；再发布；重新发表；重订遗嘱）
 
+:::
+
 
 ## 7594. publicly
 
@@ -2211,6 +2371,8 @@
 :::warning{title=🤔同义词}
 
 - openly, declaredly （公然地；以公众名义）
+
+:::
 
 
 ## 7595. distantly
@@ -2230,6 +2392,8 @@
 :::warning{title=🤔同义词}
 
 - strange, coldly （远离地；疏远地；冷淡地）
+
+:::
 
 
 ## 7596. oily
@@ -2259,6 +2423,8 @@
 :::warning{title=🤔同义词}
 
 - oleic, unctuous （[油脂]油的；油质的；油滑的；油腔滑调的）
+
+:::
 
 
 ## 7597. assault
@@ -2295,6 +2461,8 @@
 
 - descend on, set at （袭击；动武）
 
+:::
+
 
 ## 7598. fierce
 
@@ -2316,6 +2484,8 @@
 
 - fell, violent, hard （凶猛的；猛烈的；暴躁的）
 
+:::
+
 
 ## 7599. categorize
 
@@ -2332,5 +2502,7 @@
 :::warning{title=🤔同义词}
 
 - class, sort through （分类）
+
+:::
 
 

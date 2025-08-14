@@ -54,6 +54,8 @@
 
 - sell-through, resale （零售）
 
+:::
+
 
 ## 4801. Japan
 
@@ -78,6 +80,8 @@
 :::warning{title=🤔同义词}
 
 - lacquerware （[轻]漆器；[涂料]日本亮漆）
+
+:::
 
 
 ## 4802. microwave
@@ -116,6 +120,8 @@
 
 - wavelet （[物]微波）
 
+:::
+
 
 ## 4803. adversely
 
@@ -124,6 +130,8 @@
 :::warning{title=🤔同义词}
 
 - ill, disadvantageously （不利地；逆地；反对地）
+
+:::
 
 
 ## 4804. indirectly
@@ -144,6 +152,8 @@
 
 - circuitously, round about （间接地；不诚实；迂回地）
 
+:::
+
 
 ## 4805. domesticate
 
@@ -158,6 +168,8 @@
 :::warning{title=🤔同义词}
 
 - introduce, to teach （驯养；教化；引进）
+
+:::
 
 
 ## 4806. philosophical
@@ -182,6 +194,8 @@
 
 - cool, imperturbable （哲学的（等于philosophic）；冷静的）
 
+:::
+
 
 ## 4807. deceive
 
@@ -202,6 +216,8 @@
 :::warning{title=🤔同义词}
 
 - take in sb, give the shaft （欺骗；行骗）
+
+:::
 
 
 ## 4808. aesthetically
@@ -241,6 +257,8 @@
 :::warning{title=🤔同义词}
 
 - humanics （[人类]人类学）
+
+:::
 
 
 ## 4810. functionalism
@@ -303,6 +321,8 @@
 
 - capability, ability, quality, genius, endowment （才能；天才；天资）
 
+:::
+
 
 ## 4812. continuation
 
@@ -317,6 +337,8 @@
 :::warning{title=🤔同义词}
 
 - extension, segue （继续；续集；延长；附加部分；扩建物）
+
+:::
 
 
 ## 4813. detach
@@ -338,6 +360,8 @@
 :::warning{title=🤔同义词}
 
 - mission, keep apart （分离；派遣；使超然）
+
+:::
 
 
 ## 4814. hydrodynamic
@@ -370,6 +394,8 @@
 
 - waterpower （水力的；[流]流体动力学的）
 
+:::
+
 
 ## 4815. shoreline
 
@@ -384,6 +410,8 @@
 :::warning{title=🤔同义词}
 
 - coastline, sea line （[海洋]海岸线；海岸线地带）
+
+:::
 
 
 ## 4816. sedge
@@ -456,6 +484,8 @@
 
 - regret, grieve over （哀悼；痛惜）
 
+:::
+
 
 ## 4820. systematically
 
@@ -472,6 +502,8 @@
 :::warning{title=🤔同义词}
 
 - organically, methodically （有系统地；有组织地）
+
+:::
 
 
 ## 4821. curiosity
@@ -506,6 +538,8 @@
 
 - treasure, pearl （好奇，好奇心；珍品，古董，古玩）
 
+:::
+
 
 ## 4822. ancestral
 
@@ -531,6 +565,8 @@
 
 - patrimonial （[生物]祖先的；[遗]祖传的）
 
+:::
+
 
 ## 4823. resume
 
@@ -555,6 +591,8 @@
 - bio, abstract, brief, summary, record （[管理]履历；个人简历；摘要）
 
 - recover, start over （重新开始；重新获得）
+
+:::
 
 
 ## 4824. eligible
@@ -583,6 +621,8 @@
 
 - acceptee （合格者；适任者；有资格者）
 
+:::
+
 
 ## 4825. absolutely
 
@@ -608,6 +648,8 @@
 
 - totally, entirely, completely, thoroughly, strictly, fully （绝对地；完全地）
 
+:::
+
 
 ## 4826. senator
 
@@ -622,6 +664,8 @@
 :::warning{title=🤔同义词}
 
 - commissioner, councilor （参议员；（古罗马的）元老院议员；评议员，理事）
+
+:::
 
 
 ## 4827. pig
@@ -674,6 +718,8 @@
 
 - police, copper, swine, pork （猪；猪肉；警察）
 
+:::
+
 
 ## 4828. marvel
 
@@ -694,6 +740,8 @@
 :::warning{title=🤔同义词}
 
 - phenomenon, miracle, wonder （奇迹）
+
+:::
 
 
 ## 4829. afraid
@@ -718,6 +766,8 @@
 
 - worried, scared （害怕的；恐怕；担心的）
 
+:::
+
 
 ## 4830. estuary
 
@@ -732,6 +782,8 @@
 :::warning{title=🤔同义词}
 
 - kuala, river mouth （[地理][水文]河口；江口）
+
+:::
 
 
 ## 4831. seismic
@@ -846,6 +898,8 @@
 
 - semidiameter （[数]半径，半径范围；[解剖]桡骨；辐射光线；有效航程）
 
+:::
+
 
 ## 4833. withdrawal
 
@@ -873,6 +927,8 @@
 
 - cancellation, pullback （[军]撤退，收回；[金融]提款；取消；退股）
 
+:::
+
 
 ## 4834. ember
 
@@ -887,6 +943,8 @@
 :::warning{title=🤔同义词}
 
 - ash （灰烬，余烬）
+
+:::
 
 
 ## 4835. launch
@@ -935,6 +993,8 @@
 
 - emission, shot, sending, projection, loose （[航]发射；发行，投放市场；下水；汽艇）
 
+:::
+
 
 ## 4836. sorghum
 
@@ -955,6 +1015,8 @@
 :::warning{title=🤔同义词}
 
 - durra, broomcorn （[作物]高粱；蜀黍；甜得发腻的东西）
+
+:::
 
 
 ## 4837. paleoecologist
@@ -982,6 +1044,8 @@
 - original, major, central, premier, leading （原始的；主要的；最初的）
 
 - deliver, free, unhold （释放（被压抑的童年情绪））
+
+:::
 
 
 ## 4839. regulatory
@@ -1032,6 +1096,8 @@
 
 - administrative, managing, guiding （管理的；控制的；调整的）
 
+:::
+
 
 ## 4840. isotopic
 
@@ -1078,6 +1144,8 @@
 - leader, chief, boss, officer （队长，首领；[水运]船长；上尉；海军上校）
 
 - officer, boss, lead （指挥；率领）
+
+:::
 
 
 ## 4842. extension
@@ -1135,6 +1203,8 @@
 :::warning{title=🤔同义词}
 
 - delay, spread （延长；[经]延期；扩大；伸展；电话分机）
+
+:::
 
 
 ## 4843. ultimate
@@ -1197,6 +1267,8 @@
 
 - telos, fundamental principle （终极；根本；基本原则）
 
+:::
+
 
 ## 4844. omit
 
@@ -1211,6 +1283,8 @@
 :::warning{title=🤔同义词}
 
 - understand, elide （[数]省略；遗漏；删除；疏忽）
+
+:::
 
 
 ## 4845. applicable
@@ -1241,6 +1315,8 @@
 
 - becoming, shaped, likely, possible, meet （[药]可适用的；可应用的；合适的）
 
+:::
+
 
 ## 4846. snowstorm
 
@@ -1259,6 +1335,8 @@
 :::warning{title=🤔同义词}
 
 - blizzard, stormy weather （暴风雪；[气象]雪暴）
+
+:::
 
 
 ## 4847. macdonald
@@ -1279,6 +1357,8 @@
 
 - movement, removal, exercise, sport, campaign （运动；移动；旅行）
 
+:::
+
 
 ## 4849. persuasively
 
@@ -1287,6 +1367,8 @@
 :::warning{title=🤔同义词}
 
 - convincingly, conceivably （令人信服地；口才好地）
+
+:::
 
 
 ## 4850. livable
@@ -1304,6 +1386,8 @@
 :::warning{title=🤔同义词}
 
 - liveable, inhabitable （适于居住的；生活过得有价值的）
+
+:::
 
 
 ## 4851. pretty
@@ -1350,6 +1434,8 @@
 
 - relatively, fairly, comparatively, reasonably, considerably （相当地；颇）
 
+:::
+
 
 ## 4852. dime
 
@@ -1395,6 +1481,8 @@
 
 - seal of, give evidence of （作证；证明）
 
+:::
+
 
 ## 4854. outlying
 
@@ -1409,6 +1497,8 @@
 :::warning{title=🤔同义词}
 
 - unrelated, irrespective （边远的；无关的）
+
+:::
 
 
 ## 4855. dollar
@@ -1459,6 +1549,8 @@
 
 - peso （美元）
 
+:::
+
 
 ## 4856. lid
 
@@ -1492,6 +1584,8 @@
 
 - limitation, qualification, restriction, cover （盖子；眼睑；限制）
 
+:::
+
 
 ## 4857. privilege
 
@@ -1512,6 +1606,8 @@
 :::warning{title=🤔同义词}
 
 - franchise, peculiar （[计]特权；优待；基本权利）
+
+:::
 
 
 ## 4858. ethological
@@ -1550,6 +1646,8 @@
 
 - destruction, breaking, blasting, demolition （破坏，毁坏；分裂，瓦解）
 
+:::
+
 
 ## 4860. subsistence
 
@@ -1575,6 +1673,8 @@
 
 - life, existence, presence, entity, living （生活；生存；存在）
 
+:::
+
 
 ## 4861. notwithstanding
 
@@ -1595,6 +1695,8 @@
 - in spite of, in despite of （尽管，虽然）
 
 - although, while, though, as, albeit （虽然）
+
+:::
 
 
 ## 4862. autumn
@@ -1630,6 +1732,8 @@
 - fall, maturation phase （秋天；成熟期；渐衰期，凋落期）
 
 - fall （秋天的，[天]秋季的）
+
+:::
 
 
 ## 4863. clip
@@ -1678,6 +1782,8 @@
 
 - shear, cutting back （[园艺]修剪；夹子；回形针）
 
+:::
+
 
 ## 4864. impetus
 
@@ -1692,6 +1798,8 @@
 :::warning{title=🤔同义词}
 
 - momentum, promotion, acceleration （动力；促进；冲力）
+
+:::
 
 
 ## 4865. grower
@@ -1714,6 +1822,8 @@
 
 - cultivator, raiser （栽培者；生长物）
 
+:::
+
 
 ## 4866. sophistication
 
@@ -1728,6 +1838,8 @@
 :::warning{title=🤔同义词}
 
 - complexity, intricacy （复杂；诡辩；老于世故；有教养）
+
+:::
 
 
 ## 4867. instructive
@@ -1745,6 +1857,8 @@
 :::warning{title=🤔同义词}
 
 - beneficial, helpful, useful, conducive, advantageous （有益的；教育性的）
+
+:::
 
 
 ## 4868. manual
@@ -1807,6 +1921,8 @@
 
 - guide, handbook, notebook （手册，指南）
 
+:::
+
 
 ## 4869. mundane
 
@@ -1830,6 +1946,8 @@
 
 - ordinary, lay, universal, international, stock （世俗的，平凡的；世界的，宇宙的）
 
+:::
+
 
 ## 4870. raindrop
 
@@ -1849,6 +1967,8 @@
 
 - drip-drop （[气象]雨滴；雨点）
 
+:::
+
 
 ## 4871. appoint
 
@@ -1865,6 +1985,8 @@
 - install, constitute, name, place, specify （任命；指定；约定）
 
 - nominate sb to, institute to （任命；委派）
+
+:::
 
 
 ## 4872. inflation
@@ -1907,6 +2029,8 @@
 
 - expansion, bulking （膨胀；[金融]通货膨胀；夸张；自命不凡）
 
+:::
+
 
 ## 4873. sunflower
 
@@ -1934,6 +2058,8 @@
 
 - helianthus annuus （[作物]向日葵）
 
+:::
+
 
 ## 4874. doorway
 
@@ -1948,6 +2074,8 @@
 :::warning{title=🤔同义词}
 
 - mechanism, approach, pass （门口；途径）
+
+:::
 
 
 ## 4875. injure
@@ -1964,6 +2092,8 @@
 
 - hurt, knife （伤害，损害）
 
+:::
+
 
 ## 4876. instigate
 
@@ -1978,6 +2108,8 @@
 :::warning{title=🤔同义词}
 
 - encourage, fan （唆使；煽动；教唆；怂恿）
+
+:::
 
 
 ## 4877. spill
@@ -2013,6 +2145,8 @@
 - discharge, issue, shed （溢出，流出；摔下；涌流）
 
 - superflux, extravasation （溢出，溅出；溢出量；摔下；小塞子）
+
+:::
 
 
 ## 4878. January
@@ -2055,6 +2189,8 @@
 
 - door, system, mechanism, method, approach （[建]门；[计]网关；方法；通道；途径）
 
+:::
+
 
 ## 4880. rigorously
 
@@ -2073,6 +2209,8 @@
 :::warning{title=🤔同义词}
 
 - severely, harshly （严厉地；残酷地）
+
+:::
 
 
 ## 4881. roam
@@ -2103,6 +2241,8 @@
 
 - travel, bummel （漫步，漫游；流浪）
 
+:::
+
 
 ## 4882. onrushing
 
@@ -2119,6 +2259,8 @@
 :::warning{title=🤔同义词}
 
 - billowy, surgent （汹涌的；猛冲的；顾前不顾后奔跑的）
+
+:::
 
 
 ## 4883. tricycle
@@ -2144,6 +2286,8 @@
 :::warning{title=🤔同义词}
 
 - trike, pedicab, trishaw （[车辆]三轮车）
+
+:::
 
 
 ## 4884. hydrological
@@ -2184,6 +2328,8 @@
 
 - predict, think ahead （预见；预知）
 
+:::
+
 
 ## 4886. ignorance
 
@@ -2198,6 +2344,8 @@
 :::warning{title=🤔同义词}
 
 - darkness, unwisdom （无知，愚昧；不知，不懂）
+
+:::
 
 
 ## 4887. constitutional
@@ -2228,6 +2376,8 @@
 
 - essential, intrinsic, interior （[法]宪法的；本质的；体质上的；保健的）
 
+:::
+
 
 ## 4888. orogeny
 
@@ -2251,6 +2401,8 @@
 
 - concentrated earth movement, tectogenesis （[地质]造山运动，造山作用；山岳的形成）
 
+:::
+
 
 ## 4889. accuse
 
@@ -2273,6 +2425,8 @@
 - blame, law （控告，指控；谴责；归咎于）
 
 - law, come in for blame （指责；控告）
+
+:::
 
 
 ## 4890. administrator
@@ -2307,6 +2461,8 @@
 
 - supervisor, conductor （[管理]管理人；行政官）
 
+:::
+
 
 ## 4891. trainer
 
@@ -2330,6 +2486,8 @@
 
 - assistant coach, drillmaster （助理教练；[劳经]训练员；驯马师；飞行练习器）
 
+:::
+
 
 ## 4892. temporarily
 
@@ -2349,6 +2507,8 @@
 
 - provisionally, casually （临时地，临时）
 
+:::
+
 
 ## 4893. befit
 
@@ -2363,6 +2523,8 @@
 :::warning{title=🤔同义词}
 
 - be appropriate for, suit to （适合于；为…该做的；对…适当）
+
+:::
 
 
 ## 4894. compost
@@ -2385,6 +2547,8 @@
 
 - mixture, hybrid, mix （[肥料]堆肥；混合物）
 
+:::
+
 
 ## 4895. collaborator
 
@@ -2399,6 +2563,8 @@
 :::warning{title=🤔同义词}
 
 - cooperator, helpmeet （[劳经]合作者；勾结者；通敌者）
+
+:::
 
 
 ## 4896. lodge
@@ -2427,6 +2593,8 @@
 
 - board, guest （寄宿；临时住宿）
 
+:::
+
 
 ## 4897. endow
 
@@ -2447,6 +2615,8 @@
 :::warning{title=🤔同义词}
 
 - gift, put （赋予；捐赠；天生具有）
+
+:::
 
 
 ## 4898. patience
@@ -2479,6 +2649,8 @@
 
 - tolerance, endurance （耐性，耐心；忍耐，容忍）
 
+:::
+
 
 ## 4899. residency
 
@@ -2493,5 +2665,7 @@
 :::warning{title=🤔同义词}
 
 - accommodation, dwelling place （住处；住院医生实习期）
+
+:::
 
 

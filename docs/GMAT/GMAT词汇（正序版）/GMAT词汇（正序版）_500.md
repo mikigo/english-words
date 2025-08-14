@@ -24,6 +24,8 @@
 
 - coercing （强迫；以强力获得（compel的ing形式））
 
+:::
+
 
 ## 501. compensate
 
@@ -46,6 +48,8 @@
 - make good, to make up for （补偿，赔偿；抵消）
 
 - make good, to make up for （补偿，赔偿；付报酬）
+
+:::
 
 
 ## 502. compensation
@@ -106,6 +110,8 @@
 
 - payment, consideration, insurance, reward, offset （[会计]补偿；报酬；[保险]赔偿金）
 
+:::
+
 
 ## 503. competence
 
@@ -142,6 +148,8 @@
 :::warning{title=🤔同义词}
 
 - ability, capacity, rights, power, jurisdiction （能力，[胚]胜任；权限；作证能力；足以过舒适生活的收入）
+
+:::
 
 
 ## 504. competitive
@@ -202,6 +210,8 @@
 
 - played, rival （竞争的；比赛的；求胜心切的）
 
+:::
+
 
 ## 505. compile
 
@@ -223,6 +233,8 @@
 
 - to edit, copy-edit （编译；编制；编辑；[图情]汇编）
 
+:::
+
 
 ## 506. complacency
 
@@ -240,6 +252,8 @@
 
 - satisfaction, content, fill （自满；满足；自鸣得意）
 
+:::
+
 
 ## 507. complainant
 
@@ -248,6 +262,8 @@
 :::warning{title=🤔同义词}
 
 - plaintiff, claimant （[法]原告；发牢骚的人；抱怨者）
+
+:::
 
 
 ## 508. complaint
@@ -281,6 +297,8 @@
 :::warning{title=🤔同义词}
 
 - sickness, complain of （抱怨；诉苦；疾病；委屈）
+
+:::
 
 
 ## 509. complex
@@ -349,6 +367,8 @@
 
 - sophisticated, involved, synthetic, detailed, intricate （复杂的；合成的）
 
+:::
+
 
 ## 510. complication
 
@@ -363,6 +383,8 @@
 :::warning{title=🤔同义词}
 
 - chaos, confusion, disorder, involvement, mix （并发症；复杂；复杂化；混乱）
+
+:::
 
 
 ## 511. comply
@@ -384,6 +406,8 @@
 :::warning{title=🤔同义词}
 
 - engage, abide by/obey/observe （遵守；顺从，遵从；答应）
+
+:::
 
 
 ## 512. component
@@ -448,6 +472,8 @@
 
 - module, element, constituent （成分；组件；[电子]元件）
 
+:::
+
 
 ## 513. compose
 
@@ -472,6 +498,8 @@
 - constitute, form, structure, calm （构成；写作；使平静；排…的版）
 
 - write, consist, make up （组成；作曲；排字）
+
+:::
 
 
 ## 514. composition
@@ -531,6 +559,8 @@
 :::warning{title=🤔同义词}
 
 - synthetic, songwriting （作文，作曲；[材]构成；合成物）
+
+:::
 
 
 ## 515. compound
@@ -603,6 +633,8 @@
 
 - mixed, hybrid （[生物]复合的；混合的）
 
+:::
+
 
 ## 516. comprehend
 
@@ -619,6 +651,8 @@
 :::warning{title=🤔同义词}
 
 - involve, see, contain, absorb, read （理解；包含；由…组成）
+
+:::
 
 
 ## 517. comprehension
@@ -644,6 +678,8 @@
 :::warning{title=🤔同义词}
 
 - containing, grasp, understanding, involved in, involvement （理解；包含）
+
+:::
 
 
 ## 518. compress
@@ -672,6 +708,8 @@
 
 - impact, pack （压缩，压紧；精简）
 
+:::
+
 
 ## 519. comprise
 
@@ -692,6 +730,8 @@
 :::warning{title=🤔同义词}
 
 - involve, contain （包含；由…组成）
+
+:::
 
 
 ## 520. compromise
@@ -723,6 +763,8 @@
 - meet someone halfway, come to terms with （妥协；让步）
 
 - accommodation, reconciliation （妥协，和解；折衷）
+
+:::
 
 
 ## 521. compulsory
@@ -771,6 +813,8 @@
 
 - required routine （（花样滑冰、竞技体操等的）规定动作）
 
+:::
+
 
 ## 522. computation
 
@@ -804,6 +848,8 @@
 
 - estimation, calculation, appraisal, valuation, count （估计，[数]计算）
 
+:::
+
 
 ## 523. compute
 
@@ -831,6 +877,8 @@
 
 - calculation, estimation, appraisal, valuation, count （[数]计算；估计；推断）
 
+:::
+
 
 ## 524. conceal
 
@@ -850,6 +898,8 @@
 
 - lock, pocket, to hide （隐藏；隐瞒）
 
+:::
+
 
 ## 525. concede
 
@@ -866,6 +916,8 @@
 - afford, accept, agree, recognize, extend （承认；退让；给予，容许）
 
 - meet halfway, give ground （让步）
+
+:::
 
 
 ## 526. conceive
@@ -889,6 +941,8 @@
 - design, hold （怀孕；构思；以为；持有）
 
 - allow, think of, think about （怀孕；设想；考虑）
+
+:::
 
 
 ## 527. concentrate
@@ -938,6 +992,8 @@
 - centre, localise （集中；[物]浓缩）
 
 - compression, solidification （[物]浓缩，精选；浓缩液）
+
+:::
 
 
 ## 528. concentration
@@ -1001,6 +1057,8 @@
 :::warning{title=🤔同义词}
 
 - thickness, compression, assembly, convergence, set （[物][化学]浓度；集中；浓缩；专心；集合）
+
+:::
 
 
 ## 529. conceptual
@@ -1097,6 +1155,8 @@
 
 - relationship, connection, attention, consideration, bearing （关系；关心；关心的事）
 
+:::
+
 
 ## 531. concerning
 
@@ -1160,6 +1220,8 @@
 
 - involving, relating （涉及；使关心（concern的ing形式）；忧虑）
 
+:::
+
 
 ## 532. concert
 
@@ -1213,6 +1275,8 @@
 
 - cooperate, sort （协调；协力）
 
+:::
+
 
 ## 533. concession
 
@@ -1237,6 +1301,8 @@
 :::warning{title=🤔同义词}
 
 - recognition, license （让步；特许（权）；承认；退位）
+
+:::
 
 
 ## 534. conclude
@@ -1264,6 +1330,8 @@
 - understand, condition （推断；决定，[劳经]作结论；结束）
 
 - deduce from, draw the conclusion （推断；断定；决定）
+
+:::
 
 
 ## 535. concrete
@@ -1332,6 +1400,8 @@
 
 - coagulation （具体物；凝结物）
 
+:::
+
 
 ## 536. concurrent
 
@@ -1365,6 +1435,8 @@
 
 - common point （[数]共点；[统计]同时发生的事件）
 
+:::
+
 
 ## 537. condemn
 
@@ -1379,6 +1451,8 @@
 :::warning{title=🤔同义词}
 
 - denounce, deplore （谴责；判刑，定罪；声讨）
+
+:::
 
 
 ## 538. condense
@@ -1403,6 +1477,8 @@
 
 - dewater, inspissate （使浓缩；使压缩）
 
+:::
+
 
 ## 539. condescending
 
@@ -1419,6 +1495,8 @@
 :::warning{title=🤔同义词}
 
 - modest, unassuming （谦逊的；故意屈尊的；有优越感的）
+
+:::
 
 
 ## 540. condition
@@ -1485,6 +1563,8 @@
 
 - adapt, suit, season, conclude （使适应；使健康；决定；以…为条件）
 
+:::
+
 
 ## 541. condominium
 
@@ -1503,6 +1583,8 @@
 :::warning{title=🤔同义词}
 
 - alliance, union, association, league, federation （联盟；邦联；同盟）
+
+:::
 
 
 ## 543. confer
@@ -1531,6 +1613,8 @@
 
 - arrange, treat （协商）
 
+:::
+
 
 ## 544. confess
 
@@ -1549,6 +1633,8 @@
 - accept, recognize, agree, acknowledge, grant （承认；坦白；忏悔；[法]供认）
 
 - accept, recognize （承认；坦白；忏悔；[法]供认）
+
+:::
 
 
 ## 545. confidential
@@ -1584,6 +1670,8 @@
 :::warning{title=🤔同义词}
 
 - classified, secret （[管理]机密的；表示信任的；获信任的）
+
+:::
 
 
 ## 546. configuration
@@ -1644,6 +1732,8 @@
 
 - allocation, mechanics, framework, profile, texture （配置；结构；外形）
 
+:::
+
 
 ## 547. confine
 
@@ -1662,6 +1752,8 @@
 - boundary, border （界限，边界）
 
 - block, set a limit to （限制；禁闭）
+
+:::
 
 
 ## 548. confirm
@@ -1685,6 +1777,8 @@
 :::warning{title=🤔同义词}
 
 - identify, favor, sustain, validate （确认；确定；证实；批准；使巩固）
+
+:::
 
 
 ## 549. conflict
@@ -1757,6 +1851,8 @@
 
 - combat, collide with （冲突，抵触；争执；战斗）
 
+:::
+
 
 ## 550. conform
 
@@ -1784,6 +1880,8 @@
 
 - united, consistent, matching, uniform, corresponding （一致的；顺从的）
 
+:::
+
 
 ## 551. confront
 
@@ -1804,6 +1902,8 @@
 :::warning{title=🤔同义词}
 
 - front, compare （面对；遭遇；比较）
+
+:::
 
 
 ## 552. Confucian
@@ -1834,6 +1934,8 @@
 
 - united, consistent, corresponding, solid, matching （意气相投的；性格相似的；适意的；一致的）
 
+:::
+
 
 ## 554. congested
 
@@ -1854,6 +1956,8 @@
 - blocked, crowded, jammed （堵塞的，拥挤的）
 
 - jampacked （挤满；超负荷（congest的过去分词））
+
+:::
 
 
 ## 555. congestion
@@ -1884,6 +1988,8 @@
 
 - injection, crowding （拥挤；拥塞；[病理]充血）
 
+:::
+
 
 ## 556. conglomerate
 
@@ -1911,6 +2017,8 @@
 
 - volumed （成团的；砾岩性的）
 
+:::
+
 
 ## 557. congregation
 
@@ -1925,6 +2033,8 @@
 :::warning{title=🤔同义词}
 
 - assembly, concentration, convergence, meet, gathering （集会；集合；圣会）
+
+:::
 
 
 ## 558. congress
@@ -1959,6 +2069,8 @@
 
 - session, conversation, meeting, parliament （国会；代表大会；会议；社交）
 
+:::
+
 
 ## 559. congressional
 
@@ -1986,6 +2098,8 @@
 
 - parliamentary, synodical （国会的；会议的；议会的）
 
+:::
+
 
 ## 560. conjunction
 
@@ -2009,6 +2123,8 @@
 
 - combination, coupling, bond, wedding, join （结合；[语]连接词；同时发生）
 
+:::
+
 
 ## 561. connotation
 
@@ -2023,6 +2139,8 @@
 :::warning{title=🤔同义词}
 
 - implication, reminder （内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等））
+
+:::
 
 
 ## 562. conscience
@@ -2065,6 +2183,8 @@
 
 - expropriation, levy （征兵；征兵制度；征用）
 
+:::
+
 
 ## 564. consecutive
 
@@ -2092,6 +2212,8 @@
 
 - connected, coherent （连贯的；连续不断的）
 
+:::
+
 
 ## 565. consensus
 
@@ -2118,6 +2240,8 @@
 :::warning{title=🤔同义词}
 
 - accordance, unity, agreement, identity, keeping （一致；舆论；合意）
+
+:::
 
 
 ## 566. consent
@@ -2149,6 +2273,8 @@
 - grant, comply, engage （同意；赞成；答应）
 
 - agreement, accordance, unity, identity, yes （同意；（意见等的）一致；赞成）
+
+:::
 
 
 ## 567. consequence
@@ -2187,6 +2313,8 @@
 
 - outcome, product, result, significance, event, conclusion （结果；重要性；推论）
 
+:::
+
 
 ## 568. conservatism
 
@@ -2201,6 +2329,8 @@
 :::warning{title=🤔同义词}
 
 - Toryism （保守主义；守旧性）
+
+:::
 
 
 ## 569. conservative
@@ -2237,6 +2367,8 @@
 
 - old guard, pontificator （保守派，守旧者）
 
+:::
+
 
 ## 570. conservatively
 
@@ -2245,6 +2377,8 @@
 :::warning{title=🤔同义词}
 
 - properly, well, adequately, deliberately, appropriately （谨慎地；保存地；适当地）
+
+:::
 
 
 ## 571. conserve
@@ -2267,6 +2401,8 @@
 
 - confiture, glazed fruit （果酱；蜜饯）
 
+:::
+
 
 ## 572. considerable
 
@@ -2285,6 +2421,8 @@
 :::warning{title=🤔同义词}
 
 - crucial, important, material, big, major （相当大的；重要的，值得考虑的）
+
+:::
 
 
 ## 573. consideration
@@ -2337,6 +2475,8 @@
 
 - attention, compensation, payment, cause, matter （考虑；原因；关心；报酬）
 
+:::
+
 
 ## 574. consistency
 
@@ -2365,6 +2505,8 @@
 :::warning{title=🤔同义词}
 
 - conformance, impending slough （[计][会计]一致性；[流]稠度；相容性）
+
+:::
 
 
 ## 575. consistent
@@ -2395,6 +2537,8 @@
 
 - united, corresponding, uniform, matching, solid （始终如一的，[数]一致的；坚持的）
 
+:::
+
 
 ## 576. consolidate
 
@@ -2414,6 +2558,8 @@
 
 - build up, to reinforce （巩固，加强）
 
+:::
+
 
 ## 577. consortium
 
@@ -2431,6 +2577,8 @@
 
 - alliance, partnership, combined with, combination, unity, union, association （财团；[生物]联合；合伙）
 
+:::
+
 
 ## 578. conspire
 
@@ -2445,6 +2593,8 @@
 :::warning{title=🤔同义词}
 
 - cooperate, concert （[法]共谋；协力）
+
+:::
 
 
 ## 579. constant
@@ -2513,6 +2663,8 @@
 
 - invariable （[数]常数；恒量）
 
+:::
+
 
 ## 580. constellation
 
@@ -2527,6 +2679,8 @@
 :::warning{title=🤔同义词}
 
 - zodiac sign, asterism （[天]星座；星群；荟萃；兴奋丛）
+
+:::
 
 
 ## 581. constituent
@@ -2571,6 +2725,8 @@
 
 - component, electoral （构成的；选举的）
 
+:::
+
 
 ## 582. constitute
 
@@ -2591,6 +2747,8 @@
 :::warning{title=🤔同义词}
 
 - install, establish, form, found, build （组成，构成；建立；任命）
+
+:::
 
 
 ## 583. constraint
@@ -2627,6 +2785,8 @@
 
 - enforcement, restriction （[数]约束；局促，态度不自然；强制）
 
+:::
+
 
 ## 584. constrict
 
@@ -2643,6 +2803,8 @@
 :::warning{title=🤔同义词}
 
 - to compress, telescope （压缩；束紧）
+
+:::
 
 
 ## 585. construct
@@ -2668,6 +2830,8 @@
 - found, institute, frame, structure, father （建造，构造；创立）
 
 - concept, formulation, idea, notion （构想，概念）
+
+:::
 
 
 ## 586. construction
@@ -2730,6 +2894,8 @@
 
 - interpretation, explanation, fabric, building, structure （[建]建设；建筑物；解释；造句）
 
+:::
+
 
 ## 587. constructivism
 
@@ -2775,6 +2941,8 @@
 
 - take advice, seek advice （请教；商议；当顾问）
 
+:::
+
 
 ## 590. consultant
 
@@ -2801,6 +2969,8 @@
 :::warning{title=🤔同义词}
 
 - adviser, counselor （[经]顾问；咨询者；会诊医生）
+
+:::
 
 
 ## 591. consumption
@@ -2861,6 +3031,8 @@
 
 - expense, depletion （[经]消费；消耗；肺痨）
 
+:::
+
 
 ## 592. contaminate
 
@@ -2875,6 +3047,8 @@
 :::warning{title=🤔同义词}
 
 - soil, mud, spot, dirty, poison （污染，弄脏）
+
+:::
 
 
 ## 593. contamination
@@ -2921,6 +3095,8 @@
 
 - pollution, impureness （[环境]污染，玷污；污染物）
 
+:::
+
 
 ## 594. contemplate
 
@@ -2937,6 +3113,8 @@
 - watch, behold （沉思；注视；思忖；预期）
 
 - puzzle （冥思苦想；深思熟虑）
+
+:::
 
 
 ## 595. contemporary
@@ -2969,6 +3147,8 @@
 
 - modern-day, cotemporary （当代的；同时代的；属于同一时期的）
 
+:::
+
 
 ## 596. contemptuous
 
@@ -2983,6 +3163,8 @@
 :::warning{title=🤔同义词}
 
 - scornful, sniffish （轻蔑的；侮辱的）
+
+:::
 
 
 ## 597. contend
@@ -3007,6 +3189,8 @@
 
 - maintain, submit, advocate （主张；为...斗争）
 
+:::
+
 
 ## 598. contiguous
 
@@ -3029,6 +3213,8 @@
 :::warning{title=🤔同义词}
 
 - adjacent, straight, endless, running, serial （连续的；邻近的；接触的）
+
+:::
 
 
 ## 599. contingent
@@ -3058,5 +3244,7 @@
 - occurrent, chancy （因情况而异的；不一定的；偶然发生的）
 
 - happenchance, detachment （分遣队；偶然事件；分得部分）
+
+:::
 
 

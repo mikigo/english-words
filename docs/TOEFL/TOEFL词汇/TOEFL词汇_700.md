@@ -70,6 +70,8 @@
 
 - dream away, idle （虚度）
 
+:::
+
 
 ## 701. tissue
 
@@ -129,6 +131,8 @@
 
 - set, gauze （纸巾；[纺]薄纱；一套）
 
+:::
+
 
 ## 702. indeed
 
@@ -145,6 +149,8 @@
 :::warning{title=🤔同义词}
 
 - just, sure, even （的确；实在；真正地；甚至）
+
+:::
 
 
 ## 703. prepare
@@ -178,6 +184,8 @@
 :::warning{title=🤔同义词}
 
 - provide, make, fix （准备；使适合；装备；起草）
+
+:::
 
 
 ## 704. cotton
@@ -242,6 +250,8 @@
 
 - square, identify, coincide （一致；理解；和谐；亲近）
 
+:::
+
 
 ## 705. crust
 
@@ -282,6 +292,8 @@
 :::warning{title=🤔同义词}
 
 - outer housing, encloser （外壳；面包皮；坚硬外皮）
+
+:::
 
 
 ## 706. trace
@@ -338,6 +350,8 @@
 
 - suggestion, mark, tail, drop （[法]痕迹，踪迹；[气象]微量；[仪]迹线；缰绳）
 
+:::
+
 
 ## 707. discussion
 
@@ -388,6 +402,8 @@
 :::warning{title=🤔同义词}
 
 - argumentum, counsel （讨论，议论）
+
+:::
 
 
 ## 708. floor
@@ -454,6 +470,8 @@
 
 - fall, down with （[建]铺地板；打倒，击倒；（被困难）难倒）
 
+:::
+
 
 ## 709. fiber
 
@@ -516,6 +534,8 @@
 :::warning{title=🤔同义词}
 
 - fibre, funicle （纤维；光纤（等于fibre））
+
+:::
 
 
 ## 710. geological
@@ -612,6 +632,8 @@
 
 - hijra, desertion （逃跑；逃亡）
 
+:::
+
 
 ## 712. dense
 
@@ -639,6 +661,8 @@
 
 - crass, beef-witted （[统计]稠密的；浓厚的；愚钝的）
 
+:::
+
 
 ## 713. stimulate
 
@@ -661,6 +685,8 @@
 :::warning{title=🤔同义词}
 
 - fan, power, motivate, needle, activate （刺激；鼓舞，激励）
+
+:::
 
 
 ## 714. reflection
@@ -721,6 +747,8 @@
 
 - meditation, contemplation （[热][光][物]反射；沉思；映象）
 
+:::
+
 
 ## 715. accurate
 
@@ -757,6 +785,8 @@
 :::warning{title=🤔同义词}
 
 - precise, mathematical, strict, rigid, refined （精确的）
+
+:::
 
 
 ## 716. whole
@@ -831,6 +861,8 @@
 
 - full, integer （整体；全部）
 
+:::
+
 
 ## 717. increasingly
 
@@ -845,6 +877,8 @@
 :::warning{title=🤔同义词}
 
 - pyramidally, cumulatively （越来越多地；渐增地）
+
+:::
 
 
 ## 718. spot
@@ -915,6 +949,8 @@
 
 - accurately, just, true （准确地；恰好）
 
+:::
+
 
 ## 719. length
 
@@ -976,6 +1012,8 @@
 
 - extent, longness （[计量]长度，长；时间的长短；（语）音长）
 
+:::
+
 
 ## 720. advertisement
 
@@ -1006,6 +1044,8 @@
 :::warning{title=🤔同义词}
 
 - publicity, bill, propaganda, dissemination, drumbeating （[经]广告，宣传）
+
+:::
 
 
 ## 721. top
@@ -1072,6 +1112,8 @@
 
 - highest, supreme, maximum, peak, tallest （最高的，顶上的；头等的）
 
+:::
+
 
 ## 722. tropical
 
@@ -1121,6 +1163,8 @@
 
 - intense, warm, hot, enthusiastic, passionate （[地理]热带的；热情的；酷热的）
 
+:::
+
 
 ## 723. efficient
 
@@ -1163,6 +1207,8 @@
 :::warning{title=🤔同义词}
 
 - able, competent （有效率的；有能力的；生效的）
+
+:::
 
 
 ## 724. nutrient
@@ -1208,6 +1254,8 @@
 - nurture （[生物]营养物；滋养物）
 
 - trophic, alimentary （[生物]营养的；滋养的）
+
+:::
 
 
 ## 725. ten
@@ -1352,6 +1400,8 @@
 
 - inquiry, exploration （搜寻；探究，查究）
 
+:::
+
 
 ## 729. leatherback
 
@@ -1437,6 +1487,8 @@
 
 - region, extent, spectrum, territory, area （[地质]边界；范围；分界线）
 
+:::
+
 
 ## 731. sky
 
@@ -1493,6 +1545,8 @@
 - heaven, height, summit, air, peak （[天]天空；顶点）
 
 - sharp increase, go through the roof （踢或击高空球；把桨叶翘得过高；飞涨）
+
+:::
 
 
 ## 732. steel
@@ -1558,6 +1612,8 @@
 - indurate （钢化；使冷酷）
 
 - strong, tough （钢制的；钢铁业的；坚强的）
+
+:::
 
 
 ## 733. thick
@@ -1630,6 +1686,8 @@
 
 - deeply, densely （密集地；浓浓地，厚厚地）
 
+:::
+
 
 ## 734. fail
 
@@ -1672,6 +1730,8 @@
 - disappoint, let down （不及格；使失望；忘记；舍弃）
 
 - flunk （不及格）
+
+:::
 
 
 ## 735. Atlantic
@@ -1768,6 +1828,8 @@
 
 - calculating machine, computing machine （计算机；[计]电脑；电子计算机）
 
+:::
+
 
 ## 737. fruit
 
@@ -1835,6 +1897,8 @@
 
 - bear （[植]结果实）
 
+:::
+
 
 ## 738. tension
 
@@ -1898,6 +1962,8 @@
 
 - stress, wind up （使紧张；使拉紧）
 
+:::
+
 
 ## 739. performance
 
@@ -1957,6 +2023,8 @@
 
 - property, capability, enforcement, execution, implementing （性能；绩效；表演；执行）
 
+:::
+
 
 ## 740. audience
 
@@ -1987,6 +2055,8 @@
 :::warning{title=🤔同义词}
 
 - reader, interview （观众；听众；读者；接见）
+
+:::
 
 
 ## 741. Cambrian
@@ -2069,6 +2139,8 @@
 
 - allodially, liberally （自由地；[经]免费）
 
+:::
+
 
 ## 743. conflict
 
@@ -2140,6 +2212,8 @@
 
 - combat, collide with （冲突，抵触；争执；战斗）
 
+:::
+
 
 ## 744. freeze
 
@@ -2184,6 +2258,8 @@
 - rigidize （[物]冻结；冷冻；僵硬）
 
 - solidification, coagulation （[物]冻结；凝固）
+
+:::
 
 
 ## 745. climatic
@@ -2252,6 +2328,8 @@
 
 - harmonious, sweet （音乐的；悦耳的）
 
+:::
+
 
 ## 747. familiar
 
@@ -2286,6 +2364,8 @@
 - conventional, near, close （熟悉的；常见的；亲近的）
 
 - frequenter, regular customer （常客；密友）
+
+:::
 
 
 ## 748. Chinese
@@ -2382,6 +2462,8 @@
 
 - etagere, bink （架子；[家具]搁板；搁板状物）
 
+:::
+
 
 ## 750. fly
 
@@ -2452,6 +2534,8 @@
 - flight, volation （飞行；苍蝇；两翼昆虫）
 
 - sharp, keen, prompt, quick, smart （敏捷的）
+
+:::
 
 
 ## 751. microscope
@@ -2550,6 +2634,8 @@
 
 - parabole, imagery （比较；对照；比喻；比较关系）
 
+:::
+
 
 ## 753. appeal
 
@@ -2594,6 +2680,8 @@
 - attract, clamour for （呼吁，恳求；[法]上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判）
 
 - asking, request, motion, charm （呼吁，请求；吸引力，感染力；[法]上诉；诉诸裁判）
+
+:::
 
 
 ## 754. map
@@ -2658,6 +2746,8 @@
 
 - conventional diagram, schematic plan （[测]地图；示意图；染色体图）
 
+:::
+
 
 ## 755. cue
 
@@ -2684,6 +2774,8 @@
 :::warning{title=🤔同义词}
 
 - connotation, implication, reminder （提示，暗示；线索）
+
+:::
 
 
 ## 756. atom
@@ -2737,6 +2829,8 @@
 :::warning{title=🤔同义词}
 
 - culture, kultur （文明；文化）
+
+:::
 
 
 ## 758. model
@@ -2800,6 +2894,8 @@
 - matrix, former, shape, fashion, type （模型；典型；模范；模特儿；样式）
 
 - mold, simulate, pattern, form, imitate （模拟；塑造；模仿）
+
+:::
 
 
 ## 759. item
@@ -2865,6 +2961,8 @@
 :::warning{title=🤔同义词}
 
 - event, provision, clause, article （[法]条款，项目；一则）
+
+:::
 
 
 ## 760. seventeenth
@@ -2943,6 +3041,8 @@
 
 - heal over, close up （愈合；长皮）
 
+:::
+
 
 ## 762. shelter
 
@@ -2994,6 +3094,8 @@
 
 - stay away from, to dodge （躲避，避难）
 
+:::
+
 
 ## 763. inside
 
@@ -3028,6 +3130,8 @@
 - internal, inner, secret, underground, chamber （里面的；内部的；秘密的）
 
 - within, under, in （少于；在…之内）
+
+:::
 
 
 ## 764. rainfall
@@ -3067,6 +3171,8 @@
 :::warning{title=🤔同义词}
 
 - moisture, precip （[气象]降雨；降雨量）
+
+:::
 
 
 ## 765. try
@@ -3137,6 +3243,8 @@
 
 - effort, pain, stroke, proof, struggle （尝试；努力；试验）
 
+:::
+
 
 ## 766. something
 
@@ -3181,6 +3289,8 @@
 :::warning{title=🤔同义词}
 
 - extremely, badly, highly, greatly, too （非常；有点；大约）
+
+:::
 
 
 ## 767. gain
@@ -3245,6 +3355,8 @@
 
 - improve, advantage, accelerate, grow in （增加；获利）
 
+:::
+
 
 ## 768. habit
 
@@ -3305,6 +3417,8 @@
 - manner, custom, behaviour, weakness, way （习惯，[生物]习性；嗜好）
 
 - attire （使穿衣）
+
+:::
 
 
 ## 769. ceramic
@@ -3371,6 +3485,8 @@
 
 - cer, pottery and porcelain （[陶瓷]陶瓷；陶瓷制品）
 
+:::
+
 
 ## 770. famous
 
@@ -3409,6 +3525,8 @@
 :::warning{title=🤔同义词}
 
 - noted, wonderful, excellent, super, great （著名的；极好的，非常令人满意的）
+
+:::
 
 
 ## 771. report
@@ -3475,6 +3593,8 @@
 
 - message, inform of （报告；报到；写报导）
 
+:::
+
 
 ## 772. moral
 
@@ -3540,6 +3660,8 @@
 
 - overtone （道德；寓意）
 
+:::
+
 
 ## 773. buy
 
@@ -3586,6 +3708,8 @@
 - acquire, earn, purchase, find, make （购买；获得；贿赂）
 
 - purchase, commercial transaction （购买，买卖；所购的物品）
+
+:::
 
 
 ## 774. sleep
@@ -3652,6 +3776,8 @@
 
 - morpheus, shut-eye （[生理]睡眠）
 
+:::
+
 
 ## 775. decision
 
@@ -3713,6 +3839,8 @@
 
 - determination, resolution, push, backbone （决定，决心；决议）
 
+:::
+
 
 ## 776. stable
 
@@ -3766,6 +3894,8 @@
 
 - steady, settled, committed, firm, strong （[物]稳定的；牢固的；坚定的）
 
+:::
+
 
 ## 777. remember
 
@@ -3812,6 +3942,8 @@
 - to learn by heart, honour the memory of （记得；牢记；纪念；代…问好）
 
 - think of, come back （记得，记起）
+
+:::
 
 
 ## 778. series
@@ -3874,6 +4006,8 @@
 
 - succession, progression （系列，连续；[电]串联；[数]级数；丛书）
 
+:::
+
 
 ## 779. white
 
@@ -3935,6 +4069,8 @@
 
 - leuko, chalkiness （白色；洁白；白种人）
 
+:::
+
 
 ## 780. due
 
@@ -3961,6 +4097,8 @@
 - expected, mature, just, payable, prospective （到期的；预期的；应付的；应得的）
 
 - plumb （正（置于方位词前））
+
+:::
 
 
 ## 781. song
@@ -4022,6 +4160,8 @@
 :::warning{title=🤔同义词}
 
 - poems, melody （歌曲；歌唱；诗歌；鸣声）
+
+:::
 
 
 ## 782. soft
@@ -4086,6 +4226,8 @@
 
 - gently, friendly （柔软地；温和地）
 
+:::
+
 
 ## 783. lichen
 
@@ -4148,6 +4290,8 @@
 - block, dispute, prohibit, discourage （阻止；除去…的茎；给…装柄）
 
 - prevent from, head off （阻止；起源于某事物；逆行）
+
+:::
 
 
 ## 785. car
@@ -4212,6 +4356,8 @@
 
 - automobile, motor （[车辆]汽车；车厢）
 
+:::
+
 
 ## 786. habitat
 
@@ -4237,6 +4383,8 @@
 
 - home, production place （[生态]栖息地，[经]产地）
 
+:::
+
 
 ## 787. bur
 
@@ -4245,6 +4393,8 @@
 :::warning{title=🤔同义词}
 
 - cutting bit, drilling head （[植]刺果；芒刺；钻头）
+
+:::
 
 
 ## 788. unique
@@ -4289,6 +4439,8 @@
 
 - distinct, individual, one, sole, picturesque （独特的，稀罕的；[数]唯一的，独一无二的）
 
+:::
+
 
 ## 789. coastal
 
@@ -4324,6 +4476,8 @@
 
 - maritime, littoral （[海洋]沿海的；海岸的）
 
+:::
+
 
 ## 790. whereas
 
@@ -4340,6 +4494,8 @@
 :::warning{title=🤔同义词}
 
 - however, while, nevertheless, but, yet （然而；鉴于；反之）
+
+:::
 
 
 ## 791. consequence
@@ -4377,6 +4533,8 @@
 :::warning{title=🤔同义词}
 
 - outcome, product, result, significance, event, conclusion （结果；重要性；推论）
+
+:::
 
 
 ## 792. California
@@ -4451,6 +4609,8 @@
 
 - hang, drag （飘出；[植]蔓生；垂下；[古生]拖曳）
 
+:::
+
 
 ## 794. rely
 
@@ -4472,6 +4632,8 @@
 
 - trust, hope （依靠；信赖）
 
+:::
+
 
 ## 795. tribe
 
@@ -4486,6 +4648,8 @@
 :::warning{title=🤔同义词}
 
 - nationality, clan （部落；[生物]族；宗族；一伙）
+
+:::
 
 
 ## 796. average
@@ -4550,6 +4714,8 @@
 
 - mean, ordinary, general （[数]平均的；普通的）
 
+:::
+
 
 ## 797. appropriate
 
@@ -4588,6 +4754,8 @@
 - suitable, proper, adequate, becoming （适当的）
 
 - engage, take up to （占用；拨出）
+
+:::
 
 
 ## 798. here
@@ -4666,6 +4834,8 @@
 
 - hey, psst （嘿！；喂！）
 
+:::
+
 
 ## 799. nor
 
@@ -4690,5 +4860,7 @@
 :::warning{title=🤔同义词}
 
 - neither （也不；也不是）
+
+:::
 
 

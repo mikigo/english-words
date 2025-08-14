@@ -14,6 +14,8 @@
 
 - anthropologist （人道主义者；人类学者，人文学者；人文主义者）
 
+:::
+
 
 ## 8601. cannibalism
 
@@ -29,6 +31,8 @@
 
 - anthropophagy （食人；嗜食同类；残忍的行为）
 
+:::
+
 
 ## 8602. satirist
 
@@ -43,6 +47,8 @@
 :::warning{title=🤔同义词}
 
 - ironist （讽刺作家；爱挖苦的人）
+
+:::
 
 
 ## 8603. distend
@@ -62,6 +68,8 @@
 :::warning{title=🤔同义词}
 
 - fill, swell with （扩张；膨胀）
+
+:::
 
 
 ## 8604. balmy
@@ -84,6 +92,8 @@
 
 - pacific, sweet, soft, moderate, gentle （芳香的；温和的；止痛的）
 
+:::
+
 
 ## 8605. compo
 
@@ -103,6 +113,8 @@
 
 - air proof, air tight seal （密封；增压；使……加压，使……压入）
 
+:::
+
 
 ## 8607. freshness
 
@@ -111,6 +123,8 @@
 :::warning{title=🤔同义词}
 
 - hot number, greenness （新；新鲜；精神饱满）
+
+:::
 
 
 ## 8608. wearer
@@ -165,6 +179,8 @@
 
 - spatial, spacial （空间的；尺寸的）
 
+:::
+
 
 ## 8610. dependably
 
@@ -177,6 +193,8 @@
 :::warning{title=🤔同义词}
 
 - reinvestigate, resit （重考，复试；再调查）
+
+:::
 
 
 ## 8612. behalf
@@ -205,6 +223,8 @@
 
 - representation, deputy, benefit, sake, profit （代表；利益）
 
+:::
+
 
 ## 8613. sanctimonious
 
@@ -220,6 +240,8 @@
 
 - pietistic, Pharisaic （假装虔诚的；假装圣洁的；假装诚实的）
 
+:::
+
 
 ## 8614. nominate
 
@@ -234,6 +256,8 @@
 :::warning{title=🤔同义词}
 
 - install, constitute, name, place, specify （推荐；提名；任命；指定）
+
+:::
 
 
 ## 8615. frenetic
@@ -252,6 +276,8 @@
 
 - madman, nutcase （疯子；狂人）
 
+:::
+
 
 ## 8616. distinctively
 
@@ -260,6 +286,8 @@
 :::warning{title=🤔同义词}
 
 - exceptionally, differentially （特殊地；区别地）
+
+:::
 
 
 ## 8617. prod
@@ -286,6 +314,8 @@
 
 - poke, run through （刺；捅）
 
+:::
+
 
 ## 8618. secondhand
 
@@ -302,6 +332,8 @@
 - used, auld （二手的；旧的；间接获得的；做旧货生意的）
 
 - indirectly （间接地；间接听来；以旧货）
+
+:::
 
 
 ## 8619. irreverence
@@ -320,6 +352,8 @@
 
 - indecorum （非礼；不敬行为）
 
+:::
+
 
 ## 8620. briskness
 
@@ -328,6 +362,8 @@
 :::warning{title=🤔同义词}
 
 - animation, brightness, volatility （活泼；轻快；敏捷）
+
+:::
 
 
 ## 8621. famine
@@ -345,6 +381,8 @@
 :::warning{title=🤔同义词}
 
 - hunger, fames （饥荒；饥饿，奇缺）
+
+:::
 
 
 ## 8622. ethically
@@ -375,6 +413,8 @@
 
 - apposition, parataxis （并置，并列；毗邻）
 
+:::
+
 
 ## 8624. platitudinous
 
@@ -389,6 +429,8 @@
 :::warning{title=🤔同义词}
 
 - ordinary, stock （平凡的，陈腐的；陈词滥调的）
+
+:::
 
 
 ## 8625. moralize
@@ -407,6 +449,8 @@
 
 - preachify, sermonize （说教；讲道德）
 
+:::
+
 
 ## 8626. platitude
 
@@ -421,6 +465,8 @@
 :::warning{title=🤔同义词}
 
 - lousy cliches, banality （陈词滥调；平凡；陈腐）
+
+:::
 
 
 ## 8627. irreverent
@@ -438,6 +484,8 @@
 :::warning{title=🤔同义词}
 
 - rude, offensive （不敬的，无礼的）
+
+:::
 
 
 ## 8628. megalopolis
@@ -486,6 +534,8 @@
 
 - complicated, abstruse （难懂的；易忘的；逃避的；难捉摸的）
 
+:::
+
 
 ## 8632. scowl
 
@@ -496,6 +546,8 @@
 - sad face （愁容；怒容；阴沉沉的样子）
 
 - glare at, frown upon （皱眉；怒视）
+
+:::
 
 
 ## 8633. subterranean
@@ -517,6 +569,8 @@
 :::warning{title=🤔同义词}
 
 - underground, secret, chamber, inside, cabinet （地下的；秘密的；隐蔽的）
+
+:::
 
 
 ## 8634. ramble
@@ -541,6 +595,8 @@
 
 - range, wander off （漫步；漫游；闲逛；漫谈；蔓延）
 
+:::
+
 
 ## 8635. pharmacy
 
@@ -564,6 +620,8 @@
 
 - dispensary, officina （药房；[药]配药学，药剂学；制药业；一批备用药品）
 
+:::
+
 
 ## 8636. gyration
 
@@ -585,6 +643,8 @@
 
 - revolution, rotation, rolling, turning （旋转，[力]回转；螺层）
 
+:::
+
 
 ## 8637. miraculous
 
@@ -602,6 +662,8 @@
 
 - magic, mysterious, fantastic （不可思议的，奇迹的）
 
+:::
+
 
 ## 8638. grainy
 
@@ -617,6 +679,8 @@
 
 - granular （粒状的；木纹状的；多粒的；有纹理的）
 
+:::
+
 
 ## 8639. vagueness
 
@@ -626,6 +690,8 @@
 
 - darkness, ambiguity （模糊；含糊；暧昧；茫然）
 
+:::
+
 
 ## 8640. urbanize
 
@@ -634,6 +700,8 @@
 :::warning{title=🤔同义词}
 
 - citify （使都市化；使文雅）
+
+:::
 
 
 ## 8641. miracle
@@ -668,6 +736,8 @@
 
 - phenomenon, wonder （奇迹，奇迹般的人或物；惊人的事例）
 
+:::
+
 
 ## 8642. quaint
 
@@ -682,6 +752,8 @@
 :::warning{title=🤔同义词}
 
 - strange, peculiar （古雅的；奇怪的；离奇有趣的；做得很精巧的）
+
+:::
 
 
 ## 8643. counterclockwise
@@ -698,6 +770,8 @@
 
 - contraclockwise （反时针方向的）
 
+:::
+
 
 ## 8644. entanglement
 
@@ -712,6 +786,8 @@
 :::warning{title=🤔同义词}
 
 - involvement, implication （纠缠；铁丝网；缠绕物；牵连）
+
+:::
 
 
 ## 8645. diagonally
@@ -736,6 +812,8 @@
 
 - cornerways, arrisways （对角地；斜对地）
 
+:::
+
 
 ## 8646. rustproof
 
@@ -754,6 +832,8 @@
 :::warning{title=🤔同义词}
 
 - stainless, anti-rust （防锈的；不锈的）
+
+:::
 
 
 ## 8647. enclosure
@@ -779,6 +859,8 @@
 :::warning{title=🤔同义词}
 
 - attachment, attached sheet （附件；[建]围墙；围场）
+
+:::
 
 
 ## 8648. installation
@@ -839,6 +921,8 @@
 
 - device, apparatus, unit, gear, appliance （[机]安装，装置；就职）
 
+:::
+
 
 ## 8649. galvanize
 
@@ -847,6 +931,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, fan （镀锌；通电；刺激）
+
+:::
 
 
 ## 8650. matrilinear
@@ -863,6 +949,8 @@
 
 - enatic, maternal （母系的）
 
+:::
+
 
 ## 8651. underworld
 
@@ -877,6 +965,8 @@
 :::warning{title=🤔同义词}
 
 - earth, hell （黑社会；地狱；下层社会；尘世）
+
+:::
 
 
 ## 8652. oval
@@ -903,6 +993,8 @@
 
 - ellipse, elliptical shape （椭圆形；[数]卵形）
 
+:::
+
 
 ## 8653. crimp
 
@@ -919,6 +1011,8 @@
 - checking, chain, control, restriction （卷发；皱褶；抑制；束缚）
 
 - crispen （[纺]使卷曲；使有褶）
+
+:::
 
 
 ## 8654. serrate
@@ -939,6 +1033,8 @@
 
 - jagged, saw-toothed （[生物]锯齿状的）
 
+:::
+
 
 ## 8655. convivial
 
@@ -953,6 +1049,8 @@
 :::warning{title=🤔同义词}
 
 - festive, rollicking （欢乐的；欢宴的；酒宴的）
+
+:::
 
 
 ## 8656. foreshadow
@@ -971,6 +1069,8 @@
 
 - warning, predictive signs, bodement （预兆）
 
+:::
+
 
 ## 8657. plaint
 
@@ -985,6 +1085,8 @@
 :::warning{title=🤔同义词}
 
 - regret, complaint （感叹；诉苦；悲叹）
+
+:::
 
 
 ## 8658. waterborne
@@ -1027,6 +1129,8 @@
 
 - wonder, surprisal （惊异；惊愕）
 
+:::
+
 
 ## 8660. urgency
 
@@ -1035,6 +1139,8 @@
 :::warning{title=🤔同义词}
 
 - exigency, instancy （紧急；催促；紧急的事）
+
+:::
 
 
 ## 8661. unpromising
@@ -1051,6 +1157,8 @@
 
 - futureless （无前途的，没有希望的）
 
+:::
+
 
 ## 8662. deter
 
@@ -1065,6 +1173,8 @@
 :::warning{title=🤔同义词}
 
 - dispute, block, restrain （制止，阻止；使打消念头）
+
+:::
 
 
 ## 8663. bluntly
@@ -1083,6 +1193,8 @@
 
 - freely, directly, straight （坦率地，直率地；迟钝地）
 
+:::
+
 
 ## 8664. overcharge
 
@@ -1097,6 +1209,8 @@
 :::warning{title=🤔同义词}
 
 - superimposed load, surcharge （[电]过度充电；[交]超载；装药过多）
+
+:::
 
 
 ## 8665. calibration
@@ -1139,6 +1253,8 @@
 
 - standardization, regulation, scale, graduation, alignment （校准；刻度；标度）
 
+:::
+
 
 ## 8666. subclass
 
@@ -1147,6 +1263,8 @@
 :::warning{title=🤔同义词}
 
 - subset （[生物]亚纲；子集）
+
+:::
 
 
 ## 8667. luminous
@@ -1183,6 +1301,8 @@
 
 - distinct, bright, liquid, clear, explicit （[光]发光的；明亮的；清楚的）
 
+:::
+
 
 ## 8668. simplistic
 
@@ -1211,6 +1331,8 @@
 :::warning{title=🤔同义词}
 
 - teakettle, samovar （茶壶）
+
+:::
 
 
 ## 8670. specification
@@ -1271,6 +1393,8 @@
 
 - description, amplification （规格；说明书；详述）
 
+:::
+
 
 ## 8671. rationally
 
@@ -1286,6 +1410,8 @@
 
 - reasoningly （理性地；讲道理地）
 
+:::
+
 
 ## 8672. prominence
 
@@ -1300,6 +1426,8 @@
 :::warning{title=🤔同义词}
 
 - projection, protrusion （突出；显著；突出物；卓越）
+
+:::
 
 
 ## 8673. importer
@@ -1342,6 +1470,8 @@
 
 - casting, molding （[机]铸造，铸造类；铸造厂）
 
+:::
+
 
 ## 8675. systematize
 
@@ -1358,6 +1488,8 @@
 :::warning{title=🤔同义词}
 
 - sort （使系统化；使组织化；将…分类）
+
+:::
 
 
 ## 8676. persuasion
@@ -1383,6 +1515,8 @@
 :::warning{title=🤔同义词}
 
 - faith, wing （说服；说服力；信念；派别）
+
+:::
 
 
 ## 8677. penalty
@@ -1435,6 +1569,8 @@
 
 - fine, amercement （[经]罚款，罚金；[法]处罚）
 
+:::
+
 
 ## 8678. singly
 
@@ -1449,6 +1585,8 @@
 :::warning{title=🤔同义词}
 
 - respectively, separately, personally, individually （逐一地；个别地；各自地；直截了当地）
+
+:::
 
 
 ## 8679. gloss
@@ -1483,6 +1621,8 @@
 
 - cover up, screen from （使光彩；掩盖；注释）
 
+:::
+
 
 ## 8680. refinement
 
@@ -1505,6 +1645,8 @@
 :::warning{title=🤔同义词}
 
 - cultivation, purification （[化工][油气][冶]精制；文雅；提纯）
+
+:::
 
 
 ## 8681. guess
@@ -1549,6 +1691,8 @@
 
 - speculation, theory, projection （猜测；推测）
 
+:::
+
 
 ## 8682. gaze
 
@@ -1576,6 +1720,8 @@
 
 - regard, immediate attention （凝视；注视）
 
+:::
+
 
 ## 8683. earthworm
 
@@ -1594,6 +1740,8 @@
 :::warning{title=🤔同义词}
 
 - fishworm, angleworm, Hode, rainworm （[无脊椎]蚯蚓）
+
+:::
 
 
 ## 8684. fantastic
@@ -1617,6 +1765,8 @@
 - wonderful, excellent, famous, super, great （奇异的；空想的；极好的；不可思议的）
 
 - weirdo, geezer （古怪的人）
+
+:::
 
 
 ## 8685. lateral
@@ -1673,6 +1823,8 @@
 
 - sidepiece （侧部；[语]边音）
 
+:::
+
 
 ## 8686. intimately
 
@@ -1687,6 +1839,8 @@
 :::warning{title=🤔同义词}
 
 - warmly, privately （熟悉地；亲切地；私下地）
+
+:::
 
 
 ## 8687. nostril
@@ -1704,6 +1858,8 @@
 :::warning{title=🤔同义词}
 
 - naris, nare （[解剖]鼻孔）
+
+:::
 
 
 ## 8688. bis
@@ -1732,6 +1888,8 @@
 
 - one of a kind （独特性；独一无二；单值性）
 
+:::
+
 
 ## 8690. deferential
 
@@ -1746,6 +1904,8 @@
 :::warning{title=🤔同义词}
 
 - respectful, reverent （恭敬的；惯于顺从的）
+
+:::
 
 
 ## 8691. shaper
@@ -1770,6 +1930,8 @@
 
 - reshaper, shaping machine （[电子]整形器，脉冲整形器；[机]牛头刨床；造型者；塑造者）
 
+:::
+
 
 ## 8692. genial
 
@@ -1784,6 +1946,8 @@
 :::warning{title=🤔同义词}
 
 - friendly, nice, sweet, kind, well （亲切的，友好的；和蔼的；适宜的）
+
+:::
 
 
 ## 8693. avocational
@@ -1810,6 +1974,8 @@
 
 - residence, having （居住；[数]占有；占用）
 
+:::
+
 
 ## 8695. mildly
 
@@ -1831,6 +1997,8 @@
 
 - gently, reasonably, friendly, soft （温和地，和善地；适度地）
 
+:::
+
 
 ## 8696. bundle
 
@@ -1849,6 +2017,8 @@
 - rope （[印刷]捆）
 
 - bolt out, blow through （匆忙离开）
+
+:::
 
 
 ## 8697. ethnographic
@@ -1894,6 +2064,8 @@
 - huge, tremendous, thousand, million, boundless （无限的，[数]无穷的；无数的；极大的）
 
 - Mugen, immenseness （无限；[数]无穷大；无限的东西（如空间，时间））
+
+:::
 
 
 ## 8699. wearability

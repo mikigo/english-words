@@ -28,6 +28,8 @@
 
 - remain, debris, corpse, lich （（人或动物的）尸体；残骸；（除脏去头备食用的）畜体）
 
+:::
+
 
 ## 6102. subdivide
 
@@ -67,6 +69,8 @@
 
 - branch, embranchment （分支；支流；[化学]衍生物）
 
+:::
+
 
 ## 6105. inborn
 
@@ -84,6 +88,8 @@
 
 - born, natural, congenital （[医][生物]天生的；先天的）
 
+:::
+
 
 ## 6106. stereotypical
 
@@ -98,6 +104,8 @@
 :::warning{title=🤔同义词}
 
 - banal, trite （老一套的；陈规的）
+
+:::
 
 
 ## 6107. manipulation
@@ -130,6 +138,8 @@
 
 - operation, transactions, management, settlement, disposal, treatment （操纵；操作；处理；篡改）
 
+:::
+
 
 ## 6108. lifelike
 
@@ -144,6 +154,8 @@
 :::warning{title=🤔同义词}
 
 - visual, realistic, living （栩栩如生的；逼真的）
+
+:::
 
 
 ## 6109. bipedal
@@ -165,6 +177,8 @@
 - out of use, scrap （废弃；使…过时；使…具有古旧形式或风格）
 
 - ancient, outdated （过时的；旧式的）
+
+:::
 
 
 ## 6111. chondritic
@@ -203,6 +217,8 @@
 
 - reproduction, ectype （复制品；八音阶间隔的反覆音）
 
+:::
+
 
 ## 6113. painful
 
@@ -228,6 +244,8 @@
 
 - hurt, bitter, miserable （痛苦的；疼痛的；令人不快的）
 
+:::
+
 
 ## 6114. weldon
 
@@ -252,6 +270,8 @@
 - flag, wither away （烧焦；枯萎）
 
 - singe （烧焦；焦痕）
+
+:::
 
 
 ## 6116. stonework
@@ -284,6 +304,8 @@
 
 - cast away, play the devil with （使失事；使毁灭；使失败）
 
+:::
+
 
 ## 6118. uncle
 
@@ -315,6 +337,8 @@
 
 - nuncle, oom （叔叔；伯父；伯伯；舅父；姨丈；姑父）
 
+:::
+
 
 ## 6119. unanswered
 
@@ -330,6 +354,8 @@
 
 - reactionless, irresponsive （未答复的；无反应的）
 
+:::
+
 
 ## 6120. misfortune
 
@@ -344,6 +370,8 @@
 :::warning{title=🤔同义词}
 
 - disaster, evil, tragedy, grief （不幸；灾祸，灾难）
+
+:::
 
 
 ## 6121. greet
@@ -365,6 +393,8 @@
 :::warning{title=🤔同义词}
 
 - be welcome to, to meet （欢迎，迎接；致敬，致意；映入眼帘）
+
+:::
 
 
 ## 6122. aggregate
@@ -431,6 +461,8 @@
 
 - collective, polymeric （[植][无脊椎][地质]聚合的；[数]集合的；合计的）
 
+:::
+
 
 ## 6123. journalist
 
@@ -445,6 +477,8 @@
 :::warning{title=🤔同义词}
 
 - newspaperman, jounalist （新闻工作者；报人；记日志者）
+
+:::
 
 
 ## 6124. mantel
@@ -464,6 +498,8 @@
 :::warning{title=🤔同义词}
 
 - chimney piece （壁炉架）
+
+:::
 
 
 ## 6125. desalination
@@ -501,6 +537,8 @@
 - tear, lancinate （撕裂；使有狭缝）
 
 - crack, split （裂缝；投币口）
+
+:::
 
 
 ## 6127. hydraulic
@@ -563,6 +601,8 @@
 
 - waterpower （[机]液压的；[建][流][水利]水力的；水力学的）
 
+:::
+
 
 ## 6128. reappear
 
@@ -608,6 +648,8 @@
 
 - cardboard, carboard （纸板箱；靶心白点）
 
+:::
+
 
 ## 6130. wan
 
@@ -634,6 +676,8 @@
 - turn white, pale （变苍白）
 
 - pale （使变苍白；使呈病态）
+
+:::
 
 
 ## 6131. elegance
@@ -662,6 +706,8 @@
 
 - soup （马力（功率单位））
 
+:::
+
 
 ## 6133. quiver
 
@@ -688,6 +734,8 @@
 - quake, judder （颤抖；振动）
 
 - thrill （使…颤动；抖动）
+
+:::
 
 
 ## 6134. airport
@@ -738,6 +786,8 @@
 
 - landing field, aeroport （[航]机场；航空站）
 
+:::
+
 
 ## 6135. eternal
 
@@ -771,6 +821,8 @@
 
 - permanent, lasting, everlasting, undying, timeless （永恒的；不朽的）
 
+:::
+
 
 ## 6136. duchenne
 
@@ -800,6 +852,8 @@
 
 - constant, permanent, steady （不变的；不可变的；不能变的）
 
+:::
+
 
 ## 6139. pave
 
@@ -824,6 +878,8 @@
 :::warning{title=🤔同义词}
 
 - schedule, budget, settle, place in （铺设；安排；作铺设之用）
+
+:::
 
 
 ## 6140. permeability
@@ -876,6 +932,8 @@
 
 - penetrability, perviousness （[植][细胞][地质][纺][生理][电子][油气]渗透性；[物]透磁率，导磁系数；弥漫）
 
+:::
+
 
 ## 6141. afterwards
 
@@ -894,6 +952,8 @@
 :::warning{title=🤔同义词}
 
 - then, next, since, subsequently （后来；然后）
+
+:::
 
 
 ## 6142. consolidation
@@ -934,6 +994,8 @@
 
 - unity, marriage, merger, coalition （巩固；合并；团结）
 
+:::
+
 
 ## 6143. waterfowl
 
@@ -949,6 +1011,8 @@
 
 - grebe （水禽；[鸟]水鸟）
 
+:::
+
 
 ## 6144. efficacious
 
@@ -963,6 +1027,8 @@
 :::warning{title=🤔同义词}
 
 - valid, available, effective, virtual, telling （有效的；灵验的）
+
+:::
 
 
 ## 6145. permeable
@@ -1005,6 +1071,8 @@
 
 - streambed, cauce （河床）
 
+:::
+
 
 ## 6148. destine
 
@@ -1024,6 +1092,8 @@
 
 - fate, engage, budget （注定；命定；预定）
 
+:::
+
 
 ## 6149. expertly
 
@@ -1042,6 +1112,8 @@
 :::warning{title=🤔同义词}
 
 - skilfully, adroitly （熟练地；巧妙地）
+
+:::
 
 
 ## 6150. stipulate
@@ -1066,6 +1138,8 @@
 
 - define, undertake, regulate, assure, state （规定；保证）
 
+:::
+
 
 ## 6151. sandbar
 
@@ -1084,6 +1158,8 @@
 :::warning{title=🤔同义词}
 
 - hurst, alluvion （沙洲；沙堤）
+
+:::
 
 
 ## 6152. contingent
@@ -1114,6 +1190,8 @@
 
 - happenchance, detachment （分遣队；偶然事件；分得部分）
 
+:::
+
 
 ## 6153. congenial
 
@@ -1128,6 +1206,8 @@
 :::warning{title=🤔同义词}
 
 - united, consistent, corresponding, solid, matching （意气相投的；性格相似的；适意的；一致的）
+
+:::
 
 
 ## 6154. faucet
@@ -1154,6 +1234,8 @@
 
 - soket （[机]旋塞；插口）
 
+:::
+
 
 ## 6155. alienate
 
@@ -1168,6 +1250,8 @@
 :::warning{title=🤔同义词}
 
 - release, convey （使疏远，离间；让与）
+
+:::
 
 
 ## 6156. implicit
@@ -1192,6 +1276,8 @@
 
 - suggested, undemonstrative （[计]含蓄的；暗示的；盲从的）
 
+:::
+
 
 ## 6157. preponderance
 
@@ -1206,6 +1292,8 @@
 :::warning{title=🤔同义词}
 
 - majority, superiority, advantage, edge, dominance （优势；多数；占优势）
+
+:::
 
 
 ## 6158. imperfect
@@ -1238,6 +1326,8 @@
 
 - faulty, unfinished （有缺点的；未完成的；半过去的；未完成时的）
 
+:::
+
 
 ## 6159. homeotherm
 
@@ -1256,6 +1346,8 @@
 :::warning{title=🤔同义词}
 
 - endotherm, homotherm （[动]恒温动物（等于homoiotherm））
+
+:::
 
 
 ## 6160. envy
@@ -1288,6 +1380,8 @@
 
 - green eyed, be jealous （嫉妒，妒忌；羡慕）
 
+:::
+
 
 ## 6161. drape
 
@@ -1304,6 +1398,8 @@
 :::warning{title=🤔同义词}
 
 - window curtain, window hangings （窗帘；褶裥）
+
+:::
 
 
 ## 6162. drip
@@ -1342,6 +1438,8 @@
 
 - flood, emit （使滴下；溢出，发出）
 
+:::
+
 
 ## 6163. jewel
 
@@ -1367,6 +1465,8 @@
 
 - gem, gemstone （[宝]宝石；珠宝）
 
+:::
+
 
 ## 6164. practicality
 
@@ -1381,6 +1481,8 @@
 :::warning{title=🤔同义词}
 
 - fact, reality, instance, case, availability （实用性，实际性；实际，实例）
+
+:::
 
 
 ## 6165. pictorial
@@ -1405,6 +1507,8 @@
 
 - graphical （绘画的；形象化的）
 
+:::
+
 
 ## 6166. bland
 
@@ -1421,6 +1525,8 @@
 :::warning{title=🤔同义词}
 
 - pacific, distant, soft, moderate, gentle （[食品]乏味的；温和的；冷漠的）
+
+:::
 
 
 ## 6167. mortal
@@ -1447,6 +1553,8 @@
 
 - mankind, humanity, people （人类，凡人）
 
+:::
+
 
 ## 6168. unschooled
 
@@ -1463,6 +1571,8 @@
 - born, natural （天生的；未受学校教育的）
 
 - illiteracy, analphabetic （文盲）
+
+:::
 
 
 ## 6169. harmless
@@ -1484,6 +1594,8 @@
 :::warning{title=🤔同义词}
 
 - unharmful, noninjurious （无害的；无恶意的）
+
+:::
 
 
 ## 6170. burgeon
@@ -1510,6 +1622,8 @@
 
 - shoots （嫩枝）
 
+:::
+
 
 ## 6171. ashcan
 
@@ -1518,6 +1632,8 @@
 :::warning{title=🤔同义词}
 
 - trashcan, garbage bin （垃圾桶；深水炸弹）
+
+:::
 
 
 ## 6172. literalness
@@ -1533,6 +1649,8 @@
 :::warning{title=🤔同义词}
 
 - letter, texts （文字，字义上；无修饰；表面意义上）
+
+:::
 
 
 ## 6173. flyspeck
@@ -1555,6 +1673,8 @@
 
 - to smear （弄脏）
 
+:::
+
 
 ## 6174. rennin
 
@@ -1563,6 +1683,8 @@
 :::warning{title=🤔同义词}
 
 - renin, chymosin （高血压蛋白原酶；[生化]凝乳酶）
+
+:::
 
 
 ## 6175. hormonal
@@ -1584,6 +1706,8 @@
 :::warning{title=🤔同义词}
 
 - incretionary （荷尔蒙的，激素的）
+
+:::
 
 
 ## 6176. angiotensin
@@ -1610,6 +1734,8 @@
 
 - hypertensin （[生化]血管紧张肽；血管紧缩素）
 
+:::
+
 
 ## 6177. deprivation
 
@@ -1632,6 +1758,8 @@
 :::warning{title=🤔同义词}
 
 - removal, losing, expense, disadvantage, cost （剥夺；损失；免职）
+
+:::
 
 
 ## 6178. aldosterone
@@ -1666,6 +1794,8 @@
 
 - empower, accredit （授权；托管）
 
+:::
+
 
 ## 6180. henceforth
 
@@ -1686,6 +1816,8 @@
 :::warning{title=🤔同义词}
 
 - forwards, hereafter （今后；自此以后）
+
+:::
 
 
 ## 6181. mammalian
@@ -1720,6 +1852,8 @@
 
 - wrong, unlawfully （不公平地；不正当地）
 
+:::
+
 
 ## 6183. irrelevant
 
@@ -1736,6 +1870,8 @@
 :::warning{title=🤔同义词}
 
 - inconnected, unrelated （不相干的；不切题的）
+
+:::
 
 
 ## 6184. jury
@@ -1774,6 +1910,8 @@
 
 - quick-fix, lash-up （应急的）
 
+:::
+
 
 ## 6185. burdensome
 
@@ -1790,6 +1928,8 @@
 :::warning{title=🤔同义词}
 
 - heavy, onerous （繁重的；累赘的；恼人的）
+
+:::
 
 
 ## 6186. confederate
@@ -1821,6 +1961,8 @@
 - combine, ally （使联盟；使联合；同伙；帮凶）
 
 - band, combine, connect （同盟；联合）
+
+:::
 
 
 ## 6187. pardon
@@ -1857,6 +1999,8 @@
 
 - forgive, tolerate （原谅；[法]赦免；宽恕）
 
+:::
+
 
 ## 6188. convict
 
@@ -1873,6 +2017,8 @@
 :::warning{title=🤔同义词}
 
 - criminal offender, culprit （罪犯）
+
+:::
 
 
 ## 6189. authorization
@@ -1907,6 +2053,8 @@
 
 - commission, confirmation, warranty （[计][法]授权，认可；批准，委任）
 
+:::
+
 
 ## 6190. gymnastic
 
@@ -1927,6 +2075,8 @@
 :::warning{title=🤔同义词}
 
 - calisthenic （体操的，体育的）
+
+:::
 
 
 ## 6191. stagger
@@ -1955,6 +2105,8 @@
 
 - altern, interlaced （交错的；错开的）
 
+:::
+
 
 ## 6192. peacetime
 
@@ -1971,6 +2123,8 @@
 :::warning{title=🤔同义词}
 
 - everyday （平时；和平时期）
+
+:::
 
 
 ## 6193. readjust
@@ -2005,6 +2159,8 @@
 
 - competition, war, struggle, match, contest （竞争；对抗；竞赛）
 
+:::
+
 
 ## 6195. nobility
 
@@ -2019,6 +2175,8 @@
 :::warning{title=🤔同义词}
 
 - prince, noble, dignity （贵族；高贵；高尚）
+
+:::
 
 
 ## 6196. revive
@@ -2037,6 +2195,8 @@
 
 - recall, reinvigorate （使复兴；使苏醒；回想起；重演，重播）
 
+:::
+
 
 ## 6197. ponderous
 
@@ -2052,6 +2212,8 @@
 
 - mechanical, wooden, dead, cumbersome （笨重的；沉闷的；呆板的）
 
+:::
+
 
 ## 6198. thresher
 
@@ -2066,6 +2228,8 @@
 :::warning{title=🤔同义词}
 
 - thrasher, threshing machine （[农机]打谷机；打谷者；[鱼]长尾鲨）
+
+:::
 
 
 ## 6199. utensil
@@ -2089,5 +2253,7 @@
 :::warning{title=🤔同义词}
 
 - vessel, tool （用具，[轻]器皿）
+
+:::
 
 

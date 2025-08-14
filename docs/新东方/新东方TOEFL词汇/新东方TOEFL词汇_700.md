@@ -38,6 +38,8 @@
 
 - disorder, chaos, confusion, turmoil, involvement （混乱；翻倒）
 
+:::
+
 
 ## 701. diffusion
 
@@ -96,6 +98,8 @@
 :::warning{title=🤔同义词}
 
 - circulation, propagation, proliferation, spread （[电子][物]扩散，传播；[光]漫射）
+
+:::
 
 
 ## 702. curve
@@ -164,6 +168,8 @@
 
 - winding, flexural, crooked （弯曲的；曲线形的）
 
+:::
+
 
 ## 703. dot
 
@@ -207,6 +213,8 @@
 
 - dowry, tocher （[数]点，圆点；嫁妆）
 
+:::
+
 
 ## 704. skim
 
@@ -237,6 +245,8 @@
 - page, brush （浏览；掠过）
 
 - nonfat, defatted （脱脂的；撇去浮沫的；表层的）
+
+:::
 
 
 ## 705. skip
@@ -269,6 +279,8 @@
 
 - jump, spring （跳跃；跳读）
 
+:::
+
 
 ## 706. disseminate
 
@@ -285,6 +297,8 @@
 - distribute, publicize, transmit （宣传，传播；散布）
 
 - shed, put about （散布；广为传播）
+
+:::
 
 
 ## 707. liquefy
@@ -304,6 +318,8 @@
 :::warning{title=🤔同义词}
 
 - solve, resolve （液化；溶解）
+
+:::
 
 
 ## 708. exodus
@@ -357,6 +373,8 @@
 - indicate to, make reference to （提到，谈到；提及，论及；说起）
 
 - reference, allusion （提及，说起）
+
+:::
 
 
 ## 710. stream
@@ -423,6 +441,8 @@
 
 - shed, sweat （流出；涌出；使飘动）
 
+:::
+
 
 ## 711. laundry
 
@@ -462,6 +482,8 @@
 
 - cleaners, loundry （[贸易]洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服）
 
+:::
+
 
 ## 712. digression
 
@@ -470,6 +492,8 @@
 :::warning{title=🤔同义词}
 
 - off the point, irrelevance （离题；脱轨）
+
+:::
 
 
 ## 713. grudge
@@ -495,6 +519,8 @@
 - spare, begrudge （怀恨；吝惜；妒忌；不情愿做）
 
 - spite, hatred （怨恨；恶意；妒忌）
+
+:::
 
 
 ## 714. herald
@@ -525,6 +551,8 @@
 
 - precursor, forerunner （先驱；传令官；报信者）
 
+:::
+
 
 ## 715. accumulate
 
@@ -541,6 +569,8 @@
 - store up （累积；积聚）
 
 - scrape up （积攒）
+
+:::
 
 
 ## 716. coalition
@@ -566,6 +596,8 @@
 :::warning{title=🤔同义词}
 
 - combination, alliance, combined with, unity, union, association, marriage （联合；结合，合并）
+
+:::
 
 
 ## 717. dwarf
@@ -599,6 +631,8 @@
 - homuncle, mannikin （侏儒，[内科]矮子）
 
 - scrubby, runty （[生物]矮小的）
+
+:::
 
 
 ## 718. crime
@@ -665,6 +699,8 @@
 
 - sin, evil, guilt （罪行，犯罪；罪恶；犯罪活动）
 
+:::
+
 
 ## 719. leisure
 
@@ -708,6 +744,8 @@
 
 - available, off （空闲的；有闲的；业余的）
 
+:::
+
 
 ## 720. surround
 
@@ -731,6 +769,8 @@
 
 - entironment, girdle （围绕物）
 
+:::
+
 
 ## 721. mar
 
@@ -749,6 +789,8 @@
 - cloud, to injure （损毁；损伤；糟蹋；玷污）
 
 - tainture, jaup （污点；瑕疵）
+
+:::
 
 
 ## 722. mat
@@ -794,6 +836,8 @@
 - entwist （缠结；铺席于……上）
 
 - lustreless, unpolished （无光泽的）
+
+:::
 
 
 ## 723. forward
@@ -866,6 +910,8 @@
 
 - stricker, vanguard （前锋）
 
+:::
+
 
 ## 724. melanin
 
@@ -896,6 +942,8 @@
 - absorb, drink in （吸收；使同化；把…比作；使相似）
 
 - drink in, suck up （吸收；同化）
+
+:::
 
 
 ## 726. ethical
@@ -940,6 +988,8 @@
 
 - prescription medicine, prescription drugs （处方药）
 
+:::
+
 
 ## 727. zealous
 
@@ -956,6 +1006,8 @@
 :::warning{title=🤔同义词}
 
 - intense, active, positive, eager, warm （热心的，热情的，积极的）
+
+:::
 
 
 ## 728. comparable
@@ -1011,6 +1063,8 @@
 - harry, worry, trouble, tear, induce （引诱；在…中放诱饵；折磨）
 
 - gentle, lure （饵；诱饵）
+
+:::
 
 
 ## 730. mail
@@ -1081,6 +1135,8 @@
 
 - send off, pack off （邮寄；寄出）
 
+:::
+
 
 ## 731. dimensional
 
@@ -1131,6 +1187,8 @@
 :::warning{title=🤔同义词}
 
 - spatial, spacial （空间的；尺寸的）
+
+:::
 
 
 ## 732. subject
@@ -1199,6 +1257,8 @@
 
 - followed, compliant （服从的；易患…的；受制于…的）
 
+:::
+
 
 ## 733. recognition
 
@@ -1258,6 +1318,8 @@
 
 - identification, discernment （[计][免疫]识别；承认，认出；重视；赞誉；公认）
 
+:::
+
 
 ## 734. disinterest
 
@@ -1272,6 +1334,8 @@
 :::warning{title=🤔同义词}
 
 - unconcern, insensibility （不关心；无兴趣）
+
+:::
 
 
 ## 735. lunge
@@ -1292,6 +1356,8 @@
 
 - run through, poke （刺；突进）
 
+:::
+
 
 ## 736. convene
 
@@ -1308,6 +1374,8 @@
 - call together, assemble （召集，集合；传唤）
 
 - concentrate, collect, mass, crowd, aggregate （聚集，集合）
+
+:::
 
 
 ## 737. revenue
@@ -1369,6 +1437,8 @@
 :::warning{title=🤔同义词}
 
 - taxes, income, proceeds, yield （税收，国家的收入；[会计]收益）
+
+:::
 
 
 ## 738. strip
@@ -1433,6 +1503,8 @@
 
 - belt, band （带；条状；脱衣舞）
 
+:::
+
 
 ## 739. monopoly
 
@@ -1474,6 +1546,8 @@
 
 - cornerer （[经]垄断；垄断者；[贸易]专卖权）
 
+:::
+
 
 ## 740. negotiation
 
@@ -1504,6 +1578,8 @@
 :::warning{title=🤔同义词}
 
 - treaty, alienation （谈判；转让；顺利的通过）
+
+:::
 
 
 ## 741. grain
@@ -1563,6 +1639,8 @@
 :::warning{title=🤔同义词}
 
 - particle, texture, corn, commissariat （[粮食]粮食；[摄]颗粒；[作物]谷物；[木][纺][岩]纹理）
+
+:::
 
 
 ## 742. credit
@@ -1627,6 +1705,8 @@
 
 - put faith in, believe in （相信，信任；把…归给，归功于；赞颂）
 
+:::
+
 
 ## 743. oxygen
 
@@ -1686,6 +1766,8 @@
 
 - O2 （氧气，[化学]氧）
 
+:::
+
 
 ## 744. combine
 
@@ -1715,6 +1797,8 @@
 
 - integrated works, Konzern （[农机]联合收割机；联合企业）
 
+:::
+
 
 ## 745. alter
 
@@ -1742,6 +1826,8 @@
 
 - modify, veer from （改变；修改）
 
+:::
+
 
 ## 746. fraudulent
 
@@ -1758,6 +1844,8 @@
 :::warning{title=🤔同义词}
 
 - crank-sided, knavish （欺骗性的；不正的）
+
+:::
 
 
 ## 747. waste
@@ -1828,6 +1916,8 @@
 
 - spare, unnecessary, redundant （废弃的；多余的；荒芜的）
 
+:::
+
 
 ## 748. approximation
 
@@ -1873,6 +1963,8 @@
 
 - neighborhood, proximity （[数]近似法；接近；近似值）
 
+:::
+
 
 ## 749. syllable
 
@@ -1899,6 +1991,8 @@
 :::warning{title=🤔同义词}
 
 - to speak, to address （按音节发音；讲话）
+
+:::
 
 
 ## 750. comedy
@@ -1981,6 +2075,8 @@
 
 - happen, occur, proceed （发源；发生；起航）
 
+:::
+
 
 ## 753. compass
 
@@ -2010,6 +2106,8 @@
 
 - case, invest, circumvent, encircle, ring about （包围）
 
+:::
+
 
 ## 754. soloist
 
@@ -2024,6 +2122,8 @@
 :::warning{title=🤔同义词}
 
 - chazan, cantor （独奏者；独唱者）
+
+:::
 
 
 ## 755. nonetheless
@@ -2043,6 +2143,8 @@
 - yet （尽管如此，但是）
 
 - and, granted, but, yet, only （尽管如此，但是）
+
+:::
 
 
 ## 756. dispose
@@ -2069,6 +2171,8 @@
 
 - make, temperament （处置；性情）
 
+:::
+
 
 ## 757. disconcert
 
@@ -2083,6 +2187,8 @@
 :::warning{title=🤔同义词}
 
 - destroy, undermine （使仓皇失措；使困惑；破坏）
+
+:::
 
 
 ## 758. constitution
@@ -2117,6 +2223,8 @@
 
 - formation, fabric, structure, build, make （宪法；体质；章程；构造）
 
+:::
+
 
 ## 759. paradigm
 
@@ -2137,6 +2245,8 @@
 :::warning{title=🤔同义词}
 
 - exemplification （范例；词形变化表）
+
+:::
 
 
 ## 760. blend
@@ -2179,6 +2289,8 @@
 
 - mixture, mix （[天]混合；[油气]掺合物）
 
+:::
+
 
 ## 761. overact
 
@@ -2193,6 +2305,8 @@
 :::warning{title=🤔同义词}
 
 - ham （夸张表演；表演过火）
+
+:::
 
 
 ## 762. fidelity
@@ -2219,6 +2333,8 @@
 
 - precision, loyalty （[电子][电讯]保真度；忠诚；精确；尽责）
 
+:::
+
 
 ## 763. conceive
 
@@ -2242,6 +2358,8 @@
 
 - allow, think of, think about （怀孕；设想；考虑）
 
+:::
+
 
 ## 764. incursion
 
@@ -2256,6 +2374,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （入侵；侵犯）
+
+:::
 
 
 ## 765. nonsense
@@ -2287,6 +2407,8 @@
 - bullshit, kibosh （胡说；废话）
 
 - ridiculous, preposterous （荒谬的）
+
+:::
 
 
 ## 766. stain
@@ -2329,6 +2451,8 @@
 
 - tainture, jaup （污点；瑕疵；[试剂][生物]着色剂）
 
+:::
+
 
 ## 767. balk
 
@@ -2355,6 +2479,8 @@
 - stem, block, dispute, lose, prohibit （阻止；推诿；错过）
 
 - daiker, hang back （犹豫；突然止步不前）
+
+:::
 
 
 ## 768. electrode
@@ -2415,6 +2541,8 @@
 
 - electric pole, terminal post （[电]电极；电焊条）
 
+:::
+
 
 ## 769. airborne
 
@@ -2444,6 +2572,8 @@
 
 - abn, skyborne （[航]空运的；空气传播的；风媒的）
 
+:::
+
 
 ## 770. reckless
 
@@ -2469,6 +2599,8 @@
 
 - indiscretionary, temerarious （鲁莽的，不顾后果的；粗心大意的）
 
+:::
+
 
 ## 771. oversleep
 
@@ -2483,6 +2615,8 @@
 :::warning{title=🤔同义词}
 
 - sleep in （睡过头）
+
+:::
 
 
 ## 772. bald
@@ -2513,6 +2647,8 @@
 
 - flat, blank, naked （[地理]秃顶的；光秃的；单调的；无装饰的）
 
+:::
+
 
 ## 773. paradox
 
@@ -2541,6 +2677,8 @@
 :::warning{title=🤔同义词}
 
 - cantata （清唱剧；宗教剧）
+
+:::
 
 
 ## 775. X-ray
@@ -2641,6 +2779,8 @@
 
 - medical examination, check-up （体格检查）
 
+:::
+
 
 ## 777. categorize
 
@@ -2655,6 +2795,8 @@
 :::warning{title=🤔同义词}
 
 - class, sort through （分类）
+
+:::
 
 
 ## 778. mania
@@ -2671,6 +2813,8 @@
 
 - abandon, fanaticism （狂热；狂躁；热衷）
 
+:::
+
 
 ## 779. poetic
 
@@ -2685,6 +2829,8 @@
 :::warning{title=🤔同义词}
 
 - odic, melic （诗的，诗歌的；诗意的；诗人的）
+
+:::
 
 
 ## 780. opposed
@@ -2709,6 +2855,8 @@
 
 - negatived （反对（oppose的过去分词）；使对立）
 
+:::
+
 
 ## 781. familiarize
 
@@ -2730,6 +2878,8 @@
 
 - acquaint sb. with （使熟悉）
 
+:::
+
 
 ## 782. apportionment
 
@@ -2738,6 +2888,8 @@
 :::warning{title=🤔同义词}
 
 - allocation, distribution, assignment （分摊；分配；分派）
+
+:::
 
 
 ## 783. thread
@@ -2804,6 +2956,8 @@
 
 - get through sth, get across （通过；穿透过）
 
+:::
+
 
 ## 784. enrollment
 
@@ -2821,6 +2975,8 @@
 
 - registration, entry （登记；入伍）
 
+:::
+
 
 ## 785. tyrannical
 
@@ -2837,6 +2993,8 @@
 :::warning{title=🤔同义词}
 
 - ruffianly, atrocious （残暴的；暴君的；专横的）
+
+:::
 
 
 ## 786. stake
@@ -2877,6 +3035,8 @@
 
 - lay, make a bet （打赌）
 
+:::
+
 
 ## 787. fortify
 
@@ -2891,6 +3051,8 @@
 :::warning{title=🤔同义词}
 
 - enhance, cement, muscle, build up （加强；增强；（酒）的酒精含量；设防于）
+
+:::
 
 
 ## 788. due
@@ -2917,6 +3079,8 @@
 
 - plumb （正（置于方位词前））
 
+:::
+
 
 ## 789. ripen
 
@@ -2933,6 +3097,8 @@
 - age, mellow （使成熟）
 
 - age, mature, flower （成熟）
+
+:::
 
 
 ## 790. conform
@@ -2958,6 +3124,8 @@
 - accord, reconcile （使遵守；使一致；使顺从）
 
 - united, consistent, matching, uniform, corresponding （一致的；顺从的）
+
+:::
 
 
 ## 791. bake
@@ -2988,6 +3156,8 @@
 
 - spitchcock （烤；烘烤食品）
 
+:::
+
 
 ## 792. authentic
 
@@ -3003,6 +3173,8 @@
 
 - actual, sincere, genuine, true, real （真正的，真实的；可信的）
 
+:::
+
 
 ## 793. opal
 
@@ -3011,6 +3183,8 @@
 :::warning{title=🤔同义词}
 
 - cat's-eye （猫眼石，[矿物]蛋白石；乳白玻璃）
+
+:::
 
 
 ## 794. lodge
@@ -3040,6 +3214,8 @@
 - introduce, present, prefer, file, advance （提出；寄存；借住；嵌入）
 
 - board, guest （寄宿；临时住宿）
+
+:::
 
 
 ## 795. threat
@@ -3082,6 +3258,8 @@
 
 - danger, intimidation （威胁，恐吓；凶兆）
 
+:::
+
 
 ## 796. rayon
 
@@ -3107,6 +3285,8 @@
 
 - artificial silk, kunstseide （[纺]人造丝；人造纤维）
 
+:::
+
 
 ## 797. devoid
 
@@ -3127,6 +3307,8 @@
 :::warning{title=🤔同义词}
 
 - lacking, scarce （缺乏的；全无的）
+
+:::
 
 
 ## 798. mercy
@@ -3165,6 +3347,8 @@
 
 - humanity, tolerance, kindness, charity, good （仁慈，宽容；怜悯；幸运；善行）
 
+:::
+
 
 ## 799. curl
 
@@ -3191,5 +3375,7 @@
 - crisp （[纸]卷曲；盘绕）
 
 - wave, wavy hair （[纸]卷曲；卷发；螺旋状物）
+
+:::
 
 

@@ -36,6 +36,8 @@
 
 - jinnee, djinni （神仙，天堂里的居民）
 
+:::
+
 
 ## 401. cellular
 
@@ -79,6 +81,8 @@
 
 - unit, mobilephone （移动电话；单元）
 
+:::
+
 
 ## 402. censure
 
@@ -99,6 +103,8 @@
 - decrial, dyslogy （责难）
 
 - accuse of, blame for （谴责，责备）
+
+:::
 
 
 ## 403. census
@@ -133,6 +139,8 @@
 
 - lustrum, nose-count （人口普查，人口调查）
 
+:::
+
 
 ## 404. centrality
 
@@ -141,6 +149,8 @@
 :::warning{title=🤔同义词}
 
 - focus, hub, middle （中心；中央；向心性）
+
+:::
 
 
 ## 405. ceramic
@@ -207,6 +217,8 @@
 
 - cer, pottery and porcelain （[陶瓷]陶瓷；陶瓷制品）
 
+:::
+
 
 ## 406. cereal
 
@@ -233,6 +245,8 @@
 - corn, grain （[作物]谷类，谷物；谷类食品；谷类植物）
 
 - corny （[作物]谷类的；谷类制成的）
+
+:::
 
 
 ## 407. certificate
@@ -295,6 +309,8 @@
 
 - license, letter, patent, permit （[管理]证书；执照，文凭）
 
+:::
+
 
 ## 408. certify
 
@@ -310,6 +326,8 @@
 
 - seal of, give evidence of （证明；保证）
 
+:::
+
 
 ## 409. certitude
 
@@ -318,6 +336,8 @@
 :::warning{title=🤔同义词}
 
 - assurance, conviction （确信；确实）
+
+:::
 
 
 ## 410. cessation
@@ -333,6 +353,8 @@
 :::warning{title=🤔同义词}
 
 - stop, break, stay, hang, stand （停止；中止；中断）
+
+:::
 
 
 ## 411. chaise
@@ -352,6 +374,8 @@
 :::warning{title=🤔同义词}
 
 - calix, grail （杯；圣餐杯；酒杯）
+
+:::
 
 
 ## 413. chamber
@@ -422,6 +446,8 @@
 
 - load （把…关在室内；装填（弹药等））
 
+:::
+
 
 ## 414. character
 
@@ -489,6 +515,8 @@
 
 - print... （印，刻；使具有特征）
 
+:::
+
 
 ## 415. characterization
 
@@ -511,6 +539,8 @@
 :::warning{title=🤔同义词}
 
 - presentation, description （描述；特性描述）
+
+:::
 
 
 ## 416. charity
@@ -545,6 +575,8 @@
 
 - tolerance, mercy （慈善；施舍；慈善团体；宽容；施舍物）
 
+:::
+
 
 ## 417. chart
 
@@ -565,6 +597,8 @@
 :::warning{title=🤔同义词}
 
 - graph, diagram （图表；海图；图纸）
+
+:::
 
 
 ## 418. charter
@@ -611,6 +645,8 @@
 
 - license, patent, permit （宪章；执照；特许状）
 
+:::
+
 
 ## 419. chatter
 
@@ -640,6 +676,8 @@
 
 - newsiness, garrulity （唠叨；饶舌；（动物的）啁啾声；潺潺流水声）
 
+:::
+
 
 ## 420. chatty
 
@@ -656,6 +694,8 @@
 :::warning{title=🤔同义词}
 
 - informal, casual （饶舌的；爱讲闲话的；非正式的）
+
+:::
 
 
 ## 421. chauvinism
@@ -677,6 +717,8 @@
 :::warning{title=🤔同义词}
 
 - jingoism, kultur （沙文主义；盲目的爱国心）
+
+:::
 
 
 ## 422. chip
@@ -743,6 +785,8 @@
 
 - debris, patch （[电子]芯片；筹码；碎片）
 
+:::
+
 
 ## 423. cholesterol
 
@@ -790,6 +834,8 @@
 
 - hypothenuse, quadrature （[数]弦；和弦）
 
+:::
+
 
 ## 425. chore
 
@@ -806,6 +852,8 @@
 :::warning{title=🤔同义词}
 
 - char （家庭杂务；日常的零星事务；讨厌的或累人的工作）
+
+:::
 
 
 ## 426. choreographer
@@ -838,6 +886,8 @@
 
 - register, to record （记录；把…载入编年史）
 
+:::
+
 
 ## 428. chronology
 
@@ -852,6 +902,8 @@
 :::warning{title=🤔同义词}
 
 - Fasti （[图情]年表；年代学）
+
+:::
 
 
 ## 429. circuit
@@ -916,6 +968,8 @@
 
 - round （环行）
 
+:::
+
 
 ## 430. circular
 
@@ -979,6 +1033,8 @@
 
 - notice, advice, information （通知，传单）
 
+:::
+
 
 ## 431. circulate
 
@@ -997,6 +1053,8 @@
 - spread abroad, to disseminate （传播，流传；循环；流通）
 
 - cycle （使循环；使流通；使传播）
+
+:::
 
 
 ## 432. circulation
@@ -1057,6 +1115,8 @@
 
 - revolution, rotation, cycle, propagation, diffusion （[贸易]流通，传播；循环；[图情]发行量）
 
+:::
+
 
 ## 433. circulatory
 
@@ -1077,6 +1137,8 @@
 :::warning{title=🤔同义词}
 
 - cyclic, recursive （循环的）
+
+:::
 
 
 ## 434. circumference
@@ -1105,6 +1167,8 @@
 
 - periphery, chest/bust （[数]圆周；周长；胸围）
 
+:::
+
 
 ## 435. circumspect
 
@@ -1119,6 +1183,8 @@
 :::warning{title=🤔同义词}
 
 - measured, scrupulous （细心的，周到的；慎重的）
+
+:::
 
 
 ## 436. circumstance
@@ -1151,6 +1217,8 @@
 
 - context, situation, setting, event, occurrence, thing, scene （环境，情况；事件；境遇）
 
+:::
+
 
 ## 437. circumvent
 
@@ -1165,6 +1233,8 @@
 :::warning{title=🤔同义词}
 
 - case, invest, frame （包围；陷害；绕行）
+
+:::
 
 
 ## 438. citywide
@@ -1205,6 +1275,8 @@
 
 - municipal （市的；公民的，市民的）
 
+:::
+
 
 ## 440. civilization
 
@@ -1235,6 +1307,8 @@
 :::warning{title=🤔同义词}
 
 - culture, kultur （文明；文化）
+
+:::
 
 
 ## 441. claim
@@ -1299,6 +1373,8 @@
 
 - requirement, do, assurance, need, desire （要求；声称；[贸易]索赔；断言；值得）
 
+:::
+
 
 ## 442. clan
 
@@ -1315,6 +1391,8 @@
 :::warning{title=🤔同义词}
 
 - nationality, collective, tribe （宗族；部落；集团）
+
+:::
 
 
 ## 443. clandestine
@@ -1333,6 +1411,8 @@
 
 - secret, private, underground, chamber, inside （秘密的，私下的；偷偷摸摸的）
 
+:::
+
 
 ## 444. clarify
 
@@ -1347,6 +1427,8 @@
 :::warning{title=🤔同义词}
 
 - illustrate, elucidate （澄清；阐明）
+
+:::
 
 
 ## 445. clarity
@@ -1364,6 +1446,8 @@
 :::warning{title=🤔同义词}
 
 - transparency, perspicuousness （清楚，明晰；[化学]透明）
+
+:::
 
 
 ## 446. classify
@@ -1388,6 +1472,8 @@
 
 - categorize, sort through （分类；分等）
 
+:::
+
 
 ## 447. clergy
 
@@ -1402,6 +1488,8 @@
 :::warning{title=🤔同义词}
 
 - minister, priest （神职人员；牧师；僧侣）
+
+:::
 
 
 ## 448. client
@@ -1454,6 +1542,8 @@
 
 - customer, consumer, principal, guest, correspondent （[计][经]客户；顾客；[审计]委托人）
 
+:::
+
 
 ## 449. cliff
 
@@ -1474,6 +1564,8 @@
 :::warning{title=🤔同义词}
 
 - precipice, escarpment （[地理]悬崖；绝壁）
+
+:::
 
 
 ## 450. clinging
@@ -1504,6 +1596,8 @@
 
 - persisting, sticking （坚持，紧贴（cling的ing形式））
 
+:::
+
 
 ## 451. clockwise
 
@@ -1533,6 +1627,8 @@
 
 - deasil （顺时针方向地）
 
+:::
+
 
 ## 452. clog
 
@@ -1551,6 +1647,8 @@
 - choke with, plug up （阻塞；障碍）
 
 - obstacle, let, bar, dam, stop （障碍；木底鞋）
+
+:::
 
 
 ## 453. clot
@@ -1579,6 +1677,8 @@
 
 - clump （使凝结成块）
 
+:::
+
 
 ## 454. clump
 
@@ -1597,6 +1697,8 @@
 - cluster, plexus （丛；笨重的脚步声；土块）
 
 - clot （使成一丛；使凝结成块）
+
+:::
 
 
 ## 455. cluster
@@ -1653,6 +1755,8 @@
 
 - converge （使聚集；聚集在某人的周围）
 
+:::
+
 
 ## 456. coalition
 
@@ -1678,6 +1782,8 @@
 
 - combination, alliance, combined with, unity, union, association, marriage （联合；结合，合并）
 
+:::
+
 
 ## 457. coaster
 
@@ -1692,6 +1798,8 @@
 :::warning{title=🤔同义词}
 
 - cariole, carriole （沿岸贸易船；杯托，小托盘；雪橇）
+
+:::
 
 
 ## 458. cocaine
@@ -1717,6 +1825,8 @@
 :::warning{title=🤔同义词}
 
 - coke, Bernie （[药]可卡因）
+
+:::
 
 
 ## 459. codify
@@ -1787,6 +1897,8 @@
 
 - recognitive, epistemic （认知的，认识的）
 
+:::
+
 
 ## 461. coherent
 
@@ -1820,6 +1932,8 @@
 
 - united, consistent, connected, corresponding, matching （[植]连贯的，一致的；明了的；清晰的；凝聚性的；互相偶合的；粘在一起的）
 
+:::
+
 
 ## 462. coinage
 
@@ -1834,6 +1948,8 @@
 :::warning{title=🤔同义词}
 
 - monetary system, mintage （造币；[金融]货币制度；新造的字及其语等）
+
+:::
 
 
 ## 463. coincide
@@ -1858,6 +1974,8 @@
 
 - cotton, square, identify, accord （一致，符合；同时发生）
 
+:::
+
 
 ## 464. collaborate
 
@@ -1878,6 +1996,8 @@
 :::warning{title=🤔同义词}
 
 - team, work together （合作；勾结，通敌）
+
+:::
 
 
 ## 465. collapse
@@ -1911,6 +2031,8 @@
 - crumple up （使倒塌，使崩溃；使萎陷）
 
 - failure, loss, losing, defeat, reverse （倒塌；失败；衰竭）
+
+:::
 
 
 ## 466. collateral
@@ -1946,6 +2068,8 @@
 - subsidiary, paralleled （并行的；[遗]旁系的；附属的）
 
 - security, guarantee （抵押品；[法]担保品；旁系亲属）
+
+:::
 
 
 ## 467. collective
@@ -2006,6 +2130,8 @@
 
 - bloc, clan （集团；集合体；集合名词）
 
+:::
+
 
 ## 468. collide
 
@@ -2029,6 +2155,8 @@
 
 - hit, impact on, crash （碰撞；抵触，冲突）
 
+:::
+
 
 ## 469. collinear
 
@@ -2037,6 +2165,8 @@
 :::warning{title=🤔同义词}
 
 - co-linear （[数]共线的；同线的；在同一直线上的）
+
+:::
 
 
 ## 470. colonize
@@ -2065,6 +2195,8 @@
 
 - painting, dyeing （着色；染色）
 
+:::
+
 
 ## 472. colossal
 
@@ -2081,6 +2213,8 @@
 :::warning{title=🤔同义词}
 
 - huge, tremendous, enormous, massive, macro, intense （巨大的；异常的，非常的）
+
+:::
 
 
 ## 473. combat
@@ -2129,6 +2263,8 @@
 
 - fighting （战斗的；为…斗争的）
 
+:::
+
 
 ## 474. combine
 
@@ -2159,6 +2295,8 @@
 - band, bond, couple, become one, connect （联合，结合；化合）
 
 - integrated works, Konzern （[农机]联合收割机；联合企业）
+
+:::
 
 
 ## 475. combustion
@@ -2219,6 +2357,8 @@
 
 - burning, inflammation （[热]燃烧，氧化；骚动）
 
+:::
+
 
 ## 476. comedian
 
@@ -2239,6 +2379,8 @@
 :::warning{title=🤔同义词}
 
 - funny, banana （喜剧演员；滑稽人物）
+
+:::
 
 
 ## 477. comet
@@ -2281,6 +2423,8 @@
 
 - speak well of, pay a tribute to （称赞；表扬）
 
+:::
+
 
 ## 479. commensurate
 
@@ -2301,6 +2445,8 @@
 :::warning{title=🤔同义词}
 
 - matching, worthy, fitting （相称的；同量的；同样大小的）
+
+:::
 
 
 ## 480. comment
@@ -2332,6 +2478,8 @@
 - opinion, criticism, mind, judgement, thinking （评论；意见；批评）
 
 - declare oneself, air one's opinion （发表评论；发表意见）
+
+:::
 
 
 ## 481. commerce
@@ -2391,6 +2539,8 @@
 :::warning{title=🤔同义词}
 
 - trade, traffic （贸易，[贸易]商业）
+
+:::
 
 
 ## 482. commercial
@@ -2452,6 +2602,8 @@
 :::warning{title=🤔同义词}
 
 - merchant （[贸易]商业的；营利的；靠广告收入的）
+
+:::
 
 
 ## 483. commission
@@ -2516,6 +2668,8 @@
 
 - depute, authorise （委任；使服役；委托制作）
 
+:::
+
 
 ## 484. commit
 
@@ -2544,6 +2698,8 @@
 :::warning{title=🤔同义词}
 
 - sin, do sth. wrong （犯罪，做错事；把...交托给；指派…作战；使…承担义务）
+
+:::
 
 
 ## 485. commitment
@@ -2581,6 +2737,8 @@
 :::warning{title=🤔同义词}
 
 - assurance, certification, guarantee, security, compliance （承诺，保证；委托；承担义务；献身）
+
+:::
 
 
 ## 486. commodity
@@ -2637,6 +2795,8 @@
 
 - cargo, merchandise （商品，[贸易]货物；日用品）
 
+:::
+
 
 ## 487. commoner
 
@@ -2651,6 +2811,8 @@
 :::warning{title=🤔同义词}
 
 - populace, common man （平民；自费学生；下议院议员）
+
+:::
 
 
 ## 488. commonplace
@@ -2670,6 +2832,8 @@
 - truism （老生常谈；司空见惯的事；普通的东西）
 
 - ordinary, stock （平凡的；陈腐的）
+
+:::
 
 
 ## 489. communal
@@ -2780,6 +2944,8 @@
 
 - village, organization, body, group （社区；[生态]群落；共同体；团体）
 
+:::
+
 
 ## 492. commute
 
@@ -2798,6 +2964,8 @@
 :::warning{title=🤔同义词}
 
 - exchange for, give for （减刑；[数]交换；用……交换；使……变成）
+
+:::
 
 
 ## 493. compact
@@ -2852,6 +3020,8 @@
 
 - close, brief （[数]紧凑的，紧密的；简洁的）
 
+:::
+
 
 ## 494. companionate
 
@@ -2860,6 +3030,8 @@
 :::warning{title=🤔同义词}
 
 - friendly, fellow （伙伴的，同伴的；友爱的，友好的）
+
+:::
 
 
 ## 495. comparable
@@ -2924,6 +3096,8 @@
 
 - parabole, imagery （比较；对照；比喻；比较关系）
 
+:::
+
 
 ## 497. compassion
 
@@ -2938,6 +3112,8 @@
 :::warning{title=🤔同义词}
 
 - feeling, sympathy, pity, mercy （同情；怜悯）
+
+:::
 
 
 ## 498. compatible
@@ -2971,5 +3147,7 @@
 :::warning{title=🤔同义词}
 
 - pressure, force, enforce （强迫，迫使；强使发生）
+
+:::
 
 

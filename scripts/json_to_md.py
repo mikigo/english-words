@@ -100,4 +100,5 @@ for root, dirs, files in os.walk("../books"):
                         l += f" （{s.get('tran')}）"
                         mdf.write(f"- {l}\n\n")
                         # mdf.write(f"> - {l}\n>\n")
+                    mdf.write(f":::\n\n")
                     mdf.write("\n")

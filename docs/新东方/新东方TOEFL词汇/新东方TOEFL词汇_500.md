@@ -30,6 +30,8 @@
 
 - judicial, fair, just, impartial （公平的，公正的；平衡法的）
 
+:::
+
 
 ## 502. inconspicuous
 
@@ -46,6 +48,8 @@
 :::warning{title=🤔同义词}
 
 - invisible, unspectacular （不显眼的；不引人注意的；（花）不显著的）
+
+:::
 
 
 ## 503. specimen
@@ -84,6 +88,8 @@
 
 - pattern, swatch （样品，[图情]样本；标本）
 
+:::
+
 
 ## 504. exotic
 
@@ -108,6 +114,8 @@
 :::warning{title=🤔同义词}
 
 - outside, extraneous （[物]异国的；[语]外来的；异国情调的）
+
+:::
 
 
 ## 505. relief
@@ -170,6 +178,8 @@
 
 - comfort, almsgiving （救济；减轻，解除；安慰）
 
+:::
+
 
 ## 506. boycott
 
@@ -217,6 +227,8 @@
 
 - presentation, adoption （介绍；引进；采用；入门；传入）
 
+:::
+
 
 ## 508. subscribe
 
@@ -233,6 +245,8 @@
 - sign, donate money （订阅；捐款；[经]认购；赞成；签署）
 
 - ink, agree, sign, uphold （签署；赞成；捐助）
+
+:::
 
 
 ## 509. therapy
@@ -295,6 +309,8 @@
 
 - cure, medical treatment （治疗，[临床]疗法）
 
+:::
+
 
 ## 510. chromosome
 
@@ -333,6 +349,8 @@
 :::warning{title=🤔同义词}
 
 - monosomy, karyosome （[染料][遗][细胞]染色体（形容词chromosomal，副词chromosomally））
+
+:::
 
 
 ## 511. concentration
@@ -397,6 +415,8 @@
 
 - thickness, compression, assembly, convergence, set （[物][化学]浓度；集中；浓缩；专心；集合）
 
+:::
+
 
 ## 512. velocity
 
@@ -460,6 +480,8 @@
 
 - speed rate, expedition （[力]速率；迅速；周转率）
 
+:::
+
 
 ## 513. fellowship
 
@@ -483,6 +505,8 @@
 
 - friendship, scholarship （友谊；奖学金；研究员职位）
 
+:::
+
 
 ## 514. colleague
 
@@ -500,6 +524,8 @@
 
 - brother, fellow, associate （同事，同僚）
 
+:::
+
 
 ## 515. unadorned
 
@@ -514,6 +540,8 @@
 :::warning{title=🤔同义词}
 
 - plain, frugal （朴素的；未装饰的）
+
+:::
 
 
 ## 516. confession
@@ -533,6 +561,8 @@
 :::warning{title=🤔同义词}
 
 - shrift, peccavi （忏悔，告解；供认）
+
+:::
 
 
 ## 517. meridian
@@ -561,6 +591,8 @@
 
 - height, sky, summit, peak, crown （子午线，[天]经线；顶点）
 
+:::
+
 
 ## 518. interfere
 
@@ -585,6 +617,8 @@
 - influence in, meddle in （干涉；妨碍；打扰）
 
 - impact, collide with （冲突；介入）
+
+:::
 
 
 ## 519. apartment
@@ -623,6 +657,8 @@
 
 - chamber, flat （[建]公寓；房间）
 
+:::
+
 
 ## 520. tolerate
 
@@ -637,6 +673,8 @@
 :::warning{title=🤔同义词}
 
 - stomach, go, stand, abide, tough （忍受；默许；宽恕）
+
+:::
 
 
 ## 521. stack
@@ -689,6 +727,8 @@
 
 - pile, heap up （堆积，堆叠）
 
+:::
+
 
 ## 522. resent
 
@@ -704,6 +744,8 @@
 
 - hate, be down on （怨恨；愤恨；厌恶）
 
+:::
+
 
 ## 523. fiery
 
@@ -718,6 +760,8 @@
 :::warning{title=🤔同义词}
 
 - passionate, hotter （热烈的，炽烈的；暴躁的；燃烧般的）
+
+:::
 
 
 ## 524. mime
@@ -740,6 +784,8 @@
 
 - dumb show, panto （哑剧；小丑；滑稽戏）
 
+:::
+
 
 ## 525. ambiguous
 
@@ -756,6 +802,8 @@
 :::warning{title=🤔同义词}
 
 - blurred （模糊不清的；[数]引起歧义的）
+
+:::
 
 
 ## 526. parliament
@@ -788,6 +836,8 @@
 
 - congress, house （议会，国会）
 
+:::
+
 
 ## 527. allay
 
@@ -802,6 +852,8 @@
 :::warning{title=🤔同义词}
 
 - comfort, calm, moderate, compose （减轻；使缓和；使平静）
+
+:::
 
 
 ## 528. path
@@ -867,6 +919,8 @@
 :::warning{title=🤔同义词}
 
 - way, railway, track, road, course （道路；小路；[数]轨道）
+
+:::
 
 
 ## 529. crack
@@ -941,6 +995,8 @@
 
 - greatest, best, perfect, prime （最好的；高明的）
 
+:::
+
 
 ## 530. dote
 
@@ -963,6 +1019,8 @@
 - overindulge （溺爱；昏聩）
 
 - overprotect, spoil （溺爱）
+
+:::
 
 
 ## 531. retrieval
@@ -991,6 +1049,8 @@
 
 - recovery, restoration, renewal, salvation （检索；恢复；取回；拯救）
 
+:::
+
 
 ## 532. conceivable
 
@@ -1007,6 +1067,8 @@
 :::warning{title=🤔同义词}
 
 - feasible, possible, potential, desired （可能的；想得到的，可想像的）
+
+:::
 
 
 ## 533. cube
@@ -1043,6 +1105,8 @@
 
 - solid, die （[数]立方；立方体；骰子）
 
+:::
+
 
 ## 534. synchronize
 
@@ -1058,6 +1122,8 @@
 
 - sync up, coincide （同步；同时发生）
 
+:::
+
 
 ## 535. sequoia
 
@@ -1072,6 +1138,8 @@
 :::warning{title=🤔同义词}
 
 - redwood （红杉（产于美国加州））
+
+:::
 
 
 ## 536. impact
@@ -1138,6 +1206,8 @@
 
 - effect, impression, influence, infection, affection （影响；效果；[物]碰撞；[力]冲击力）
 
+:::
+
 
 ## 537. mild
 
@@ -1166,6 +1236,8 @@
 :::warning{title=🤔同义词}
 
 - pacific, gentle, moderate, soft, slight （温和的；轻微的；淡味的；文雅的；不含有害物质的的）
+
+:::
 
 
 ## 538. profile
@@ -1227,6 +1299,8 @@
 :::warning{title=🤔同义词}
 
 - configuration, side, shell, outline （侧面；轮廓；外形；[建][地质]剖面）
+
+:::
 
 
 ## 539. bill
@@ -1291,6 +1365,8 @@
 
 - declare on, to announce （宣布；[会计]开帐单；用海报宣传）
 
+:::
+
 
 ## 540. tributary
 
@@ -1307,6 +1383,8 @@
 - subsidiary, assistant, helping （纳贡的；附属的；辅助的）
 
 - branch, distributary （[地理][水文]支流；进贡国；附属国）
+
+:::
 
 
 ## 541. clog
@@ -1326,6 +1404,8 @@
 - choke with, plug up （阻塞；障碍）
 
 - obstacle, let, bar, dam, stop （障碍；木底鞋）
+
+:::
 
 
 ## 542. senior
@@ -1392,6 +1472,8 @@
 
 - superior officer, nibs （上司；较年长者；毕业班学生）
 
+:::
+
 
 ## 543. dilate
 
@@ -1408,6 +1490,8 @@
 - extend, fill （扩大；膨胀；详述）
 
 - expand, exaggerate （使扩大；使膨胀）
+
+:::
 
 
 ## 544. domain
@@ -1468,6 +1552,8 @@
 
 - province, territory, world, industry, kingdom, universe, field （领域；域名；产业；地产）
 
+:::
+
 
 ## 545. census
 
@@ -1499,6 +1585,8 @@
 
 - lustrum, nose-count （人口普查，人口调查）
 
+:::
+
 
 ## 546. smear
 
@@ -1528,6 +1616,8 @@
 
 - smudge （被弄脏）
 
+:::
+
 
 ## 547. willful
 
@@ -1548,6 +1638,8 @@
 :::warning{title=🤔同义词}
 
 - intended, studied, designed, conscious, minded （有意的；任性的；故意的）
+
+:::
 
 
 ## 548. relative
@@ -1615,6 +1707,8 @@
 - opposing, proportional （相对的；有关系的；成比例的）
 
 - kin, belongings （亲戚；相关物；[语]关系词；亲缘植物）
+
+:::
 
 
 ## 549. average
@@ -1687,6 +1781,8 @@
 
 - mean, ordinary, general （[数]平均的；普通的）
 
+:::
+
 
 ## 550. compare
 
@@ -1718,6 +1814,8 @@
 
 - parabole （比较）
 
+:::
+
 
 ## 551. pluralism
 
@@ -1739,6 +1837,8 @@
 
 - additional post （多元主义；多元论；兼任）
 
+:::
+
 
 ## 552. influential
 
@@ -1755,6 +1855,8 @@
 :::warning{title=🤔同义词}
 
 - mighty, predominant （有影响的；有势力的）
+
+:::
 
 
 ## 553. amenity
@@ -1773,6 +1875,8 @@
 
 - ceremony, comfort, sunshine, protocol, ease （舒适；礼仪；愉快；便利设施）
 
+:::
+
 
 ## 554. bequeath
 
@@ -1787,6 +1891,8 @@
 :::warning{title=🤔同义词}
 
 - will, hand down （遗赠；把…遗赠给；把…传下去）
+
+:::
 
 
 ## 555. transparent
@@ -1822,6 +1928,8 @@
 :::warning{title=🤔同义词}
 
 - apparent, honest, decided, crystal, open （透明的；显然的；坦率的；易懂的）
+
+:::
 
 
 ## 556. adaptive
@@ -1880,6 +1988,8 @@
 
 - calculated, accommodative （[自]适应的，适合的）
 
+:::
+
 
 ## 557. mint
 
@@ -1911,6 +2021,8 @@
 
 - coin （铸造，铸币）
 
+:::
+
 
 ## 558. grasp
 
@@ -1939,6 +2051,8 @@
 - see, appreciate, noble, collar （抓住；领会）
 
 - strike, scratch （抓）
+
+:::
 
 
 ## 559. journal
@@ -1991,6 +2105,8 @@
 
 - magazine, diary （日报，[图情]杂志；日记；分类账）
 
+:::
+
 
 ## 560. pave
 
@@ -2016,6 +2132,8 @@
 
 - schedule, budget, settle, place in （铺设；安排；作铺设之用）
 
+:::
+
 
 ## 561. distinctive
 
@@ -2036,6 +2154,8 @@
 :::warning{title=🤔同义词}
 
 - unusual, different, apart （有特色的，与众不同的）
+
+:::
 
 
 ## 562. chaotic
@@ -2059,6 +2179,8 @@
 :::warning{title=🤔同义词}
 
 - troubled, confused （混沌的；混乱的，无秩序的）
+
+:::
 
 
 ## 563. brag
@@ -2084,6 +2206,8 @@
 - boast of, hot air （吹牛，自夸）
 
 - hot air, talk horse （吹牛，吹嘘）
+
+:::
 
 
 ## 564. annoyed
@@ -2112,6 +2236,8 @@
 
 - hassled （使烦恼；打扰（annoy的过去分词））
 
+:::
+
 
 ## 565. chimpanzee
 
@@ -2130,6 +2256,8 @@
 :::warning{title=🤔同义词}
 
 - jocko, pongo （[脊椎]黑猩猩）
+
+:::
 
 
 ## 566. term
@@ -2191,6 +2319,8 @@
 :::warning{title=🤔同义词}
 
 - technology, item, session, provision, article （术语；学期；期限；条款）
+
+:::
 
 
 ## 567. volcano
@@ -2263,6 +2393,8 @@
 
 - getting, procurement, winning （获得物，获得）
 
+:::
+
 
 ## 569. rigid
 
@@ -2310,6 +2442,8 @@
 
 - strict, precise, wooden, accurate, mathematical （严格的；僵硬的，死板的；坚硬的；精确的）
 
+:::
+
 
 ## 570. deadline
 
@@ -2340,6 +2474,8 @@
 :::warning{title=🤔同义词}
 
 - alleged （所谓的；号称的）
+
+:::
 
 
 ## 572. mine
@@ -2412,6 +2548,8 @@
 
 - exploit （开采，采掘；在…布雷）
 
+:::
+
 
 ## 573. advent
 
@@ -2435,6 +2573,8 @@
 
 - arrival, occurrence, emergence, appearance, rise （到来；出现；基督降临；基督降临节）
 
+:::
+
 
 ## 574. medieval
 
@@ -2451,6 +2591,8 @@
 :::warning{title=🤔同义词}
 
 - original, primitive （中世纪的；原始的；仿中世纪的；老式的）
+
+:::
 
 
 ## 575. staff
@@ -2521,6 +2663,8 @@
 
 - rod, bar （职员；参谋；棒；支撑）
 
+:::
+
 
 ## 576. involve
 
@@ -2543,6 +2687,8 @@
 :::warning{title=🤔同义词}
 
 - contain, comprise （包含；牵涉；使陷于；潜心于）
+
+:::
 
 
 ## 577. stage
@@ -2609,6 +2755,8 @@
 
 - come off, to hold （举行；适于上演；乘驿车旅行）
 
+:::
+
 
 ## 578. complicated
 
@@ -2635,6 +2783,8 @@
 :::warning{title=🤔同义词}
 
 - involved, detailed, sophisticated, elusive （难懂的，复杂的）
+
+:::
 
 
 ## 579. maximum
@@ -2709,6 +2859,8 @@
 
 - highest, supreme, peak, top, most （最高的；最多的；最大极限的）
 
+:::
+
 
 ## 580. finch
 
@@ -2736,6 +2888,8 @@
 
 - abstract, brief, summary, resume （教学大纲，摘要；课程表）
 
+:::
+
 
 ## 582. fragrant
 
@@ -2757,6 +2911,8 @@
 
 - sweet, good, bright, aromatic （芳香的；愉快的）
 
+:::
+
 
 ## 583. tolerant
 
@@ -2777,6 +2933,8 @@
 :::warning{title=🤔同义词}
 
 - kind, good-tempered （宽容的；容忍的；有耐药力的）
+
+:::
 
 
 ## 584. dialect
@@ -2801,6 +2959,8 @@
 
 - patois, provincialism （方言，土话；同源语；行话；个人用语特征）
 
+:::
+
 
 ## 585. rigor
 
@@ -2815,6 +2975,8 @@
 :::warning{title=🤔同义词}
 
 - precision, stiffness （严厉；精确；苛刻；僵硬）
+
+:::
 
 
 ## 586. dim
@@ -2849,6 +3011,8 @@
 
 - simple, turkey, put, idiot, stupid （笨蛋，傻子）
 
+:::
+
 
 ## 587. impel
 
@@ -2863,6 +3027,8 @@
 :::warning{title=🤔同义词}
 
 - drive, stimulate, force, power, impulse （推动；驱使；激励）
+
+:::
 
 
 ## 588. lichen
@@ -2897,6 +3063,8 @@
 
 - anesthetize （使麻痹；使瘫痪）
 
+:::
+
 
 ## 590. besiege
 
@@ -2911,6 +3079,8 @@
 :::warning{title=🤔同义词}
 
 - eat, invest, case, burden （围困；包围；烦扰）
+
+:::
 
 
 ## 591. exemplary
@@ -2932,6 +3102,8 @@
 :::warning{title=🤔同义词}
 
 - emulable （典范的；惩戒性的；可仿效的）
+
+:::
 
 
 ## 592. faculty
@@ -2978,6 +3150,8 @@
 
 - ability, capacity, competence, department, power （科，系；能力；全体教员）
 
+:::
+
 
 ## 593. photodissociation
 
@@ -2998,6 +3172,8 @@
 - fixed, strong, persistent, tough, steel （固执的，坚强的；坚定不移的；坚硬无比的）
 
 - solid rock （坚硬的东西；坚石）
+
+:::
 
 
 ## 595. hydraulic
@@ -3060,6 +3236,8 @@
 
 - waterpower （[机]液压的；[建][流][水利]水力的；水力学的）
 
+:::
+
 
 ## 596. habit
 
@@ -3121,6 +3299,8 @@
 
 - attire （使穿衣）
 
+:::
+
 
 ## 597. limestone
 
@@ -3170,6 +3350,8 @@
 
 - thoughtful, wary （体贴的；体谅的；考虑周到的）
 
+:::
+
 
 ## 599. livestock
 
@@ -3194,5 +3376,7 @@
 :::warning{title=🤔同义词}
 
 - cattle, dumb things （牲畜；[畜牧]家畜）
+
+:::
 
 

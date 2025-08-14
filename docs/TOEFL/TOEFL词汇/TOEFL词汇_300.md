@@ -60,6 +60,8 @@
 
 - nuclear, corpuscular （原子的，原子能的；微粒子的）
 
+:::
+
 
 ## 301. rapidly
 
@@ -74,6 +76,8 @@
 :::warning{title=🤔同义词}
 
 - quickly, fast, directly, promptly, ready （迅速地；很快地；立即）
+
+:::
 
 
 ## 302. wood
@@ -138,6 +142,8 @@
 
 - timber, lignum （木材；木制品；树林）
 
+:::
+
 
 ## 303. leader
 
@@ -196,6 +202,8 @@
 :::warning{title=🤔同义词}
 
 - chief, Moses, captain, boss, conductor （领导者；首领；指挥者）
+
+:::
 
 
 ## 304. fire
@@ -268,6 +276,8 @@
 
 - warm, pop （着火；[军]射击；开枪；激动；烧火）
 
+:::
+
 
 ## 305. entire
 
@@ -302,6 +312,8 @@
 :::warning{title=🤔同义词}
 
 - overall, all, total, corporate, universal （[生物]全部的，整个的；全体的）
+
+:::
 
 
 ## 306. plain
@@ -370,6 +382,8 @@
 
 - definitely, fair, expressly （清楚地；平易地）
 
+:::
+
 
 ## 307. extend
 
@@ -392,6 +406,8 @@
 - afford, allow, deal, deliver, finger （延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价）
 
 - reach, spread, range, enlarge, push （延伸；扩大；伸展；使疏开）
+
+:::
 
 
 ## 308. difficulty
@@ -435,6 +451,8 @@
 :::warning{title=🤔同义词}
 
 - poverty, corner, hardness, dilemma, fix （困难，困境）
+
+:::
 
 
 ## 309. core
@@ -494,6 +512,8 @@
 :::warning{title=🤔同义词}
 
 - quick, kernel, main, heart, essential （[晶体]核心；要点；果心；[计]磁心）
+
+:::
 
 
 ## 310. easy
@@ -570,6 +590,8 @@
 
 - lightly, painlessly （不费力地，从容地）
 
+:::
+
 
 ## 311. constant
 
@@ -635,6 +657,8 @@
 
 - invariable （[数]常数；恒量）
 
+:::
+
 
 ## 312. adult
 
@@ -672,6 +696,8 @@
 
 - major, grown-up （成年人）
 
+:::
+
 
 ## 313. consist
 
@@ -696,6 +722,8 @@
 :::warning{title=🤔同义词}
 
 - make up, be composed of （组成；在于；符合）
+
+:::
 
 
 ## 314. figure
@@ -761,6 +789,8 @@
 - occur, cast, offer, come out （计算；出现；扮演角色）
 
 - indicate, expect, guess, find, feel （计算；认为；描绘；象征）
+
+:::
 
 
 ## 315. cold
@@ -833,6 +863,8 @@
 
 - totally, entirely, completely, absolutely, thoroughly, strictly, fully （完全地）
 
+:::
+
 
 ## 316. education
 
@@ -894,6 +926,8 @@
 
 - cultivation, training, pedagogy （教育；培养；教育学）
 
+:::
+
 
 ## 317. railroad
 
@@ -928,6 +962,8 @@
 :::warning{title=🤔同义词}
 
 - Eisenbahn （铁路；铁路公司）
+
+:::
 
 
 ## 318. law
@@ -992,6 +1028,8 @@
 
 - sue for, bring charge against （控告；对…起诉）
 
+:::
+
 
 ## 319. unlike
 
@@ -1008,6 +1046,8 @@
 :::warning{title=🤔同义词}
 
 - different, diverse, varying, another, dissimilar （不同的，不相似的）
+
+:::
 
 
 ## 320. expand
@@ -1045,6 +1085,8 @@
 - dwell on, enlarge on （扩张；使膨胀；详述）
 
 - grow, go way （发展；张开，展开）
+
+:::
 
 
 ## 321. brain
@@ -1111,6 +1153,8 @@
 
 - intelligence, mind, mentality （头脑，智力；脑袋）
 
+:::
+
 
 ## 322. carbon
 
@@ -1173,6 +1217,8 @@
 :::warning{title=🤔同义词}
 
 - kryptol （[化学]碳；碳棒；复写纸）
+
+:::
 
 
 ## 323. return
@@ -1243,6 +1289,8 @@
 
 - rewarding （[计]返回的；[交]回程的；报答的）
 
+:::
+
 
 ## 324. cell
 
@@ -1304,6 +1352,8 @@
 
 - electric battery, electric element （[细胞]细胞；[电]电池；蜂房的巢室；单人小室）
 
+:::
+
 
 ## 325. either
 
@@ -1334,6 +1384,8 @@
 - or, vel （或者）
 
 - too, also, ultimately, likewise （也（用于否定句或否定词组后）；根本）
+
+:::
 
 
 ## 326. company
@@ -1404,6 +1456,8 @@
 
 - attend, accompany （陪伴）
 
+:::
+
 
 ## 327. grass
 
@@ -1467,6 +1521,8 @@
 
 - feed, range （放牧；使……长满草；使……吃草）
 
+:::
+
 
 ## 328. engine
 
@@ -1528,6 +1584,8 @@
 
 - facilities, instrument, vehicle, tool, gear （引擎，[动力]发动机；[铁路]机车，火车头；工具）
 
+:::
+
 
 ## 329. stimulus
 
@@ -1552,6 +1610,8 @@
 :::warning{title=🤔同义词}
 
 - incentive, animation, excitement, needle, irritation （[医]刺激；[电子]激励；刺激物）
+
+:::
 
 
 ## 330. hour
@@ -1632,6 +1692,8 @@
 
 - period, stunde （小时；钟头；课时；…点钟）
 
+:::
+
 
 ## 331. program
 
@@ -1693,6 +1755,8 @@
 
 - procedure, routine, plan, scheme, project （[计]程序；计划；大纲）
 
+:::
+
 
 ## 332. prevent
 
@@ -1721,6 +1785,8 @@
 - dispute, stem, block （预防，防止；阻止）
 
 - stem, hinder from （妨碍，阻止）
+
+:::
 
 
 ## 333. per
@@ -1752,6 +1818,8 @@
 :::warning{title=🤔同义词}
 
 - in accordance, in the light of （每；经；按照；每一）
+
+:::
 
 
 ## 334. sell
@@ -1803,6 +1871,8 @@
 - bring to market, go to sb for （卖；出售；受欢迎；有销路）
 
 - marketing, disappointment （销售；失望；推销术）
+
+:::
 
 
 ## 335. damage
@@ -1871,6 +1941,8 @@
 
 - destroy, hurt, blast （损害，毁坏）
 
+:::
+
 
 ## 336. unusual
 
@@ -1897,6 +1969,8 @@
 :::warning{title=🤔同义词}
 
 - different, distinctive, apart （不寻常的；与众不同的；不平常的）
+
+:::
 
 
 ## 337. lie
@@ -1958,6 +2032,8 @@
 - sit, tell a story （躺；说谎；位于；展现）
 
 - location, situation, site, fiction, leasing （谎言；位置）
+
+:::
 
 
 ## 338. wall
@@ -2026,6 +2102,8 @@
 
 - mural （墙壁的）
 
+:::
+
 
 ## 339. landscape
 
@@ -2085,6 +2163,8 @@
 
 - scenery, view, picture, prospect, outlook （风景，景色；山水画）
 
+:::
+
 
 ## 340. brief
 
@@ -2133,6 +2213,8 @@
 - abstract, resume （[图情]摘要，简报；概要，诉书）
 
 - abstract, epitomize （简报，[图情]摘要；作…的提要）
+
+:::
 
 
 ## 341. associate
@@ -2186,6 +2268,8 @@
 - combine （联想；使联合；使发生联系）
 
 - deputy, linked, vice, joint, auxiliary （副的；联合的）
+
+:::
 
 
 ## 342. rare
@@ -2243,6 +2327,8 @@
 - extremely, badly, highly, greatly, too （非常；极其）
 
 - aspire, long for （用后腿站起；渴望）
+
+:::
 
 
 ## 343. minor
@@ -2311,6 +2397,8 @@
 
 - infant, pupil （未成年人；小调；副修科目）
 
+:::
+
 
 ## 344. artisan
 
@@ -2330,6 +2418,8 @@
 
 - workman, craftsman （[劳经]工匠，技工）
 
+:::
+
 
 ## 345. meteorite
 
@@ -2348,6 +2438,8 @@
 :::warning{title=🤔同义词}
 
 - Shooting stars, falling star （[天]陨星；流星）
+
+:::
 
 
 ## 346. define
@@ -2371,6 +2463,8 @@
 :::warning{title=🤔同义词}
 
 - regulate, state, rule （定义；使明确；规定）
+
+:::
 
 
 ## 347. cool
@@ -2426,6 +2520,8 @@
 - subside, blow over （变凉；平息）
 
 - calmly, soberly （冷静地）
+
+:::
 
 
 ## 348. oxygen
@@ -2490,6 +2586,8 @@
 
 - O2 （氧气，[化学]氧）
 
+:::
+
 
 ## 349. daily
 
@@ -2552,6 +2650,8 @@
 - journal （日报；朝来夜去的女佣）
 
 - habitually, diurnally （日常地；每日；天天）
+
+:::
 
 
 ## 350. Africa
@@ -2634,6 +2734,8 @@
 
 - corrosion, eating away （侵蚀，[化学]腐蚀）
 
+:::
+
 
 ## 352. want
 
@@ -2711,6 +2813,8 @@
 
 - wish, have need of （需要；缺少）
 
+:::
+
 
 ## 353. response
 
@@ -2772,6 +2876,8 @@
 
 - reaction, behavior, reception, reply, answer （响应；反应；回答）
 
+:::
+
 
 ## 354. third
 
@@ -2831,6 +2937,8 @@
 
 - tertius, ternary （第三的；三分之一的）
 
+:::
+
 
 ## 355. decade
 
@@ -2854,6 +2962,8 @@
 
 - decennium, dix （十年，十年期；十）
 
+:::
+
 
 ## 356. emphasize
 
@@ -2870,6 +2980,8 @@
 :::warning{title=🤔同义词}
 
 - stress, highlight （强调，着重）
+
+:::
 
 
 ## 357. baby
@@ -2938,6 +3050,8 @@
 
 - small, chicken, infant （婴儿的；幼小的）
 
+:::
+
 
 ## 358. volcanic
 
@@ -2974,6 +3088,8 @@
 - fierce, violent, hard （[岩][地质]火山的；猛烈的；易突然发作的）
 
 - eruptive rock, extrusive rock （[岩][地质]火山岩）
+
+:::
 
 
 ## 359. organization
@@ -3042,6 +3158,8 @@
 
 - fabric, machinery, system, community, body （组织；机构；体制；团体）
 
+:::
+
 
 ## 360. colonial
 
@@ -3084,6 +3202,8 @@
 - maintain, save, secure, corn, sustain （保存；保护；维持；腌；禁猎）
 
 - conservation area, conservation district （保护区；禁猎地；加工成的食品）
+
+:::
 
 
 ## 362. detail
@@ -3135,6 +3255,8 @@
 - specific, minutia （细节，详情）
 
 - expand on, enlarge on （详述；选派）
+
+:::
 
 
 ## 363. bone
@@ -3275,6 +3397,8 @@
 
 - secure, watch, preserve （保护，防卫；警戒）
 
+:::
+
 
 ## 366. labor
 
@@ -3340,6 +3464,8 @@
 
 - wear down （详细分析；使厌烦）
 
+:::
+
 
 ## 367. degree
 
@@ -3399,6 +3525,8 @@
 
 - extent, classification, measure, grade, plane （程度，等级；度；学位；阶层）
 
+:::
+
 
 ## 368. revolution
 
@@ -3457,6 +3585,8 @@
 :::warning{title=🤔同义词}
 
 - circulation, rotation, rolling, turning, cycle （革命；[物]旋转；运行；循环）
+
+:::
 
 
 ## 369. read
@@ -3531,6 +3661,8 @@
 
 - learned, accomplished （有学问的）
 
+:::
+
 
 ## 370. positive
 
@@ -3592,6 +3724,8 @@
 
 - active, established, practical, actual, fixed, effective, sincere （[电]积极的；[摄][物][数]正的，[化学][医]阳性的；确定的，肯定的；实际的，真实的；绝对的）
 
+:::
+
 
 ## 371. receive
 
@@ -3610,6 +3744,8 @@
 - acknowledge receipt of, to hand （收到；接待；接纳）
 
 - take over （接收）
+
+:::
 
 
 ## 372. route
@@ -3670,6 +3806,8 @@
 
 - door, vector, exit, channel, thread （路线；[航]航线；通道）
 
+:::
+
 
 ## 373. statue
 
@@ -3698,6 +3836,8 @@
 :::warning{title=🤔同义词}
 
 - effigy （[建]雕像，塑像）
+
+:::
 
 
 ## 374. meter
@@ -3757,6 +3897,8 @@
 :::warning{title=🤔同义词}
 
 - rhythm, metre （米；仪表；[计量]公尺；韵律）
+
+:::
 
 
 ## 375. jupiter
@@ -3823,6 +3965,8 @@
 
 - fundamental, ultimate, radical, underlying （[生物][有化]有机的；组织的；器官的；根本的）
 
+:::
+
 
 ## 377. apparent
 
@@ -3871,6 +4015,8 @@
 :::warning{title=🤔同义词}
 
 - transparent, decided, patent （显然的；表面上的）
+
+:::
 
 
 ## 378. motion
@@ -3934,6 +4080,8 @@
 - do sport, do morning exercise （运动；打手势）
 
 - do sport, do morning exercise （运动；向…打手势）
+
+:::
 
 
 ## 379. you
@@ -4026,6 +4174,8 @@
 
 - synthetic, songwriting （作文，作曲；[材]构成；合成物）
 
+:::
+
 
 ## 381. stage
 
@@ -4088,6 +4238,8 @@
 - celebrate, put on （举行；上演；筹划）
 
 - come off, to hold （举行；适于上演；乘驿车旅行）
+
+:::
 
 
 ## 382. cut
@@ -4156,6 +4308,8 @@
 
 - reduced, scrimpy （缩减的；割下的；雕过的）
 
+:::
+
 
 ## 383. vegetation
 
@@ -4184,6 +4338,8 @@
 :::warning{title=🤔同义词}
 
 - plant, vegetative cover （植被；植物，[植]草木；呆板单调的生活）
+
+:::
 
 
 ## 384. winter
@@ -4250,6 +4406,8 @@
 
 - brumous, hibernal （[气候]冬天的；越冬的）
 
+:::
+
 
 ## 385. eventually
 
@@ -4267,6 +4425,8 @@
 
 - finally, ultimately, lastly （最后，终于）
 
+:::
+
 
 ## 386. expose
 
@@ -4281,6 +4441,8 @@
 :::warning{title=🤔同义词}
 
 - reveal, prove, make clear, disclose （揭露，揭发；使曝光；显示）
+
+:::
 
 
 ## 387. dinosaur
@@ -4357,6 +4519,8 @@
 
 - writing, letter （[语]文学；[图情]文献；文艺；著作）
 
+:::
+
 
 ## 389. project
 
@@ -4428,6 +4592,8 @@
 
 - engineering, career, enterprise, plan, scheme （工程；计划；事业）
 
+:::
+
 
 ## 390. meet
 
@@ -4494,6 +4660,8 @@
 - assembly, gathering, congregation （集会）
 
 - becoming, shaped, applicable, likely, possible （合适的；适宜的）
+
+:::
 
 
 ## 391. benefit
@@ -4562,6 +4730,8 @@
 
 - profit, be good for （有益于，对…有益）
 
+:::
+
 
 ## 392. whether
 
@@ -4589,6 +4759,8 @@
 
 - if （是否；不论）
 
+:::
+
 
 ## 393. slowly
 
@@ -4611,6 +4783,8 @@
 :::warning{title=🤔同义词}
 
 - lentamente, tardily （缓慢地，慢慢地）
+
+:::
 
 
 ## 394. thing
@@ -4687,6 +4861,8 @@
 
 - business, situation, circumstance, stuff, affair （事情；东西；事物；情况）
 
+:::
+
 
 ## 395. facial
 
@@ -4729,6 +4905,8 @@
 - external, surface （面部的，表面的；脸的，面部用的）
 
 - hairdressing, beauty treatment （美容，美颜；脸部按摩）
+
+:::
 
 
 ## 396. liquid
@@ -4792,6 +4970,8 @@
 - mobile, bright, variable, clear, crystal （[物]液体的；清澈的；明亮的；易变的）
 
 - fluid （[物]液体，流体；流音）
+
+:::
 
 
 ## 397. cultural
@@ -4858,6 +5038,8 @@
 
 - nonmaterial （文化的；教养的）
 
+:::
+
 
 ## 398. differ
 
@@ -4890,6 +5072,8 @@
 :::warning{title=🤔同义词}
 
 - divide （相异；意见分歧）
+
+:::
 
 
 ## 399. never
@@ -4955,5 +5139,7 @@
 :::warning{title=🤔同义词}
 
 - none, nothing （从未；决不）
+
+:::
 
 

@@ -18,6 +18,8 @@
 
 - abstract, brief, summary, resume （文摘；摘要）
 
+:::
+
 
 ## 1801. melodious
 
@@ -32,6 +34,8 @@
 :::warning{title=🤔同义词}
 
 - harmonious, musical, sweet （悦耳的；旋律优美的）
+
+:::
 
 
 ## 1802. ethnology
@@ -104,6 +108,8 @@
 
 - capacity, competence, talent, quality, power （能力，能耐；才能）
 
+:::
+
 
 ## 1804. veto
 
@@ -132,6 +138,8 @@
 - bar, inhibit （否决；禁止）
 
 - rule against, vote down （否决；禁止）
+
+:::
 
 
 ## 1805. delight
@@ -170,6 +178,8 @@
 
 - glad, pleasure, satisfy （使高兴）
 
+:::
+
 
 ## 1806. proficient
 
@@ -192,6 +202,8 @@
 - experienced, skilled, accomplished, perfect, clever （熟练的，精通的）
 
 - expert, specialist （精通；专家，能手）
+
+:::
 
 
 ## 1807. continuum
@@ -286,6 +298,8 @@
 
 - lot, tie （平局；抽签）
 
+:::
+
 
 ## 1809. contender
 
@@ -300,6 +314,8 @@
 :::warning{title=🤔同义词}
 
 - competitor, rival （竞争者；争夺者）
+
+:::
 
 
 ## 1810. slender
@@ -324,6 +340,8 @@
 
 - slight, spindly （细长的；苗条的；微薄的）
 
+:::
+
 
 ## 1811. terminus
 
@@ -342,6 +360,8 @@
 :::warning{title=🤔同义词}
 
 - goal, end-point （终点；终点站；界标；界石）
+
+:::
 
 
 ## 1812. oral
@@ -406,6 +426,8 @@
 
 - viva voce （口试）
 
+:::
+
 
 ## 1813. compensate
 
@@ -428,6 +450,8 @@
 - make good, to make up for （补偿，赔偿；抵消）
 
 - make good, to make up for （补偿，赔偿；付报酬）
+
+:::
 
 
 ## 1814. conscious
@@ -453,6 +477,8 @@
 :::warning{title=🤔同义词}
 
 - aware, intended, studied, designed （意识到的；故意的；神志清醒的）
+
+:::
 
 
 ## 1815. transaction
@@ -515,6 +541,8 @@
 
 - relations, trade, truck （[贸易]交易；[计]事务；办理；会报，[图情]学报）
 
+:::
+
 
 ## 1816. accomplishment
 
@@ -535,6 +563,8 @@
 :::warning{title=🤔同义词}
 
 - achievement, effort, completion, success, execution （成就；完成；技艺，技能）
+
+:::
 
 
 ## 1817. pants
@@ -563,6 +593,8 @@
 
 - britches, short trousers （裤子；短裤）
 
+:::
+
 
 ## 1818. placid
 
@@ -579,6 +611,8 @@
 :::warning{title=🤔同义词}
 
 - pacific, peaceful, calm, composed, soft （平静的；温和的；沉着的）
+
+:::
 
 
 ## 1819. solitary
@@ -606,6 +640,8 @@
 - alone, neighborless （[动]孤独的；独居的）
 
 - hermit, anchorite （[动]独居者；隐士）
+
+:::
 
 
 ## 1820. second
@@ -690,6 +726,8 @@
 
 - next （第二；其次；居第二位）
 
+:::
+
 
 ## 1821. laudable
 
@@ -765,6 +803,8 @@
 
 - margin, superiority, advantage, brink, suburb （[地质]边缘；优势；刀刃；锋利）
 
+:::
+
 
 ## 1823. orchestra
 
@@ -830,6 +870,8 @@
 
 - competent, plenty, wealthy （足够的；充分的）
 
+:::
+
 
 ## 1825. glaze
 
@@ -858,6 +900,8 @@
 :::warning{title=🤔同义词}
 
 - glost, glair （[陶瓷]釉；光滑面）
+
+:::
 
 
 ## 1826. claim
@@ -922,6 +966,8 @@
 
 - requirement, do, assurance, need, desire （要求；声称；[贸易]索赔；断言；值得）
 
+:::
+
 
 ## 1827. widespread
 
@@ -936,6 +982,8 @@
 :::warning{title=🤔同义词}
 
 - extensive, universal, comprehensive, ruling, generalized （普遍的，广泛的；分布广的）
+
+:::
 
 
 ## 1828. antique
@@ -968,6 +1016,8 @@
 
 - curiosity, virtu （[古]古董，古玩；古风，古希腊和古罗马艺术风格）
 
+:::
+
 
 ## 1829. thaw
 
@@ -993,6 +1043,8 @@
 
 - ice-out, depergelation （解冻；融雪）
 
+:::
+
 
 ## 1830. fasten
 
@@ -1015,6 +1067,8 @@
 - focus on, fix （使固定；集中于；扎牢；强加于）
 
 - pay attention, take hold （扣紧；抓住；集中注意力）
+
+:::
 
 
 ## 1831. toxic
@@ -1056,6 +1110,8 @@
 :::warning{title=🤔同义词}
 
 - poisonous, virous （[内科][毒物]有毒的；中毒的）
+
+:::
 
 
 ## 1832. contest
@@ -1100,6 +1156,8 @@
 
 - competition, match, combat （竞赛；争夺；争论）
 
+:::
+
 
 ## 1833. asymmetrical
 
@@ -1114,6 +1172,8 @@
 :::warning{title=🤔同义词}
 
 - uneven, unsymmetrical （[数]非对称的（等于asymmetric）；不均匀的；不匀称的）
+
+:::
 
 
 ## 1834. turmoil
@@ -1136,6 +1196,8 @@
 
 - combustion, disorder, chaos, confusion, involvement （混乱，骚动）
 
+:::
+
 
 ## 1835. clench
 
@@ -1153,6 +1215,8 @@
 
 - hammer on, nail up （握紧；钉牢）
 
+:::
+
 
 ## 1836. modernity
 
@@ -1167,6 +1231,8 @@
 :::warning{title=🤔同义词}
 
 - stylishness （现代性；现代的东西；新式）
+
+:::
 
 
 ## 1837. schematic
@@ -1195,6 +1261,8 @@
 
 - principle scheme, elementary diagram （原理图；图解视图）
 
+:::
+
 
 ## 1838. rekindle
 
@@ -1209,6 +1277,8 @@
 :::warning{title=🤔同义词}
 
 - reignite （重新点燃；再点火）
+
+:::
 
 
 ## 1839. expansion
@@ -1269,6 +1339,8 @@
 
 - inflation, exposition （膨胀；阐述；扩张物）
 
+:::
+
 
 ## 1840. wrench
 
@@ -1305,6 +1377,8 @@
 - harry, worry, trouble, tear （扭伤；猛扭；曲解；折磨）
 
 - rick （扭伤；猛扭；猛绞）
+
+:::
 
 
 ## 1841. license
@@ -1367,6 +1441,8 @@
 
 - permit, charter （[专利]许可；特许；发许可证给）
 
+:::
+
 
 ## 1842. puff
 
@@ -1408,6 +1484,8 @@
 
 - tumor, knub （粉扑；泡芙；蓬松；一阵喷烟；肿块；吹嘘，宣传广告）
 
+:::
+
 
 ## 1843. expand
 
@@ -1443,6 +1521,8 @@
 
 - grow, go way （发展；张开，展开）
 
+:::
+
 
 ## 1844. squander
 
@@ -1461,6 +1541,8 @@
 - waste on, trifle away （浪费；漂泊）
 
 - waste, dissipation, extravagancy （浪费）
+
+:::
 
 
 ## 1845. synchronizer
@@ -1497,6 +1579,8 @@
 
 - circumference, campimeter （[数]周长；周界；[眼科]视野计）
 
+:::
+
 
 ## 1847. essay
 
@@ -1519,6 +1603,8 @@
 - attempt, prose （散文；试图；随笔）
 
 - sample, have a try （尝试；对…做试验）
+
+:::
 
 
 ## 1848. retrieve
@@ -1544,6 +1630,8 @@
 - restore, repair （[计]检索；恢复；重新得到）
 
 - recovery, restoration, renewal （[计]检索；恢复，取回）
+
+:::
 
 
 ## 1849. survey
@@ -1608,6 +1696,8 @@
 
 - examine, check into （调查；[测][油气]勘测；俯瞰）
 
+:::
+
 
 ## 1850. malice
 
@@ -1622,6 +1712,8 @@
 :::warning{title=🤔同义词}
 
 - spite, malevolence （恶意；怨恨；预谋）
+
+:::
 
 
 ## 1851. postpone
@@ -1641,6 +1733,8 @@
 - adjourn （使…延期；把…放在次要地位；把…放在后面）
 
 - stave off, time delay （延缓，延迟；延缓发作）
+
+:::
 
 
 ## 1852. codify
@@ -1678,6 +1772,8 @@
 :::warning{title=🤔同义词}
 
 - neural, tergal （[解剖][生物]背部的；背的，背侧的）
+
+:::
 
 
 ## 1854. code
@@ -1742,6 +1838,8 @@
 
 - encode （[计]编码；制成法典）
 
+:::
+
 
 ## 1855. potassium
 
@@ -1803,6 +1901,8 @@
 
 - kalium （[化学]钾）
 
+:::
+
 
 ## 1856. displace
 
@@ -1819,6 +1919,8 @@
 :::warning{title=🤔同义词}
 
 - shift, replace by （取代；置换；转移；把…免职；排水）
+
+:::
 
 
 ## 1857. hammer
@@ -1882,6 +1984,8 @@
 - read back （锤击；敲打；重复）
 
 - tupid, malleus （铁锤；链球；[解剖]锤骨；音锤）
+
+:::
 
 
 ## 1858. ideology
@@ -1964,6 +2068,8 @@
 
 - pressure, air proof （[机]密封；盖章）
 
+:::
+
 
 ## 1860. investigate
 
@@ -1988,6 +2094,8 @@
 :::warning{title=🤔同义词}
 
 - check into, inquire into （调查；研究）
+
+:::
 
 
 ## 1861. storage
@@ -2048,6 +2156,8 @@
 
 - warehouse, repository （[计]存储；[建][经]仓库；[贸易]贮藏所）
 
+:::
+
 
 ## 1862. troposphere
 
@@ -2081,6 +2191,8 @@
 
 - shark, con game （诈骗）
 
+:::
+
 
 ## 1864. illusion
 
@@ -2109,6 +2221,8 @@
 :::warning{title=🤔同义词}
 
 - hallucination, fantasm （幻觉，[心理]错觉；错误的观念或信仰）
+
+:::
 
 
 ## 1865. productivity
@@ -2144,6 +2258,8 @@
 :::warning{title=🤔同义词}
 
 - fertility, productive forces （生产力；[经]生产率；生产能力）
+
+:::
 
 
 ## 1866. reserve
@@ -2212,6 +2328,8 @@
 
 - book for, make reservation （预订）
 
+:::
+
 
 ## 1867. subsist
 
@@ -2235,6 +2353,8 @@
 
 - maintain, support, sustain, provide for （供养）
 
+:::
+
 
 ## 1868. invertebrate
 
@@ -2253,6 +2373,8 @@
 - spineless （[无脊椎]无脊椎的；无骨气的）
 
 - Invertebrate Zoology （[无脊椎]无脊椎动物；无骨气的人）
+
+:::
 
 
 ## 1869. dive
@@ -2291,6 +2413,8 @@
 
 - phreatic water, underground water （[水运]潜水；跳水；[航]俯冲；扑）
 
+:::
+
 
 ## 1870. sympathy
 
@@ -2315,6 +2439,8 @@
 :::warning{title=🤔同义词}
 
 - acceptance, feeling, compassion, pity （同情；慰问；赞同）
+
+:::
 
 
 ## 1871. rescue
@@ -2356,6 +2482,8 @@
 :::warning{title=🤔同义词}
 
 - deliverance （营救；援救；解救）
+
+:::
 
 
 ## 1872. brief
@@ -2406,6 +2534,8 @@
 
 - abstract, epitomize （简报，[图情]摘要；作…的提要）
 
+:::
+
 
 ## 1873. recover
 
@@ -2429,6 +2559,8 @@
 
 - restore, unsave （恢复；胜诉；重新得球）
 
+:::
+
 
 ## 1874. influx
 
@@ -2450,6 +2582,8 @@
 
 - afflux, inrush （[流]流入；汇集；河流的汇集处）
 
+:::
+
 
 ## 1875. determine
 
@@ -2467,6 +2601,8 @@
 
 - identify, drop, finish, judge （确定；决定；判决，终止）
 
+:::
+
 
 ## 1876. devastate
 
@@ -2481,6 +2617,8 @@
 :::warning{title=🤔同义词}
 
 - destroy, damage （毁灭；毁坏）
+
+:::
 
 
 ## 1877. embark
@@ -2506,6 +2644,8 @@
 - wage, occupy in （从事，着手；上船或飞机）
 
 - imbark （使从事；使上船）
+
+:::
 
 
 ## 1878. cousin
@@ -2578,6 +2718,8 @@
 
 - wise, bright, clever, smart, understanding （智能的；聪明的；理解力强的）
 
+:::
+
 
 ## 1880. confer
 
@@ -2602,6 +2744,8 @@
 - afford, award, allow, grant, deal （授予；给予）
 
 - arrange, treat （协商）
+
+:::
 
 
 ## 1881. friction
@@ -2662,6 +2806,8 @@
 
 - attrition, frottage （[力]摩擦，摩擦力）
 
+:::
+
 
 ## 1882. walnut
 
@@ -2689,6 +2835,8 @@
 
 - juglans （胡桃；[木]胡桃木）
 
+:::
+
 
 ## 1883. incessantly
 
@@ -2707,6 +2855,8 @@
 :::warning{title=🤔同义词}
 
 - ceaselessly, uninterruptedly （不停地，不间断地）
+
+:::
 
 
 ## 1884. imagist
@@ -2781,6 +2931,8 @@
 
 - irradiation, Geigers （[物]辐射；发光；放射物）
 
+:::
+
 
 ## 1886. luxury
 
@@ -2812,6 +2964,8 @@
 
 - extravagant, Lucullian （奢侈的）
 
+:::
+
 
 ## 1887. diagonal
 
@@ -2838,6 +2992,8 @@
 - off-angle, pitched （斜的；[数]对角线的；斜纹的）
 
 - solidus （[数]对角线；斜线）
+
+:::
 
 
 ## 1888. knit
@@ -2866,6 +3022,8 @@
 
 - become one, couple, link （[纺]编织；结合）
 
+:::
+
 
 ## 1889. aroma
 
@@ -2880,6 +3038,8 @@
 :::warning{title=🤔同义词}
 
 - sweet, balminess （[食品]芳香）
+
+:::
 
 
 ## 1890. subversive
@@ -2897,6 +3057,8 @@
 :::warning{title=🤔同义词}
 
 - ruinous （破坏性的；从事颠覆的）
+
+:::
 
 
 ## 1891. strategic
@@ -2971,6 +3133,8 @@
 
 - healthy, calculating, sound （健全的；有益健康的；合乎卫生的；审慎的）
 
+:::
+
 
 ## 1893. readily
 
@@ -2991,6 +3155,8 @@
 :::warning{title=🤔同义词}
 
 - easily, lightly （容易地；乐意地；无困难地）
+
+:::
 
 
 ## 1894. convenience
@@ -3026,6 +3192,8 @@
 :::warning{title=🤔同义词}
 
 - john, bathroom, toilet （便利；厕所；便利的事物）
+
+:::
 
 
 ## 1895. discipline
@@ -3067,6 +3235,8 @@
 - science, punishment, rod, knowledge, payment （学科；[管理]纪律；训练；惩罚）
 
 - coach, drill （训练，训导；惩戒）
+
+:::
 
 
 ## 1896. calculus
@@ -3111,6 +3281,8 @@
 
 - stone, concrement （[病理]结石；[数]微积分学）
 
+:::
+
 
 ## 1897. expedient
 
@@ -3129,6 +3301,8 @@
 - convenient, favorable, beneficial, advantageous （权宜的；方便的；有利的）
 
 - quick fix, makeshift （权宜之计；应急手段）
+
+:::
 
 
 ## 1898. emission
@@ -3189,6 +3363,8 @@
 
 - shot, sending, launch, jet, projection （（光、热等的）[物]发射，散发；喷射；发行）
 
+:::
+
 
 ## 1899. ensconce
 
@@ -3197,5 +3373,7 @@
 :::warning{title=🤔同义词}
 
 - establish, put, station, bed, plant （安置；安顿下来；使…隐藏）
+
+:::
 
 

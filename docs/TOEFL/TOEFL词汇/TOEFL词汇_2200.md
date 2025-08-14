@@ -46,6 +46,8 @@
 
 - zone, belt, terrain （束；大片土地，地带；小册子）
 
+:::
+
 
 ## 2201. merely
 
@@ -60,6 +62,8 @@
 :::warning{title=🤔同义词}
 
 - simply, just, only, but, barely （仅仅，只不过；只是）
+
+:::
 
 
 ## 2202. protein
@@ -124,6 +128,8 @@
 
 - glaireous （[生化]蛋白质的）
 
+:::
+
 
 ## 2203. inexpensive
 
@@ -140,6 +146,8 @@
 :::warning{title=🤔同义词}
 
 - cheap, ten-cent （便宜的）
+
+:::
 
 
 ## 2204. equatorial
@@ -164,6 +172,8 @@
 
 - subsolar （赤道的，近赤道的；中纬线的）
 
+:::
+
 
 ## 2205. tiredness
 
@@ -182,6 +192,8 @@
 :::warning{title=🤔同义词}
 
 - fatigue, weariness （疲劳；疲倦）
+
+:::
 
 
 ## 2206. hollow
@@ -241,6 +253,8 @@
 - cavitate （形成空洞）
 
 - thoroughly, entirely, completely, fully, tight （彻底地；无用地）
+
+:::
 
 
 ## 2207. slip
@@ -307,6 +321,8 @@
 
 - slidable （[地质]滑动的；有活结的；活络的）
 
+:::
+
 
 ## 2208. illuminate
 
@@ -326,6 +342,8 @@
 
 - light up, to shine （照亮）
 
+:::
+
 
 ## 2209. influential
 
@@ -342,6 +360,8 @@
 :::warning{title=🤔同义词}
 
 - mighty, predominant （有影响的；有势力的）
+
+:::
 
 
 ## 2210. spear
@@ -367,6 +387,8 @@
 :::warning{title=🤔同义词}
 
 - pike （矛，枪）
+
+:::
 
 
 ## 2211. behave
@@ -395,6 +417,8 @@
 
 - conduct oneself, bear oneself, run, go （表现；（机器等）运转；举止端正；（事物）起某种作用）
 
+:::
+
 
 ## 2212. equip
 
@@ -415,6 +439,8 @@
 :::warning{title=🤔同义词}
 
 - prepare, provide （装备，配备）
+
+:::
 
 
 ## 2213. fourth
@@ -452,6 +478,8 @@
 - quartus, demisemi （第四的，第四个的；四分之一的）
 
 - quarter （第四，月的第四日；四分之一）
+
+:::
 
 
 ## 2214. everyday
@@ -492,6 +520,8 @@
 
 - peacetime （平时；寻常日子）
 
+:::
+
 
 ## 2215. realistic
 
@@ -512,6 +542,8 @@
 :::warning{title=🤔同义词}
 
 - living, breathing （现实的；现实主义的；逼真的；实在论的）
+
+:::
 
 
 ## 2216. review
@@ -577,6 +609,8 @@
 - examine, inspect （回顾；检查；复审）
 
 - look back to, look back on （回顾；复习功课；写评论）
+
+:::
 
 
 ## 2217. iodine
@@ -649,6 +683,8 @@
 
 - wordpad, nubble （碑；[药]药片；写字板；小块）
 
+:::
+
 
 ## 2220. songbird
 
@@ -665,6 +701,8 @@
 :::warning{title=🤔同义词}
 
 - accentor, warbler （鸣禽，鸣鸟；女歌手；告密者）
+
+:::
 
 
 ## 2221. aside
@@ -703,6 +741,8 @@
 
 - at the side of （在…旁边）
 
+:::
+
 
 ## 2222. illusion
 
@@ -732,6 +772,8 @@
 
 - hallucination, fantasm （幻觉，[心理]错觉；错误的观念或信仰）
 
+:::
+
 
 ## 2223. cliff
 
@@ -752,6 +794,8 @@
 :::warning{title=🤔同义词}
 
 - precipice, escarpment （[地理]悬崖；绝壁）
+
+:::
 
 
 ## 2224. else
@@ -802,6 +846,8 @@
 
 - other, tother （别的；其他的）
 
+:::
+
 
 ## 2225. interplay
 
@@ -817,6 +863,8 @@
 
 - interaction effect, reciprocity （相互影响，相互作用）
 
+:::
+
 
 ## 2226. topi
 
@@ -825,6 +873,8 @@
 :::warning{title=🤔同义词}
 
 - sun-hat, topee （转角牛羚；遮阳帽）
+
+:::
 
 
 ## 2227. stiff
@@ -858,6 +908,8 @@
 - thoroughly, entirely, completely, fully, tight （僵硬地；彻底地）
 
 - worker, dead body （死尸；令人讨厌者；[金融]流通票据；劳动者）
+
+:::
 
 
 ## 2228. cow
@@ -893,6 +945,8 @@
 - dairy cattle, crummie （奶牛，[畜牧]母牛；[脊椎]母兽）
 
 - to threaten, threaten with （威胁，恐吓）
+
+:::
 
 
 ## 2229. terminal
@@ -955,6 +1009,8 @@
 
 - advanced, finishing, marginal （[动]末端的；[交]终点的；晚期的）
 
+:::
+
 
 ## 2230. herd
 
@@ -984,6 +1040,8 @@
 
 - grass, feed, range （放牧；使成群）
 
+:::
+
 
 ## 2231. ceremonial
 
@@ -1002,6 +1060,8 @@
 - formal, official, state （仪式的；正式的，礼仪的）
 
 - service, etiquette （仪式，礼节）
+
+:::
 
 
 ## 2232. piston
@@ -1062,6 +1122,8 @@
 
 - plunger, stop-cock （[机]活塞）
 
+:::
+
 
 ## 2233. tolerate
 
@@ -1076,6 +1138,8 @@
 :::warning{title=🤔同义词}
 
 - stomach, go, stand, abide, tough （忍受；默许；宽恕）
+
+:::
 
 
 ## 2234. virtue
@@ -1110,6 +1174,8 @@
 
 - asset, excellence, efficiency, morality （美德；优点；贞操；功效）
 
+:::
+
 
 ## 2235. icebox
 
@@ -1118,6 +1184,8 @@
 :::warning{title=🤔同义词}
 
 - refrigerator, freezer （冰箱；冷藏库）
+
+:::
 
 
 ## 2236. roost
@@ -1141,6 +1209,8 @@
 - perch （栖木；鸟窝；群栖的禽鸟）
 
 - perch （栖息；安歇）
+
+:::
 
 
 ## 2237. tropic
@@ -1169,6 +1239,8 @@
 
 - intertropical, subsolar （[地理]热带的）
 
+:::
+
 
 ## 2238. nestle
 
@@ -1188,6 +1260,8 @@
 
 - establish, put, station, bed, plant （抱；安置）
 
+:::
+
 
 ## 2239. tactic
 
@@ -1205,6 +1279,8 @@
 
 - strategy, device （策略，战略）
 
+:::
+
 
 ## 2240. contaminate
 
@@ -1219,6 +1295,8 @@
 :::warning{title=🤔同义词}
 
 - soil, mud, spot, dirty, poison （污染，弄脏）
+
+:::
 
 
 ## 2241. Japanese
@@ -1309,6 +1387,8 @@
 
 - invest, overcome, house, sheet, roof （覆盖；胜过；给…戴帽；加盖于）
 
+:::
+
 
 ## 2243. carver
 
@@ -1323,6 +1403,8 @@
 :::warning{title=🤔同义词}
 
 - cleaver, sculpsit （切肉刀；[口腔]雕刻者；切肉的人）
+
+:::
 
 
 ## 2244. accomplish
@@ -1346,6 +1428,8 @@
 :::warning{title=🤔同义词}
 
 - carry out, come true, perform, complete, fulfill （完成；实现；达到）
+
+:::
 
 
 ## 2245. properly
@@ -1373,6 +1457,8 @@
 :::warning{title=🤔同义词}
 
 - correctly, exactly, well, appropriately, adequately （适当地；正确地；恰当地）
+
+:::
 
 
 ## 2246. kohoutek
@@ -1406,6 +1492,8 @@
 :::warning{title=🤔同义词}
 
 - tank, lakelet （小湖；池塘）
+
+:::
 
 
 ## 2248. immune
@@ -1442,6 +1530,8 @@
 
 - exonerative （[免疫]免疫的；免于……的，免除的）
 
+:::
+
 
 ## 2249. gill
 
@@ -1461,6 +1551,8 @@
 
 - ravine （腮；菌褶；（山谷中的）沟壑，峡流；及耳（容量单位））
 
+:::
+
 
 ## 2250. disagreement
 
@@ -1475,6 +1567,8 @@
 :::warning{title=🤔同义词}
 
 - controversy, combat, variance, disparity （不一致；争论；意见不同）
+
+:::
 
 
 ## 2251. entrepreneur
@@ -1500,6 +1594,8 @@
 :::warning{title=🤔同义词}
 
 - contractor, enterpriser （企业家；承包人；主办者）
+
+:::
 
 
 ## 2252. ingredient
@@ -1528,6 +1624,8 @@
 
 - element, factor, material, basic, essential （原料；要素；组成部分）
 
+:::
+
 
 ## 2253. prominent
 
@@ -1552,6 +1650,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, excellent, remarkable, brilliant, marked （突出的，显著的；杰出的；卓越的）
+
+:::
 
 
 ## 2254. exploration
@@ -1599,6 +1699,8 @@
 :::warning{title=🤔同义词}
 
 - inquiry, detection, search （探测；探究；踏勘）
+
+:::
 
 
 ## 2255. fashion
@@ -1665,6 +1767,8 @@
 
 - make use of, employ, influence, exercise, shift （使用；改变；做成…的形状）
 
+:::
+
 
 ## 2256. alarm
 
@@ -1730,6 +1834,8 @@
 
 - exercise, alert, warn （警告；使惊恐）
 
+:::
+
 
 ## 2257. husband
 
@@ -1750,6 +1856,8 @@
 :::warning{title=🤔同义词}
 
 - hubby, worse half （丈夫）
+
+:::
 
 
 ## 2258. proceed
@@ -1776,6 +1884,8 @@
 
 - occur, happen, travel, pursue （开始；继续进行；发生；行进）
 
+:::
+
 
 ## 2259. feat
 
@@ -1792,6 +1902,8 @@
 - merit, exploit （功绩，壮举；技艺表演）
 
 - becoming, shaped, applicable, likely, possible （合适的；灵巧的）
+
+:::
 
 
 ## 2260. angle
@@ -1853,6 +1965,8 @@
 - fish, figure for （钓鱼；谋取）
 
 - hao, jiao （角度，[数]角）
+
+:::
 
 
 ## 2261. coordinate
@@ -1917,6 +2031,8 @@
 
 - sort, concert （协调）
 
+:::
+
 
 ## 2262. substitute
 
@@ -1954,6 +2070,8 @@
 
 - replace, cover for, take the place of somebody, stand in for sb （代替）
 
+:::
+
 
 ## 2263. meaningful
 
@@ -1974,6 +2092,8 @@
 :::warning{title=🤔同义词}
 
 - significant, eloquent （有意义的；意味深长的）
+
+:::
 
 
 ## 2264. agrarian
@@ -1997,6 +2117,8 @@
 :::warning{title=🤔同义词}
 
 - ground, earth's （土地的；耕地的；有关土地的）
+
+:::
 
 
 ## 2265. message
@@ -2061,6 +2183,8 @@
 
 - give notice, instruct, advise of （通知）
 
+:::
+
 
 ## 2266. margin
 
@@ -2122,6 +2246,8 @@
 
 - profit, gain, brink, suburb （[心理]边缘；[会计]利润，余裕；[印刷]页边的空白）
 
+:::
+
 
 ## 2267. airplane
 
@@ -2150,6 +2276,8 @@
 :::warning{title=🤔同义词}
 
 - plane, aeroplane （[航]飞机）
+
+:::
 
 
 ## 2268. utility
@@ -2212,6 +2340,8 @@
 
 - applied, universal, current （实用的；通用的；有多种用途的）
 
+:::
+
 
 ## 2269. warn
 
@@ -2236,6 +2366,8 @@
 :::warning{title=🤔同义词}
 
 - alarm, jack, message, alert （警告，提醒；通知）
+
+:::
 
 
 ## 2270. motive
@@ -2269,6 +2401,8 @@
 - incentive, goals, intention, topic, purpose （动机，目的；主题）
 
 - prompt, stir up （使产生动机，激起）
+
+:::
 
 
 ## 2271. letter
@@ -2329,6 +2463,8 @@
 
 - literature, knowledge, learning, study, certificate （信；[语]字母，文字；证书；文学，学问；字面意义）
 
+:::
+
 
 ## 2272. contrary
 
@@ -2363,6 +2499,8 @@
 - counter, backward, conversely, inversely （相反地）
 
 - inverse, verso （相反；反面）
+
+:::
 
 
 ## 2273. canoes
@@ -2413,6 +2551,8 @@
 
 - suitable, competent, appropriate, proper, becoming （充足的；适当的；胜任的）
 
+:::
+
 
 ## 2275. starling
 
@@ -2421,6 +2561,8 @@
 :::warning{title=🤔同义词}
 
 - cowbird, blackbird （桥墩尖端分水桩；挡水木桩；燕八哥；[鸟]欧椋鸟）
+
+:::
 
 
 ## 2276. correspond
@@ -2442,6 +2584,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, identify, square, accord, meet with （符合，一致；相应；通信）
+
+:::
 
 
 ## 2277. fifteenth
@@ -2473,6 +2617,8 @@
 - strike, make inroads into （侵略；侵袭；侵扰；涌入）
 
 - make inroads into, intrude upon （侵略；侵入；侵袭；侵犯）
+
+:::
 
 
 ## 2279. sensitive
@@ -2531,6 +2677,8 @@
 
 - vulnerable, subtle, quick （[仪]敏感的；灵敏的；感光的；易受伤害的）
 
+:::
+
 
 ## 2280. humidity
 
@@ -2584,6 +2732,8 @@
 
 - wet, moisture capacity （[气象]湿度；湿气）
 
+:::
+
 
 ## 2281. additive
 
@@ -2632,6 +2782,8 @@
 - addition agent, make weight （[建][物化]添加剂，添加物）
 
 - attached, plus, more, second, excess （[数]附加的；加法的）
+
+:::
 
 
 ## 2282. hope
@@ -2702,6 +2854,8 @@
 
 - rely, depend, expect, like, trust （希望；期待；信赖）
 
+:::
+
 
 ## 2283. peripheral
 
@@ -2749,6 +2903,8 @@
 
 - secondary, supporting, minor （[昆][计]外围的；次要的）
 
+:::
+
 
 ## 2284. Egypt
 
@@ -2784,6 +2940,8 @@
 
 - firmly, equably （稳定地；稳固地；有规则地）
 
+:::
+
 
 ## 2286. odor
 
@@ -2813,6 +2971,8 @@
 
 - smell, wind, fame （气味；名声）
 
+:::
+
 
 ## 2287. deprive
 
@@ -2833,6 +2993,8 @@
 :::warning{title=🤔同义词}
 
 - shear, strip of （使丧失，剥夺）
+
+:::
 
 
 ## 2288. shoot
@@ -2889,6 +3051,8 @@
 
 - photography, rapid, rush （射击；摄影；狩猎；急流）
 
+:::
+
 
 ## 2289. conquer
 
@@ -2914,6 +3078,8 @@
 
 - overcome, win the day （胜利；得胜）
 
+:::
+
 
 ## 2290. loyalty
 
@@ -2936,6 +3102,8 @@
 :::warning{title=🤔同义词}
 
 - faith, devotion （忠诚；忠心；忠实）
+
+:::
 
 
 ## 2291. unexpected
@@ -2963,6 +3131,8 @@
 :::warning{title=🤔同义词}
 
 - sudden, surprising （意外的，想不到的）
+
+:::
 
 
 ## 2292. eagle
@@ -2997,6 +3167,8 @@
 
 - hawk （鹰；鹰状标饰）
 
+:::
+
 
 ## 2293. exchanger
 
@@ -3028,6 +3200,8 @@
 
 - bourse, interchanger （交换器；交易所；交换程序）
 
+:::
+
 
 ## 2294. strictly
 
@@ -3054,6 +3228,8 @@
 :::warning{title=🤔同义词}
 
 - totally, entirely, completely, absolutely, thoroughly, fully （严格地；完全地；确实地）
+
+:::
 
 
 ## 2295. psychodynamic
@@ -3088,6 +3264,8 @@
 
 - phare, beacon （[水运]灯塔）
 
+:::
+
 
 ## 2297. chart
 
@@ -3106,6 +3284,8 @@
 :::warning{title=🤔同义词}
 
 - graph, diagram （图表；海图；图纸）
+
+:::
 
 
 ## 2298. palm
@@ -3162,6 +3342,8 @@
 
 - vola （手掌；[林]棕榈树；掌状物）
 
+:::
+
 
 ## 2299. innovative
 
@@ -3186,5 +3368,7 @@
 :::warning{title=🤔同义词}
 
 - reformatory （革新的，创新的）
+
+:::
 
 

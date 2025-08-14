@@ -16,6 +16,8 @@
 
 - practically, to the life （现实地；实际地；逼真地）
 
+:::
+
 
 ## 5501. artistry
 
@@ -31,6 +33,8 @@
 
 - technology, workmanship （艺术性；工艺；艺术技巧；艺术效果；艺术工作）
 
+:::
+
 
 ## 5502. knowledgeable
 
@@ -45,6 +49,8 @@
 :::warning{title=🤔同义词}
 
 - intelligent, wise, bright, clever, smart （知识渊博的，有知识的；有见识的；聪明的）
+
+:::
 
 
 ## 5503. cannon
@@ -77,6 +83,8 @@
 
 - shell （炮轰）
 
+:::
+
 
 ## 5504. recede
 
@@ -100,6 +108,8 @@
 
 - replace, return, restore, give again （归还）
 
+:::
+
 
 ## 5505. organically
 
@@ -109,6 +119,8 @@
 
 - systematically （有机地；有组织地；器官上地）
 
+:::
+
 
 ## 5506. unintentionally
 
@@ -117,6 +129,8 @@
 :::warning{title=🤔同义词}
 
 - inadvertently （无意地；非故意地；非存心地）
+
+:::
 
 
 ## 5507. geomagnetic
@@ -141,6 +155,8 @@
 
 - magnetic （[地物]地磁的；地磁气的）
 
+:::
+
 
 ## 5508. magnetize
 
@@ -155,6 +171,8 @@
 :::warning{title=🤔同义词}
 
 - attract, engage, absorb, draw （吸引；使磁化）
+
+:::
 
 
 ## 5509. recess
@@ -182,6 +200,8 @@
 - break, cavity, rest （休息；休会；凹处）
 
 - relax, vacation （休息；休假）
+
+:::
 
 
 ## 5510. bonito
@@ -232,6 +252,8 @@
 
 - professional （专家的；专业的）
 
+:::
+
 
 ## 5513. vocal
 
@@ -271,6 +293,8 @@
 
 - vowel （声乐作品；元音）
 
+:::
+
 
 ## 5514. hilly
 
@@ -291,6 +315,8 @@
 :::warning{title=🤔同义词}
 
 - high-pitched （丘陵的；陡的；多小山的；多坡的）
+
+:::
 
 
 ## 5515. elongate
@@ -313,6 +339,8 @@
 
 - prolonged, stretched-out （[植][力]伸长的；延长的）
 
+:::
+
 
 ## 5516. linoleum
 
@@ -327,6 +355,8 @@
 :::warning{title=🤔同义词}
 
 - tarp, oilcloth （油布；油毯；[建]漆布）
+
+:::
 
 
 ## 5517. armor
@@ -355,6 +385,8 @@
 
 - mail, helmets （[军]装甲；盔甲）
 
+:::
+
 
 ## 5518. customarily
 
@@ -369,6 +401,8 @@
 :::warning{title=🤔同义词}
 
 - usually, generally, mostly, traditionally （通常，习惯上）
+
+:::
 
 
 ## 5519. comprehensive
@@ -433,6 +467,8 @@
 
 - extensive, integrated, synthetic, widespread, general （综合的；广泛的；有理解力的）
 
+:::
+
 
 ## 5520. franklin
 
@@ -449,6 +485,8 @@
 :::warning{title=🤔同义词}
 
 - squireen （小地主；乡绅）
+
+:::
 
 
 ## 5521. morally
@@ -470,6 +508,8 @@
 :::warning{title=🤔同义词}
 
 - strictly, undoubtedly, real （道德上；有道德地；确实地）
+
+:::
 
 
 ## 5522. lathe
@@ -520,6 +560,8 @@
 
 - tool, turning machine （[机]车床；机床）
 
+:::
+
 
 ## 5523. inherent
 
@@ -562,6 +604,8 @@
 :::warning{title=🤔同义词}
 
 - internal, native, intrinsic, immanent （内在的；固有的；与生俱来的）
+
+:::
 
 
 ## 5524. grand
@@ -626,6 +670,8 @@
 
 - gee （大钢琴；一千美元）
 
+:::
+
 
 ## 5525. inconspicuous
 
@@ -642,6 +688,8 @@
 :::warning{title=🤔同义词}
 
 - invisible, unspectacular （不显眼的；不引人注意的；（花）不显著的）
+
+:::
 
 
 ## 5526. integrity
@@ -680,6 +728,8 @@
 
 - truth, honesty, full, righteousness, completeness （[数]完整；正直；诚实；廉正）
 
+:::
+
 
 ## 5527. enroll
 
@@ -696,6 +746,8 @@
 - register, book in （登记；使加入；把...记入名册；使入伍）
 
 - participate in, take part in, go through （参加；登记；注册；记入名册）
+
+:::
 
 
 ## 5528. utterance
@@ -717,6 +769,8 @@
 :::warning{title=🤔同义词}
 
 - expression, speaking （表达；说话；说话方式）
+
+:::
 
 
 ## 5529. treasury
@@ -757,6 +811,8 @@
 
 - chest, public purse （[财政]国库，[金融]金库；财政部；宝库）
 
+:::
+
 
 ## 5530. apparatus
 
@@ -771,6 +827,8 @@
 :::warning{title=🤔同义词}
 
 - device, equipment, installation, furniture, facility, unit, organ （装置，[机]设备；[仪]仪器；器官）
+
+:::
 
 
 ## 5531. heartbeat
@@ -792,6 +850,8 @@
 :::warning{title=🤔同义词}
 
 - emotion, will, affect （[生理]心跳；情感）
+
+:::
 
 
 ## 5532. mast
@@ -840,6 +900,8 @@
 
 - accord, reconcile （统一；使相同，使一致）
 
+:::
+
 
 ## 5534. scat
 
@@ -852,6 +914,8 @@
 - go away, walk away （用拟声唱法唱；走开）
 
 - sh, hist （嘘（赶猫等的呼声））
+
+:::
 
 
 ## 5535. unexplored
@@ -877,6 +941,8 @@
 :::warning{title=🤔同义词}
 
 - sports ground, athletic ground （运动场，操场）
+
+:::
 
 
 ## 5537. upland
@@ -907,6 +973,8 @@
 
 - highland （山地的，[地理]高地的）
 
+:::
+
 
 ## 5538. woodpecker
 
@@ -925,6 +993,8 @@
 :::warning{title=🤔同义词}
 
 - peckerwood, Marc Dorcel, hickwall （[鸟]啄木鸟）
+
+:::
 
 
 ## 5539. friendliness
@@ -948,6 +1018,8 @@
 :::warning{title=🤔同义词}
 
 - fellowship, companionship （友谊；亲切；亲密）
+
+:::
 
 
 ## 5540. sympathy
@@ -973,6 +1045,8 @@
 :::warning{title=🤔同义词}
 
 - acceptance, feeling, compassion, pity （同情；慰问；赞同）
+
+:::
 
 
 ## 5541. wingspan
@@ -1051,6 +1125,8 @@
 
 - contrary, opposite, adverse, cross （相反的）
 
+:::
+
 
 ## 5543. campus
 
@@ -1088,6 +1164,8 @@
 
 - schoolyard, college life （（大学）校园；大学，大学生活；校园内的草地）
 
+:::
+
 
 ## 5544. flicker
 
@@ -1114,6 +1192,8 @@
 - gleam （[电子][光]使闪烁；使摇曳）
 
 - movie, film, cinema （[电子][光]闪烁；闪光；电影）
+
+:::
 
 
 ## 5545. approve
@@ -1144,6 +1224,8 @@
 
 - to ratify, give someone the green light （批准；赞成；满意）
 
+:::
+
 
 ## 5546. anvil
 
@@ -1162,6 +1244,8 @@
 :::warning{title=🤔同义词}
 
 - incus, stithy （[物]铁砧；[解剖]砧骨）
+
+:::
 
 
 ## 5547. proximity
@@ -1194,6 +1278,8 @@
 
 - approach, neighborhood （亲近，接近；[数]邻近）
 
+:::
+
 
 ## 5548. excellence
 
@@ -1219,6 +1305,8 @@
 
 - virtue, strength, morality （优秀；美德；长处）
 
+:::
+
 
 ## 5549. loggerhead
 
@@ -1234,6 +1322,8 @@
 
 - simple, turkey, put, idiot, stupid （笨蛋；铁球棒；红海龟）
 
+:::
+
 
 ## 5550. pertain
 
@@ -1248,6 +1338,8 @@
 :::warning{title=🤔同义词}
 
 - gear, serve （属于；关于；适合）
+
+:::
 
 
 ## 5551. demonstration
@@ -1280,6 +1372,8 @@
 
 - authentication, certification, proof, evidence, march （示范；证明；示威游行）
 
+:::
+
 
 ## 5552. dike
 
@@ -1307,6 +1401,8 @@
 
 - barrier, block, bottleneck （堤防，堤坝；障碍物；（英）壕沟）
 
+:::
+
 
 ## 5553. ineffective
 
@@ -1321,6 +1417,8 @@
 :::warning{title=🤔同义词}
 
 - useless, invalid （无效的，失效的；不起作用的）
+
+:::
 
 
 ## 5554. explosive
@@ -1371,6 +1469,8 @@
 
 - blasting agent, detonator （[化工]炸药；[力]爆炸物）
 
+:::
+
 
 ## 5555. rooftop
 
@@ -1387,6 +1487,8 @@
 :::warning{title=🤔同义词}
 
 - housetop （屋顶）
+
+:::
 
 
 ## 5556. interplanetary
@@ -1461,6 +1563,8 @@
 
 - pleasant, pretty, taking, grateful, cute （可爱的；令人愉快的）
 
+:::
+
 
 ## 5559. caput
 
@@ -1476,6 +1580,8 @@
 
 - Zhang, chapter （[解剖]头；章）
 
+:::
+
 
 ## 5560. receptiveness
 
@@ -1490,6 +1596,8 @@
 :::warning{title=🤔同义词}
 
 - qualia, sensitibility （[植]感受性；接受能力）
+
+:::
 
 
 ## 5561. punish
@@ -1522,6 +1630,8 @@
 
 - drop across, come down on （惩罚）
 
+:::
+
 
 ## 5562. animate
 
@@ -1540,6 +1650,8 @@
 - stimulate, lift, spirit, force, drive （使有生气；使活泼；鼓舞；推动）
 
 - lived, zoetic （[生物]有生命的）
+
+:::
 
 
 ## 5563. militaristic
@@ -1568,6 +1680,8 @@
 
 - area, proportion （面积，[测]英亩数）
 
+:::
+
 
 ## 5565. impersonation
 
@@ -1582,6 +1696,8 @@
 :::warning{title=🤔同义词}
 
 - simulation, imitation （扮演；模仿；装扮）
+
+:::
 
 
 ## 5566. reabsorb
@@ -1654,6 +1770,8 @@
 
 - conflict, disturbance, war, obstacle, collision （[通信][物][医]干扰，冲突；干涉）
 
+:::
+
 
 ## 5568. overturn
 
@@ -1674,6 +1792,8 @@
 - tip, throw down （推翻；倾覆）
 
 - capsizal, turn-round （倾覆；周转；破灭）
+
+:::
 
 
 ## 5569. duke
@@ -1698,6 +1818,8 @@
 
 - emperor, sovereignty （[纸]公爵，（公国的）君主；公爵（种）樱桃）
 
+:::
+
 
 ## 5570. squarely
 
@@ -1714,6 +1836,8 @@
 :::warning{title=🤔同义词}
 
 - just, direct （直角地；诚实地；正好；干脆地；正当地）
+
+:::
 
 
 ## 5571. Henderson
@@ -1782,6 +1906,8 @@
 
 - capture, galley slave （囚犯，犯人；俘虏；刑事被告）
 
+:::
+
 
 ## 5574. October
 
@@ -1817,6 +1943,8 @@
 
 - peltry （生皮；生皮鞭）
 
+:::
+
 
 ## 5576. nonagricultural
 
@@ -1844,6 +1972,8 @@
 
 - mountain valley, hollow （山谷；排水孔）
 
+:::
+
 
 ## 5578. devastation
 
@@ -1858,6 +1988,8 @@
 :::warning{title=🤔同义词}
 
 - demolition, disruption （毁坏，荒废）
+
+:::
 
 
 ## 5579. fletcher
@@ -1878,6 +2010,8 @@
 
 - abnormally, eccentrically （自相矛盾地；似非而是地；反常地）
 
+:::
+
 
 ## 5581. credible
 
@@ -1894,6 +2028,8 @@
 :::warning{title=🤔同义词}
 
 - responsible, reliable, tried, honest, safe （可靠的，可信的）
+
+:::
 
 
 ## 5582. flute
@@ -1932,6 +2068,8 @@
 
 - robotize （使自动化，使自动操作）
 
+:::
+
 
 ## 5584. pedagogy
 
@@ -1948,6 +2086,8 @@
 :::warning{title=🤔同义词}
 
 - education, struction （教育；教育学；教授法）
+
+:::
 
 
 ## 5585. pregnant
@@ -1982,6 +2122,8 @@
 
 - cyetic, childing （怀孕的；富有意义的）
 
+:::
+
 
 ## 5586. trait
 
@@ -2015,6 +2157,8 @@
 
 - quality, tang, identity, sort, distinction （特性，特点；[心理]品质；少许）
 
+:::
+
 
 ## 5587. autonomy
 
@@ -2030,6 +2174,8 @@
 
 - self-rule, swaraj （自治，自治权）
 
+:::
+
 
 ## 5588. exuberant
 
@@ -2044,6 +2190,8 @@
 :::warning{title=🤔同义词}
 
 - lively, rank （繁茂的；生气勃勃的，充溢的）
+
+:::
 
 
 ## 5589. option
@@ -2110,6 +2258,8 @@
 
 - election, choice （[计]选项；选择权；买卖的特权）
 
+:::
+
 
 ## 5590. reaper
 
@@ -2125,6 +2275,8 @@
 
 - harvester, cropper （[农机]收割者；收割机；收获者）
 
+:::
+
 
 ## 5591. anxiously
 
@@ -2139,6 +2291,8 @@
 :::warning{title=🤔同义词}
 
 - restlessly, disturbedly （不安地，忧虑地）
+
+:::
 
 
 ## 5592. elephant
@@ -2199,6 +2353,8 @@
 
 - harry, worry, trouble, tear, devil （折磨；使苦恼；使得灾祸）
 
+:::
+
 
 ## 5594. bellow
 
@@ -2226,6 +2382,8 @@
 
 - gnar, huff and puff （吼叫；怒吼；咆哮）
 
+:::
+
 
 ## 5595. unreal
 
@@ -2240,6 +2398,8 @@
 :::warning{title=🤔同义词}
 
 - impossible, untrue （不真实的；假的；幻想的；虚构的）
+
+:::
 
 
 ## 5596. fond
@@ -2266,6 +2426,8 @@
 
 - pleased, tender, soft, favorite, pet （喜欢的；温柔的；宠爱的）
 
+:::
+
 
 ## 5597. toad
 
@@ -2280,6 +2442,8 @@
 :::warning{title=🤔同义词}
 
 - hoptoad, sad apple （[脊椎]蟾蜍；癞蛤蟆；讨厌的家伙）
+
+:::
 
 
 ## 5598. heave
@@ -2309,6 +2473,8 @@
 - wave, roll （起伏；举起；喘息；呕吐）
 
 - up with, putting, fluctuation, cast, lift （举起；起伏；投掷；一阵呕吐）
+
+:::
 
 
 ## 5599. parade
@@ -2350,5 +2516,7 @@
 - show off, brag about （游行；炫耀；列队行进）
 
 - file, show off （游行；炫耀；列队行进）
+
+:::
 
 

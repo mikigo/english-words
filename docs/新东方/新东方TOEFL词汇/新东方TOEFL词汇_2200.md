@@ -16,6 +16,8 @@
 
 - data room （[医]陈尸所；资料室，资料档案）
 
+:::
+
 
 ## 2201. unprecedented
 
@@ -39,6 +41,8 @@
 
 - unheard-of, all-time （空前的；无前例的）
 
+:::
+
 
 ## 2202. pocketbook
 
@@ -55,6 +59,8 @@
 :::warning{title=🤔同义词}
 
 - bag, wallet （钱包；笔记本；经济来源；皮夹）
+
+:::
 
 
 ## 2203. charcoal
@@ -83,6 +89,8 @@
 
 - xylanthrax, wood coal （[木]木炭（过去式charcoaled，过去分词charcoaled，现在分词charcoaling，第三人称单数charcoals）；炭笔）
 
+:::
+
 
 ## 2204. disguise
 
@@ -109,6 +117,8 @@
 - simulate, come （掩饰；假装；隐瞒）
 
 - simulation, acting （伪装；假装；用作伪装的东西）
+
+:::
 
 
 ## 2205. imperial
@@ -144,6 +154,8 @@
 :::warning{title=🤔同义词}
 
 - august, sovereign （[纸]帝国的；皇帝的；至高无上的；威严的）
+
+:::
 
 
 ## 2206. wrap
@@ -188,6 +200,8 @@
 
 - outerwear, outer coat （外套；围巾）
 
+:::
+
 
 ## 2207. prehistoric
 
@@ -205,6 +219,8 @@
 
 - old, ogygian （史前的；陈旧的）
 
+:::
+
 
 ## 2208. facet
 
@@ -219,6 +235,8 @@
 :::warning{title=🤔同义词}
 
 - aspect, side, respect （面；方面；小平面）
+
+:::
 
 
 ## 2209. novel
@@ -253,6 +271,8 @@
 
 - story, fiction （小说）
 
+:::
+
 
 ## 2210. tedium
 
@@ -267,6 +287,8 @@
 :::warning{title=🤔同义词}
 
 - heavy-footedness, oppression （沉闷；单调乏味；厌烦）
+
+:::
 
 
 ## 2211. liberal
@@ -314,6 +336,8 @@
 - generous, handsome （自由主义的；慷慨的；不拘泥的；宽大的）
 
 - latitudinarian （自由主义者）
+
+:::
 
 
 ## 2212. standard
@@ -380,6 +404,8 @@
 
 - normal, par （[标准]标准的；合规格的；公认为优秀的）
 
+:::
+
 
 ## 2213. harmony
 
@@ -413,6 +439,8 @@
 
 - peace, keeping （协调；和睦；融洽；调和）
 
+:::
+
 
 ## 2214. genial
 
@@ -427,6 +455,8 @@
 :::warning{title=🤔同义词}
 
 - friendly, nice, sweet, kind, well （亲切的，友好的；和蔼的；适宜的）
+
+:::
 
 
 ## 2215. epitome
@@ -443,6 +473,8 @@
 
 - symbol, abstract, brief, summary, significant （缩影；[图情]摘要；象征）
 
+:::
+
 
 ## 2216. sharply
 
@@ -451,6 +483,8 @@
 :::warning{title=🤔同义词}
 
 - keenly, trenchantly （急剧地；锐利地）
+
+:::
 
 
 ## 2217. afoul
@@ -466,6 +500,8 @@
 :::warning{title=🤔同义词}
 
 - tangled, matted （纠缠的，冲撞的）
+
+:::
 
 
 ## 2218. chill
@@ -500,6 +536,8 @@
 
 - refrigerate （冷冻，冷藏；使寒心；使感到冷）
 
+:::
+
 
 ## 2219. dominate
 
@@ -529,6 +567,8 @@
 
 - advantage over, prevail over （占优势；处于支配地位）
 
+:::
+
 
 ## 2220. imitate
 
@@ -543,6 +583,8 @@
 :::warning{title=🤔同义词}
 
 - simulate, model after （模仿，仿效；仿造，仿制）
+
+:::
 
 
 ## 2221. compute
@@ -569,6 +611,8 @@
 
 - calculation, estimation, appraisal, valuation, count （[数]计算；估计；推断）
 
+:::
+
 
 ## 2222. pastel
 
@@ -588,6 +632,8 @@
 
 - female, delicate （柔和的；彩色蜡笔的，粉蜡笔的）
 
+:::
+
 
 ## 2223. homestead
 
@@ -602,6 +648,8 @@
 :::warning{title=🤔同义词}
 
 - curtilage, toft （宅地；家园；田产）
+
+:::
 
 
 ## 2224. middleman
@@ -619,6 +667,8 @@
 :::warning{title=🤔同义词}
 
 - intermediary, Tweener （中间人；经纪人；调解人）
+
+:::
 
 
 ## 2225. exceed
@@ -643,6 +693,8 @@
 
 - better than, overcome, top, cap, outdo （超过；胜过）
 
+:::
+
 
 ## 2226. avert
 
@@ -657,6 +709,8 @@
 :::warning{title=🤔同义词}
 
 - escape, shift, shun （避免，防止；转移）
+
+:::
 
 
 ## 2227. conversation
@@ -711,6 +765,8 @@
 
 - congress, dialog （交谈；会话；社交）
 
+:::
+
 
 ## 2228. monarchy
 
@@ -734,6 +790,8 @@
 
 - Caesarism （君主政体；君主国；君主政治）
 
+:::
+
 
 ## 2229. manifestation
 
@@ -754,6 +812,8 @@
 :::warning{title=🤔同义词}
 
 - exhibition, representation, display, show （表现；显示；示威运动）
+
+:::
 
 
 ## 2230. vicious
@@ -784,6 +844,8 @@
 
 - severe, fallen, malicious, poisonous （恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的）
 
+:::
+
 
 ## 2231. lace
 
@@ -808,6 +870,8 @@
 :::warning{title=🤔同义词}
 
 - tie, gymp （[纺]花边；鞋带；饰带；少量烈酒）
+
+:::
 
 
 ## 2232. invitation
@@ -842,6 +906,8 @@
 
 - calling, temptation （邀请；引诱）
 
+:::
+
 
 ## 2233. lithosphere
 
@@ -861,6 +927,8 @@
 
 - geosphere （陆界，[地质][地物][天]岩石圈）
 
+:::
+
 
 ## 2234. enormous
 
@@ -879,6 +947,8 @@
 :::warning{title=🤔同义词}
 
 - huge, tremendous, massive, macro, vast （庞大的，巨大的；凶暴的，极恶的）
+
+:::
 
 
 ## 2235. revival
@@ -900,6 +970,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruction, renaissance, renewal, resurrection （复兴；复活；苏醒；恢复精神；再生效）
+
+:::
 
 
 ## 2236. moisture
@@ -962,6 +1034,8 @@
 
 - rainfall, humidity content （水分；湿度；[气象][物]潮湿；降雨量）
 
+:::
+
 
 ## 2237. sloth
 
@@ -976,6 +1050,8 @@
 :::warning{title=🤔同义词}
 
 - laziness, idleness （怠惰，懒惰；[脊椎]树懒）
+
+:::
 
 
 ## 2238. lack
@@ -1042,6 +1118,8 @@
 
 - shortage, short of, deficiency, need, drought （缺乏；不足）
 
+:::
+
 
 ## 2239. external
 
@@ -1103,6 +1181,8 @@
 
 - outside, without, surface, face, garment （外部；外观；外面）
 
+:::
+
 
 ## 2240. circumstance
 
@@ -1132,6 +1212,8 @@
 
 - context, situation, setting, event, occurrence, thing, scene （环境，情况；事件；境遇）
 
+:::
+
 
 ## 2241. revise
 
@@ -1158,6 +1240,8 @@
 - to amend （[图情]修订；[印刷]校订；复习功课）
 
 - recension, emendation （[图情]修订；[印刷]校订）
+
+:::
 
 
 ## 2242. authority
@@ -1218,6 +1302,8 @@
 
 - rod, jurisdiction （权威；[法]权力；当局）
 
+:::
+
 
 ## 2243. paramount
 
@@ -1245,6 +1331,8 @@
 
 - monarch, imperator （最高统治者）
 
+:::
+
 
 ## 2244. emerald
 
@@ -1270,6 +1358,8 @@
 
 - virid （翡翠的；翠绿色的）
 
+:::
+
 
 ## 2245. legislature
 
@@ -1284,6 +1374,8 @@
 :::warning{title=🤔同义词}
 
 - legislative body （立法机关；立法机构）
+
+:::
 
 
 ## 2246. sociable
@@ -1301,6 +1393,8 @@
 - gregarious, amicable （社交的；好交际的；友善的）
 
 - social gathering, sodality （联谊会）
+
+:::
 
 
 ## 2247. exhilarating
@@ -1320,6 +1414,8 @@
 - snappy （使人愉快的；令人喜欢的；爽快的）
 
 - gratifying （使高兴，使兴奋（exhilarate的现在分词形式））
+
+:::
 
 
 ## 2248. Saturn
@@ -1352,6 +1448,8 @@
 
 - get back on, get even with （报复，报仇）
 
+:::
+
 
 ## 2250. obsolete
 
@@ -1378,6 +1476,8 @@
 - waste, dumped （[生物]废弃的；老式的）
 
 - fall into disuse, wash out （淘汰；废弃）
+
+:::
 
 
 ## 2251. instrument
@@ -1437,6 +1537,8 @@
 :::warning{title=🤔同义词}
 
 - facilities, vehicle, engine, tool, implement （[仪]仪器；[机]工具；乐器；手段；器械）
+
+:::
 
 
 ## 2252. medium
@@ -1509,6 +1611,8 @@
 
 - method, approach, way, system, how （方法；媒体；媒介；中间物）
 
+:::
+
 
 ## 2253. gasoline
 
@@ -1549,6 +1653,8 @@
 :::warning{title=🤔同义词}
 
 - gas, benzine （[油气]汽油）
+
+:::
 
 
 ## 2254. interface
@@ -1609,6 +1715,8 @@
 
 - limiting surface, boundary surface （[力][自][地物]界面；[通信][计]接口；[物化]接触面）
 
+:::
+
 
 ## 2255. sculpt
 
@@ -1627,6 +1735,8 @@
 - carve out （造型；雕刻）
 
 - carving, graving （雕刻品）
+
+:::
 
 
 ## 2256. lipid
@@ -1659,6 +1769,8 @@
 
 - axunge, grease （[生化]脂质；油脂）
 
+:::
+
 
 ## 2257. fatal
 
@@ -1689,6 +1801,8 @@
 :::warning{title=🤔同义词}
 
 - important, significant, great, fell, kill （[生物][医]致命的；重大的；毁灭性的；命中注定的）
+
+:::
 
 
 ## 2258. hormone
@@ -1749,6 +1863,8 @@
 
 - incretion, corticosteroids （[生理]激素，荷尔蒙）
 
+:::
+
 
 ## 2259. psychology
 
@@ -1808,6 +1924,8 @@
 
 - mentation, psychological science （[心理]心理学；心理状态）
 
+:::
+
 
 ## 2260. outgas
 
@@ -1843,6 +1961,8 @@
 
 - mountain range, cordillera （[地理]山脊；山脉；[建]屋脊）
 
+:::
+
 
 ## 2262. hypothesize
 
@@ -1859,6 +1979,8 @@
 - assume that, to suppose （假设，假定）
 
 - assume that, to suppose （假设，假定）
+
+:::
 
 
 ## 2263. puritanical
@@ -1892,6 +2014,8 @@
 - wind, twist up （缠绕；搓；交织；编饰）
 
 - string, drawstring （麻线；细绳；搓；合股线）
+
+:::
 
 
 ## 2265. mobile
@@ -1954,6 +2078,8 @@
 
 - variable, liquid, motor, unstable （[生物]机动的；易变的，；非固定的）
 
+:::
+
 
 ## 2266. perform
 
@@ -1987,6 +2113,8 @@
 
 - put into effect, to carry out （执行，机器运转；表演）
 
+:::
+
 
 ## 2267. retrospective
 
@@ -2007,6 +2135,8 @@
 :::warning{title=🤔同义词}
 
 - nostalgic, reminiscent （回顾的；怀旧的；可追溯的）
+
+:::
 
 
 ## 2268. peak
@@ -2081,6 +2211,8 @@
 
 - highest, supreme, maximum, top, tallest （最高的；最大值的）
 
+:::
+
 
 ## 2269. evolution
 
@@ -2122,6 +2254,8 @@
 
 - unfolding, Monkey to Man （演变；[进化]进化论；进展）
 
+:::
+
 
 ## 2270. lucrative
 
@@ -2136,6 +2270,8 @@
 :::warning{title=🤔同义词}
 
 - economical, profitable, paying （[金融]有利可图的，赚钱的；合算的）
+
+:::
 
 
 ## 2271. portrait
@@ -2164,6 +2300,8 @@
 
 - description, image, icon （肖像；描写；半身雕塑像）
 
+:::
+
 
 ## 2272. inanity
 
@@ -2172,6 +2310,8 @@
 :::warning{title=🤔同义词}
 
 - blank, emptiness, simplicity （空虚；愚蠢；浅薄）
+
+:::
 
 
 ## 2273. acidity
@@ -2220,6 +2360,8 @@
 
 - sickness, complain of （抱怨；诉苦；疾病；委屈）
 
+:::
+
 
 ## 2275. pinnacle
 
@@ -2234,6 +2376,8 @@
 :::warning{title=🤔同义词}
 
 - pole, climax （高峰；小尖塔；尖峰；极点）
+
+:::
 
 
 ## 2276. inject
@@ -2250,6 +2394,8 @@
 
 - breathe into, inflood （注入；注射）
 
+:::
+
 
 ## 2277. cannibalism
 
@@ -2264,6 +2410,8 @@
 :::warning{title=🤔同义词}
 
 - anthropophagy （食人；嗜食同类；残忍的行为）
+
+:::
 
 
 ## 2278. indifference
@@ -2286,6 +2434,8 @@
 
 - nonchalance, dryness （漠不关心；冷淡；不重视；中立）
 
+:::
+
 
 ## 2279. copious
 
@@ -2303,6 +2453,8 @@
 
 - abundant, numerous, productive, full, plenty （丰富的；很多的；多产的）
 
+:::
+
 
 ## 2280. inception
 
@@ -2317,6 +2469,8 @@
 :::warning{title=🤔同义词}
 
 - incipiency （起初；获得学位）
+
+:::
 
 
 ## 2281. channel
@@ -2385,6 +2539,8 @@
 
 - door, exit, neck, route, narrow （通道；频道；海峡）
 
+:::
+
 
 ## 2282. focus
 
@@ -2450,6 +2606,8 @@
 
 - concentrate, band （集中；[光][摄]聚焦；调节焦距）
 
+:::
+
 
 ## 2283. hamper
 
@@ -2470,6 +2628,8 @@
 - let, chain, bound （妨碍；束缚；使困累）
 
 - hindrance, incumbrance （食盒，食篮；阻碍物）
+
+:::
 
 
 ## 2284. approach
@@ -2536,6 +2696,8 @@
 
 - come near to, draw near （靠近）
 
+:::
+
 
 ## 2285. usher
 
@@ -2563,6 +2725,8 @@
 
 - ush （作招待员；当引座员）
 
+:::
+
 
 ## 2286. decisive
 
@@ -2583,6 +2747,8 @@
 :::warning{title=🤔同义词}
 
 - crucial, critical, final, committed, confirmed （决定性的；果断的，坚定的）
+
+:::
 
 
 ## 2287. pollinate
@@ -2608,6 +2774,8 @@
 :::warning{title=🤔同义词}
 
 - brief, compact （简明的，简洁的）
+
+:::
 
 
 ## 2289. thesis
@@ -2635,6 +2803,8 @@
 :::warning{title=🤔同义词}
 
 - dissertation, tractate （论文；论点）
+
+:::
 
 
 ## 2290. bump
@@ -2675,6 +2845,8 @@
 
 - suddenly, heavily, strong, sharp, hard （突然地，猛烈地）
 
+:::
+
 
 ## 2291. precursor
 
@@ -2696,6 +2868,8 @@
 
 - forerunner, vaunt-courier （先驱，前导）
 
+:::
+
 
 ## 2292. revive
 
@@ -2712,6 +2886,8 @@
 - come back to life again, resurge （复兴；复活；苏醒；恢复精神）
 
 - recall, reinvigorate （使复兴；使苏醒；回想起；重演，重播）
+
+:::
 
 
 ## 2293. fumigate
@@ -2747,6 +2923,8 @@
 :::warning{title=🤔同义词}
 
 - hungry, waste, desert （[气候]干旱的；不毛的，[农]荒芜的）
+
+:::
 
 
 ## 2295. fiber
@@ -2801,6 +2979,8 @@
 
 - fibre, funicle （纤维；光纤（等于fibre））
 
+:::
+
 
 ## 2296. proceed
 
@@ -2825,6 +3005,8 @@
 :::warning{title=🤔同义词}
 
 - occur, happen, travel, pursue （开始；继续进行；发生；行进）
+
+:::
 
 
 ## 2297. musical
@@ -2873,6 +3055,8 @@
 
 - harmonious, sweet （音乐的；悦耳的）
 
+:::
+
 
 ## 2298. aria
 
@@ -2889,6 +3073,8 @@
 :::warning{title=🤔同义词}
 
 - arioso （咏叹调，独唱曲）
+
+:::
 
 
 ## 2299. bulb
@@ -2930,5 +3116,7 @@
 :::warning{title=🤔同义词}
 
 - third wheel, electric lamp （[电]电灯泡；[植]鳞茎；球状物）
+
+:::
 
 

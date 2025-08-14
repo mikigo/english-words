@@ -78,6 +78,8 @@
 
 - latter, past, ago, rear （[机]后面的；过去的；拖欠的）
 
+:::
+
 
 ## 2. significant
 
@@ -128,6 +130,8 @@
 - valid, important, available, effective, virtual, remarkable （重大的；有效的；有意义的；值得注意的；意味深长的）
 
 - symbol, indication （象征；有意义的事物）
+
+:::
 
 
 ## 3. skill
@@ -189,6 +193,8 @@
 :::warning{title=🤔同义词}
 
 - technique, science, mechanics, tips, accomplishment （技能，技巧；本领，技术）
+
+:::
 
 
 ## 4. public
@@ -261,6 +267,8 @@
 
 - society, ambiente （公众；社会；公共场所）
 
+:::
+
 
 ## 5. go
 
@@ -327,6 +335,8 @@
 - stroke, conduct, process, experiment, try （去；进行；尝试）
 
 - yield, stomach, stand, abide, tough （忍受；出产；以…打赌）
+
+:::
 
 
 ## 6. fish
@@ -397,6 +407,8 @@
 
 - search, hunt for （钓鱼，捕鱼；搜寻）
 
+:::
+
 
 ## 7. set
 
@@ -464,6 +476,8 @@
 
 - specified, stated, fixed, prescribed, regulation （规定的；固定的；固执的）
 
+:::
+
 
 ## 8. once
 
@@ -484,6 +498,8 @@
 - ever, e'er （一次；曾经）
 
 - breath, one time （一次，一回）
+
+:::
 
 
 ## 9. table
@@ -545,6 +561,8 @@
 - form, tabulation （桌子；表格；平地层）
 
 - leave in the air, leave aside （制表；搁置；嵌合）
+
+:::
 
 
 ## 10. demand
@@ -608,6 +626,8 @@
 - wish, have need of （需要；[计]请求；查问）
 
 - necessity, need, do, desire, want （[经]需求；要求；需要）
+
+:::
 
 
 ## 11. day
@@ -684,6 +704,8 @@
 
 - day-to-day （日间的；逐日的）
 
+:::
+
 
 ## 12. south
 
@@ -747,6 +769,8 @@
 
 - austral （南的，南方的）
 
+:::
+
 
 ## 13. almost
 
@@ -777,6 +801,8 @@
 :::warning{title=🤔同义词}
 
 - nearly, most, virtually, practically, feckly （差不多，几乎）
+
+:::
 
 
 ## 14. local
@@ -842,6 +868,8 @@
 - native （[计]局部；当地居民；本地新闻）
 
 - partial, regional, provincial （当地的；[计]局部的；地方性的；乡土的）
+
+:::
 
 
 ## 15. open
@@ -922,6 +950,8 @@
 
 - publicity, daylight （公开；空旷；户外）
 
+:::
+
 
 ## 16. cover
 
@@ -995,6 +1025,8 @@
 
 - write over, substitute for （覆盖；代替）
 
+:::
+
 
 ## 17. purpose
 
@@ -1055,6 +1087,8 @@
 - goals, intention, sake, objective, use （目的；用途；意志）
 
 - propose, think （决心；企图；打算）
+
+:::
 
 
 ## 18. reach
@@ -1121,6 +1155,8 @@
 
 - extent, boundary, region, scope, spectrum, territory, range （范围；延伸；河段；横风行驶）
 
+:::
+
 
 ## 19. various
 
@@ -1157,6 +1193,8 @@
 :::warning{title=🤔同义词}
 
 - varieties of, miscellaneous （各种各样的；多方面的）
+
+:::
 
 
 ## 20. late
@@ -1227,6 +1265,8 @@
 
 - recently, newly, deep, last （晚；迟；最近；在晚期）
 
+:::
+
 
 ## 21. sometime
 
@@ -1243,6 +1283,8 @@
 :::warning{title=🤔同义词}
 
 - previous, ago （以前的；某一时间的）
+
+:::
 
 
 ## 22. function
@@ -1309,6 +1351,8 @@
 
 - exercise one's activity （运行；活动；行使职责）
 
+:::
+
 
 ## 23. able
 
@@ -1340,6 +1384,8 @@
 
 - capable, efficient, competent （能；[经管]有能力的；能干的）
 
+:::
+
 
 ## 24. allow
 
@@ -1364,6 +1410,8 @@
 - afford, let, have, deal, extend （允许；给予；认可）
 
 - think of, think about （容许；考虑）
+
+:::
 
 
 ## 25. middle
@@ -1432,6 +1480,8 @@
 
 - double over （放在中间，对折）
 
+:::
+
 
 ## 26. home
 
@@ -1498,6 +1548,8 @@
 - deep （在家，回家；深入地）
 
 - domestic, valid, internal, available, effective, virtual （国内的，家庭的；有效的）
+
+:::
 
 
 ## 27. European
@@ -1610,6 +1662,8 @@
 
 - discuss, debate, satisfy, convince, argue （说服；推论；辩论）
 
+:::
+
 
 ## 29. rise
 
@@ -1671,6 +1725,8 @@
 
 - height, occurrence, appearance, emergence, enhancement （上升；高地；增加；出现）
 
+:::
+
 
 ## 30. member
 
@@ -1730,6 +1786,8 @@
 
 - fellow, insider （成员；会员；议员）
 
+:::
+
 
 ## 31. toward
 
@@ -1748,6 +1806,8 @@
 - unto, upon, out （向；对于；为了；接近）
 
 - going, underway （即将来到的，进行中的）
+
+:::
 
 
 ## 32. house
@@ -1814,6 +1874,8 @@
 
 - invest, sheet, roof, cap （覆盖；给…房子住；把…储藏在房内）
 
+:::
+
 
 ## 33. characteristic
 
@@ -1876,6 +1938,8 @@
 - typical, representative, proper, very, own （典型的；特有的；表示特性的）
 
 - quality, identity, tang, specific, distinction （特征；特性；特色）
+
+:::
 
 
 ## 34. last
@@ -1954,6 +2018,8 @@
 
 - recently, newly, of late （最后地；上次，最近；最后一点）
 
+:::
+
 
 ## 35. location
 
@@ -2015,6 +2081,8 @@
 
 - site, situation, spot, lie, where （位置（形容词locational）；地点；外景拍摄场地）
 
+:::
+
 
 ## 36. today
 
@@ -2043,6 +2111,8 @@
 :::warning{title=🤔同义词}
 
 - nowadays （今天；现今）
+
+:::
 
 
 ## 37. culture
@@ -2109,6 +2179,8 @@
 
 - rear, foster, plant, nurse （[细胞][微]培养（等于cultivate））
 
+:::
+
 
 ## 38. infant
 
@@ -2147,6 +2219,8 @@
 - baby, minor （婴儿；幼儿；未成年人）
 
 - earlier, young, baby, minor, tender （婴儿的；幼稚的；初期的；未成年的）
+
+:::
 
 
 ## 39. left
@@ -2245,6 +2319,8 @@
 
 - latest, modern, current, nearest, last （[地质]最近的；近代的）
 
+:::
+
 
 ## 41. Europe
 
@@ -2334,6 +2410,8 @@
 
 - household, domestic, home （家庭的，家族的）
 
+:::
+
 
 ## 43. site
 
@@ -2399,6 +2477,8 @@
 
 - intercalate, instal （设置；为…选址）
 
+:::
+
 
 ## 44. incorrect
 
@@ -2419,6 +2499,8 @@
 :::warning{title=🤔同义词}
 
 - false, impossible, wrong, improper, unhappy （错误的，不正确的；不适当的；不真实的）
+
+:::
 
 
 ## 45. agricultural
@@ -2479,6 +2561,8 @@
 
 - geoponic, georgic （[农]农业的；农艺的）
 
+:::
+
 
 ## 46. generally
 
@@ -2501,6 +2585,8 @@
 :::warning{title=🤔同义词}
 
 - usually, mostly, commonly, currently, normally （通常；普遍地，一般地）
+
+:::
 
 
 ## 47. property
@@ -2563,6 +2649,8 @@
 
 - performance, nature, ownership, estate, capability （性质，性能；[经]财产；[法]所有权）
 
+:::
+
 
 ## 48. atmosphere
 
@@ -2620,6 +2708,8 @@
 
 - mood, ambience （[心理]气氛；[气象][地物]大气；空气）
 
+:::
+
 
 ## 49. themselves
 
@@ -2670,6 +2760,8 @@
 - nevertheless, not but that （可是，虽然；不过；然而）
 
 - although, while, as, albeit （虽然；尽管）
+
+:::
 
 
 ## 51. strong
@@ -2735,6 +2827,8 @@
 - tough, firm, stable, steel （坚强的；强壮的；牢固的；擅长的）
 
 - heavily, hard （强劲地；猛烈地）
+
+:::
 
 
 ## 52. clear
@@ -2809,6 +2903,8 @@
 
 - removel, liquidation （[计]清除；空隙）
 
+:::
+
 
 ## 53. reduce
 
@@ -2841,6 +2937,8 @@
 - shorten, weaken （减少；降低；使处于；把…分解）
 
 - to cut down, fall off （减少；缩小；归纳为）
+
+:::
 
 
 ## 54. deposit
@@ -2907,6 +3005,8 @@
 
 - settle, to precipitate （[电]沉淀）
 
+:::
+
 
 ## 55. west
 
@@ -2972,6 +3072,8 @@
 
 - hesperian （[天]西方的；朝西的）
 
+:::
+
 
 ## 56. thus
 
@@ -3000,6 +3102,8 @@
 - so, sothat （因此）
 
 - frankincense, olibanum, balm of Gilead, balsam of Gilead, mastix （乳香）
+
+:::
 
 
 ## 57. cannot
@@ -3037,6 +3141,8 @@
 :::warning{title=🤔同义词}
 
 - couldn't, be incapable of （不能；无法）
+
+:::
 
 
 ## 58. statement
@@ -3097,6 +3203,8 @@
 
 - presentation, profession, relation, representation, bill （[法]声明；陈述，叙述；报表，清单）
 
+:::
+
 
 ## 59. settle
 
@@ -3141,6 +3249,8 @@
 - deposit, beach, work out, figure out （解决；定居；沉淀；下陷）
 
 - decide, schedule, budget, place in, work out （解决；安排；使…定居）
+
+:::
 
 
 ## 60. melt
@@ -3195,6 +3305,8 @@
 
 - fusion, burnoff （熔化；熔化物）
 
+:::
+
 
 ## 61. Pacific
 
@@ -3231,6 +3343,8 @@
 :::warning{title=🤔同义词}
 
 - peaceful, soft, calm, moderate, gentle （和平的；温和的；平静的）
+
+:::
 
 
 ## 62. available
@@ -3294,6 +3408,8 @@
 :::warning{title=🤔同义词}
 
 - valid, effective, virtual, telling, significant （[交]有效的，可得的；可利用的；空闲的）
+
+:::
 
 
 ## 63. direct
@@ -3364,6 +3480,8 @@
 
 - immediately, straight, just, fair （直接地；正好；按直系关系）
 
+:::
+
 
 ## 64. industry
 
@@ -3424,6 +3542,8 @@
 :::warning{title=🤔同义词}
 
 - domain, manufacturing （产业；[工业]工业；勤勉）
+
+:::
 
 
 ## 65. language
@@ -3486,6 +3606,8 @@
 
 - tongue, parole （[语]语言；语言文字；表达能力）
 
+:::
+
 
 ## 66. vary
 
@@ -3516,6 +3638,8 @@
 - pass, change from （变化；变异；违反）
 
 - influence, fashion, shift, innovate （改变；使多样化；变奏）
+
+:::
 
 
 ## 67. glass
@@ -3581,6 +3705,8 @@
 - mirror, vitrum （[玻璃]玻璃；玻璃制品；镜子）
 
 - image, to reflect （反映；给某物加玻璃）
+
+:::
 
 
 ## 68. range
@@ -3649,6 +3775,8 @@
 
 - feed, grass （漫游；放牧；使并列；归类于；来回走动）
 
+:::
+
 
 ## 69. subject
 
@@ -3713,6 +3841,8 @@
 - topic, theme, nation, titles, motive （[图情]主题；科目；[语]主语；国民）
 
 - followed, compliant （服从的；易患…的；受制于…的）
+
+:::
 
 
 ## 70. deep
@@ -3781,6 +3911,8 @@
 
 - late, home （深入地；深深地；迟）
 
+:::
+
 
 ## 71. green
 
@@ -3846,6 +3978,8 @@
 
 - youth, bice （绿色；青春）
 
+:::
+
 
 ## 72. charge
 
@@ -3909,6 +4043,8 @@
 
 - law, sue for （[电]充电；[法]控告；索价；向前冲；记在账上）
 
+:::
+
 
 ## 73. travel
 
@@ -3971,6 +4107,8 @@
 - go by, go past （经过；在…旅行）
 
 - journey, tour, trip （旅行；游历；漫游）
+
+:::
 
 
 ## 74. dry
@@ -4043,6 +4181,8 @@
 
 - dryout （干涸）
 
+:::
+
 
 ## 75. role
 
@@ -4102,6 +4242,8 @@
 
 - workers, mission, part, assignment, character （角色；任务）
 
+:::
+
 
 ## 76. establish
 
@@ -4130,6 +4272,8 @@
 :::warning{title=🤔同义词}
 
 - build, found, constitute, put, station （建立；创办；安置）
+
+:::
 
 
 ## 77. right
@@ -4202,6 +4346,8 @@
 
 - repair, remedy （纠正）
 
+:::
+
 
 ## 78. lower
 
@@ -4268,6 +4414,8 @@
 - bring down, play down （降低；减弱；跌落）
 
 - junior, inferior （下游的；下级的；下等的）
+
+:::
 
 
 ## 79. center
@@ -4338,6 +4486,8 @@
 
 - mid, ental （中央的，位在正中的）
 
+:::
+
 
 ## 80. roman
 
@@ -4398,6 +4548,8 @@
 - trend, affect, attend （趋向，倾向；照料，照顾）
 
 - attend, mind （照料，照管）
+
+:::
 
 
 ## 82. longer
@@ -4474,6 +4626,8 @@
 
 - judicial, reasonable, logical, rational, possible （[法]公正的，合理的；正直的，正义的；正确的；公平的；应得的）
 
+:::
+
 
 ## 84. lack
 
@@ -4539,6 +4693,8 @@
 
 - shortage, short of, deficiency, need, drought （缺乏；不足）
 
+:::
+
 
 ## 85. compare
 
@@ -4571,6 +4727,8 @@
 - match （比较；相比）
 
 - parabole （比较）
+
+:::
 
 
 ## 86. away
@@ -4617,6 +4775,8 @@
 
 - aside, beyond （离去，离开；在远处）
 
+:::
+
 
 ## 87. insect
 
@@ -4653,6 +4813,8 @@
 :::warning{title=🤔同义词}
 
 - ratfink, warb （[昆]昆虫；卑鄙的人）
+
+:::
 
 
 ## 88. experience
@@ -4721,6 +4883,8 @@
 
 - suffer, live, undergo （经验；经历；体验）
 
+:::
+
 
 ## 89. measure
 
@@ -4788,6 +4952,8 @@
 
 - take stock of, weigh up （测量；估量）
 
+:::
+
 
 ## 90. replace
 
@@ -4813,6 +4979,8 @@
 
 - restore, return, shift, tender （取代，代替；替换，更换；归还，偿还；把…放回原处）
 
+:::
+
 
 ## 91. attract
 
@@ -4837,6 +5005,8 @@
 - engage, absorb, produce, cause, operate （吸引；引起）
 
 - appeal, turn one on （吸引；有吸引力）
+
+:::
 
 
 ## 92. snow
@@ -4905,6 +5075,8 @@
 
 - bleach （使纷纷落下；使变白）
 
+:::
+
 
 ## 93. salt
 
@@ -4972,6 +5144,8 @@
 
 - saliferous, brackish （咸水的；含盐的，咸味的；盐腌的；猥亵的）
 
+:::
+
 
 ## 94. hunt
 
@@ -5008,6 +5182,8 @@
 - search, nose about （打猎；搜寻）
 
 - search, shoot （狩猎；搜寻）
+
+:::
 
 
 ## 95. clay
@@ -5067,6 +5243,8 @@
 :::warning{title=🤔同义词}
 
 - earth, flesh, dirt （[土壤]粘土；泥土；肉体；似黏土的东西）
+
+:::
 
 
 ## 96. turn
@@ -5134,6 +5312,8 @@
 - shift, roll, screw （转向；转变；转动）
 
 - variation, shift, change, diversification, mutation （转弯；变化）
+
+:::
 
 
 ## 97. feature
@@ -5204,6 +5384,8 @@
 
 - star （特写；以…为特色；由…主演）
 
+:::
+
 
 ## 98. marine
 
@@ -5270,6 +5452,8 @@
 - nautical, sea-born （船舶的；[海洋]海生的；海产的；航海的，海运的）
 
 - shipping industry, bluejacket （海运业；舰队；水兵；（海军）士兵或军官）
+
+:::
 
 
 ## 99. weather
@@ -5339,5 +5523,7 @@
 - bloom out, effloresce （风化；受侵蚀；经受风雨）
 
 - outdoor, unroofed （露天的；迎风的）
+
+:::
 
 

@@ -36,6 +36,8 @@
 
 - search, hunt for （搜寻粮草；搜寻）
 
+:::
+
 
 ## 2002. norm
 
@@ -58,6 +60,8 @@
 :::warning{title=🤔同义词}
 
 - criterion, quota （规范，基准；[经管]定额，分配之工作量）
+
+:::
 
 
 ## 2003. nitinol
@@ -86,6 +90,8 @@
 
 - timid, harehearted （胆小的；懦弱的）
 
+:::
+
 
 ## 2005. condense
 
@@ -108,6 +114,8 @@
 - concentrate, to freeze （浓缩；凝结）
 
 - dewater, inspissate （使浓缩；使压缩）
+
+:::
 
 
 ## 2006. cope
@@ -134,6 +142,8 @@
 
 - gown, robe （长袍）
 
+:::
+
 
 ## 2007. frost
 
@@ -152,6 +162,8 @@
 - freeze off （结霜于；冻坏）
 
 - Jack Frost, indifference （霜；[气象]冰冻，严寒；冷淡）
+
+:::
 
 
 ## 2008. client
@@ -204,6 +216,8 @@
 
 - customer, consumer, principal, guest, correspondent （[计][经]客户；顾客；[审计]委托人）
 
+:::
+
 
 ## 2009. potentially
 
@@ -218,6 +232,8 @@
 :::warning{title=🤔同义词}
 
 - possibly （可能地，潜在地）
+
+:::
 
 
 ## 2010. fertile
@@ -244,6 +260,8 @@
 
 - pregnancy, enrichment （肥沃，多产）
 
+:::
+
 
 ## 2011. attain
 
@@ -262,6 +280,8 @@
 - go, take, land, arrive at （达到；获得；到达）
 
 - achievement, effort, success, accomplishment, Vostro （成就）
+
+:::
 
 
 ## 2012. background
@@ -326,6 +346,8 @@
 
 - prehistory （[物]背景；隐蔽的位置）
 
+:::
+
 
 ## 2013. facilitate
 
@@ -340,6 +362,8 @@
 :::warning{title=🤔同义词}
 
 - promote, boost, further （促进；帮助；使容易）
+
+:::
 
 
 ## 2014. flexible
@@ -402,6 +426,8 @@
 
 - elastic, pliable （灵活的；[力]柔韧的；易弯曲的）
 
+:::
+
 
 ## 2015. precisely
 
@@ -419,6 +445,8 @@
 
 - accurately, exactly （精确地；恰恰）
 
+:::
+
 
 ## 2016. egalitarian
 
@@ -433,6 +461,8 @@
 :::warning{title=🤔同义词}
 
 - equalitarianism, leveler （[经]平等主义；平等主义者）
+
+:::
 
 
 ## 2017. plover
@@ -464,6 +494,8 @@
 - table, leave in the air （搁置，将某事放到一旁不予考虑）
 
 - pitch, slope, lean （倾斜）
+
+:::
 
 
 ## 2019. judge
@@ -501,6 +533,8 @@
 - justice, bands （法官；[法]裁判员）
 
 - determine, sentence to （[法]审判；判决）
+
+:::
 
 
 ## 2020. progressive
@@ -545,6 +579,8 @@
 
 - advanced, ascensive （[数]进步的；先进的）
 
+:::
+
 
 ## 2021. adjacent
 
@@ -576,6 +612,8 @@
 
 - nearby, neighbor （邻近的，毗连的）
 
+:::
+
 
 ## 2022. unfortunately
 
@@ -590,6 +628,8 @@
 :::warning{title=🤔同义词}
 
 - unhappily, unluckily （不幸地）
+
+:::
 
 
 ## 2023. participate
@@ -615,6 +655,8 @@
 - mix, take part in （参与，参加；分享）
 
 - share in, partake in （分享；分担）
+
+:::
 
 
 ## 2024. downward
@@ -645,6 +687,8 @@
 
 - alow, netherward （[数]向下）
 
+:::
+
 
 ## 2025. warbler
 
@@ -661,6 +705,8 @@
 :::warning{title=🤔同义词}
 
 - song bird （啭鸟；鸣鸟；用颤音歌唱的人）
+
+:::
 
 
 ## 2026. specialization
@@ -755,6 +801,8 @@
 
 - cloud, discombobulate （使混乱；使困惑）
 
+:::
+
 
 ## 2029. twig
 
@@ -780,6 +828,8 @@
 
 - shoots, ramulus （小枝；嫩枝；末梢）
 
+:::
+
 
 ## 2030. workweek
 
@@ -799,6 +849,8 @@
 
 - wide, vastly （广阔地；广大地）
 
+:::
+
 
 ## 2032. clement
 
@@ -813,6 +865,8 @@
 :::warning{title=🤔同义词}
 
 - pacific, gentle, moderate, soft, mild （温和的；仁慈的）
+
+:::
 
 
 ## 2033. nutritious
@@ -832,6 +886,8 @@
 :::warning{title=🤔同义词}
 
 - alible, nourishing （有营养的，滋养的）
+
+:::
 
 
 ## 2034. throw
@@ -896,6 +952,8 @@
 
 - putting, cast, risk, venture, adventure （投掷；冒险）
 
+:::
+
 
 ## 2035. herb
 
@@ -924,6 +982,8 @@
 :::warning{title=🤔同义词}
 
 - bouquet garni, vanilla （香草，[植]药草）
+
+:::
 
 
 ## 2036. affair
@@ -959,6 +1019,8 @@
 :::warning{title=🤔同义词}
 
 - thing, transaction, relations, business （事情；事务；私事；（尤指关系不长久的）风流韵事）
+
+:::
 
 
 ## 2037. mold
@@ -1017,6 +1079,8 @@
 
 - fungus, mycete （霉菌；模子）
 
+:::
+
 
 ## 2038. mammoth
 
@@ -1043,6 +1107,8 @@
 - monolith, leviathan （长毛象；[古生]猛犸象；庞然大物）
 
 - huge, enormous, tremendous, massive, macro （巨大的，庞大的；猛犸似的）
+
+:::
 
 
 ## 2039. tellurium
@@ -1117,6 +1183,8 @@
 
 - equipment, furniture, establishment, plant, fixture （设施；设备；容易；灵巧）
 
+:::
+
 
 ## 2042. percentage
 
@@ -1162,6 +1230,8 @@
 
 - centage （[数]百分比；百分率，百分数）
 
+:::
+
 
 ## 2043. butter
 
@@ -1205,6 +1275,8 @@
 
 - cream, beurre （[食品]黄油；奶油；奉承话）
 
+:::
+
 
 ## 2044. ignore
 
@@ -1228,6 +1300,8 @@
 
 - neglect, pass sb by （驳回诉讼；忽视；不理睬）
 
+:::
+
 
 ## 2045. evaluate
 
@@ -1248,6 +1322,8 @@
 - value, score, rate, prize （评价；估价；求…的值）
 
 - to assess, to appraise （评价；估价）
+
+:::
 
 
 ## 2046. occupation
@@ -1273,6 +1349,8 @@
 :::warning{title=🤔同义词}
 
 - profession, employment, career, calling, pursuit, entertainment （[劳经]职业；占有；消遣；占有期）
+
+:::
 
 
 ## 2047. chip
@@ -1341,6 +1419,8 @@
 
 - debris, patch （[电子]芯片；筹码；碎片）
 
+:::
+
 
 ## 2048. fauna
 
@@ -1361,6 +1441,8 @@
 :::warning{title=🤔同义词}
 
 - zoology （动物群；[动]动物区系）
+
+:::
 
 
 ## 2049. cook
@@ -1398,6 +1480,8 @@
 :::warning{title=🤔同义词}
 
 - chef, kitchener （[劳经]厨师，厨子）
+
+:::
 
 
 ## 2050. discharge
@@ -1462,6 +1546,8 @@
 
 - firing, dismissal （[环境]排放；卸货；[劳经]解雇）
 
+:::
+
 
 ## 2051. indicator
 
@@ -1521,6 +1607,8 @@
 
 - pointer, viewer （[微][试剂][计][电][电子][机]指示器；指示剂；指示符；压力计）
 
+:::
+
 
 ## 2052. steamboat
 
@@ -1537,6 +1625,8 @@
 :::warning{title=🤔同义词}
 
 - boat, streamboat （[船]汽船，轮船）
+
+:::
 
 
 ## 2053. heighten
@@ -1555,6 +1645,8 @@
 
 - strengthen, breeze up （升高；变强）
 
+:::
+
 
 ## 2054. archaeopteryx
 
@@ -1563,6 +1655,8 @@
 :::warning{title=🤔同义词}
 
 - eohippus （始祖鸟）
+
+:::
 
 
 ## 2055. disclaimer
@@ -1580,6 +1674,8 @@
 :::warning{title=🤔同义词}
 
 - rejection, resignation （不承诺，免责声明；放弃，拒绝）
+
+:::
 
 
 ## 2056. desirable
@@ -1601,6 +1697,8 @@
 :::warning{title=🤔同义词}
 
 - satisfying, fulfilling （令人满意的；值得要的）
+
+:::
 
 
 ## 2057. carbonate
@@ -1699,6 +1797,8 @@
 
 - evil, destructive （有害的；能造成损害的）
 
+:::
+
 
 ## 2060. scarce
 
@@ -1724,6 +1824,8 @@
 
 - merely, simply, just, only, but （仅仅；几乎不；几乎没有）
 
+:::
+
 
 ## 2061. profound
 
@@ -1738,6 +1840,8 @@
 :::warning{title=🤔同义词}
 
 - encyclopedic, cyclopaedic （深厚的；意义深远的；渊博的）
+
+:::
 
 
 ## 2062. insulation
@@ -1798,6 +1902,8 @@
 
 - isolation, segregation （[电]绝缘；隔离，孤立）
 
+:::
+
 
 ## 2063. modest
 
@@ -1812,6 +1918,8 @@
 :::warning{title=🤔同义词}
 
 - odest, inobtrusive （谦虚的，谦逊的；适度的；端庄的；羞怯的）
+
+:::
 
 
 ## 2064. presentation
@@ -1850,6 +1958,8 @@
 
 - description, statement, representation, characterization （描述，陈述；介绍；赠送）
 
+:::
+
 
 ## 2065. obviously
 
@@ -1872,6 +1982,8 @@
 :::warning{title=🤔同义词}
 
 - clearly, broadly, markedly, distinctly, visibly （明显地）
+
+:::
 
 
 ## 2066. Missouri
@@ -1956,6 +2068,8 @@
 
 - ministry, division, bureau, sector （部；[管理]部门；系；科；局）
 
+:::
+
 
 ## 2068. jet
 
@@ -2021,6 +2135,8 @@
 
 - shoot out, send up （射出；[航]乘喷气式飞机）
 
+:::
+
 
 ## 2069. senate
 
@@ -2047,6 +2163,8 @@
 :::warning{title=🤔同义词}
 
 - Red Chamber, curia （参议院，上院；（古罗马的）元老院）
+
+:::
 
 
 ## 2070. mobile
@@ -2107,6 +2225,8 @@
 
 - variable, liquid, motor, unstable （[生物]机动的；易变的，；非固定的）
 
+:::
+
 
 ## 2071. salty
 
@@ -2129,6 +2249,8 @@
 :::warning{title=🤔同义词}
 
 - saliferous, brackish （[食品]咸的；含盐的）
+
+:::
 
 
 ## 2072. pearl
@@ -2188,6 +2310,8 @@
 - perlitic （镶珍珠的；珍珠状的）
 
 - impearl （使成珠状；用珍珠装饰；使呈珍珠色）
+
+:::
 
 
 ## 2073. rice
@@ -2254,6 +2378,8 @@
 
 - nasi （[作物]稻；米饭）
 
+:::
+
 
 ## 2074. westward
 
@@ -2264,6 +2390,8 @@
 - hesperian （向西的；西方的）
 
 - occident （西部；西方）
+
+:::
 
 
 ## 2075. slope
@@ -2332,6 +2460,8 @@
 
 - carry, tip up （倾斜；使倾斜；扛）
 
+:::
+
 
 ## 2076. being
 
@@ -2385,6 +2515,8 @@
 
 - visible, existent （存在的；现有的）
 
+:::
+
 
 ## 2077. forecast
 
@@ -2419,6 +2551,8 @@
 - predict, indicate, calculate, shadow （[气象][通信]预报，预测；预示）
 
 - prediction, divination （预测，[气象][通信]预报；预想）
+
+:::
 
 
 ## 2078. excellent
@@ -2457,6 +2591,8 @@
 
 - remarkable, wonderful, famous, prominent, brilliant （卓越的；极好的；杰出的）
 
+:::
+
 
 ## 2079. conceal
 
@@ -2475,6 +2611,8 @@
 :::warning{title=🤔同义词}
 
 - lock, pocket, to hide （隐藏；隐瞒）
+
+:::
 
 
 ## 2080. seep
@@ -2499,6 +2637,8 @@
 
 - springlet （小泉；水陆两用的吉普车）
 
+:::
+
 
 ## 2081. naturalist
 
@@ -2519,6 +2659,8 @@
 - taxidermist （自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人）
 
 - spontaneous, unrestrained （自然的（等于naturalistic）；自然主义的；博物学的）
+
+:::
 
 
 ## 2082. shield
@@ -2570,6 +2712,8 @@
 - avoid, shadow, guard, curtain （遮蔽；包庇；避开；保卫）
 
 - protect sb./sth. from sth. （防御；起保护作用）
+
+:::
 
 
 ## 2083. stomach
@@ -2624,6 +2768,8 @@
 
 - suffer from, bear with （忍受）
 
+:::
+
 
 ## 2084. sloth
 
@@ -2638,6 +2784,8 @@
 :::warning{title=🤔同义词}
 
 - laziness, idleness （怠惰，懒惰；[脊椎]树懒）
+
+:::
 
 
 ## 2085. target
@@ -2702,6 +2850,8 @@
 
 - goal, object, end, cause, aim （目标；靶子）
 
+:::
+
 
 ## 2086. battle
 
@@ -2765,6 +2915,8 @@
 
 - campaign, fight, war （斗争；作战）
 
+:::
+
 
 ## 2087. interfere
 
@@ -2789,6 +2941,8 @@
 - influence in, meddle in （干涉；妨碍；打扰）
 
 - impact, collide with （冲突；介入）
+
+:::
 
 
 ## 2088. perceptual
@@ -2815,6 +2969,8 @@
 
 - sensory, apperceptive （知觉的；感知的；有知觉的）
 
+:::
+
 
 ## 2089. plentiful
 
@@ -2829,6 +2985,8 @@
 :::warning{title=🤔同义词}
 
 - abundant, numerous, multiple, many, full （丰富的；许多的；丰饶的）
+
+:::
 
 
 ## 2090. childhood
@@ -2885,6 +3043,8 @@
 
 - peregrin （[鸟]猎鹰；隼）
 
+:::
+
 
 ## 2093. orchid
 
@@ -2905,6 +3065,8 @@
 - cymbidium, Arethusa （[园艺]兰花；[植]兰科植物；淡紫色）
 
 - violescent, lavender （淡紫色的）
+
+:::
 
 
 ## 2094. cement
@@ -2967,6 +3129,8 @@
 
 - jointing compound （[建]水泥；[胶粘]接合剂）
 
+:::
+
 
 ## 2095. shade
 
@@ -3016,6 +3180,8 @@
 
 - graduate （（颜色、色彩等）渐变）
 
+:::
+
 
 ## 2096. semiarid
 
@@ -3060,6 +3226,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruction, fresh, revival, renewal （复兴；新生；复活）
+
+:::
 
 
 ## 2098. maintenance
@@ -3126,6 +3294,8 @@
 
 - conservation, keep （维护，维修；保持；[经]生活费用）
 
+:::
+
 
 ## 2099. deliver
 
@@ -3160,5 +3330,7 @@
 - afford, allow, extend, deal, free （交付；发表；递送；释放；给予（打击）；给…接生）
 
 - come true, come to pass （实现；传送；履行；投递）
+
+:::
 
 

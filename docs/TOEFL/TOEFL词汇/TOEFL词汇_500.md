@@ -42,6 +42,8 @@
 
 - undertake, offer, sample, purpose, essay （企图，试图；尝试）
 
+:::
+
 
 ## 502. finally
 
@@ -58,6 +60,8 @@
 :::warning{title=🤔同义词}
 
 - eventually, ultimately, lastly （最后；终于；决定性地）
+
+:::
 
 
 ## 503. serious
@@ -101,6 +105,8 @@
 :::warning{title=🤔同义词}
 
 - acute, bad, grave, solemn （严肃的，严重的；认真的；庄重的；危急的）
+
+:::
 
 
 ## 504. clock
@@ -165,6 +171,8 @@
 
 - register, to record （记录；记时）
 
+:::
+
 
 ## 505. adapt
 
@@ -189,6 +197,8 @@
 - condition, suit, season （使适应；改编）
 
 - adjust, accomodate to, accommodate to （适应）
+
+:::
 
 
 ## 506. observation
@@ -259,6 +269,8 @@
 
 - view, monitoring, surveillance, watch （观察；监视；观察报告）
 
+:::
+
 
 ## 507. fine
 
@@ -326,6 +338,8 @@
 
 - well, Okay （很好地；精巧地）
 
+:::
+
 
 ## 508. mar
 
@@ -346,6 +360,8 @@
 - cloud, to injure （损毁；损伤；糟蹋；玷污）
 
 - tainture, jaup （污点；瑕疵）
+
+:::
 
 
 ## 509. distinguish
@@ -373,6 +389,8 @@
 - tell apart, differentiate （区分；辨别；使杰出，使表现突出）
 
 - differentiate, tell from （区别，区分；辨别）
+
+:::
 
 
 ## 510. decrease
@@ -402,6 +420,8 @@
 - to cut down, fall off （减少，减小）
 
 - shorten, weaken （减少，减小）
+
+:::
 
 
 ## 511. Dutch
@@ -524,6 +544,8 @@
 
 - expensive, dear, wealthy, costly （富有的；肥沃的；昂贵的）
 
+:::
+
 
 ## 514. negative
 
@@ -591,6 +613,8 @@
 
 - deny, refuse （[语]否定；拒绝）
 
+:::
+
 
 ## 515. vessel
 
@@ -650,6 +674,8 @@
 
 - container, ship, pocket （[船]船，舰；[组织]脉管，血管；容器，[轻]器皿）
 
+:::
+
 
 ## 516. galaxy
 
@@ -680,6 +706,8 @@
 :::warning{title=🤔同义词}
 
 - the Milky Way （银河；[天]星系；银河系；一群显赫的人）
+
+:::
 
 
 ## 517. focus
@@ -747,6 +775,8 @@
 - centralize （使集中；[光][摄]使聚焦）
 
 - concentrate, band （集中；[光][摄]聚焦；调节焦距）
+
+:::
 
 
 ## 518. instead
@@ -867,6 +897,8 @@
 
 - itinerant （（美）巡回的）
 
+:::
+
 
 ## 522. bank
 
@@ -932,6 +964,8 @@
 
 - pile, heap up （堆积；倾斜转弯）
 
+:::
+
 
 ## 523. drift
 
@@ -993,6 +1027,8 @@
 
 - extravagate, knock about （漂流，[电子]漂移；漂泊）
 
+:::
+
 
 ## 524. appearance
 
@@ -1053,6 +1089,8 @@
 :::warning{title=🤔同义词}
 
 - occurrence, aspect, emergence, external, outside （外貌，外观；出现，露面）
+
+:::
 
 
 ## 525. wire
@@ -1118,6 +1156,8 @@
 - electric cord, electrical wiring （[电]电线；金属丝；电报）
 
 - telegraph （打电报）
+
+:::
 
 
 ## 526. Australia
@@ -1210,6 +1250,8 @@
 
 - importance, value, expense, rate, figure （[物价]价格；价值；[贸易]代价）
 
+:::
+
 
 ## 528. outside
 
@@ -1248,6 +1290,8 @@
 - without, ectad （在外面，向外面；在室外）
 
 - beyond the pale （在…范围之外）
+
+:::
 
 
 ## 529. bottom
@@ -1308,6 +1352,8 @@
 
 - basis, terminal, base, extreme （底部；末端；臀部；尽头）
 
+:::
+
 
 ## 530. Greek
 
@@ -1340,6 +1386,8 @@
 - Hellene, Achaean （希腊人；希腊语）
 
 - hellenic, Grecian （希腊的；希腊人的，希腊语的）
+
+:::
 
 
 ## 531. decline
@@ -1377,6 +1425,8 @@
 - go down, slump （下降；衰落；谢绝）
 
 - excuse oneself from （谢绝；婉拒）
+
+:::
 
 
 ## 532. business
@@ -1443,6 +1493,8 @@
 
 - commerce, thing, trade, affair, truck （商业；生意；[贸易]交易；事情）
 
+:::
+
 
 ## 533. display
 
@@ -1506,6 +1558,8 @@
 
 - reveal, make clear, conduct oneself, prove, represent （[电子]显示；表现；陈列）
 
+:::
+
 
 ## 534. immediate
 
@@ -1565,6 +1619,8 @@
 
 - instant, direct, right （立即的；直接的；最接近的）
 
+:::
+
 
 ## 535. crater
 
@@ -1589,6 +1645,8 @@
 - volcanic vent, dead hole （[地质]火山口；弹坑）
 
 - destroy, damage, recall （在…上形成坑；取消；毁坏）
+
+:::
 
 
 ## 536. strike
@@ -1659,6 +1717,8 @@
 
 - stroke, shock, hit, hiding （[劳经]罢工；打击；殴打）
 
+:::
+
 
 ## 537. feed
 
@@ -1722,6 +1782,8 @@
 
 - meal, breeding, husbandry （[畜牧]饲料；饲养；（动物或婴儿的）一餐）
 
+:::
+
 
 ## 538. aggression
 
@@ -1742,6 +1804,8 @@
 :::warning{title=🤔同义词}
 
 - violence, invasion, infringement （侵略；进攻；[心理]侵犯；侵害）
+
+:::
 
 
 ## 539. master
@@ -1810,6 +1874,8 @@
 
 - experienced, primary, major, skilled, central （主人的；主要的；熟练的）
 
+:::
+
 
 ## 540. emerge
 
@@ -1832,6 +1898,8 @@
 :::warning{title=🤔同义词}
 
 - ray, cast off （浮现；摆脱；暴露）
+
+:::
 
 
 ## 541. nation
@@ -1871,6 +1939,8 @@
 :::warning{title=🤔同义词}
 
 - country, state, folk, people, soil （国家；民族；国民）
+
+:::
 
 
 ## 542. import
@@ -1928,6 +1998,8 @@
 - to input, type in （输入，[贸易]进口；含…的意思）
 
 - to input, type in （输入，[贸易]进口）
+
+:::
 
 
 ## 543. muscle
@@ -1994,6 +2066,8 @@
 
 - enhance, cement, build up （加强；使劲搬动；使劲挤出）
 
+:::
+
 
 ## 544. organize
 
@@ -2010,6 +2084,8 @@
 :::warning{title=🤔同义词}
 
 - structure, form （组织；使有系统化；给予生机；组织成立工会等）
+
+:::
 
 
 ## 545. personal
@@ -2088,6 +2164,8 @@
 
 - individual, subjective, physical （个人的；身体的；亲自的）
 
+:::
+
 
 ## 546. careful
 
@@ -2116,6 +2194,8 @@
 :::warning{title=🤔同义词}
 
 - aborative, elaborative （仔细的，小心的）
+
+:::
 
 
 ## 547. danger
@@ -2159,6 +2239,8 @@
 :::warning{title=🤔同义词}
 
 - threat, risk, hazard （[安全]危险；危险物，威胁）
+
+:::
 
 
 ## 548. equal
@@ -2227,6 +2309,8 @@
 
 - comparative, opponent, rival, match, adversary （对手；匹敌；同辈；[数]相等的事物）
 
+:::
+
 
 ## 549. desire
 
@@ -2260,6 +2344,8 @@
 
 - rare, aspire, long for, yearn for, die for （渴望）
 
+:::
+
 
 ## 550. publish
 
@@ -2278,6 +2364,8 @@
 - deliver, post （出版；发表；公布）
 
 - print, bring out （出版；发行；刊印）
+
+:::
 
 
 ## 551. bear
@@ -2354,6 +2442,8 @@
 
 - Bruin （[脊椎]熊）
 
+:::
+
 
 ## 552. total
 
@@ -2425,6 +2515,8 @@
 
 - sum, amount, gross （[数]总数，合计）
 
+:::
+
 
 ## 553. character
 
@@ -2485,6 +2577,8 @@
 - quality, role, workers, identity, tang （性格，品质；特性；角色；[计]字符）
 
 - print... （印，刻；使具有特征）
+
+:::
 
 
 ## 554. season
@@ -2547,6 +2641,8 @@
 
 - adapt, condition, suit （使适应；给…调味）
 
+:::
+
 
 ## 555. turtle
 
@@ -2577,6 +2673,8 @@
 :::warning{title=🤔同义词}
 
 - tortoise, chelonian （[脊椎]龟，甲鱼；海龟）
+
+:::
 
 
 ## 556. useful
@@ -2625,6 +2723,8 @@
 
 - helpful, beneficial, advantageous, conducive, assistant （有用的，有益的；有帮助的）
 
+:::
+
 
 ## 557. generate
 
@@ -2649,6 +2749,8 @@
 :::warning{title=🤔同义词}
 
 - go on, call into being （使形成；发生；[生物]生殖）
+
+:::
 
 
 ## 558. breathe
@@ -2690,6 +2792,8 @@
 - half-whisper, susurrate （呼吸；低语；松口气；（风）轻拂）
 
 - beam, respire （呼吸；使喘息；流露；低声说）
+
+:::
 
 
 ## 559. park
@@ -2757,6 +2861,8 @@
 - public garden, stopping place （[建]公园；[交]停车场）
 
 - check, place in （停放；放置；寄存）
+
+:::
 
 
 ## 560. pheromone
@@ -2843,6 +2949,8 @@
 
 - reduction, failure, decrease, losing, reverse （减少；亏损；失败；遗失）
 
+:::
+
 
 ## 563. pay
 
@@ -2863,6 +2971,8 @@
 - shell out, repay （[会计]付款；偿还）
 
 - payment, salary, wage （[劳经]工资，薪水；[会计]付款）
+
+:::
 
 
 ## 564. diversity
@@ -2897,6 +3007,8 @@
 
 - difference, multiplicity （多样性；差异）
 
+:::
+
 
 ## 565. simply
 
@@ -2925,6 +3037,8 @@
 :::warning{title=🤔同义词}
 
 - merely, fairly, just, only, but （简单地；仅仅；简直；朴素地；坦白地）
+
+:::
 
 
 ## 566. real
@@ -2993,6 +3107,8 @@
 
 - actuality, praxis （现实；[数]实数）
 
+:::
+
 
 ## 567. stability
 
@@ -3051,6 +3167,8 @@
 :::warning{title=🤔同义词}
 
 - firmness, adament （稳定性；坚定，恒心）
+
+:::
 
 
 ## 568. solution
@@ -3111,6 +3229,8 @@
 
 - liquor, dissolution （解决方案；溶液；[化学]溶解；解答）
 
+:::
+
 
 ## 569. era
 
@@ -3152,6 +3272,8 @@
 
 - years, age, time, date （时代；年代；[天]纪元）
 
+:::
+
 
 ## 570. climax
 
@@ -3174,6 +3296,8 @@
 :::warning{title=🤔同义词}
 
 - height, summit, sky, peak, pole （高潮；顶点；层进法；极点）
+
+:::
 
 
 ## 571. standard
@@ -3240,6 +3364,8 @@
 
 - normal, par （[标准]标准的；合规格的；公认为优秀的）
 
+:::
+
 
 ## 572. task
 
@@ -3300,6 +3426,8 @@
 :::warning{title=🤔同义词}
 
 - job, work, role, pursuit, labor （工作，作业；[计]任务）
+
+:::
 
 
 ## 573. speak
@@ -3362,6 +3490,8 @@
 
 - take the floor, to address （讲话；发言；讲演）
 
+:::
+
 
 ## 574. shift
 
@@ -3418,6 +3548,8 @@
 - to move, forward motion （移动；转变；[遗]转换）
 
 - influence, fashion, vary （转移；改变；替换）
+
+:::
 
 
 ## 575. additional
@@ -3478,6 +3610,8 @@
 
 - attached, added, plus, more, excess （附加的，额外的）
 
+:::
+
 
 ## 576. considerable
 
@@ -3496,6 +3630,8 @@
 :::warning{title=🤔同义词}
 
 - crucial, important, material, big, major （相当大的；重要的，值得考虑的）
+
+:::
 
 
 ## 577. British
@@ -3614,6 +3750,8 @@
 
 - exploit （开采，采掘；在…布雷）
 
+:::
+
 
 ## 579. geologist
 
@@ -3632,6 +3770,8 @@
 :::warning{title=🤔同义词}
 
 - rocksy （[地质]地质学家，地质学者）
+
+:::
 
 
 ## 580. isolate
@@ -3661,6 +3801,8 @@
 - cordon off, to stand alone （[生物]隔离；孤立）
 
 - shielded, insular （[生物]隔离的；孤立的）
+
+:::
 
 
 ## 581. attention
@@ -3739,6 +3881,8 @@
 
 - consideration, thought （注意力；关心；立正！（口令））
 
+:::
+
 
 ## 582. again
 
@@ -3805,6 +3949,8 @@
 :::warning{title=🤔同义词}
 
 - moreover, besides, additionally, then, both （又，此外；再一次）
+
+:::
 
 
 ## 583. settlement
@@ -3873,6 +4019,8 @@
 
 - transactions, disposal, resolution, treatment, handling （解决，处理；[会计]结算；沉降；殖民）
 
+:::
+
 
 ## 584. wealth
 
@@ -3922,6 +4070,8 @@
 
 - treasure, lots of, ocean, money, fortune, sea （[经]财富；大量；富有）
 
+:::
+
 
 ## 585. prove
 
@@ -3951,6 +4101,8 @@
 
 - demonstrate, reveal, make clear, argue （证明；检验；显示）
 
+:::
+
 
 ## 586. achieve
 
@@ -3979,6 +4131,8 @@
 - accomplish, carry out, perform, complete, fulfil （达到；完成）
 
 - gain one's ends, Make it. （达到目的；如愿以偿）
+
+:::
 
 
 ## 587. eighteenth
@@ -4050,6 +4204,8 @@
 :::warning{title=🤔同义词}
 
 - occasion, chance, opening, room （时机，机会）
+
+:::
 
 
 ## 589. continuous
@@ -4174,6 +4330,8 @@
 
 - bloom （使开花；用花装饰）
 
+:::
+
 
 ## 591. stratum
 
@@ -4196,6 +4354,8 @@
 :::warning{title=🤔同义词}
 
 - thickness, layer, tier （（组织的）[生物]层；[地质]地层；社会阶层）
+
+:::
 
 
 ## 592. kilometer
@@ -4221,6 +4381,8 @@
 :::warning{title=🤔同义词}
 
 - klick, klik （[计量]公里；千米（等于kilometre））
+
+:::
 
 
 ## 593. paper
@@ -4282,6 +4444,8 @@
 :::warning{title=🤔同义词}
 
 - thesis, dissertation, newspaper, document, file （[纸]纸；论文；文件；报纸）
+
+:::
 
 
 ## 594. red
@@ -4348,6 +4512,8 @@
 
 - erythroid, rojo （[光]红色的；红肿的，充血的）
 
+:::
+
 
 ## 595. arrange
 
@@ -4375,6 +4541,8 @@
 
 - place in, treat, form （安排；排列；协商）
 
+:::
+
 
 ## 596. promote
 
@@ -4401,6 +4569,8 @@
 :::warning{title=🤔同义词}
 
 - facilitate, boost, prefer, upgrade, further （促进；提升；推销；发扬）
+
+:::
 
 
 ## 597. prefer
@@ -4437,6 +4607,8 @@
 
 - affect, take a fancy to （喜欢；愿意）
 
+:::
+
 
 ## 598. inhabitant
 
@@ -4451,6 +4623,8 @@
 :::warning{title=🤔同义词}
 
 - liver, resident, dweller, habitant （居民；居住者）
+
+:::
 
 
 ## 599. Mediterranean

@@ -60,6 +60,8 @@
 
 - massive, extensive, substantial, macro, much （大量的）
 
+:::
+
 
 ## 1101. float
 
@@ -112,6 +114,8 @@
 - fan, swing （浮动；飘动，散播；摇摆；付诸实施）
 
 - drift, caroche （彩车，花车；漂流物；浮舟；浮萍）
+
+:::
 
 
 ## 1102. zone
@@ -178,6 +182,8 @@
 
 - environ, circle round （环绕；使分成地带）
 
+:::
+
 
 ## 1103. pastoralism
 
@@ -214,6 +220,8 @@
 - responsible, tried, honest, safe, sure （可靠的；可信赖的）
 
 - true-blue （可靠的人）
+
+:::
 
 
 ## 1105. frequency
@@ -275,6 +283,8 @@
 :::warning{title=🤔同义词}
 
 - periodicity （[物]频率；频繁）
+
+:::
 
 
 ## 1106. geologic
@@ -349,6 +359,8 @@
 
 - degree, boundary, region, length, spectrum, territory, area （程度；范围；[计量]长度）
 
+:::
+
 
 ## 1108. pleistocene
 
@@ -376,6 +388,8 @@
 
 - raise, cement, boost, muscle, gain （提高；加强；增加）
 
+:::
+
 
 ## 1110. accompany
 
@@ -401,6 +415,8 @@
 
 - attend, keep company （陪伴，伴随；伴奏）
 
+:::
+
 
 ## 1111. interpret
 
@@ -423,6 +439,8 @@
 - say, bring sb to do sth （说明；口译）
 
 - account, translate （解释；翻译）
+
+:::
 
 
 ## 1112. snowfall
@@ -501,6 +519,8 @@
 
 - tear into, charge at （猛攻；怒骂）
 
+:::
+
 
 ## 1114. musician
 
@@ -515,6 +535,8 @@
 :::warning{title=🤔同义词}
 
 - eisteddfod （音乐家）
+
+:::
 
 
 ## 1115. critical
@@ -575,6 +597,8 @@
 
 - dangerous, crucial, final, decisive, marginal （鉴定的；[核]临界的；批评的，爱挑剔的；危险的；决定性的；评论的）
 
+:::
+
 
 ## 1116. Netherlands
 
@@ -630,6 +654,8 @@
 
 - opt for, to make a choice （选择，挑选）
 
+:::
+
 
 ## 1118. polar
 
@@ -673,6 +699,8 @@
 
 - dipolar, diametrical （[数]极地的；两极的；正好相反的）
 
+:::
+
 
 ## 1119. pollutant
 
@@ -704,6 +732,8 @@
 
 - contamination, fomite （[环境]污染物）
 
+:::
+
 
 ## 1120. unable
 
@@ -725,6 +755,8 @@
 
 - incapable, powerless （不会的，不能的；[劳经]无能力的；不能胜任的）
 
+:::
+
 
 ## 1121. elite
 
@@ -745,6 +777,8 @@
 :::warning{title=🤔同义词}
 
 - essence, flower, regular, prime, distillation （精英；精华；中坚分子）
+
+:::
 
 
 ## 1122. branch
@@ -807,6 +841,8 @@
 
 - sticks, feeder （[林]树枝，[植]分枝；分部；[地理][水文]支流）
 
+:::
+
 
 ## 1123. seawater
 
@@ -825,6 +861,8 @@
 :::warning{title=🤔同义词}
 
 - marine water, saline water （海水）
+
+:::
 
 
 ## 1124. Chicago
@@ -925,6 +963,8 @@
 
 - go, foot, step, track （走，步行；散步）
 
+:::
+
 
 ## 1126. Health
 
@@ -984,6 +1024,8 @@
 
 - fitness, hygiene, wellness （[医]健康；卫生；保健；兴旺）
 
+:::
+
 
 ## 1127. decorate
 
@@ -1011,6 +1053,8 @@
 
 - set sth out, trick out （装饰；布置）
 
+:::
+
 
 ## 1128. portion
 
@@ -1037,6 +1081,8 @@
 - part, proportion, fate, percent, lot （部分；一份；命运）
 
 - part, to allocate （分配；给…嫁妆）
+
+:::
 
 
 ## 1129. combination
@@ -1094,6 +1140,8 @@
 :::warning{title=🤔同义词}
 
 - combined with, alliance, unity, union, association （结合；[数]组合；联合；[化学]化合）
+
+:::
 
 
 ## 1130. active
@@ -1158,6 +1206,8 @@
 
 - rustler （主动语态；积极分子）
 
+:::
+
 
 ## 1131. division
 
@@ -1216,6 +1266,8 @@
 :::warning{title=🤔同义词}
 
 - ministry, department, sector, segmentation, dom （师（军队）；[管理]部门；分割；[数]除法）
+
+:::
 
 
 ## 1132. pure
@@ -1278,6 +1330,8 @@
 
 - stainless, whole, white, clean, net （纯的；纯粹的；纯洁的；清白的；纯理论的）
 
+:::
+
 
 ## 1133. engage
 
@@ -1304,6 +1358,8 @@
 - attract, absorb, draw, appropriate, budget （吸引，占用；使参加；雇佣；使订婚；预定）
 
 - comply, wage （从事；答应，保证；交战；啮合）
+
+:::
 
 
 ## 1134. stay
@@ -1370,6 +1426,8 @@
 
 - leg, visit, stop, backbone, stand （逗留；停止；[建]支柱）
 
+:::
+
 
 ## 1135. regulate
 
@@ -1384,6 +1442,8 @@
 :::warning{title=🤔同义词}
 
 - possess, define, contain, manage, state （调节，规定；控制；校准；有系统的管理）
+
+:::
 
 
 ## 1136. send
@@ -1448,6 +1508,8 @@
 
 - ascending motion, upward movement （上升运动）
 
+:::
+
 
 ## 1137. copper
 
@@ -1508,6 +1570,8 @@
 - police, pig （[化学]铜；铜币；警察）
 
 - cupreous （铜的）
+
+:::
 
 
 ## 1138. engineer
@@ -1574,6 +1638,8 @@
 
 - project, design （设计；建造）
 
+:::
+
 
 ## 1139. critic
 
@@ -1594,6 +1660,8 @@
 :::warning{title=🤔同义词}
 
 - commenter, reviewer （批评家，评论家；爱挑剔的人）
+
+:::
 
 
 ## 1140. investment
@@ -1654,6 +1722,8 @@
 
 - input, introjection （[经]投资；投入；封锁）
 
+:::
+
 
 ## 1141. Boston
 
@@ -1686,6 +1756,8 @@
 :::warning{title=🤔同义词}
 
 - trimmer （机会主义者；投机取巧者）
+
+:::
 
 
 ## 1143. dependent
@@ -1723,6 +1795,8 @@
 :::warning{title=🤔同义词}
 
 - under, servient （依靠的；从属的；取决于…的）
+
+:::
 
 
 ## 1144. week
@@ -1776,6 +1850,8 @@
 :::warning{title=🤔同义词}
 
 - Zhou, Chou （周，[天]星期）
+
+:::
 
 
 ## 1145. balance
@@ -1842,6 +1918,8 @@
 
 - suit, be commensurate to （保持平衡；相称；抵销）
 
+:::
+
 
 ## 1146. pollution
 
@@ -1900,6 +1978,8 @@
 :::warning{title=🤔同义词}
 
 - contamination, impureness （[环境]污染）
+
+:::
 
 
 ## 1147. mother
@@ -1972,6 +2052,8 @@
 
 - maternal, natal （母亲的；出生地的）
 
+:::
+
 
 ## 1148. drought
 
@@ -1996,6 +2078,8 @@
 :::warning{title=🤔同义词}
 
 - shortage, deficiency, need, short of, want （[气候]干旱；缺乏）
+
+:::
 
 
 ## 1149. survey
@@ -2058,6 +2142,8 @@
 
 - examine, check into （调查；[测][油气]勘测；俯瞰）
 
+:::
+
 
 ## 1150. repeat
 
@@ -2101,6 +2187,8 @@
 
 - do over, begin again （重做；重复发生）
 
+:::
+
 
 ## 1151. reflective
 
@@ -2127,6 +2215,8 @@
 :::warning{title=🤔同义词}
 
 - catoptric, repercussive （反射的；反映的；沉思的）
+
+:::
 
 
 ## 1152. status
@@ -2189,6 +2279,8 @@
 
 - capacity, ranking （地位；状态；情形；重要身分）
 
+:::
+
 
 ## 1153. authority
 
@@ -2248,6 +2340,8 @@
 
 - rod, jurisdiction （权威；[法]权力；当局）
 
+:::
+
 
 ## 1154. perception
 
@@ -2291,6 +2385,8 @@
 
 - consciousness, viewpoint, sense, feel, insight （知觉；[生理]感觉；看法；洞察力；获取）
 
+:::
+
 
 ## 1155. ridge
 
@@ -2321,6 +2417,8 @@
 :::warning{title=🤔同义词}
 
 - mountain range, cordillera （[地理]山脊；山脉；[建]屋脊）
+
+:::
 
 
 ## 1156. stress
@@ -2391,6 +2489,8 @@
 
 - emphasize, tension, highlight （强调；使紧张；加压力于；用重音读）
 
+:::
+
 
 ## 1157. accumulation
 
@@ -2427,6 +2527,8 @@
 :::warning{title=🤔同义词}
 
 - amassing, cumulation （[地质][天][物]积聚，累积；堆积物）
+
+:::
 
 
 ## 1158. bound
@@ -2482,6 +2584,8 @@
 - region, extent, scope, spectrum, territory, range, area （范围；跳跃）
 
 - to limit, be confined to （限制；弹起）
+
+:::
 
 
 ## 1159. Alaska
@@ -2541,6 +2645,8 @@
 :::warning{title=🤔同义词}
 
 - circumstance, setting, surrounding, condition （环境；[计]上下文；来龙去脉）
+
+:::
 
 
 ## 1161. perfect
@@ -2613,6 +2719,8 @@
 
 - round off, polish up （使完美；使熟练）
 
+:::
+
 
 ## 1162. millennium
 
@@ -2638,6 +2746,8 @@
 
 - chiliad, Golden Age （千年期，千禧年；一千年，千年纪念；太平盛世，黄金时代）
 
+:::
+
 
 ## 1163. somewhat
 
@@ -2652,6 +2762,8 @@
 :::warning{title=🤔同义词}
 
 - how, any （有点；多少；几分；稍微）
+
+:::
 
 
 ## 1164. China
@@ -2714,6 +2826,8 @@
 
 - porcelain （瓷制的）
 
+:::
+
 
 ## 1165. favorable
 
@@ -2750,6 +2864,8 @@
 :::warning{title=🤔同义词}
 
 - beneficial, advantageous, pleasant, well （有利的；良好的；赞成的，赞许的；讨人喜欢的）
+
+:::
 
 
 ## 1166. broad
@@ -2797,6 +2913,8 @@
 :::warning{title=🤔同义词}
 
 - wider, obvious, prominent, marked, noted （宽的，辽阔的；显著的；大概的）
+
+:::
 
 
 ## 1167. risk
@@ -2859,6 +2977,8 @@
 
 - hazard （冒…的危险）
 
+:::
+
 
 ## 1168. antarctica
 
@@ -2877,6 +2997,8 @@
 :::warning{title=🤔同义词}
 
 - rostrum camera （活动电影放映机；活动照相机；投观影装置）
+
+:::
 
 
 ## 1170. absence
@@ -2908,6 +3030,8 @@
 :::warning{title=🤔同义词}
 
 - shortage, deficiency, need, short of, drought （没有；缺乏；[法]缺席；不注意）
+
+:::
 
 
 ## 1171. representative
@@ -2970,6 +3094,8 @@
 
 - deputy, model, behalf of, ambassador （[数]代表；典型；众议员）
 
+:::
+
 
 ## 1172. enlarge
 
@@ -2994,6 +3120,8 @@
 - extend, broaden （扩大；放大；详述）
 
 - extend, grow （扩大；使增大；扩展）
+
+:::
 
 
 ## 1173. defense
@@ -3078,6 +3206,8 @@
 
 - variety, classification, kind, manner, sort, nature （种类，分类；[数]范畴）
 
+:::
+
 
 ## 1175. intensity
 
@@ -3137,6 +3267,8 @@
 
 - stress, tension, brightness （[物]强度；强烈；[电子]亮度；紧张）
 
+:::
+
 
 ## 1176. abandon
 
@@ -3161,6 +3293,8 @@
 - loose, mania （狂热；放任）
 
 - desert, yield, quit （遗弃；放弃）
+
+:::
 
 
 ## 1177. relation
@@ -3220,6 +3354,8 @@
 :::warning{title=🤔同义词}
 
 - connection, statement, bearing, concern, story （[计]关系；叙述；故事；亲属关系）
+
+:::
 
 
 ## 1178. virus
@@ -3282,6 +3418,8 @@
 
 - vindictiveness, Vyrus （[病毒]病毒；恶毒；毒害）
 
+:::
+
 
 ## 1179. exhibition
 
@@ -3319,6 +3457,8 @@
 
 - expo, display, show, fair, manifestation （展览，显示；展览会；展览品）
 
+:::
+
 
 ## 1180. alter
 
@@ -3346,6 +3486,8 @@
 
 - modify, veer from （改变；修改）
 
+:::
+
 
 ## 1181. myth
 
@@ -3362,6 +3504,8 @@
 :::warning{title=🤔同义词}
 
 - fairy story, fairy tales （神话；虚构的人，虚构的事）
+
+:::
 
 
 ## 1182. arid
@@ -3394,6 +3538,8 @@
 
 - hungry, waste, desert （[气候]干旱的；不毛的，[农]荒芜的）
 
+:::
+
 
 ## 1183. erode
 
@@ -3413,6 +3559,8 @@
 
 - eat into, burn into （侵蚀；受腐蚀）
 
+:::
+
 
 ## 1184. dramatic
 
@@ -3429,6 +3577,8 @@
 :::warning{title=🤔同义词}
 
 - attractive, scenic （戏剧的；引人注目的；激动人心的）
+
+:::
 
 
 ## 1185. arise
@@ -3454,6 +3604,8 @@
 :::warning{title=🤔同义词}
 
 - occur, raise, figure, offer, come out （出现；上升；起立）
+
+:::
 
 
 ## 1186. reverse
@@ -3520,6 +3672,8 @@
 
 - retrogress, step backward （倒退；逆叫）
 
+:::
+
 
 ## 1187. capacity
 
@@ -3583,6 +3737,8 @@
 
 - ability, competence, membership, status, productivity （能力；[物]容量；资格，地位；生产力）
 
+:::
+
 
 ## 1188. competitor
 
@@ -3603,6 +3759,8 @@
 :::warning{title=🤔同义词}
 
 - equal, opponent, rival, match, contestant （[劳经]竞争者，对手）
+
+:::
 
 
 ## 1189. promise
@@ -3658,6 +3816,8 @@
 - wish, hope, pleasure （许诺，允诺；希望）
 
 - pledge, vouchsafe （允诺，许诺；给人以…的指望或希望）
+
+:::
 
 
 ## 1190. wooden
@@ -3718,6 +3878,8 @@
 
 - mechanical, rigid, dead （[木]木制的；僵硬的，呆板的）
 
+:::
+
 
 ## 1191. portray
 
@@ -3735,6 +3897,8 @@
 
 - represent, play, trace, figure （描绘；扮演）
 
+:::
+
 
 ## 1192. composer
 
@@ -3749,6 +3913,8 @@
 :::warning{title=🤔同义词}
 
 - writer, author, pen （作曲家；作家，著作者；设计者）
+
+:::
 
 
 ## 1193. stick
@@ -3818,6 +3984,8 @@
 - stay, hold out （坚持；伸出；粘住）
 
 - canne, bastinade （棍；手杖；呆头呆脑的人）
+
+:::
 
 
 ## 1194. glaciation
@@ -3904,6 +4072,8 @@
 
 - war preparation （武装；备战）
 
+:::
+
 
 ## 1196. transfer
 
@@ -3966,6 +4136,8 @@
 - make over, dispose of （转让；[计]转移；转学；换车）
 
 - hand, negotiate （转让；[计]使转移；传递；调任）
+
+:::
 
 
 ## 1197. arch
@@ -4030,6 +4202,8 @@
 
 - hog （拱起；成为弓形）
 
+:::
+
 
 ## 1198. prediction
 
@@ -4065,6 +4239,8 @@
 
 - message, forecast （预报；预言）
 
+:::
+
 
 ## 1199. stencil
 
@@ -4089,5 +4265,7 @@
 :::warning{title=🤔同义词}
 
 - waxed paper （[印刷]模版，蜡纸）
+
+:::
 
 

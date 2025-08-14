@@ -22,6 +22,8 @@
 
 - smuggling （[法]走私；走私货；[交]战时禁运品（等于contraband of war））
 
+:::
+
 
 ## 601. contraction
 
@@ -57,6 +59,8 @@
 
 - shrinkage, necking down （[经]收缩，紧缩；缩写式；害病）
 
+:::
+
 
 ## 602. contractor
 
@@ -86,6 +90,8 @@
 
 - entrepreneur （[经]承包人；立契约者）
 
+:::
+
 
 ## 603. contradict
 
@@ -113,6 +119,8 @@
 
 - deny, talk back （反驳；否认；发生矛盾）
 
+:::
+
 
 ## 604. contradiction
 
@@ -137,6 +145,8 @@
 :::warning{title=🤔同义词}
 
 - conflict, discrepancy （[数]矛盾；否认；反驳）
+
+:::
 
 
 ## 605. contrast
@@ -199,6 +209,8 @@
 
 - parallel, distinction, differential （对比；差别；对照物）
 
+:::
+
 
 ## 606. contribute
 
@@ -216,6 +228,8 @@
 
 - make contribution, offer up （贡献，出力；[图情]投稿；[经]捐献）
 
+:::
+
 
 ## 607. contributor
 
@@ -230,6 +244,8 @@
 :::warning{title=🤔同义词}
 
 - benefactor, doner （贡献者；投稿者；[经]捐助者）
+
+:::
 
 
 ## 608. control
@@ -302,6 +318,8 @@
 
 - possess, manage, regulate, bottle, conduct （[自]控制；[管理]管理；抑制）
 
+:::
+
 
 ## 609. controversial
 
@@ -321,6 +339,8 @@
 
 - disputed, questioned （有争议的；有争论的）
 
+:::
+
 
 ## 610. controversy
 
@@ -339,6 +359,8 @@
 :::warning{title=🤔同义词}
 
 - combat, debate, dispute （争论；论战；辩论）
+
+:::
 
 
 ## 611. convection
@@ -377,6 +399,8 @@
 
 - transmission, convective flow （[流][气象]对流；传送）
 
+:::
+
 
 ## 612. convenience
 
@@ -412,6 +436,8 @@
 
 - john, bathroom, toilet （便利；厕所；便利的事物）
 
+:::
+
 
 ## 613. conventional
 
@@ -444,6 +470,8 @@
 :::warning{title=🤔同义词}
 
 - traditional, usual, familiar, classical （符合习俗的，传统的；常见的；惯例的）
+
+:::
 
 
 ## 614. conversion
@@ -504,6 +532,8 @@
 
 - transformation, reforming, switching, exchange, changing （转换；变换；[金融]兑换；改变信仰）
 
+:::
+
 
 ## 615. convert
 
@@ -529,6 +559,8 @@
 
 - idolater, proselytizer （皈依者；改变宗教信仰者）
 
+:::
+
 
 ## 616. convey
 
@@ -548,6 +580,8 @@
 
 - communicate, release, transport （传达；运输；让与）
 
+:::
+
 
 ## 617. conviction
 
@@ -563,6 +597,8 @@
 
 - assurance, damningness （定罪；确信；证明有罪）
 
+:::
+
 
 ## 618. convince
 
@@ -577,6 +613,8 @@
 :::warning{title=🤔同义词}
 
 - assure, reason, satisfy, argue （说服；使确信，使信服）
+
+:::
 
 
 ## 619. convoluted
@@ -596,6 +634,8 @@
 :::warning{title=🤔同义词}
 
 - complicated, sophisticated, involved, detailed, intricate （复杂的；费解的；旋绕的）
+
+:::
 
 
 ## 620. cooperate
@@ -617,6 +657,8 @@
 :::warning{title=🤔同义词}
 
 - fit, work together （合作，配合；协力）
+
+:::
 
 
 ## 621. coordinate
@@ -685,6 +727,8 @@
 
 - sort, concert （协调）
 
+:::
+
 
 ## 622. copper
 
@@ -752,6 +796,8 @@
 
 - cupreous （铜的）
 
+:::
+
 
 ## 623. coral
 
@@ -768,6 +814,8 @@
 :::warning{title=🤔同义词}
 
 - polyp （[无脊椎]珊瑚；珊瑚虫）
+
+:::
 
 
 ## 624. cord
@@ -832,6 +880,8 @@
 
 - chain, restriction, rope （绳索；束缚）
 
+:::
+
 
 ## 625. cork
 
@@ -862,6 +912,8 @@
 - soft wood （[木]软木塞，软木制品；软木）
 
 - control, restrain, stay （抑制，堵住；用软木塞塞住）
+
+:::
 
 
 ## 626. coronary
@@ -903,6 +955,8 @@
 :::warning{title=🤔同义词}
 
 - cristated （冠的；冠状的；花冠的）
+
+:::
 
 
 ## 627. corporate
@@ -973,6 +1027,8 @@
 
 - mutual, entire, common, collective, universal （[法]法人的；共同的，全体的；社团的）
 
+:::
+
 
 ## 628. corporation
 
@@ -1036,6 +1092,8 @@
 
 - establishment, company, society, association, league （[贸易]公司；法人（团体）；社团；大腹便便；市政当局）
 
+:::
+
 
 ## 629. corps
 
@@ -1059,6 +1117,8 @@
 
 - cohorts, legion （军团；兵种；兵队；（德国大学的）学生联合会）
 
+:::
+
 
 ## 630. corral
 
@@ -1077,6 +1137,8 @@
 - stall, poundage （畜栏；环形车阵）
 
 - lockon （把…关进畜栏；捕捉；把…布成车阵）
+
+:::
 
 
 ## 631. correlate
@@ -1105,6 +1167,8 @@
 
 - associated （关联的）
 
+:::
+
 
 ## 632. correspond
 
@@ -1125,6 +1189,8 @@
 :::warning{title=🤔同义词}
 
 - cotton, identify, square, accord, meet with （符合，一致；相应；通信）
+
+:::
 
 
 ## 633. corresponding
@@ -1161,6 +1227,8 @@
 
 - suiting （类似（correspond的ing形式）；相配）
 
+:::
+
 
 ## 634. corroborate
 
@@ -1177,6 +1245,8 @@
 :::warning{title=🤔同义词}
 
 - favor, make sure, validate, sustain （证实；使坚固）
+
+:::
 
 
 ## 635. corrosion
@@ -1239,6 +1309,8 @@
 
 - erosion, eating away （[化学]腐蚀；腐蚀产生的物质；衰败）
 
+:::
+
 
 ## 636. corrosive
 
@@ -1268,6 +1340,8 @@
 
 - erosive, rusty （[助剂]腐蚀的；侵蚀性的）
 
+:::
+
 
 ## 637. corruption
 
@@ -1296,6 +1370,8 @@
 :::warning{title=🤔同义词}
 
 - degradation, deterioration （[法]贪污，腐败；堕落）
+
+:::
 
 
 ## 638. cortex
@@ -1336,6 +1412,8 @@
 
 - skinniness, pericarp （[解剖]皮质；树皮；果皮）
 
+:::
+
 
 ## 639. cosmetic
 
@@ -1375,6 +1453,8 @@
 
 - decoration, toiletry （化妆品；装饰品）
 
+:::
+
 
 ## 640. cosmic
 
@@ -1399,6 +1479,8 @@
 :::warning{title=🤔同义词}
 
 - universal, mundane （宇宙的（等于cosmical））
+
+:::
 
 
 ## 641. council
@@ -1461,6 +1543,8 @@
 
 - committee, session, congress, meeting, soviet （委员会；会议；理事会；地方议会；顾问班子）
 
+:::
+
 
 ## 642. counteract
 
@@ -1475,6 +1559,8 @@
 :::warning{title=🤔同义词}
 
 - offset, kill, slow （抵消；中和；阻碍）
+
+:::
 
 
 ## 643. counterattack
@@ -1497,6 +1583,8 @@
 
 - retaliation, fightback （反击；反攻）
 
+:::
+
 
 ## 644. counterevidence
 
@@ -1511,6 +1599,8 @@
 :::warning{title=🤔同义词}
 
 - disproval, rebuttal （反证）
+
+:::
 
 
 ## 645. counterfeit
@@ -1549,6 +1639,8 @@
 
 - artificial, false （假冒的，[法]伪造的；虚伪的）
 
+:::
+
 
 ## 646. countermeasure
 
@@ -1573,6 +1665,8 @@
 :::warning{title=🤔同义词}
 
 - repeat, coppy （副本；配对物；极相似的人或物）
+
+:::
 
 
 ## 648. counterproductive
@@ -1601,6 +1695,8 @@
 
 - compete, war, balance （抵销；对抗）
 
+:::
+
 
 ## 650. coupon
 
@@ -1625,6 +1721,8 @@
 :::warning{title=🤔同义词}
 
 - Oakley, annie oakley （[金融]息票；[贸易]赠券；联票；[经]配给券）
+
+:::
 
 
 ## 651. courier
@@ -1652,6 +1750,8 @@
 :::warning{title=🤔同义词}
 
 - ciceroni, gaid （导游；情报员，通讯员；送快信的人）
+
+:::
 
 
 ## 652. courtesy
@@ -1686,6 +1786,8 @@
 
 - red-carpet, complaisant （殷勤的；被承认的；出于礼节的）
 
+:::
+
 
 ## 653. cowhide
 
@@ -1708,6 +1810,8 @@
 :::warning{title=🤔同义词}
 
 - cowskin, cattle hide （牛皮，牛皮鞭；母牛皮，母牛皮革）
+
+:::
 
 
 ## 654. crack
@@ -1786,6 +1890,8 @@
 
 - greatest, best, perfect, prime （最好的；高明的）
 
+:::
+
 
 ## 655. cramped
 
@@ -1809,6 +1915,8 @@
 
 - obliged （用夹钳夹；约束（cramp的过去分词））
 
+:::
+
 
 ## 656. crass
 
@@ -1827,6 +1935,8 @@
 :::warning{title=🤔同义词}
 
 - intense, robust, crude, dense, rude （愚钝的；粗鲁的；非常的）
+
+:::
 
 
 ## 657. crate
@@ -1917,6 +2027,8 @@
 
 - creative power, originality （创造力；创造性）
 
+:::
+
 
 ## 660. credence
 
@@ -1937,6 +2049,8 @@
 :::warning{title=🤔同义词}
 
 - faith, trust, confidence, dependence （信任；凭证；祭器台（等于credence table，credenza））
+
+:::
 
 
 ## 661. credit
@@ -2003,6 +2117,8 @@
 
 - put faith in, believe in （相信，信任；把…归给，归功于；赞颂）
 
+:::
+
 
 ## 662. creditworthiness
 
@@ -2040,6 +2156,8 @@
 
 - wavecrest, mountaintop （[物]波峰；冠；[地理]山顶；顶饰）
 
+:::
+
 
 ## 664. criminology
 
@@ -2076,6 +2194,8 @@
 - disablement, lameness （[医]跛子；残废）
 
 - disabled, spavined （跛的；[医]残废的）
+
+:::
 
 
 ## 666. criteria
@@ -2132,6 +2252,8 @@
 
 - standards, conditions, indexes （标准，条件（criterion的复数））
 
+:::
+
 
 ## 667. criterion
 
@@ -2177,6 +2299,8 @@
 
 - standard, formula, level, prototype, norm （（批评判断的）[标准]标准；准则；规范；准据）
 
+:::
+
 
 ## 668. critic
 
@@ -2197,6 +2321,8 @@
 :::warning{title=🤔同义词}
 
 - commenter, reviewer （批评家，评论家；爱挑剔的人）
+
+:::
 
 
 ## 669. critical
@@ -2257,6 +2383,8 @@
 
 - dangerous, crucial, final, decisive, marginal （鉴定的；[核]临界的；批评的，爱挑剔的；危险的；决定性的；评论的）
 
+:::
+
 
 ## 670. criticism
 
@@ -2304,6 +2432,8 @@
 
 - comment, animadversion （批评；考证；苛求）
 
+:::
+
 
 ## 671. critique
 
@@ -2322,6 +2452,8 @@
 - comment, animadversion （批评；评论文章）
 
 - observe on, to comment on （批判；评论）
+
+:::
 
 
 ## 672. crossbred
@@ -2348,6 +2480,8 @@
 
 - hybrid, cowson （杂种）
 
+:::
+
 
 ## 673. crucial
 
@@ -2362,6 +2496,8 @@
 :::warning{title=🤔同义词}
 
 - important, considerable, material, critical, big （重要的；决定性的；定局的；决断的）
+
+:::
 
 
 ## 674. crude
@@ -2422,6 +2558,8 @@
 
 - rough, native, robust, raw, coarse （粗糙的；天然的，未加工的；粗鲁的）
 
+:::
+
 
 ## 675. crusade
 
@@ -2473,6 +2611,8 @@
 
 - compression, comminution （粉碎；迷恋；压榨；拥挤的人群）
 
+:::
+
 
 ## 677. crust
 
@@ -2516,6 +2656,8 @@
 
 - outer housing, encloser （外壳；面包皮；坚硬外皮）
 
+:::
+
 
 ## 678. crustal
 
@@ -2545,6 +2687,8 @@
 
 - thecal （壳的；地壳的）
 
+:::
+
 
 ## 679. cryptic
 
@@ -2559,6 +2703,8 @@
 :::warning{title=🤔同义词}
 
 - mysterious, hidden, latent （神秘的，含义模糊的；[动]隐藏的）
+
+:::
 
 
 ## 680. crystallize
@@ -2576,6 +2722,8 @@
 - embody, nail down （使结晶；明确；使具体化；做成蜜饯）
 
 - grain formation, nail down （结晶，形成结晶；明确；具体化）
+
+:::
 
 
 ## 681. cube
@@ -2614,6 +2762,8 @@
 
 - solid, die （[数]立方；立方体；骰子）
 
+:::
+
 
 ## 682. cue
 
@@ -2642,6 +2792,8 @@
 :::warning{title=🤔同义词}
 
 - connotation, implication, reminder （提示，暗示；线索）
+
+:::
 
 
 ## 683. cuisine
@@ -2672,6 +2824,8 @@
 
 - cooking （烹饪，烹调法）
 
+:::
+
 
 ## 684. culminate
 
@@ -2689,6 +2843,8 @@
 
 - fulfill, bring to an end （使结束；使达到高潮）
 
+:::
+
 
 ## 685. culpability
 
@@ -2697,6 +2853,8 @@
 :::warning{title=🤔同义词}
 
 - criminality, sinfulness （可责；有过失；[法]有罪）
+
+:::
 
 
 ## 686. cult
@@ -2721,6 +2879,8 @@
 
 - church, exercise, worship （祭仪（尤其指宗教上的）；礼拜；狂热信徒）
 
+:::
+
 
 ## 687. cultivate
 
@@ -2741,6 +2901,8 @@
 :::warning{title=🤔同义词}
 
 - rear, foster, plant, nurse （培养；陶冶；耕作）
+
+:::
 
 
 ## 688. cultivated
@@ -2769,6 +2931,8 @@
 
 - civilized （发展（cultivate的过去分词）；耕作；教化）
 
+:::
+
 
 ## 689. cultivation
 
@@ -2796,6 +2960,8 @@
 
 - education, training, farming, enlightenment （[细胞][微]培养；耕作；[农学]耕种；教化；文雅）
 
+:::
+
 
 ## 690. cumbersome
 
@@ -2813,6 +2979,8 @@
 
 - problem, hulking （笨重的；累赘的；难处理的）
 
+:::
+
 
 ## 691. cupidity
 
@@ -2827,6 +2995,8 @@
 :::warning{title=🤔同义词}
 
 - greed, covetousness （贪心，贪婪）
+
+:::
 
 
 ## 692. curb
@@ -2854,6 +3024,8 @@
 - checking, control, restraint, suppression, inhibition （抑制；路边；勒马绳）
 
 - possess, contain, regulate, bit, bottle （控制；勒住）
+
+:::
 
 
 ## 693. curiosity
@@ -2887,6 +3059,8 @@
 :::warning{title=🤔同义词}
 
 - treasure, pearl （好奇，好奇心；珍品，古董，古玩）
+
+:::
 
 
 ## 694. currency
@@ -2950,6 +3124,8 @@
 :::warning{title=🤔同义词}
 
 - money, circulating medium （[金融]货币；通货）
+
+:::
 
 
 ## 695. curriculum
@@ -3020,6 +3196,8 @@
 
 - crop, to cut back （缩减；剪短；剥夺…特权等）
 
+:::
+
 
 ## 698. customize
 
@@ -3088,5 +3266,7 @@
 :::warning{title=🤔同义词}
 
 - habits, duties （海关；风俗（custom的复数）；习惯；关税）
+
+:::
 
 

@@ -24,6 +24,8 @@
 
 - pressure, reduce to （迫使；猛拉）
 
+:::
+
 
 ## 2. belligerent
 
@@ -39,6 +41,8 @@
 
 - fighting, warring （交战的；好战的；交战国的）
 
+:::
+
 
 ## 3. supplant
 
@@ -53,6 +57,8 @@
 :::warning{title=🤔同义词}
 
 - replace, substitute for （代替；排挤掉）
+
+:::
 
 
 ## 4. abrupt
@@ -76,6 +82,8 @@
 :::warning{title=🤔同义词}
 
 - sudden, short, angular （生硬的；突然的；唐突的；陡峭的）
+
+:::
 
 
 ## 5. predispose
@@ -126,6 +134,8 @@
 
 - autonomous, mechanical, natural, initiative （自发的；自然的；无意识的）
 
+:::
+
 
 ## 7. blameworthy
 
@@ -141,6 +151,8 @@
 
 - reprovable, condemnable （应受谴责的；该受责备的）
 
+:::
+
 
 ## 8. gloomy
 
@@ -155,6 +167,8 @@
 :::warning{title=🤔同义词}
 
 - dark, sad, blue, gray, disappointed （黑暗的；沮丧的；阴郁的）
+
+:::
 
 
 ## 9. deference
@@ -177,6 +191,8 @@
 
 - compliance, Friend VS Lover （顺从）
 
+:::
+
 
 ## 10. compassionate
 
@@ -197,6 +213,8 @@
 - tender-hearted, merciful （慈悲的；富于同情心的）
 
 - feel for, have pity on （同情；怜悯）
+
+:::
 
 
 ## 11. other-directed
@@ -269,6 +287,8 @@
 
 - phylactic, shielded （防护的；关切保护的；保护贸易的）
 
+:::
+
 
 ## 13. grandiloquence
 
@@ -283,6 +303,8 @@
 :::warning{title=🤔同义词}
 
 - magniloquence （豪言壮语，豪语；夸张之言）
+
+:::
 
 
 ## 14. bogus
@@ -301,6 +323,8 @@
 
 - false, spurious （假的；伪造的）
 
+:::
+
 
 ## 15. flit
 
@@ -318,6 +342,8 @@
 
 - remove, moving in （轻快的飞行；搬家）
 
+:::
+
 
 ## 16. indigence
 
@@ -332,6 +358,8 @@
 :::warning{title=🤔同义词}
 
 - destitution, squalidness （穷困；贫乏；贫穷）
+
+:::
 
 
 ## 17. vengeance
@@ -360,6 +388,8 @@
 
 - revenge, revanche （复仇；报复；报仇）
 
+:::
+
 
 ## 18. authenticate
 
@@ -376,6 +406,8 @@
 :::warning{title=🤔同义词}
 
 - appraise, to identify （鉴定；证明…是真实的）
+
+:::
 
 
 ## 19. concede
@@ -394,6 +426,8 @@
 
 - meet halfway, give ground （让步）
 
+:::
+
 
 ## 20. grumpy
 
@@ -410,6 +444,8 @@
 - ill-tempered, churlish （脾气暴躁的；性情乖戾的）
 
 - crosspatch, curmudgeon （脾气坏的人；爱抱怨的人）
+
+:::
 
 
 ## 21. reprimand
@@ -431,6 +467,8 @@
 - hell, condemnation （谴责；训斥；申诉）
 
 - condemn, denounce （谴责；训斥；责难）
+
+:::
 
 
 ## 22. transitional
@@ -459,6 +497,8 @@
 
 - vicissitudinous （[计]变迁的；[植]过渡期的）
 
+:::
+
 
 ## 23. wreak
 
@@ -479,6 +519,8 @@
 :::warning{title=🤔同义词}
 
 - give vent to, take revenge （发泄；报仇）
+
+:::
 
 
 ## 24. commission
@@ -541,6 +583,8 @@
 
 - depute, authorise （委任；使服役；委托制作）
 
+:::
+
 
 ## 25. flip
 
@@ -582,6 +626,8 @@
 
 - somesault （弹；筋斗）
 
+:::
+
 
 ## 26. nibble
 
@@ -605,6 +651,8 @@
 
 - find quarrel in a straw, cavil about （细咬；一点一点地咬；吹毛求疵）
 
+:::
+
 
 ## 27. rescind
 
@@ -619,6 +667,8 @@
 :::warning{title=🤔同义词}
 
 - release from, want out （解除；废除；撤回）
+
+:::
 
 
 ## 28. resume
@@ -645,6 +695,8 @@
 
 - recover, start over （重新开始；重新获得）
 
+:::
+
 
 ## 29. tatter
 
@@ -655,6 +707,8 @@
 :::warning{title=🤔同义词}
 
 - rip up, tear to pieces （扯碎；撕碎；使破烂）
+
+:::
 
 
 ## 30. spiral
@@ -719,6 +773,8 @@
 
 - helical, gyroidal （螺旋形的；盘旋的）
 
+:::
+
 
 ## 31. pied
 
@@ -740,6 +796,8 @@
 
 - shot, varied （杂色的；斑驳的；穿花衣服的）
 
+:::
+
 
 ## 32. effrontery
 
@@ -754,6 +812,8 @@
 :::warning{title=🤔同义词}
 
 - brazenness, impudence （厚颜无耻）
+
+:::
 
 
 ## 33. gripping
@@ -786,6 +846,8 @@
 
 - doubling （扣人心弦（grip的ing形式）；握紧）
 
+:::
+
 
 ## 34. stasis
 
@@ -807,6 +869,8 @@
 
 - stagnation, bogged down （郁积，[医]停滞；血行停滞）
 
+:::
+
 
 ## 35. obvious
 
@@ -821,6 +885,8 @@
 :::warning{title=🤔同义词}
 
 - distinct, visible, prominent, marked, evident （明显的；显著的；平淡无奇的）
+
+:::
 
 
 ## 36. dogged
@@ -881,6 +947,8 @@
 
 - resistant, stubborn （顽强的；顽固的）
 
+:::
+
 
 ## 37. earthy
 
@@ -895,6 +963,8 @@
 :::warning{title=🤔同义词}
 
 - low, coarse （土的；土质的；朴实的；粗俗的）
+
+:::
 
 
 ## 38. undulate
@@ -915,6 +985,8 @@
 
 - rolling, wavery （波动的；起伏的；波浪形的）
 
+:::
+
 
 ## 39. obese
 
@@ -929,6 +1001,8 @@
 :::warning{title=🤔同义词}
 
 - round, fatty （肥胖的，过胖的）
+
+:::
 
 
 ## 40. empty
@@ -991,6 +1065,8 @@
 
 - dispossess （使失去；使…成为空的）
 
+:::
+
 
 ## 41. goof
 
@@ -1020,6 +1096,8 @@
 
 - hash up, run into the ground （弄糟）
 
+:::
+
 
 ## 42. beatific
 
@@ -1034,6 +1112,8 @@
 :::warning{title=🤔同义词}
 
 - happy, blessed, festival （幸福的；祝福的；快乐的）
+
+:::
 
 
 ## 43. deploy
@@ -1054,6 +1134,8 @@
 
 - disposition （部署）
 
+:::
+
 
 ## 44. huddle
 
@@ -1072,6 +1154,8 @@
 - gather up, cower （蜷缩；挤作一团）
 
 - chaos, disorder, confusion, congestion, involvement （拥挤；混乱；杂乱一团）
+
+:::
 
 
 ## 45. tie
@@ -1138,6 +1222,8 @@
 
 - draw, necktie （领带；平局；鞋带；领结；不分胜负）
 
+:::
+
 
 ## 46. rendition
 
@@ -1153,6 +1239,8 @@
 
 - version, translation, playing, offering （译文；演奏；提供；引渡逃奴）
 
+:::
+
 
 ## 47. gumption
 
@@ -1167,6 +1255,8 @@
 :::warning{title=🤔同义词}
 
 - enterprise, energy, steam, push, vigor （进取心；气概；精力）
+
+:::
 
 
 ## 48. myriad
@@ -1191,6 +1281,8 @@
 
 - million, innumerability （无数，极大数量；无数的人或物）
 
+:::
+
 
 ## 49. tattle
 
@@ -1207,6 +1299,8 @@
 - visit, dish （闲谈；泄露秘密）
 
 - chinfest, chat （闲谈）
+
+:::
 
 
 ## 50. disperse
@@ -1237,6 +1331,8 @@
 
 - scattered, decentralized （分散的）
 
+:::
+
 
 ## 51. erratic
 
@@ -1256,6 +1352,8 @@
 
 - fantastic, weirdo （漂泊无定的人；古怪的人）
 
+:::
+
 
 ## 52. adoration
 
@@ -1270,6 +1368,8 @@
 :::warning{title=🤔同义词}
 
 - worship, praise （崇拜；爱慕）
+
+:::
 
 
 ## 53. cinder
@@ -1293,6 +1393,8 @@
 :::warning{title=🤔同义词}
 
 - ash, ember （[冶]煤渣；灰烬）
+
+:::
 
 
 ## 54. fantasy
@@ -1327,6 +1429,8 @@
 
 - stargaze （耽于幻想；奏幻想曲（等于phantasy））
 
+:::
+
 
 ## 55. erode
 
@@ -1346,6 +1450,8 @@
 
 - eat into, burn into （侵蚀；受腐蚀）
 
+:::
+
 
 ## 56. informative
 
@@ -1360,6 +1466,8 @@
 :::warning{title=🤔同义词}
 
 - beneficial, helpful, useful, advantageous, conducive （教育性的，有益的；情报的；见闻广博的）
+
+:::
 
 
 ## 57. tusk
@@ -1378,6 +1486,8 @@
 
 - sharp, cusp （长牙；尖头，尖形物）
 
+:::
+
 
 ## 58. sane
 
@@ -1394,6 +1504,8 @@
 :::warning{title=🤔同义词}
 
 - healthy, intellectual, sound （[心理]健全的；理智的；[临床]神志正常的）
+
+:::
 
 
 ## 59. frustrate
@@ -1414,6 +1526,8 @@
 
 - thwarted, unprofitable （挫败的；无益的）
 
+:::
+
 
 ## 60. jounce
 
@@ -1426,6 +1540,8 @@
 - quake, shake up （颠簸，震动）
 
 - shock, shaking （震动，颠簸）
+
+:::
 
 
 ## 61. gorgeous
@@ -1450,6 +1566,8 @@
 
 - brilliant, wonderful, excellent, famous, super （华丽的，灿烂的；极好的）
 
+:::
+
 
 ## 62. importune
 
@@ -1465,6 +1583,8 @@
 
 - exact, extort （强求；一再向某人要求）
 
+:::
+
 
 ## 63. wacky
 
@@ -1479,6 +1599,8 @@
 :::warning{title=🤔同义词}
 
 - odd, curious （乖僻的，古怪的）
+
+:::
 
 
 ## 64. harp
@@ -1507,6 +1629,8 @@
 
 - go on about sth, witter （弹奏竖琴；喋喋不休；不停地说）
 
+:::
+
 
 ## 65. inmate
 
@@ -1521,6 +1645,8 @@
 :::warning{title=🤔同义词}
 
 - liver, resident, dweller, inhabitant （居民；同住者）
+
+:::
 
 
 ## 66. fickleness
@@ -1537,6 +1663,8 @@
 
 - vicissitude, capriciousness （浮躁；变化无常）
 
+:::
+
 
 ## 67. embody
 
@@ -1552,6 +1680,8 @@
 
 - objectify, reify （体现，使具体化；具体表达）
 
+:::
+
 
 ## 68. regale
 
@@ -1564,6 +1694,8 @@
 - feast （享用；享受）
 
 - entertainment, treat （款待）
+
+:::
 
 
 ## 69. welter
@@ -1581,6 +1713,8 @@
 - wave, roll over （翻滚；沉溺；起伏）
 
 - disorder, chaos, confusion, fluctuation, turmoil （混乱；翻滚；起伏）
+
+:::
 
 
 ## 70. muster
@@ -1607,6 +1741,8 @@
 
 - concentrate, collect, mass, crowd （召集；聚集）
 
+:::
+
 
 ## 71. verifiable
 
@@ -1621,6 +1757,8 @@
 :::warning{title=🤔同义词}
 
 - confirmable （可证实的；能作证的；可检验的）
+
+:::
 
 
 ## 72. ascent
@@ -1637,6 +1775,8 @@
 
 - rise, upgrade, raise （上升；[公路]上坡路；登高）
 
+:::
+
 
 ## 73. comprehensible
 
@@ -1652,6 +1792,8 @@
 
 - accessible, intelligible （可理解的）
 
+:::
+
 
 ## 74. motivate
 
@@ -1666,6 +1808,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, fan, needle, activate （刺激；使有动机；激发…的积极性）
+
+:::
 
 
 ## 75. projection
@@ -1726,6 +1870,8 @@
 
 - emission, theory, speculation, planning, sending （[心理][数]投射；规划；突出；发射；推测）
 
+:::
+
 
 ## 76. dissident
 
@@ -1755,6 +1901,8 @@
 
 - diversiform, variant （多层的；多样的）
 
+:::
+
 
 ## 78. fluffy
 
@@ -1769,6 +1917,8 @@
 :::warning{title=🤔同义词}
 
 - shaggy, towheaded （蓬松的；松软的；毛茸茸的；无内容的）
+
+:::
 
 
 ## 79. immolate
@@ -1787,6 +1937,8 @@
 
 - sacrifice to, give for （献祭；牺牲；为供神而宰杀）
 
+:::
+
 
 ## 80. hauteur
 
@@ -1802,6 +1954,8 @@
 
 - importance, big headed （傲慢；自大）
 
+:::
+
 
 ## 81. hedonist
 
@@ -1816,6 +1970,8 @@
 :::warning{title=🤔同义词}
 
 - epicure （快乐主义者；享乐主义者）
+
+:::
 
 
 ## 82. hypochondriac
@@ -1834,6 +1990,8 @@
 
 - melancholiac （[医]忧郁症患者）
 
+:::
+
 
 ## 83. conducive
 
@@ -1849,6 +2007,8 @@
 
 - beneficial, helpful, useful, advantageous, profitable （有益的；有助于…的）
 
+:::
+
 
 ## 84. iridescent
 
@@ -1863,6 +2023,8 @@
 :::warning{title=🤔同义词}
 
 - shot, irised （彩虹色的；闪光的）
+
+:::
 
 
 ## 85. multiple
@@ -1929,6 +2091,8 @@
 
 - time, paralleling （[数]倍数；[电]并联）
 
+:::
+
 
 ## 86. chaffing
 
@@ -1945,6 +2109,8 @@
 - derisory, quizzical （玩笑的；嘲弄的）
 
 - kidding （开玩笑（chaff的ing形式））
+
+:::
 
 
 ## 87. requite
@@ -1963,6 +2129,8 @@
 
 - return, render back （报答，回报；酬谢）
 
+:::
+
 
 ## 88. haggard
 
@@ -1980,6 +2148,8 @@
 
 - gaunt, toilworn （憔悴的；野性的）
 
+:::
+
 
 ## 89. poignant
 
@@ -1988,6 +2158,8 @@
 :::warning{title=🤔同义词}
 
 - sharpened, acerb （尖锐的；辛酸的；深刻的；切中要害的）
+
+:::
 
 
 ## 90. puncture
@@ -2016,6 +2188,8 @@
 
 - break, cut through （刺穿；揭穿；削弱）
 
+:::
+
 
 ## 91. omnivorous
 
@@ -2040,6 +2214,8 @@
 :::warning{title=🤔同义词}
 
 - inerrable （十分简单的；十分安全的；不会错的）
+
+:::
 
 
 ## 93. taking
@@ -2080,6 +2256,8 @@
 
 - capturing （拿；捕捉；夺取（take的ing形式））
 
+:::
+
 
 ## 94. terrifying
 
@@ -2094,6 +2272,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, infinite, frightening （令人恐惧的；骇人的；极大的）
+
+:::
 
 
 ## 95. romance
@@ -2120,6 +2300,8 @@
 
 - cook up, think up （虚构；渲染；写传奇）
 
+:::
+
 
 ## 96. impeach
 
@@ -2137,6 +2319,8 @@
 
 - doubt, challenge, charge, prosecution, accusation （控告，检举；弹劾；怀疑）
 
+:::
+
 
 ## 97. artistry
 
@@ -2151,6 +2335,8 @@
 :::warning{title=🤔同义词}
 
 - technology, workmanship （艺术性；工艺；艺术技巧；艺术效果；艺术工作）
+
+:::
 
 
 ## 98. catalog
@@ -2181,6 +2367,8 @@
 
 - register, book in （登记；为…编目录）
 
+:::
+
 
 ## 99. immortal
 
@@ -2197,5 +2385,7 @@
 - eternal, monumental （不朽的；神仙的；长生的）
 
 - jinnee, djinni （神仙；不朽人物）
+
+:::
 
 

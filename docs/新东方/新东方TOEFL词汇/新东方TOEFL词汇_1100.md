@@ -58,6 +58,8 @@
 
 - grain, granule （颗粒；[物]质点；极小量；小品词）
 
+:::
+
 
 ## 1101. musician
 
@@ -72,6 +74,8 @@
 :::warning{title=🤔同义词}
 
 - eisteddfod （音乐家）
+
+:::
 
 
 ## 1102. typify
@@ -89,6 +93,8 @@
 :::warning{title=🤔同义词}
 
 - to stand for, represent for （代表；作为…的典型；具有…的特点）
+
+:::
 
 
 ## 1103. stagnant
@@ -111,6 +117,8 @@
 
 - slow, dull （停滞的；不景气的；污浊的；迟钝的）
 
+:::
+
 
 ## 1104. perceptive
 
@@ -130,6 +138,8 @@
 
 - sensory, apperceptive （感知的，知觉的；有知觉力的）
 
+:::
+
 
 ## 1105. annotation
 
@@ -144,6 +154,8 @@
 :::warning{title=🤔同义词}
 
 - commentary, exegesis （[计]注释；注解；释文）
+
+:::
 
 
 ## 1106. minimize
@@ -206,6 +218,8 @@
 
 - extent, boundary, region, spectrum, territory, area （打扫，扫除；范围；全胜）
 
+:::
+
 
 ## 1108. descend
 
@@ -232,6 +246,8 @@
 :::warning{title=🤔同义词}
 
 - decline, go down （下降；下去；下来；遗传；屈尊）
+
+:::
 
 
 ## 1109. mechanics
@@ -291,6 +307,8 @@
 :::warning{title=🤔同义词}
 
 - dynamics, technology, configuration, science, framework, skill, texture （[力]力学（用作单数）；结构；技术；[机]机械学（用作单数））
+
+:::
 
 
 ## 1110. toed
@@ -411,6 +429,8 @@
 
 - reasonable, rational, possible, just, legitimate （[计]合逻辑的，合理的；逻辑学的）
 
+:::
+
 
 ## 1113. characterize
 
@@ -448,6 +468,8 @@
 
 - reduction, birth, decline, fall, blood （[航]下降；[遗]血统；袭击）
 
+:::
+
 
 ## 1115. stunt
 
@@ -475,6 +497,8 @@
 
 - touches, wrist （噱头，手腕；绝技）
 
+:::
+
 
 ## 1116. weird
 
@@ -496,6 +520,8 @@
 
 - fate, prediction, lot, destiny, fortune （（苏格兰）命运；预言）
 
+:::
+
 
 ## 1117. farce
 
@@ -510,6 +536,8 @@
 :::warning{title=🤔同义词}
 
 - slapstick comedy, dido （闹剧；胡闹；笑剧）
+
+:::
 
 
 ## 1118. ridiculous
@@ -529,6 +557,8 @@
 :::warning{title=🤔同义词}
 
 - laughing, preposterous （可笑的；荒谬的）
+
+:::
 
 
 ## 1119. intrusion
@@ -551,6 +581,8 @@
 
 - penetration, effraction （[地质]侵入；闯入）
 
+:::
+
 
 ## 1120. refute
 
@@ -565,6 +597,8 @@
 :::warning{title=🤔同义词}
 
 - disprove, redargue （反驳，驳斥；驳倒）
+
+:::
 
 
 ## 1121. severe
@@ -619,6 +653,8 @@
 
 - tight, hard, smart, harsh, rigorous （严峻的；严厉的；剧烈的；苛刻的）
 
+:::
+
 
 ## 1122. exemplify
 
@@ -633,6 +669,8 @@
 :::warning{title=🤔同义词}
 
 - example of, instantiate （例证；例示）
+
+:::
 
 
 ## 1123. emerge
@@ -656,6 +694,8 @@
 :::warning{title=🤔同义词}
 
 - ray, cast off （浮现；摆脱；暴露）
+
+:::
 
 
 ## 1124. lease
@@ -716,6 +756,8 @@
 
 - rent, hire out （出租）
 
+:::
+
 
 ## 1125. exploit
 
@@ -734,6 +776,8 @@
 - develop, mine （开发，开拓；剥削；开采）
 
 - merit, feat （勋绩；功绩）
+
+:::
 
 
 ## 1126. eager
@@ -761,6 +805,8 @@
 :::warning{title=🤔同义词}
 
 - hungry, desired, anxious, sick, keen （渴望的；热切的；热心的）
+
+:::
 
 
 ## 1127. evidence
@@ -825,6 +871,8 @@
 
 - demonstrate, prove, argue, bear witness to （证明）
 
+:::
+
 
 ## 1128. republic
 
@@ -886,6 +934,8 @@
 
 - commonwealth, respublica （共和国；共和政体）
 
+:::
+
 
 ## 1129. errand
 
@@ -913,6 +963,8 @@
 
 - mission, message （使命；差事；差使）
 
+:::
+
 
 ## 1130. flamboyant
 
@@ -929,6 +981,8 @@
 - ambitious, showy （艳丽的；火焰似的；炫耀的）
 
 - flame tree, poinciana （凤凰木）
+
+:::
 
 
 ## 1131. lethal
@@ -959,6 +1013,8 @@
 
 - kill, fatal, deadly （[生物][医]致命的，致死的）
 
+:::
+
 
 ## 1132. stun
 
@@ -975,6 +1031,8 @@
 - shock, scandalize （使震惊；打昏；给以深刻的印象）
 
 - coma, stupor （昏迷；打昏；惊倒；令人惊叹的事物）
+
+:::
 
 
 ## 1133. repetition
@@ -1005,6 +1063,8 @@
 
 - reiteration, iterance （重复；背诵；副本）
 
+:::
+
 
 ## 1134. sled
 
@@ -1029,6 +1089,8 @@
 - cariole, carriole （[交]雪橇）
 
 - sleigh （[交]乘雪橇；用雪橇运）
+
+:::
 
 
 ## 1135. polygamous
@@ -1057,6 +1119,8 @@
 
 - anxiety, solicitude （悬念；悬疑；焦虑；悬而不决）
 
+:::
+
 
 ## 1137. gemstone
 
@@ -1076,6 +1140,8 @@
 
 - gem, precious stones （（经雕琢的）[宝]宝石）
 
+:::
+
 
 ## 1138. narrate
 
@@ -1092,6 +1158,8 @@
 - relate, recount （叙述；给…作旁白）
 
 - tell about, tell of （叙述；讲述）
+
+:::
 
 
 ## 1139. spring
@@ -1160,6 +1228,8 @@
 
 - shoot, set sth off （使跳起；使爆炸；突然提出；使弹开）
 
+:::
+
 
 ## 1140. autonomy
 
@@ -1174,6 +1244,8 @@
 :::warning{title=🤔同义词}
 
 - self-rule, swaraj （自治，自治权）
+
+:::
 
 
 ## 1141. gibe
@@ -1195,6 +1267,8 @@
 - laugh at, make a mockery of （嘲笑；愚弄）
 
 - jeer at, laugh at （嘲笑；嘲弄）
+
+:::
 
 
 ## 1142. fitness
@@ -1233,6 +1307,8 @@
 
 - health, adaptability, relevance, wellness （健康；适当；适合性）
 
+:::
+
 
 ## 1143. shred
 
@@ -1258,6 +1334,8 @@
 
 - rip up, tear to pieces （撕碎）
 
+:::
+
 
 ## 1144. kindle
 
@@ -1274,6 +1352,8 @@
 - lamp, emblaze （点燃；激起；照亮）
 
 - lamp, brighten up （发亮；着火；激动起来）
+
+:::
 
 
 ## 1145. surrender
@@ -1303,6 +1383,8 @@
 - give in to sb, throw up the sponge （投降；屈服；自首）
 
 - submission, Caved In （投降；放弃；交出；屈服）
+
+:::
 
 
 ## 1146. faint
@@ -1335,6 +1417,8 @@
 
 - asphyxy, swound （[中医]昏厥，昏倒）
 
+:::
+
 
 ## 1147. elm
 
@@ -1359,6 +1443,8 @@
 :::warning{title=🤔同义词}
 
 - elmwood （[林]榆树；榆木）
+
+:::
 
 
 ## 1148. shade
@@ -1411,6 +1497,8 @@
 
 - graduate （（颜色、色彩等）渐变）
 
+:::
+
 
 ## 1149. collide
 
@@ -1433,6 +1521,8 @@
 :::warning{title=🤔同义词}
 
 - hit, impact on, crash （碰撞；抵触，冲突）
+
+:::
 
 
 ## 1150. cardinal
@@ -1465,6 +1555,8 @@
 
 - conclavist, red hat （红衣主教；枢机主教；鲜红色）
 
+:::
+
 
 ## 1151. insist
 
@@ -1489,6 +1581,8 @@
 - emphasize, stay, tough, stress, highlight （坚持，强调）
 
 - stay, stand on （坚持，强调）
+
+:::
 
 
 ## 1152. evergreen
@@ -1517,6 +1611,8 @@
 
 - indeciduous （[林][植]常绿的；永葆青春的）
 
+:::
+
 
 ## 1153. staggered
 
@@ -1531,6 +1627,8 @@
 :::warning{title=🤔同义词}
 
 - astonished, amazed （错列的；吃惊的）
+
+:::
 
 
 ## 1154. volume
@@ -1593,6 +1691,8 @@
 
 - massive, extensive, substantial, macro, much （大量的）
 
+:::
+
 
 ## 1155. transact
 
@@ -1609,6 +1709,8 @@
 - trade, traffic, exchange （交易；谈判）
 
 - to handle, cope with （办理；处理）
+
+:::
 
 
 ## 1156. catalyst
@@ -1658,6 +1760,8 @@
 :::warning{title=🤔同义词}
 
 - fuel, activator （[物化]催化剂；刺激因素）
+
+:::
 
 
 ## 1157. guideline
@@ -1744,6 +1848,8 @@
 
 - emission, sending, shot, launch, projection （放纵；放任；发射）
 
+:::
+
 
 ## 1159. loathsome
 
@@ -1758,6 +1864,8 @@
 :::warning{title=🤔同义词}
 
 - abominable （令人憎恶的；令人呕吐的）
+
+:::
 
 
 ## 1160. flint
@@ -1774,6 +1882,8 @@
 
 - chert, firestone （燧石；[岩]打火石；极硬的东西）
 
+:::
+
 
 ## 1161. preeminent
 
@@ -1789,6 +1899,8 @@
 
 - remarkable, excellent, prominent, ranking （卓越的；超群的）
 
+:::
+
 
 ## 1162. indignant
 
@@ -1803,6 +1915,8 @@
 :::warning{title=🤔同义词}
 
 - aggrieved （愤愤不平的；义愤的）
+
+:::
 
 
 ## 1163. decimal
@@ -1847,6 +1961,8 @@
 
 - small number, haet （[数]小数）
 
+:::
+
 
 ## 1164. hardly
 
@@ -1873,6 +1989,8 @@
 :::warning{title=🤔同义词}
 
 - just, ill, fresh, scarcely, barely （几乎不，简直不；刚刚）
+
+:::
 
 
 ## 1165. lasting
@@ -1904,6 +2022,8 @@
 - eternal, continued, permanent, sustained （持久的；永恒的）
 
 - maintaining （持续；维持（last的ing形式））
+
+:::
 
 
 ## 1166. cynical
@@ -1978,6 +2098,8 @@
 
 - specialized, express （工艺的，科技的；技术上的；专门的）
 
+:::
+
 
 ## 1168. outermost
 
@@ -1998,6 +2120,8 @@
 :::warning{title=🤔同义词}
 
 - outmost, farthermost （最外面的；最远的）
+
+:::
 
 
 ## 1169. companion
@@ -2028,6 +2152,8 @@
 
 - attend, keep company （陪伴）
 
+:::
+
 
 ## 1170. culminate
 
@@ -2051,6 +2177,8 @@
 
 - fulfill, bring to an end （使结束；使达到高潮）
 
+:::
+
 
 ## 1171. tortuous
 
@@ -2066,6 +2194,8 @@
 
 - curve, twisted （扭曲的，弯曲的；啰嗦的）
 
+:::
+
 
 ## 1172. paucity
 
@@ -2074,6 +2204,8 @@
 :::warning{title=🤔同义词}
 
 - shortage, deficiency, short of, need, drought （缺乏；少数；少量）
+
+:::
 
 
 ## 1173. stretch
@@ -2152,6 +2284,8 @@
 
 - beach, take the ground （搁浅）
 
+:::
+
 
 ## 1175. accomplish
 
@@ -2174,6 +2308,8 @@
 :::warning{title=🤔同义词}
 
 - carry out, come true, perform, complete, fulfill （完成；实现；达到）
+
+:::
 
 
 ## 1176. constituent
@@ -2218,6 +2354,8 @@
 
 - component, electoral （构成的；选举的）
 
+:::
+
 
 ## 1177. intentionally
 
@@ -2237,6 +2375,8 @@
 
 - deliberately, purposely （故意地，有意地）
 
+:::
+
 
 ## 1178. irritate
 
@@ -2251,6 +2391,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, fan, anger, motivate, needle （刺激，使兴奋；激怒）
+
+:::
 
 
 ## 1179. havoc
@@ -2278,6 +2420,8 @@
 - ravage （大破坏；浩劫；蹂躏）
 
 - damage （损毁）
+
+:::
 
 
 ## 1180. responsible
@@ -2314,6 +2458,8 @@
 
 - honest, reliable, tried, safe, sure （[法]负责的，可靠的；有责任的）
 
+:::
+
 
 ## 1181. vagrant
 
@@ -2332,6 +2478,8 @@
 - ragamuffinly, wandering （流浪的；漂泊的；游荡的）
 
 - cad, vag （游民；流浪者；无赖；漂泊者）
+
+:::
 
 
 ## 1182. medal
@@ -2370,6 +2518,8 @@
 
 - decoration, gong （勋章，[劳经]奖章；纪念章）
 
+:::
+
 
 ## 1183. linen
 
@@ -2400,6 +2550,8 @@
 - flax （亚麻布，亚麻线；[纺]亚麻制品）
 
 - flaxen （亚麻的；[纺]亚麻布制的）
+
+:::
 
 
 ## 1184. satellite
@@ -2460,6 +2612,8 @@
 
 - moon, suite （[天]卫星；[航]人造卫星；随从；卫星国家）
 
+:::
+
 
 ## 1185. packed
 
@@ -2493,6 +2647,8 @@
 
 - steeped, fraught （（常用来构成复合词）充满…的，塞满了…的）
 
+:::
+
 
 ## 1186. illuminate
 
@@ -2511,6 +2667,8 @@
 - say, lamp, elucidate, clarify （阐明，说明；照亮；使灿烂；用灯装饰）
 
 - light up, to shine （照亮）
+
+:::
 
 
 ## 1187. lizard
@@ -2531,6 +2689,8 @@
 
 - cabrite （[脊椎]蜥蜴；类蜥蜴爬行动物）
 
+:::
+
 
 ## 1188. delirium
 
@@ -2546,6 +2706,8 @@
 
 - abandon, mental derangement （精神错乱；发狂，狂热；说谵语状态）
 
+:::
+
 
 ## 1189. preoccupation
 
@@ -2560,6 +2722,8 @@
 :::warning{title=🤔同义词}
 
 - absorption, all attention （全神贯注，入神；当务之急；关注的事物；抢先占据；成见）
+
+:::
 
 
 ## 1190. vow
@@ -2589,6 +2753,8 @@
 - plight one's troth, cross my heart （发誓；郑重宣告）
 
 - plight one's troth, cross my heart （发誓；郑重宣告）
+
+:::
 
 
 ## 1191. cipher
@@ -2623,6 +2789,8 @@
 
 - cast, figure （计算；做算术；将…译成密码）
 
+:::
+
 
 ## 1192. protrude
 
@@ -2639,6 +2807,8 @@
 - exsert, advertise （使突出，使伸出）
 
 - stand out, excel at （突出，伸出）
+
+:::
 
 
 ## 1193. residue
@@ -2677,6 +2847,8 @@
 
 - surplus, spare （残渣；[冶][数]剩余；滤渣）
 
+:::
+
 
 ## 1194. noted
 
@@ -2697,6 +2869,8 @@
 :::warning{title=🤔同义词}
 
 - famous, obvious, prominent, marked, outstanding （著名的；显著的；附有乐谱的）
+
+:::
 
 
 ## 1195. frenzy
@@ -2720,6 +2894,8 @@
 - fury, turbulence （狂暴；狂怒；暴怒）
 
 - dement, derange （使发狂；使狂怒）
+
+:::
 
 
 ## 1196. forum
@@ -2754,6 +2930,8 @@
 
 - consultation, seminar （论坛，讨论会；法庭；公开讨论的广场）
 
+:::
+
 
 ## 1197. contempt
 
@@ -2780,6 +2958,8 @@
 :::warning{title=🤔同义词}
 
 - despite, defiance （轻视，蔑视；耻辱）
+
+:::
 
 
 ## 1198. horizon
@@ -2816,6 +2996,8 @@
 
 - extent, boundary, region, spectrum, territory, area （[天]地平线；视野；眼界；范围）
 
+:::
+
 
 ## 1199. undertaking
 
@@ -2832,5 +3014,7 @@
 - career, enterprise, assurance, certification, commitment （事业；企业；保证；殡仪业）
 
 - holding, promising, agreeing, granting （同意；担任；许诺（undertake的ing形式））
+
+:::
 
 

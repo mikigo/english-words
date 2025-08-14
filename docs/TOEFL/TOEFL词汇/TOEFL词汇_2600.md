@@ -40,6 +40,8 @@
 
 - rational, logical, possible, just, legitimate （合理的，公道的；通情达理的）
 
+:::
+
 
 ## 2601. consideration
 
@@ -91,6 +93,8 @@
 
 - attention, compensation, payment, cause, matter （考虑；原因；关心；报酬）
 
+:::
+
 
 ## 2602. wilderness
 
@@ -113,6 +117,8 @@
 :::warning{title=🤔同义词}
 
 - lots of, wealth, ocean, sea, body （荒地；大量，茫茫一片）
+
+:::
 
 
 ## 2603. fur
@@ -147,6 +153,8 @@
 
 - down, tegument （皮，皮子；[皮革]毛皮；软毛）
 
+:::
+
 
 ## 2604. woodcut
 
@@ -163,6 +171,8 @@
 :::warning{title=🤔同义词}
 
 - wood block, xylograph （木刻；木刻印版；木版画）
+
+:::
 
 
 ## 2605. extraordinary
@@ -186,6 +196,8 @@
 :::warning{title=🤔同义词}
 
 - remarkable, particular, temporary, special, wonder （非凡的；特别的；离奇的；临时的；特派的）
+
+:::
 
 
 ## 2606. delta
@@ -236,6 +248,8 @@
 
 - rot away, fall into decay （腐烂，化脓；堕落）
 
+:::
+
 
 ## 2608. postulate
 
@@ -252,6 +266,8 @@
 - require, exact, desire （假定；要求；视…为理所当然）
 
 - perhaps, assumption （基本条件；假定）
+
+:::
 
 
 ## 2609. trip
@@ -320,6 +336,8 @@
 
 - journey, tour, travel （旅行；绊倒；差错）
 
+:::
+
 
 ## 2610. resistant
 
@@ -379,6 +397,8 @@
 
 - stubborn, rebellious （[电][植保]抵抗的，反抗的；顽固的）
 
+:::
+
 
 ## 2611. peculiar
 
@@ -405,6 +425,8 @@
 - specific, distinct, unique, strange, individual （特殊的；独特的；奇怪的；罕见的）
 
 - franchise, special privilege （特权；特有财产）
+
+:::
 
 
 ## 2612. preparation
@@ -469,6 +491,8 @@
 
 - arrangement, preliminary, provision （预备；准备）
 
+:::
+
 
 ## 2613. gray
 
@@ -528,6 +552,8 @@
 
 - grigio, Pixel Toy Remix （灰色；暗淡的光线）
 
+:::
+
 
 ## 2614. regiment
 
@@ -536,6 +562,8 @@
 :::warning{title=🤔同义词}
 
 - lots of, wealth, ocean, sea, mass （团；大量）
+
+:::
 
 
 ## 2615. bury
@@ -551,6 +579,8 @@
 :::warning{title=🤔同义词}
 
 - lock, pocket （埋葬；隐藏）
+
+:::
 
 
 ## 2616. procedure
@@ -611,6 +641,8 @@
 
 - routine, program, move, step （程序，[管理]手续；步骤）
 
+:::
+
 
 ## 2617. thank
 
@@ -650,6 +682,8 @@
 
 - merci, danke, arigato （谢谢）
 
+:::
+
 
 ## 2618. conquest
 
@@ -670,6 +704,8 @@
 :::warning{title=🤔同义词}
 
 - prize, defeat, capture （征服，战胜；战利品）
+
+:::
 
 
 ## 2619. workshop
@@ -704,6 +740,8 @@
 
 - plant, proseminar （[工业]车间；研讨会；[工经]工场；讲习班）
 
+:::
+
 
 ## 2620. replacement
 
@@ -736,6 +774,8 @@
 :::warning{title=🤔同义词}
 
 - restoration, substitute （更换；复位；代替者；补充兵员）
+
+:::
 
 
 ## 2621. wonder
@@ -795,6 +835,8 @@
 - dispute, question （怀疑；惊奇；对…感到惊讶）
 
 - remarkable, extraordinary （奇妙的；非凡的）
+
+:::
 
 
 ## 2622. slide
@@ -859,6 +901,8 @@
 
 - slip （滑动；使滑动；悄悄地迅速放置）
 
+:::
+
 
 ## 2623. deplete
 
@@ -873,6 +917,8 @@
 :::warning{title=🤔同义词}
 
 - spend, exhaust （耗尽，用尽；使衰竭，使空虚）
+
+:::
 
 
 ## 2624. toddler
@@ -906,6 +952,8 @@
 - equal, anti, comparative, rival, match （对手；反对者；敌手）
 
 - contrary, adverse, against （对立的；敌对的）
+
+:::
 
 
 ## 2626. Amsterdam
@@ -980,6 +1028,8 @@
 
 - vector, conveyor （[化学]载体；运送者；[遗][医]带菌者；货架）
 
+:::
+
 
 ## 2628. soda
 
@@ -1021,6 +1071,8 @@
 
 - sodium carbonate decahydrate, carbonated water （[无化]苏打；碳酸水）
 
+:::
+
 
 ## 2629. remind
 
@@ -1045,6 +1097,8 @@
 :::warning{title=🤔同义词}
 
 - jack, put in mind （提醒；使想起）
+
+:::
 
 
 ## 2630. reproductive
@@ -1083,6 +1137,8 @@
 
 - generative, regenerative （生殖的；再生的；复制的）
 
+:::
+
 
 ## 2631. troop
 
@@ -1108,6 +1164,8 @@
 
 - host, pack （群集；成群而行；结队）
 
+:::
+
 
 ## 2632. abigail
 
@@ -1126,6 +1184,8 @@
 :::warning{title=🤔同义词}
 
 - improving, instructional （教育的；有教育意义的）
+
+:::
 
 
 ## 2634. zigzag
@@ -1153,6 +1213,8 @@
 - zz （之字形；Z字形）
 
 - circuitously （曲折地；之字形地；Z字形地）
+
+:::
 
 
 ## 2635. argon
@@ -1184,6 +1246,8 @@
 :::warning{title=🤔同义词}
 
 - ary （[化学]氩（18号元素））
+
+:::
 
 
 ## 2636. genetically
@@ -1248,6 +1312,8 @@
 
 - poverty, short of, deficiency, need, drought （缺乏，缺少；不足）
 
+:::
+
 
 ## 2638. himself
 
@@ -1307,6 +1373,8 @@
 
 - attract, cause, produce, operate, induce （引起，惹起）
 
+:::
+
 
 ## 2640. symptom
 
@@ -1327,6 +1395,8 @@
 :::warning{title=🤔同义词}
 
 - premonitor, prefiguration （[临床]症状；征兆）
+
+:::
 
 
 ## 2641. render
@@ -1355,6 +1425,8 @@
 
 - cosmetic brush （打底；交纳；粉刷）
 
+:::
+
 
 ## 2642. robin
 
@@ -1379,6 +1451,8 @@
 :::warning{title=🤔同义词}
 
 - redbreast （知更鸟）
+
+:::
 
 
 ## 2643. monitor
@@ -1442,6 +1516,8 @@
 :::warning{title=🤔同义词}
 
 - detectophone, invigilator （[电子][环境]监视器；[通信][军]监听器；[自]监控器；班长）
+
+:::
 
 
 ## 2644. psychologist
@@ -1510,6 +1586,8 @@
 
 - take a trip, look round sth （旅游；观光）
 
+:::
+
 
 ## 2646. Marseille
 
@@ -1545,6 +1623,8 @@
 
 - ducker, plunger （[水运]潜水者；跳水的选手；潜鸟）
 
+:::
+
 
 ## 2648. vigorous
 
@@ -1568,6 +1648,8 @@
 
 - male, live, energetic, mighty （有力的；精力充沛的）
 
+:::
+
 
 ## 2649. elliptical
 
@@ -1590,6 +1672,8 @@
 :::warning{title=🤔同义词}
 
 - oval, omissive （椭圆的；省略的）
+
+:::
 
 
 ## 2650. hop
@@ -1621,6 +1705,8 @@
 - jump, ball, dance, spring （[计][通信]跳跃；舞会；短途旅行）
 
 - jump, dance （[计][通信]跳跃；单脚跳；作短途旅行）
+
+:::
 
 
 ## 2651. worksheet
@@ -1695,6 +1781,8 @@
 
 - revolution, rotation, cycle, propagation, diffusion （[贸易]流通，传播；循环；[图情]发行量）
 
+:::
+
 
 ## 2653. broadcast
 
@@ -1750,6 +1838,8 @@
 
 - Pingback （广播；播音；广播节目）
 
+:::
+
 
 ## 2654. sphere
 
@@ -1767,6 +1857,8 @@
 
 - case, invest （包围；放入球内；使…成球形）
 
+:::
+
 
 ## 2655. seabed
 
@@ -1781,6 +1873,8 @@
 :::warning{title=🤔同义词}
 
 - sea bottom, benthos （海底；海床）
+
+:::
 
 
 ## 2656. multiply
@@ -1806,6 +1900,8 @@
 - breed, improve, accelerate, gain （乘；繁殖；增加）
 
 - diversiform, variant （多层的；多样的）
+
+:::
 
 
 ## 2657. angiosperm
@@ -1847,6 +1943,8 @@
 :::warning{title=🤔同义词}
 
 - tendency, liability, hill, trend, interest （倾向，爱好；斜坡）
+
+:::
 
 
 ## 2659. bud
@@ -1893,6 +1991,8 @@
 
 - germinate, sprout （使发芽）
 
+:::
+
 
 ## 2660. circadian
 
@@ -1917,6 +2017,8 @@
 :::warning{title=🤔同义词}
 
 - sea passage, stormy sea （[水运]海上航道；船只在海上航行；波涛汹涌的海面）
+
+:::
 
 
 ## 2662. congress
@@ -1951,6 +2053,8 @@
 
 - session, conversation, meeting, parliament （国会；代表大会；会议；社交）
 
+:::
+
 
 ## 2663. oversea
 
@@ -1976,6 +2080,8 @@
 
 - foreign, external （外国的；在海外的）
 
+:::
+
 
 ## 2664. moth
 
@@ -1996,6 +2102,8 @@
 :::warning{title=🤔同义词}
 
 - miller, deathwatch beetle （[昆]蛾；蛀虫）
+
+:::
 
 
 ## 2665. honor
@@ -2042,6 +2150,8 @@
 
 - regard, esteem, worship （尊敬（等于honour）；给…以荣誉）
 
+:::
+
 
 ## 2666. frighten
 
@@ -2060,6 +2170,8 @@
 :::warning{title=🤔同义词}
 
 - be nervous of, be fearful of （害怕，惊恐）
+
+:::
 
 
 ## 2667. zoologist
@@ -2136,6 +2248,8 @@
 
 - athenaeum, bibliotheca （图书馆，[图情]藏书室；文库）
 
+:::
+
 
 ## 2669. decomposition
 
@@ -2185,6 +2299,8 @@
 
 - analysis, dissolution, resolving （分解，腐烂；变质）
 
+:::
+
 
 ## 2670. catalog
 
@@ -2213,6 +2329,8 @@
 - registration, directory, entry, content, list （[图情][计]目录；登记）
 
 - register, book in （登记；为…编目录）
+
+:::
 
 
 ## 2671. door
@@ -2277,6 +2395,8 @@
 
 - home, exit, gateway, channel, route （[建]门；家，户；门口；通道）
 
+:::
+
 
 ## 2672. observer
 
@@ -2301,6 +2421,8 @@
 :::warning{title=🤔同义词}
 
 - viewer, watcher （[仪][天]观察者；[电子]观测者；遵守者）
+
+:::
 
 
 ## 2673. flock
@@ -2330,6 +2452,8 @@
 - cluster, gang, bunch, qun （群；棉束（等于floc））
 
 - concentrate, collect, mass, crowd （聚集；成群而行）
+
+:::
 
 
 ## 2674. Caledonian
@@ -2372,6 +2496,8 @@
 
 - moist soil, everglade （湿地；沼泽地）
 
+:::
+
 
 ## 2677. harsh
 
@@ -2397,6 +2523,8 @@
 
 - severe, grinding, crude, tight, hard （严厉的；严酷的；[声]刺耳的；粗糙的；刺目的）
 
+:::
+
 
 ## 2678. coma
 
@@ -2419,6 +2547,8 @@
 :::warning{title=🤔同义词}
 
 - stupor, exanimation （[医]昏迷；[天]彗形像差）
+
+:::
 
 
 ## 2679. fabric
@@ -2479,6 +2609,8 @@
 
 - cloth, organization, formation, construction, textile （[纺]织物；布；组织；构造；建筑物）
 
+:::
+
 
 ## 2680. cooler
 
@@ -2514,6 +2646,8 @@
 
 - cooling unit, freshener （[制冷]冷却器；清凉剂）
 
+:::
+
 
 ## 2681. participant
 
@@ -2534,6 +2668,8 @@
 :::warning{title=🤔同义词}
 
 - related （参与的；有关系的）
+
+:::
 
 
 ## 2682. advent
@@ -2557,6 +2693,8 @@
 :::warning{title=🤔同义词}
 
 - arrival, occurrence, emergence, appearance, rise （到来；出现；基督降临；基督降临节）
+
+:::
 
 
 ## 2683. soften
@@ -2582,6 +2720,8 @@
 - comfort, gentle （使温和；使缓和；使变柔软）
 
 - tender, to alleviate （减轻；变柔和；变柔软）
+
+:::
 
 
 ## 2684. synthetic
@@ -2635,6 +2775,8 @@
 - comprehensive, integrated, artificial, general （综合的；合成的，人造的）
 
 - composition （合成物）
+
+:::
 
 
 ## 2685. exposure
@@ -2695,6 +2837,8 @@
 
 - layout, reveal, showing （暴露；[摄]曝光；揭露；陈列）
 
+:::
+
 
 ## 2686. chondrite
 
@@ -2735,6 +2879,8 @@
 :::warning{title=🤔同义词}
 
 - pepsine, bromo （助消化药）
+
+:::
 
 
 ## 2688. northeast
@@ -2787,6 +2933,8 @@
 
 - component, electoral （构成的；选举的）
 
+:::
+
 
 ## 2690. sketch
 
@@ -2824,6 +2972,8 @@
 
 - outline, croquis （素描；略图；梗概）
 
+:::
+
 
 ## 2691. embryo
 
@@ -2857,6 +3007,8 @@
 
 - earlier, young （[胚]胚胎的；初期的）
 
+:::
+
 
 ## 2692. magnify
 
@@ -2875,6 +3027,8 @@
 - praise, celebrate, bless （放大；赞美；夸大）
 
 - enlarge, zoom up （放大；有放大能力）
+
+:::
 
 
 ## 2693. allende
@@ -2915,6 +3069,8 @@
 
 - archbishop （大城市人；大主教；宗主国的公民）
 
+:::
+
 
 ## 2695. notably
 
@@ -2931,6 +3087,8 @@
 :::warning{title=🤔同义词}
 
 - especially, remarkably, prominently （显著地；尤其）
+
+:::
 
 
 ## 2696. loan
@@ -2999,6 +3157,8 @@
 
 - borrow, lend to （借；借给）
 
+:::
+
 
 ## 2697. nonetheless
 
@@ -3018,6 +3178,8 @@
 
 - and, granted, but, yet, only （尽管如此，但是）
 
+:::
+
 
 ## 2698. hinterland
 
@@ -3033,6 +3195,8 @@
 
 - inland, outback （内地；穷乡僻壤；靠港口供应的内地贸易区）
 
+:::
+
 
 ## 2699. mechanize
 
@@ -3047,5 +3211,7 @@
 :::warning{title=🤔同义词}
 
 - motorise （使机械化；机动化；用机械装置）
+
+:::
 
 

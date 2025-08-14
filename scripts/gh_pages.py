@@ -15,7 +15,7 @@ def main():
     # 克隆仓库 - 使用HTTPS协议可能更可靠
     if os.path.exists('gh-pages'):
         os.remove('gh-pages')
-    os.system('git clone git@github.com:mikigo/English-Words.git -b gh-pages gh-pages')
+    os.system('git clone git@github.com:mikigo/english-words.git -b gh-pages gh-pages')
 
     # 复制文件 - Windows版本
     if os.path.exists('gh-pages'):

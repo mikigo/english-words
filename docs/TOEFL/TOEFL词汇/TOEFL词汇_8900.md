@@ -28,6 +28,8 @@
 
 - difference, conflict, misunderstanding （不和；争执；封地）
 
+:::
+
 
 ## 8901. ted
 
@@ -54,6 +56,8 @@
 :::warning{title=🤔同义词}
 
 - dangerous, critical, risky, hazardous （冒险的；危险的；好冒险的）
+
+:::
 
 
 ## 8903. knuckle
@@ -85,6 +89,8 @@
 - articulation, arthrosis （关节；[解剖]指关节；指节；膝关节；肘）
 
 - dig in （开始认真工作）
+
+:::
 
 
 ## 8904. receiver
@@ -125,6 +131,8 @@
 
 - taker, acceptor （接收器；接受者；收信机；收款员，接待者）
 
+:::
+
 
 ## 8905. wrist
 
@@ -148,6 +156,8 @@
 
 - savoir faire （手腕；[解剖]腕关节）
 
+:::
+
 
 ## 8906. familiarization
 
@@ -157,6 +167,8 @@
 
 - up on, acquainted with （熟悉，精通；亲密）
 
+:::
+
 
 ## 8907. bulldoze
 
@@ -165,6 +177,8 @@
 :::warning{title=🤔同义词}
 
 - force, enforce （强迫；恫吓；用推土机清除）
+
+:::
 
 
 ## 8908. mason
@@ -177,6 +191,8 @@
 
 - Templar, Freemasonry （泥瓦匠；共济会会员（等于freemason））
 
+:::
+
 
 ## 8909. woodlot
 
@@ -185,6 +201,8 @@
 :::warning{title=🤔同义词}
 
 - forestland, timberland （植林地，林地）
+
+:::
 
 
 ## 8910. profoundly
@@ -201,6 +219,8 @@
 
 - deeply, poignantly （深刻地；深深地；极度地）
 
+:::
+
 
 ## 8911. hone
 
@@ -209,6 +229,8 @@
 :::warning{title=🤔同义词}
 
 - complaint, sharpening stone （[机]磨刀石；想念；抱怨）
+
+:::
 
 
 ## 8912. tele
@@ -229,6 +251,8 @@
 
 - video, telly, small screen, telvision （电视（等于television））
 
+:::
+
 
 ## 8913. uncounted
 
@@ -243,6 +267,8 @@
 :::warning{title=🤔同义词}
 
 - thousand, countless, million, infinite, innumerable （无数的；没有数过的）
+
+:::
 
 
 ## 8914. profiteer
@@ -262,6 +288,8 @@
 - make a killing, seek excessive profits （赚大钱；牟取暴利）
 
 - sharp-shooter （[贸易]奸商；牟取暴利的人）
+
+:::
 
 
 ## 8915. arsenal
@@ -304,6 +332,8 @@
 
 - Cannons, ammo （军火；大炮；[军]军械署）
 
+:::
+
 
 ## 8917. tycoon
 
@@ -318,6 +348,8 @@
 :::warning{title=🤔同义词}
 
 - magnate, baron （企业界大亨，巨头；巨富）
+
+:::
 
 
 ## 8918. knit
@@ -348,6 +380,8 @@
 
 - become one, couple, link （[纺]编织；结合）
 
+:::
+
 
 ## 8919. stickpin
 
@@ -364,6 +398,8 @@
 :::warning{title=🤔同义词}
 
 - scarf-ring, tie bar （领带夹（指插于领带上的装饰别针））
+
+:::
 
 
 ## 8920. cane
@@ -398,6 +434,8 @@
 
 - walking stick, canne （手杖；藤条；细长的茎）
 
+:::
+
 
 ## 8921. flamboyant
 
@@ -414,6 +452,8 @@
 - ambitious, showy （艳丽的；火焰似的；炫耀的）
 
 - flame tree, poinciana （凤凰木）
+
+:::
 
 
 ## 8922. rumble
@@ -434,6 +474,8 @@
 
 - thrump, brattle （隆隆声；抱怨声）
 
+:::
+
 
 ## 8923. gunfire
 
@@ -450,6 +492,8 @@
 :::warning{title=🤔同义词}
 
 - fire, shellfire （[军]炮火；炮火声）
+
+:::
 
 
 ## 8924. shrill
@@ -478,6 +522,8 @@
 
 - scream （尖叫声）
 
+:::
+
 
 ## 8925. ameliorate
 
@@ -494,6 +540,8 @@
 - improve, moderate （改善；减轻（痛苦等）；改良）
 
 - improve, get better （变得更好）
+
+:::
 
 
 ## 8926. bugle
@@ -518,6 +566,8 @@
 
 - play the trumpet, blow job （吹号；吹喇叭）
 
+:::
+
 
 ## 8927. heartbreak
 
@@ -532,6 +582,8 @@
 :::warning{title=🤔同义词}
 
 - sorrow, sore spot （心碎；伤心事）
+
+:::
 
 
 ## 8928. northerner
@@ -562,6 +614,8 @@
 
 - warmth, excitation （刺痛感；激动；鸣响）
 
+:::
+
 
 ## 8930. achingly
 
@@ -576,6 +630,8 @@
 :::warning{title=🤔同义词}
 
 - extremely, most, rare （极其；痛惜地；非常痛地）
+
+:::
 
 
 ## 8931. desolate
@@ -593,6 +649,8 @@
 - wild, desert （荒凉的；无人烟的）
 
 - harshen （使荒凉；使孤寂）
+
+:::
 
 
 ## 8932. helicopter
@@ -612,6 +670,8 @@
 :::warning{title=🤔同义词}
 
 - copter, whirlybird, verticraft （[航]直升飞机）
+
+:::
 
 
 ## 8933. ankle
@@ -634,6 +694,8 @@
 
 - gambrel, malleolus （踝关节，[解剖]踝）
 
+:::
+
 
 ## 8934. dishonest
 
@@ -650,6 +712,8 @@
 :::warning{title=🤔同义词}
 
 - insincere, deceptive （不诚实的；欺诈的）
+
+:::
 
 
 ## 8935. shortcut
@@ -674,6 +738,8 @@
 
 - highway, cut-short （捷径；被切短的东西）
 
+:::
+
 
 ## 8936. roadway
 
@@ -696,6 +762,8 @@
 :::warning{title=🤔同义词}
 
 - path, course （道路；路面；[公路]车行道；铁路的路基）
+
+:::
 
 
 ## 8937. royal
@@ -752,6 +820,8 @@
 
 - house-hold （王室；王室成员）
 
+:::
+
 
 ## 8938. promoter
 
@@ -775,6 +845,8 @@
 
 - initiator, originator （发起人；促进者；助长者）
 
+:::
+
 
 ## 8939. hydra
 
@@ -783,6 +855,8 @@
 :::warning{title=🤔同义词}
 
 - polypus （九头蛇；[无脊椎]水螅；难以根除之祸害）
+
+:::
 
 
 ## 8940. coelenterate
@@ -861,6 +935,8 @@
 
 - promotion, impetus, speeding up （[物]加速，促进；[力]加速度）
 
+:::
+
 
 ## 8944. traction
 
@@ -898,6 +974,8 @@
 
 - drawing, hauling power （[车辆][机][外科]牵引；牵引力）
 
+:::
+
 
 ## 8945. dictaphone
 
@@ -912,6 +990,8 @@
 :::warning{title=🤔同义词}
 
 - dictating machine, audio cassette recorder （录音机；口授留声机；录音电话机）
+
+:::
 
 
 ## 8946. utter
@@ -938,6 +1018,8 @@
 
 - thorough, full, complete, absolute, total （完全的；彻底的；无条件的）
 
+:::
+
 
 ## 8947. succinctly
 
@@ -961,6 +1043,8 @@
 
 - laconically, sententiously （简洁地；简便地）
 
+:::
+
 
 ## 8948. standpoint
 
@@ -981,6 +1065,8 @@
 :::warning{title=🤔同义词}
 
 - viewpoint, perspective, outlook, eye, sentiment （立场；观点）
+
+:::
 
 
 ## 8949. codify
@@ -1029,6 +1115,8 @@
 
 - energy, spirit, mind, ka, genius （灵魂；心灵；精神；鬼魂）
 
+:::
+
 
 ## 8951. airy
 
@@ -1043,6 +1131,8 @@
 :::warning{title=🤔同义词}
 
 - aerial, ventilative （空气的；通风的；幻想的；轻快的；空中的）
+
+:::
 
 
 ## 8952. dread
@@ -1077,6 +1167,8 @@
 
 - terrible, horrible, awesome, fearful, dire （可怕的）
 
+:::
+
 
 ## 8953. sway
 
@@ -1104,6 +1196,8 @@
 
 - effect, influence, infection, impression, governance （影响；摇摆；统治）
 
+:::
+
 
 ## 8954. reconstitute
 
@@ -1118,6 +1212,8 @@
 :::warning{title=🤔同义词}
 
 - reform （重新设立；重新组成）
+
+:::
 
 
 ## 8955. overexploitation
@@ -1138,6 +1234,8 @@
 
 - instruction, name, pointing, indication, specifies （指定；名称；指示；选派）
 
+:::
+
 
 ## 8957. wretched
 
@@ -1153,6 +1251,8 @@
 
 - poor, mean, base, dirty （可怜的；卑鄙的；令人苦恼或难受的）
 
+:::
+
 
 ## 8958. entrench
 
@@ -1163,6 +1263,8 @@
 - sink, radicate （确立，牢固；用壕沟围住；挖掘）
 
 - to infringe on, encroach on （侵犯；挖掘壕沟）
+
+:::
 
 
 ## 8959. thousandth
@@ -1182,6 +1284,8 @@
 :::warning{title=🤔同义词}
 
 - millesimal （千分之一的；[数]第一千的）
+
+:::
 
 
 ## 8960. woodworking
@@ -1210,6 +1314,8 @@
 
 - carperter （[木]木工；木工活）
 
+:::
+
 
 ## 8961. demolition
 
@@ -1233,6 +1339,8 @@
 
 - destruction, breaking, blasting （拆除（等于demolishment）；破坏；毁坏）
 
+:::
+
 
 ## 8962. magnification
 
@@ -1255,6 +1363,8 @@
 :::warning{title=🤔同义词}
 
 - enhancement, amplification （[光][电子]放大；放大率；放大的复制品）
+
+:::
 
 
 ## 8963. bat
@@ -1290,6 +1400,8 @@
 :::warning{title=🤔同义词}
 
 - Murcielago, reremouse （[脊椎]蝙蝠；球棒；批处理文件的扩展名）
+
+:::
 
 
 ## 8964. sawyer
@@ -1346,6 +1458,8 @@
 
 - corner, monopolize （垄断；预先阻止；占先一步）
 
+:::
+
 
 ## 8968. melange
 
@@ -1360,6 +1474,8 @@
 :::warning{title=🤔同义词}
 
 - mixture, hybrid, mix, compound （混合物；文学作品的杂集）
+
+:::
 
 
 ## 8969. waterside
@@ -1402,6 +1518,8 @@
 
 - surd （[数]无理数）
 
+:::
+
 
 ## 8971. cherish
 
@@ -1425,6 +1543,8 @@
 
 - treasure, imbosom （珍爱；怀抱）
 
+:::
+
 
 ## 8972. improbable
 
@@ -1433,6 +1553,8 @@
 :::warning{title=🤔同义词}
 
 - suspect, unbelievable （不大可能的，未必确实的；不可信的；未必会发生的）
+
+:::
 
 
 ## 8973. kiosk
@@ -1453,6 +1575,8 @@
 
 - booth, bower （凉亭；公用电话亭；报摊）
 
+:::
+
 
 ## 8974. cordwainer
 
@@ -1461,6 +1585,8 @@
 :::warning{title=🤔同义词}
 
 - souter, crispin （皮匠；鞋匠（尤指科尔多瓦皮鞋工人））
+
+:::
 
 
 ## 8975. sear
@@ -1485,6 +1611,8 @@
 
 - brand, burn （烙印；烧焦痕迹）
 
+:::
+
 
 ## 8976. negligibly
 
@@ -1506,6 +1634,8 @@
 
 - neighbor （邻接；毗邻；紧靠）
 
+:::
+
 
 ## 8978. annex
 
@@ -1525,6 +1655,8 @@
 
 - affixture, appendage （附加物；附属建筑物）
 
+:::
+
 
 ## 8979. proliferate
 
@@ -1541,6 +1673,8 @@
 - surge, sharp rise （增殖；扩散；激增）
 
 - balloon （使激增）
+
+:::
 
 
 ## 8980. spank
@@ -1563,6 +1697,8 @@
 
 - cuff （一巴掌）
 
+:::
+
 
 ## 8981. peart
 
@@ -1571,6 +1707,8 @@
 :::warning{title=🤔同义词}
 
 - sunny, invigorative （有精神的；快活的）
+
+:::
 
 
 ## 8982. Indonesia
@@ -1627,6 +1765,8 @@
 
 - biological diversity （[生物]生物多样性）
 
+:::
+
 
 ## 8985. gust
 
@@ -1648,6 +1788,8 @@
 
 - flavor, interest （风味；一阵狂风；趣味）
 
+:::
+
 
 ## 8986. newberry
 
@@ -1660,6 +1802,8 @@
 :::warning{title=🤔同义词}
 
 - sharply, observantly （敏锐地；强烈地；锐利地）
+
+:::
 
 
 ## 8988. captivate
@@ -1676,6 +1820,8 @@
 
 - possess, spell （迷住，迷惑）
 
+:::
+
 
 ## 8989. philanthropist
 
@@ -1690,6 +1836,8 @@
 :::warning{title=🤔同义词}
 
 - charitarian, humanitarian （慈善家，博爱主义者；乐善好施的人）
+
+:::
 
 
 ## 8990. purplish
@@ -1728,6 +1876,8 @@
 
 - precious, golden, solemn, sacred, majestic （庄严的，值得尊敬的；珍贵的）
 
+:::
+
 
 ## 8992. sargeant
 
@@ -1747,6 +1897,8 @@
 
 - single, unwed （[法]未婚的；单身的；独身的）
 
+:::
+
 
 ## 8994. gentility
 
@@ -1761,6 +1913,8 @@
 :::warning{title=🤔同义词}
 
 - cultivation, refinement （有教养，文雅；上流阶层）
+
+:::
 
 
 ## 8995. plasticity
@@ -1788,6 +1942,8 @@
 :::warning{title=🤔同义词}
 
 - flexibility, adaptability （[力][材]塑性，可塑性；适应性；柔软性）
+
+:::
 
 
 ## 8996. carpet
@@ -1824,6 +1980,8 @@
 
 - footcloth （[纺]地毯；地毯状覆盖物）
 
+:::
+
 
 ## 8997. adolescent
 
@@ -1849,6 +2007,8 @@
 
 - youths, teener （[人类]青少年）
 
+:::
+
 
 ## 8998. regimentation
 
@@ -1863,6 +2023,8 @@
 :::warning{title=🤔同义词}
 
 - discipline, systematization （纪律；系统化；严格控制；团的编制）
+
+:::
 
 
 ## 8999. rarer

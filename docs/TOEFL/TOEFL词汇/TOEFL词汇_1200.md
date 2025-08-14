@@ -20,6 +20,8 @@
 
 - unusual, different, apart （有特色的，与众不同的）
 
+:::
+
 
 ## 1201. tail
 
@@ -87,6 +89,8 @@
 
 - caudal （尾部的；从后面而来的）
 
+:::
+
 
 ## 1202. France
 
@@ -139,6 +143,8 @@
 :::warning{title=🤔同义词}
 
 - poisonous, virous （[内科][毒物]有毒的；中毒的）
+
+:::
 
 
 ## 1204. magnetic
@@ -198,6 +204,8 @@
 :::warning{title=🤔同义词}
 
 - geomagnetic （地磁的；有磁性的；有吸引力的）
+
+:::
 
 
 ## 1205. visit
@@ -259,6 +267,8 @@
 - inspect, pay a call （访问；参观；视察）
 
 - stay, pay a call （访问；暂住；闲谈）
+
+:::
 
 
 ## 1206. apart
@@ -327,6 +337,8 @@
 
 - unusual, different, distinctive, isolated, separating （分离的；与众不同的）
 
+:::
+
 
 ## 1207. gull
 
@@ -352,6 +364,8 @@
 
 - hornswoggle, rip off （骗；欺诈）
 
+:::
+
 
 ## 1208. herbivore
 
@@ -370,6 +384,8 @@
 :::warning{title=🤔同义词}
 
 - phytophagans, primary consumer （[动]食草动物）
+
+:::
 
 
 ## 1209. cross
@@ -438,6 +454,8 @@
 
 - contrary, adverse, opposite, counter （交叉的，相反的；乖戾的）
 
+:::
+
 
 ## 1210. tornado
 
@@ -456,6 +474,8 @@
 :::warning{title=🤔同义词}
 
 - cyclone, Tornado Jockey （[气象]龙卷风；旋风；暴风；大雷雨）
+
+:::
 
 
 ## 1211. metallic
@@ -508,6 +528,8 @@
 
 - metal bearing （金属的，含金属的）
 
+:::
+
 
 ## 1212. loud
 
@@ -532,6 +554,8 @@
 - ceaseless, unceasing （大声的，高声的；不断的；喧吵的）
 
 - aloud, ringingly （大声地，高声地，响亮地）
+
+:::
 
 
 ## 1213. drain
@@ -598,6 +622,8 @@
 
 - consumption, sewage （排水；下水道，[建]排水管；消耗）
 
+:::
+
 
 ## 1214. realize
 
@@ -624,6 +650,8 @@
 :::warning{title=🤔同义词}
 
 - come true, accomplish, carry out, fulfill, implement （实现；认识到；了解；将某物卖得）
+
+:::
 
 
 ## 1215. shallow
@@ -669,6 +697,8 @@
 - shoal （使变浅）
 
 - shoal （变浅）
+
+:::
 
 
 ## 1216. surplus
@@ -721,6 +751,8 @@
 
 - remaining, residual, odd （[数][电子]剩余的；[经]过剩的）
 
+:::
+
 
 ## 1217. explore
 
@@ -739,6 +771,8 @@
 - detect, probe into （探索；探测；探险）
 
 - probe into, search after （探索；探测；探险）
+
+:::
 
 
 ## 1218. classify
@@ -762,6 +796,8 @@
 :::warning{title=🤔同义词}
 
 - categorize, sort through （分类；分等）
+
+:::
 
 
 ## 1219. possibility
@@ -798,6 +834,8 @@
 
 - probability, feasibility, potential, maybe, chance （可能性；可能发生的事物）
 
+:::
+
 
 ## 1220. novel
 
@@ -831,6 +869,8 @@
 
 - story, fiction （小说）
 
+:::
+
 
 ## 1221. afford
 
@@ -853,6 +893,8 @@
 :::warning{title=🤔同义词}
 
 - allow, deal, extend, deliver, tender （给予，提供；买得起）
+
+:::
 
 
 ## 1222. southeast
@@ -925,6 +967,8 @@
 
 - straiten （变窄）
 
+:::
+
 
 ## 1224. northwest
 
@@ -986,6 +1030,8 @@
 
 - interference, conflict, war, crash, impact （[物]碰撞；冲突）
 
+:::
+
 
 ## 1226. lung
 
@@ -1021,6 +1067,8 @@
 
 - breathing apparatus, respirator （[解剖]肺；呼吸器）
 
+:::
+
 
 ## 1227. diverse
 
@@ -1035,6 +1083,8 @@
 :::warning{title=🤔同义词}
 
 - different, unlike, varying, another, dissimilar （不同的；多种多样的；变化多的）
+
+:::
 
 
 ## 1228. temperate
@@ -1063,6 +1113,8 @@
 
 - pacific, moderate, gentle, soft, mild （温和的；适度的；有节制的）
 
+:::
+
 
 ## 1229. widespread
 
@@ -1077,6 +1129,8 @@
 :::warning{title=🤔同义词}
 
 - extensive, universal, comprehensive, ruling, generalized （普遍的，广泛的；分布广的）
+
+:::
 
 
 ## 1230. isotope
@@ -1109,6 +1163,8 @@
 
 - isotopic element （[核]同位素）
 
+:::
+
 
 ## 1231. detect
 
@@ -1123,6 +1179,8 @@
 :::warning{title=🤔同义词}
 
 - explore, perceive （察觉；发现；探测）
+
+:::
 
 
 ## 1232. nevertheless
@@ -1142,6 +1200,8 @@
 - though, natheless （然而，不过；虽然如此）
 
 - whereas, however, while, but, yet （然而，不过）
+
+:::
 
 
 ## 1233. wheat
@@ -1189,6 +1249,8 @@
 :::warning{title=🤔同义词}
 
 - triticum aestivum, trigo （[作物]小麦；小麦色）
+
+:::
 
 
 ## 1234. peak
@@ -1263,6 +1325,8 @@
 
 - highest, supreme, maximum, top, tallest （最高的；最大值的）
 
+:::
+
 
 ## 1235. parlor
 
@@ -1288,6 +1352,8 @@
 
 - drawing-room, foreroom （客厅；会客室；业务室）
 
+:::
+
 
 ## 1236. navigate
 
@@ -1304,6 +1370,8 @@
 - man, drive, guide （驾驶，操纵；使通过；航行于）
 
 - put, sail （航行，航空）
+
+:::
 
 
 ## 1237. tendency
@@ -1338,6 +1406,8 @@
 
 - liability, trend, direction, tide, set （倾向，趋势；癖好）
 
+:::
+
 
 ## 1238. flourish
 
@@ -1364,6 +1434,8 @@
 - air, sport （夸耀；挥舞）
 
 - succeed, flower, thrive （繁荣，兴旺；茂盛；活跃；处于旺盛时期）
+
+:::
 
 
 ## 1239. catch
@@ -1428,6 +1500,8 @@
 
 - haul （捕捉；捕获物；窗钩）
 
+:::
+
 
 ## 1240. evolutionary
 
@@ -1458,6 +1532,8 @@
 :::warning{title=🤔同义词}
 
 - growing, developmental, changing （进化的；发展的；渐进的）
+
+:::
 
 
 ## 1241. bead
@@ -1492,6 +1568,8 @@
 
 - foam formation （形成珠状，起泡）
 
+:::
+
 
 ## 1242. variability
 
@@ -1508,6 +1586,8 @@
 :::warning{title=🤔同义词}
 
 - adaptability, modifiability （[生物][数]可变性，变化性；变异性）
+
+:::
 
 
 ## 1243. turbine
@@ -1588,6 +1668,8 @@
 
 - upland （高原的；[地理]高地的）
 
+:::
+
 
 ## 1245. meat
 
@@ -1652,6 +1734,8 @@
 :::warning{title=🤔同义词}
 
 - flesh, carne （[食品]肉，肉类（食用））
+
+:::
 
 
 ## 1246. match
@@ -1720,6 +1804,8 @@
 
 - competition, game, tournament, play, contest （比赛，竞赛；匹配；对手；火柴）
 
+:::
+
 
 ## 1247. tall
 
@@ -1769,6 +1855,8 @@
 
 - large, big （夸大地）
 
+:::
+
 
 ## 1248. communicate
 
@@ -1794,6 +1882,8 @@
 
 - affect, catch, contract, convey （传达；感染；显露）
 
+:::
+
 
 ## 1249. distribute
 
@@ -1808,6 +1898,8 @@
 :::warning{title=🤔同义词}
 
 - portion, part, spread （分配；散布；分开；把…分类）
+
+:::
 
 
 ## 1250. comparative
@@ -1854,6 +1946,8 @@
 
 - equal, opponent, match, rival （比较级；对手）
 
+:::
+
 
 ## 1251. newly
 
@@ -1862,6 +1956,8 @@
 :::warning{title=🤔同义词}
 
 - recently, of late, last （最近；重新；以新的方式）
+
+:::
 
 
 ## 1252. mill
@@ -1926,6 +2022,8 @@
 
 - mix round, churn up （搅拌；[机]碾磨；磨细；使乱转）
 
+:::
+
 
 ## 1253. indirect
 
@@ -1966,6 +2064,8 @@
 :::warning{title=🤔同义词}
 
 - circular, consequential （[试验]间接的；迂回的；非直截了当的）
+
+:::
 
 
 ## 1254. stop
@@ -2032,6 +2132,8 @@
 
 - visit, bar, stay, obstacle, dam （停止；[交]车站；障碍；逗留）
 
+:::
+
 
 ## 1255. destruction
 
@@ -2068,6 +2170,8 @@
 :::warning{title=🤔同义词}
 
 - breaking, death, blasting, disruption, demolition （破坏，毁灭；摧毁）
+
+:::
 
 
 ## 1256. customer
@@ -2122,6 +2226,8 @@
 
 - client, apple, consumer, fellow, egg （[贸易]顾客；家伙）
 
+:::
+
 
 ## 1257. suddenly
 
@@ -2140,6 +2246,8 @@
 :::warning{title=🤔同义词}
 
 - sharp, abruptly （突然地；忽然）
+
+:::
 
 
 ## 1258. multiple
@@ -2208,6 +2316,8 @@
 
 - time, paralleling （[数]倍数；[电]并联）
 
+:::
+
 
 ## 1259. vitamin
 
@@ -2242,6 +2352,8 @@
 :::warning{title=🤔同义词}
 
 - thiamine hydrochloride （[生化]维生素；维他命）
+
+:::
 
 
 ## 1260. manner
@@ -2289,6 +2401,8 @@
 :::warning{title=🤔同义词}
 
 - way of, mode, category, variety, nature （方式；习惯；种类；规矩；风俗）
+
+:::
 
 
 ## 1261. vegetable
@@ -2359,6 +2473,8 @@
 
 - floral, botanic （[园艺]蔬菜的；[植]植物的）
 
+:::
+
 
 ## 1262. conclude
 
@@ -2385,6 +2501,8 @@
 - understand, condition （推断；决定，[劳经]作结论；结束）
 
 - deduce from, draw the conclusion （推断；断定；决定）
+
+:::
 
 
 ## 1263. barrier
@@ -2445,6 +2563,8 @@
 
 - limit, block, bottleneck （[地物]障碍物，[建]屏障；界线）
 
+:::
+
 
 ## 1264. mud
 
@@ -2496,6 +2616,8 @@
 
 - muld, vanity （[地质]泥；诽谤的话；无价值的东西）
 
+:::
+
 
 ## 1265. motif
 
@@ -2510,6 +2632,8 @@
 :::warning{title=🤔同义词}
 
 - topic, theme, subject, substance, incentive （主题；动机；主旨；图形；意念）
+
+:::
 
 
 ## 1266. wheel
@@ -2575,6 +2699,8 @@
 - turn, roll （转动；使变换方向；给…装轮子）
 
 - circle, spin （旋转；突然转变方向；盘旋飞行）
+
+:::
 
 
 ## 1267. rough
@@ -2645,6 +2771,8 @@
 
 - coarsely, crudely （[机]粗糙地；粗略地；粗暴地）
 
+:::
+
 
 ## 1268. corridor
 
@@ -2666,6 +2794,8 @@
 
 - hall, passage, gallery, verandah, slype （[建]走廊）
 
+:::
+
 
 ## 1269. challenger
 
@@ -2680,6 +2810,8 @@
 :::warning{title=🤔同义词}
 
 - defier （挑战者）
+
+:::
 
 
 ## 1270. fragment
@@ -2710,6 +2842,8 @@
 
 - debris, chip （碎片；片断或不完整部分）
 
+:::
+
 
 ## 1271. occasionally
 
@@ -2718,6 +2852,8 @@
 :::warning{title=🤔同义词}
 
 - sometimes, betweenwhiles （偶而，间或）
+
+:::
 
 
 ## 1272. component
@@ -2780,6 +2916,8 @@
 
 - module, element, constituent （成分；组件；[电子]元件）
 
+:::
+
 
 ## 1273. beaver
 
@@ -2800,6 +2938,8 @@
 :::warning{title=🤔同义词}
 
 - castor （[脊椎]海狸；海狸皮毛）
+
+:::
 
 
 ## 1274. comprehension
@@ -2825,6 +2965,8 @@
 :::warning{title=🤔同义词}
 
 - containing, grasp, understanding, involved in, involvement （理解；包含）
+
+:::
 
 
 ## 1275. physiological
@@ -2907,6 +3049,8 @@
 
 - service, protocol, exercise （典礼，仪式；礼节，礼仪；客套，虚礼）
 
+:::
+
 
 ## 1277. altitude
 
@@ -2937,6 +3081,8 @@
 :::warning{title=🤔同义词}
 
 - height, raise, elevation, rise （高地；高度；[数]顶垂线；（等级和地位等的）高级）
+
+:::
 
 
 ## 1278. arrive
@@ -2975,6 +3121,8 @@
 
 - land, win, make good （到达；成功；达成；出生）
 
+:::
+
 
 ## 1279. exploit
 
@@ -2991,6 +3139,8 @@
 - develop, mine （开发，开拓；剥削；开采）
 
 - merit, feat （勋绩；功绩）
+
+:::
 
 
 ## 1280. microscopic
@@ -3081,6 +3231,8 @@
 
 - kalendar, time-table （[交]时间表；[计划]计划表；一览表）
 
+:::
+
 
 ## 1282. former
 
@@ -3113,6 +3265,8 @@
 - long-ago, old-time （从前的，前者的；前任的）
 
 - matrix, model, shape, template （模型，样板；起形成作用的人）
+
+:::
 
 
 ## 1283. career
@@ -3177,6 +3331,8 @@
 
 - enterprise, profession, employment, pursuit, cause （事业，职业；生涯）
 
+:::
+
 
 ## 1284. aim
 
@@ -3218,6 +3374,8 @@
 
 - intention, purpose, sake, objective, target （目的；目标；对准）
 
+:::
+
 
 ## 1285. inventor
 
@@ -3232,6 +3390,8 @@
 :::warning{title=🤔同义词}
 
 - creator, artificer （[专利]发明家；发明人；创造者）
+
+:::
 
 
 ## 1286. consume
@@ -3260,6 +3420,8 @@
 
 - peter, spend （耗尽，毁灭；耗尽生命）
 
+:::
+
 
 ## 1287. examine
 
@@ -3286,6 +3448,8 @@
 - inspect, review, survey （检查；调查； 检测；考试）
 
 - probe, check for （检查；调查）
+
+:::
 
 
 ## 1288. atmospheric
@@ -3346,6 +3510,8 @@
 
 - freeair, meteoric （[地物]大气的，大气层的）
 
+:::
+
 
 ## 1289. fore
 
@@ -3377,6 +3543,8 @@
 
 - front, onwards （在前面；在船头）
 
+:::
+
 
 ## 1290. province
 
@@ -3401,6 +3569,8 @@
 :::warning{title=🤔同义词}
 
 - domain, territory, world, universe, kingdom （省；领域；职权）
+
+:::
 
 
 ## 1291. introduction
@@ -3439,6 +3609,8 @@
 
 - presentation, adoption （介绍；引进；采用；入门；传入）
 
+:::
+
 
 ## 1292. encode
 
@@ -3457,6 +3629,8 @@
 :::warning{title=🤔同义词}
 
 - to code, to decode （[计]编码，译码）
+
+:::
 
 
 ## 1293. squirrel
@@ -3484,6 +3658,8 @@
 :::warning{title=🤔同义词}
 
 - store, reposit （贮藏）
+
+:::
 
 
 ## 1294. random
@@ -3542,6 +3718,8 @@
 
 - wild （胡乱地）
 
+:::
+
 
 ## 1295. tulip
 
@@ -3557,6 +3735,8 @@
 
 - TULIPS FRORM AMSTERDAM, Tulipa gesneriana （[园艺]郁金香）
 
+:::
+
 
 ## 1296. invent
 
@@ -3571,6 +3751,8 @@
 :::warning{title=🤔同义词}
 
 - father, coin （发明；创造；虚构）
+
+:::
 
 
 ## 1297. pueblo
@@ -3621,6 +3803,8 @@
 
 - drive, belt （连续重击，猛击）
 
+:::
+
 
 ## 1299. pebble
 
@@ -3643,5 +3827,7 @@
 :::warning{title=🤔同义词}
 
 - boulder, ratchel （[建]卵石；水晶透镜）
+
+:::
 
 

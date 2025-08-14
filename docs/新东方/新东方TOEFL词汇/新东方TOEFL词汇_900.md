@@ -16,6 +16,8 @@
 
 - respite （使推迟；使延期）
 
+:::
+
 
 ## 901. drowsy
 
@@ -31,6 +33,8 @@
 
 - slumbrous, hypnogenetic （昏昏欲睡的；沉寂的；催眠的）
 
+:::
+
 
 ## 902. lore
 
@@ -45,6 +49,8 @@
 :::warning{title=🤔同义词}
 
 - information, knowledge of, learning, cognition, study （知识；学问；全部传说；（动物的）眼光知识）
+
+:::
 
 
 ## 903. mast
@@ -139,6 +145,8 @@
 
 - concentrate, collect, crowd （聚集起来，聚集）
 
+:::
+
 
 ## 905. muggy
 
@@ -154,6 +162,8 @@
 
 - wet, stuffy （闷热的；潮湿的）
 
+:::
+
 
 ## 906. revoke
 
@@ -168,6 +178,8 @@
 :::warning{title=🤔同义词}
 
 - recall, unsay （撤回，取消；废除）
+
+:::
 
 
 ## 907. proper
@@ -232,6 +244,8 @@
 
 - totally, entirely, completely, absolutely, thoroughly, strictly, fully （完全地）
 
+:::
+
 
 ## 908. renaissance
 
@@ -260,6 +274,8 @@
 :::warning{title=🤔同义词}
 
 - reconstruction, fresh, revival, renewal （复兴；新生；复活）
+
+:::
 
 
 ## 909. poisonous
@@ -291,6 +307,8 @@
 :::warning{title=🤔同义词}
 
 - toxic, evil, rank, vicious, venomous （有毒的；恶毒的；讨厌的）
+
+:::
 
 
 ## 910. auction
@@ -333,6 +351,8 @@
 
 - public sale, vendue （[贸易]拍卖）
 
+:::
+
 
 ## 911. allot
 
@@ -347,6 +367,8 @@
 :::warning{title=🤔同义词}
 
 - portion, part （分配；拨给；分派）
+
+:::
 
 
 ## 912. propel
@@ -364,6 +386,8 @@
 :::warning{title=🤔同义词}
 
 - stimulate, power （推进；驱使；激励；驱策）
+
+:::
 
 
 ## 913. admit
@@ -392,6 +416,8 @@
 
 - accept, recognize （承认；容许）
 
+:::
+
 
 ## 914. rampant
 
@@ -414,6 +440,8 @@
 :::warning{title=🤔同义词}
 
 - angry, rude （猖獗的；蔓延的；狂暴的；奔放的）
+
+:::
 
 
 ## 915. interest
@@ -482,6 +510,8 @@
 
 - like, fond of （兴趣，爱好；[金融]利息；趣味；同行）
 
+:::
+
 
 ## 916. uneven
 
@@ -513,6 +543,8 @@
 
 - odd, heterogeneous （不均匀的；不平坦的；[数]奇数的）
 
+:::
+
 
 ## 917. twig
 
@@ -538,6 +570,8 @@
 
 - shoots, ramulus （小枝；嫩枝；末梢）
 
+:::
+
 
 ## 918. immature
 
@@ -552,6 +586,8 @@
 :::warning{title=🤔同义词}
 
 - crude, rough, raw, coarse, harsh （不成熟的；未成熟的；粗糙的）
+
+:::
 
 
 ## 919. organic
@@ -614,6 +650,8 @@
 
 - fundamental, ultimate, radical, underlying （[生物][有化]有机的；组织的；器官的；根本的）
 
+:::
+
 
 ## 920. chaste
 
@@ -628,6 +666,8 @@
 :::warning{title=🤔同义词}
 
 - stainless, pure, white, plain （纯洁的；贞洁的；有道德的；朴素的）
+
+:::
 
 
 ## 921. mask
@@ -674,6 +714,8 @@
 
 - belie, disguise （掩饰；戴面具；使模糊）
 
+:::
+
 
 ## 922. evacuation
 
@@ -701,6 +743,8 @@
 
 - decentralization, excretion （[军]疏散；撤离；排泄）
 
+:::
+
 
 ## 923. patron
 
@@ -721,6 +765,8 @@
 :::warning{title=🤔同义词}
 
 - guardian, backer （赞助人；保护人；主顾）
+
+:::
 
 
 ## 924. apply
@@ -763,6 +809,8 @@
 
 - demand, put in for （申请；涂，敷；适用；请求）
 
+:::
+
 
 ## 925. stew
 
@@ -790,6 +838,8 @@
 
 - simmer, fret one's gizzard （炖，炖汤；焖；受闷热；忧虑）
 
+:::
+
 
 ## 926. overlook
 
@@ -809,6 +859,8 @@
 
 - inobservancy, negligence （忽视；眺望）
 
+:::
+
 
 ## 927. incredible
 
@@ -827,6 +879,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, unbelievable, spectacular, fabulous （难以置信的，惊人的）
+
+:::
 
 
 ## 928. layout
@@ -884,6 +938,8 @@
 :::warning{title=🤔同义词}
 
 - programming, exposure, disposal, showing, design （布局；设计；安排；陈列）
+
+:::
 
 
 ## 929. landing
@@ -948,6 +1004,8 @@
 
 - disembarking （[军]登陆（land的ing形式））
 
+:::
+
 
 ## 930. formula
 
@@ -1009,6 +1067,8 @@
 
 - criterion, expressions （[数]公式，准则；[化工]配方；婴儿食品）
 
+:::
+
 
 ## 931. avalanche
 
@@ -1031,6 +1091,8 @@
 - slide, snowslide, lawine （[水文][地理]雪崩）
 
 - molder （崩塌）
+
+:::
 
 
 ## 932. revolt
@@ -1063,6 +1125,8 @@
 
 - resistance, hate, rebellion （反抗；叛乱；反感）
 
+:::
+
 
 ## 933. disgust
 
@@ -1085,6 +1149,8 @@
 - aversion, abomination （厌恶，嫌恶）
 
 - indispose, repel （使厌恶；使作呕）
+
+:::
 
 
 ## 934. tribute
@@ -1109,6 +1175,8 @@
 
 - gift, giving, present （礼物；[税收]贡物；颂词）
 
+:::
+
 
 ## 935. endanger
 
@@ -1123,6 +1191,8 @@
 :::warning{title=🤔同义词}
 
 - jeopard, imperil （危及；使遭到危险）
+
+:::
 
 
 ## 936. base
@@ -1187,6 +1257,8 @@
 
 - poor, mean, dirty （卑鄙的；低劣的）
 
+:::
+
 
 ## 937. stem
 
@@ -1236,6 +1308,8 @@
 
 - prevent from, head off （阻止；起源于某事物；逆行）
 
+:::
+
 
 ## 938. subordinate
 
@@ -1266,6 +1340,8 @@
 - inferior, underling （下属，下级；部属，属下）
 
 - dependent, secondary, supporting, minor, peripheral （从属的；次要的）
+
+:::
 
 
 ## 939. trend
@@ -1336,6 +1412,8 @@
 
 - verge on, tend towards （趋向，伸向）
 
+:::
+
 
 ## 940. mechanic
 
@@ -1360,6 +1438,8 @@
 - servicemen, technical worker （[劳经]技工，机修工）
 
 - manual, handmade （手工的）
+
+:::
 
 
 ## 941. revolution
@@ -1420,6 +1500,8 @@
 
 - circulation, rotation, rolling, turning, cycle （革命；[物]旋转；运行；循环）
 
+:::
+
 
 ## 942. reliable
 
@@ -1452,6 +1534,8 @@
 - responsible, tried, honest, safe, sure （可靠的；可信赖的）
 
 - true-blue （可靠的人）
+
+:::
 
 
 ## 943. incentive
@@ -1496,6 +1580,8 @@
 
 - stimulative, hortatory （激励的；刺激的）
 
+:::
+
 
 ## 944. relate
 
@@ -1518,6 +1604,8 @@
 - narrate, recount （叙述；使…有联系）
 
 - deal with, identify （涉及；认同；符合；与…有某种联系）
+
+:::
 
 
 ## 945. preliminary
@@ -1584,6 +1672,8 @@
 
 - opening, rudimentary （初步的；开始的；预备的）
 
+:::
+
 
 ## 946. obstacle
 
@@ -1613,6 +1703,8 @@
 
 - interference, let, bar, disturbance, dam （障碍，干扰；妨害物）
 
+:::
+
 
 ## 947. leftover
 
@@ -1637,6 +1729,8 @@
 - remain, residuum （残留物；吃剩的饭菜；剩余物）
 
 - remanent, vestigial （残余的；吃剩的）
+
+:::
 
 
 ## 948. collaborative
@@ -1663,6 +1757,8 @@
 
 - cooperative, coefficient, synergic （合作的，协作的）
 
+:::
+
 
 ## 949. constitute
 
@@ -1684,6 +1780,8 @@
 
 - install, establish, form, found, build （组成，构成；建立；任命）
 
+:::
+
 
 ## 950. indict
 
@@ -1698,6 +1796,8 @@
 :::warning{title=🤔同义词}
 
 - law, sue for （控告，起诉；[法]揭发）
+
+:::
 
 
 ## 951. courier
@@ -1726,6 +1826,8 @@
 
 - ciceroni, gaid （导游；情报员，通讯员；送快信的人）
 
+:::
+
 
 ## 952. convince
 
@@ -1740,6 +1842,8 @@
 :::warning{title=🤔同义词}
 
 - assure, reason, satisfy, argue （说服；使确信，使信服）
+
+:::
 
 
 ## 953. mate
@@ -1773,6 +1877,8 @@
 - accord, unify （使配对；使一致；结伴）
 
 - copulate, close fit （[生物]交配；成配偶；紧密配合）
+
+:::
 
 
 ## 954. stampede
@@ -1813,6 +1919,8 @@
 
 - gobble up, bolt down （拚命吃；狼吞虎咽）
 
+:::
+
 
 ## 956. terminate
 
@@ -1840,6 +1948,8 @@
 
 - ended, closing, over, past, concluding （结束的）
 
+:::
+
 
 ## 957. mannerism
 
@@ -1854,6 +1964,8 @@
 :::warning{title=🤔同义词}
 
 - preciosity, peculiarity （特殊习惯；矫揉造作；怪癖）
+
+:::
 
 
 ## 958. theory
@@ -1914,6 +2026,8 @@
 
 - mechanism, element, speculation, doctrine, guess （理论；原理；学说；推测）
 
+:::
+
 
 ## 959. confederacy
 
@@ -1928,6 +2042,8 @@
 :::warning{title=🤔同义词}
 
 - alliance, union, association, league, federation （联盟；联邦；私党）
+
+:::
 
 
 ## 960. flock
@@ -1957,6 +2073,8 @@
 - cluster, gang, bunch, qun （群；棉束（等于floc））
 
 - concentrate, collect, mass, crowd （聚集；成群而行）
+
+:::
 
 
 ## 961. extension
@@ -2014,6 +2132,8 @@
 :::warning{title=🤔同义词}
 
 - delay, spread （延长；[经]延期；扩大；伸展；电话分机）
+
+:::
 
 
 ## 962. internal
@@ -2078,6 +2198,8 @@
 
 - inner, inherent, domestic, inside, home （[药]内部的；内在的；国内的）
 
+:::
+
 
 ## 963. gender
 
@@ -2127,6 +2249,8 @@
 
 - sexuality, sexual intercourse （性；性别；性交）
 
+:::
+
 
 ## 964. literary
 
@@ -2159,6 +2283,8 @@
 :::warning{title=🤔同义词}
 
 - written （文学的；书面的；精通文学的）
+
+:::
 
 
 ## 965. architect
@@ -2206,6 +2332,8 @@
 - resect, abscise （切除；收税）
 
 - consumption tax, goods tax （[税收]消费税；货物税）
+
+:::
 
 
 ## 967. punch
@@ -2262,6 +2390,8 @@
 
 - jab （用拳猛击）
 
+:::
+
 
 ## 968. across
 
@@ -2293,6 +2423,8 @@
 
 - opposite （横过；在对面）
 
+:::
+
 
 ## 969. flexibility
 
@@ -2319,6 +2451,8 @@
 :::warning{title=🤔同义词}
 
 - give, elasticity, adaptability （灵活性；[力]弹性；适应性）
+
+:::
 
 
 ## 970. mortgage
@@ -2391,6 +2525,8 @@
 
 - hypothecation, pledge （[经]抵押）
 
+:::
+
 
 ## 971. identity
 
@@ -2449,6 +2585,8 @@
 :::warning{title=🤔同义词}
 
 - accordance, estate, unity, agreement, quality （身份；同一性，一致；特性；恒等式）
+
+:::
 
 
 ## 972. federal
@@ -2509,6 +2647,8 @@
 
 - confederal, fed. （联邦的；同盟的）
 
+:::
+
 
 ## 973. verify
 
@@ -2529,6 +2669,8 @@
 :::warning{title=🤔同义词}
 
 - touch bottom, check on （核实；查证）
+
+:::
 
 
 ## 974. excursion
@@ -2551,6 +2693,8 @@
 
 - skewing, short trip （偏移；远足；短程旅行；离题；游览圆）
 
+:::
+
 
 ## 975. inaugurate
 
@@ -2565,6 +2709,8 @@
 :::warning{title=🤔同义词}
 
 - pioneer （创新；开辟；开创；举行开幕典礼；举行就职典礼）
+
+:::
 
 
 ## 976. cramp
@@ -2588,6 +2734,8 @@
 - chain, block （束缚，限制；使…抽筋；以铁箍扣紧）
 
 - narrow, restricted, mysterious, confined, strait （狭窄的；难解的；受限制的）
+
+:::
 
 
 ## 977. academy
@@ -2634,6 +2782,8 @@
 
 - college, school （学院；研究院；学会；专科院校）
 
+:::
+
 
 ## 978. solitude
 
@@ -2648,6 +2798,8 @@
 :::warning{title=🤔同义词}
 
 - privacy, loneliness （孤独；隐居；荒僻的地方）
+
+:::
 
 
 ## 979. reward
@@ -2690,6 +2842,8 @@
 
 - put a premium on （[劳经]奖励；奖赏）
 
+:::
+
 
 ## 980. hockey
 
@@ -2716,6 +2870,8 @@
 :::warning{title=🤔同义词}
 
 - puck （曲棍球；冰球）
+
+:::
 
 
 ## 981. graze
@@ -2744,6 +2900,8 @@
 
 - pasturage （放牧；轻擦）
 
+:::
+
 
 ## 982. swallow
 
@@ -2771,6 +2929,8 @@
 
 - get sth down, get down （吞下；咽下）
 
+:::
+
 
 ## 983. perquisite
 
@@ -2779,6 +2939,8 @@
 :::warning{title=🤔同义词}
 
 - prequisite, franchise （额外补贴；临时津贴；特权）
+
+:::
 
 
 ## 984. hominid
@@ -2798,6 +2960,8 @@
 :::warning{title=🤔同义词}
 
 - homonid （原始人类；人科动物）
+
+:::
 
 
 ## 985. nucleus
@@ -2840,6 +3004,8 @@
 
 - core, quick （[核][天][生物]核，核心；原子核）
 
+:::
+
 
 ## 986. sting
 
@@ -2860,6 +3026,8 @@
 - stick, pink （刺；驱使；使…苦恼；使…疼痛）
 
 - smart, bite （刺痛；被刺痛；感到剧痛）
+
+:::
 
 
 ## 987. juice
@@ -2924,6 +3092,8 @@
 
 - extract, syrup （（水果）汁，液；果汁）
 
+:::
+
 
 ## 988. haste
 
@@ -2961,6 +3131,8 @@
 
 - hurry up, get a move on, shake it up, snap it up （赶快）
 
+:::
+
 
 ## 989. nurture
 
@@ -2985,6 +3157,8 @@
 - encourage, raise, heart, mother, foster （养育；鼓励；培植）
 
 - nursing, breeding （养育；教养；营养物）
+
+:::
 
 
 ## 990. buckle
@@ -3015,6 +3189,8 @@
 
 - wind, curve （扣住；使弯曲）
 
+:::
+
 
 ## 991. degenerate
 
@@ -3037,6 +3213,8 @@
 - fallen, degraded （[数][生物]退化的；堕落的）
 
 - lost souls （堕落的人）
+
+:::
 
 
 ## 992. destructive
@@ -3069,6 +3247,8 @@
 
 - harmful, evil, fell, negative, passive （破坏的；毁灭性的；有害的，消极的）
 
+:::
+
 
 ## 993. monastery
 
@@ -3088,6 +3268,8 @@
 
 - monk, Grazie （修道院；僧侣）
 
+:::
+
 
 ## 994. devout
 
@@ -3102,6 +3284,8 @@
 :::warning{title=🤔同义词}
 
 - religious, good （虔诚的；衷心的）
+
+:::
 
 
 ## 995. censor
@@ -3122,6 +3306,8 @@
 
 - supervisor, inspector （检查员；[心理]潜意识压抑力；信件检查员）
 
+:::
+
 
 ## 996. devour
 
@@ -3136,6 +3322,8 @@
 :::warning{title=🤔同义词}
 
 - devastate, wrack and ruin （吞食；毁灭；凝视）
+
+:::
 
 
 ## 997. stir
@@ -3170,6 +3358,8 @@
 
 - spread abroad, to disseminate （搅动；传播；走动）
 
+:::
+
 
 ## 998. insult
 
@@ -3197,6 +3387,8 @@
 
 - despite, contumely （侮辱；凌辱；无礼）
 
+:::
+
 
 ## 999. existence
 
@@ -3223,5 +3415,7 @@
 :::warning{title=🤔同义词}
 
 - presence, being, entity, life, is （[计]存在，实在；生存，生活；存在物，实在物）
+
+:::
 
 

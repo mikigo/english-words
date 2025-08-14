@@ -26,6 +26,8 @@
 
 - solely, alone, individually （单独地）
 
+:::
+
 
 ## 3001. designer
 
@@ -64,6 +66,8 @@
 - stylist （[建]设计师；谋划者）
 
 - fashion-conscious, turned-on （由设计师专门设计的；享有盛名的；赶时髦的）
+
+:::
 
 
 ## 3002. karst
@@ -105,6 +109,8 @@
 :::warning{title=🤔同义词}
 
 - astral （[航][天]星际的）
+
+:::
 
 
 ## 3004. scratch
@@ -157,6 +163,8 @@
 
 - grasp, strike （抓；搔；发刮擦声；勉强糊口；退出比赛）
 
+:::
+
 
 ## 3005. recycle
 
@@ -182,6 +190,8 @@
 
 - regeneration, breeding, rebirth （再生；再循环；重复利用）
 
+:::
+
 
 ## 3006. uncover
 
@@ -198,6 +208,8 @@
 - detect, reveal （发现；揭开；揭露）
 
 - to discover, sniff out （发现；揭示；揭去盖子）
+
+:::
 
 
 ## 3007. gibraltar
@@ -219,6 +231,8 @@
 - replenish （再装满；再充满）
 
 - alternate （替换物；再注满）
+
+:::
 
 
 ## 3009. fame
@@ -247,6 +261,8 @@
 
 - tradition, celebrity, tale （名声，名望；传闻，传说）
 
+:::
+
 
 ## 3010. caravan
 
@@ -261,6 +277,8 @@
 :::warning{title=🤔同义词}
 
 - circus wagon, schooner （大篷车；旅行队）
+
+:::
 
 
 ## 3011. microorganism
@@ -286,6 +304,8 @@
 :::warning{title=🤔同义词}
 
 - organism, animalcule （[微]微生物；微小动植物）
+
+:::
 
 
 ## 3012. probable
@@ -313,6 +333,8 @@
 :::warning{title=🤔同义词}
 
 - likely, trusted, authentic （很可能的；可信的）
+
+:::
 
 
 ## 3013. compromise
@@ -349,6 +371,8 @@
 
 - accommodation, reconciliation （妥协，和解；折衷）
 
+:::
+
 
 ## 3014. inequality
 
@@ -378,6 +402,8 @@
 
 - difference, disparity （[数]不平等；不同；不平均）
 
+:::
+
 
 ## 3015. physicist
 
@@ -398,6 +424,8 @@
 :::warning{title=🤔同义词}
 
 - physical scientist （物理学家；唯物论者）
+
+:::
 
 
 ## 3016. intensive
@@ -450,6 +478,8 @@
 
 - enhanced, reinforced, concentrated, searching, mass （加强的；[经]集中的；透彻的；加强语气的）
 
+:::
+
 
 ## 3017. forget
 
@@ -491,6 +521,8 @@
 
 - sponge out, slip one's mind （忘记）
 
+:::
+
 
 ## 3018. postal
 
@@ -527,6 +559,8 @@
 :::warning{title=🤔同义词}
 
 - post card （明信片）
+
+:::
 
 
 ## 3019. queen
@@ -567,6 +601,8 @@
 
 - Regina, lady in waiting （女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王）
 
+:::
+
 
 ## 3020. sailor
 
@@ -589,6 +625,8 @@
 :::warning{title=🤔同义词}
 
 - matlo, matelot （水手，海员；乘船者）
+
+:::
 
 
 ## 3021. intervention
@@ -625,6 +663,8 @@
 
 - prevention, violation （介入；调停；妨碍）
 
+:::
+
 
 ## 3022. immobile
 
@@ -639,6 +679,8 @@
 :::warning{title=🤔同义词}
 
 - settled, steady, constant, standing, permanent （固定的；稳定的；不变的）
+
+:::
 
 
 ## 3023. entity
@@ -674,6 +716,8 @@
 :::warning{title=🤔同义词}
 
 - presence, existence, essence, principle, texture （实体；存在；本质）
+
+:::
 
 
 ## 3024. calendar
@@ -719,6 +763,8 @@
 :::warning{title=🤔同义词}
 
 - daily schedule, ephemeris （日历；[天]历法；[管理]日程表）
+
+:::
 
 
 ## 3025. stabilize
@@ -793,6 +839,8 @@
 
 - sort, concert （[电子][通信]调谐；协调）
 
+:::
+
 
 ## 3027. predominantly
 
@@ -807,6 +855,8 @@
 :::warning{title=🤔同义词}
 
 - mainly, basically, largely, mostly, primarily （主要地；显著地）
+
+:::
 
 
 ## 3028. disgust
@@ -831,6 +881,8 @@
 
 - indispose, repel （使厌恶；使作呕）
 
+:::
+
 
 ## 3029. deficient
 
@@ -851,6 +903,8 @@
 :::warning{title=🤔同义词}
 
 - insufficient, short, inadequate, lacking, disabled （不足的；有缺陷的；不充分的）
+
+:::
 
 
 ## 3030. assistance
@@ -893,6 +947,8 @@
 
 - aid, hand, help, boost （援助，帮助；辅助设备）
 
+:::
+
 
 ## 3031. persistent
 
@@ -922,6 +978,8 @@
 
 - fixed, consistent, set （固执的，坚持的；持久稳固的）
 
+:::
+
 
 ## 3032. prestige
 
@@ -940,6 +998,8 @@
 :::warning{title=🤔同义词}
 
 - reputation, credit （威望，声望；声誉）
+
+:::
 
 
 ## 3033. mound
@@ -966,6 +1026,8 @@
 
 - heap up （堆起；筑堤）
 
+:::
+
 
 ## 3034. fashionable
 
@@ -980,6 +1042,8 @@
 :::warning{title=🤔同义词}
 
 - popular, going, modern, ruling, epidemic （流行的；时髦的；上流社会的）
+
+:::
 
 
 ## 3035. sect
@@ -1018,6 +1082,8 @@
 
 - preclude, rule out （排除；排斥；拒绝接纳；逐出）
 
+:::
+
 
 ## 3037. vaudeville
 
@@ -1036,6 +1102,8 @@
 :::warning{title=🤔同义词}
 
 - variety, jugglery （杂耍；轻歌舞剧；歌舞杂耍表演）
+
+:::
 
 
 ## 3038. scent
@@ -1064,6 +1132,8 @@
 
 - show evidence of （发出…的气味；有…的迹象；嗅着气味追赶）
 
+:::
+
 
 ## 3039. uncertainty
 
@@ -1091,6 +1161,8 @@
 
 - indetermination, unsureness （[数][物]不确定，不可靠）
 
+:::
+
 
 ## 3040. carnivore
 
@@ -1105,6 +1177,8 @@
 :::warning{title=🤔同义词}
 
 - predator （[动]食肉动物；食虫植物）
+
+:::
 
 
 ## 3041. civilian
@@ -1139,6 +1213,8 @@
 
 - populace, common man （平民，百姓）
 
+:::
+
 
 ## 3042. hunger
 
@@ -1172,6 +1248,8 @@
 
 - rare, aspire （渴望；挨饿）
 
+:::
+
 
 ## 3043. publication
 
@@ -1197,6 +1275,8 @@
 
 - announcement （出版；出版物；发表）
 
+:::
+
 
 ## 3044. prolong
 
@@ -1211,6 +1291,8 @@
 :::warning{title=🤔同义词}
 
 - drag on, drag out （延长；拖延）
+
+:::
 
 
 ## 3045. plaster
@@ -1257,6 +1339,8 @@
 
 - stick, moderate （减轻；粘贴；涂以灰泥；敷以膏药；使平服）
 
+:::
+
 
 ## 3046. sadness
 
@@ -1274,6 +1358,8 @@
 
 - sorriness, tristesse （悲哀）
 
+:::
+
 
 ## 3047. theorize
 
@@ -1288,6 +1374,8 @@
 :::warning{title=🤔同义词}
 
 - ratiocinate （建立理论或学说；推理）
+
+:::
 
 
 ## 3048. tundra
@@ -1313,6 +1401,8 @@
 :::warning{title=🤔同义词}
 
 - cold desert, frozen ground （[生态]苔原；[地理]冻原；冻土地带）
+
+:::
 
 
 ## 3049. concert
@@ -1363,6 +1453,8 @@
 
 - cooperate, sort （协调；协力）
 
+:::
+
 
 ## 3050. localize
 
@@ -1379,6 +1471,8 @@
 - provincialize （使地方化；使局部化；停留在一地方）
 
 - concentrate, focus （局部化；集中）
+
+:::
 
 
 ## 3051. dependable
@@ -1402,6 +1496,8 @@
 :::warning{title=🤔同义词}
 
 - reliable, responsible, tried, honest, safe （可靠的，可信赖的；可信任的）
+
+:::
 
 
 ## 3052. anomaly
@@ -1434,6 +1530,8 @@
 
 - abnormality, deviance （[气象]异常；不规则；反常事物）
 
+:::
+
 
 ## 3053. displace
 
@@ -1450,6 +1548,8 @@
 :::warning{title=🤔同义词}
 
 - shift, replace by （取代；置换；转移；把…免职；排水）
+
+:::
 
 
 ## 3054. gravitational
@@ -1504,6 +1604,8 @@
 
 - articulate （发音；作出判断）
 
+:::
+
 
 ## 3056. abundantly
 
@@ -1519,6 +1621,8 @@
 
 - largely, freely, big, importantly, heavy （丰富地；大量地）
 
+:::
+
 
 ## 3057. liberate
 
@@ -1533,6 +1637,8 @@
 :::warning{title=🤔同义词}
 
 - deliver, issue, emancipate （解放；放出；释放）
+
+:::
 
 
 ## 3058. intensify
@@ -1550,6 +1656,8 @@
 :::warning{title=🤔同义词}
 
 - rise, tone up （增强，强化；变激烈）
+
+:::
 
 
 ## 3059. accord
@@ -1588,6 +1696,8 @@
 
 - cotton, identify, square, meet with, correspond with （符合；一致）
 
+:::
+
 
 ## 3060. pollute
 
@@ -1604,6 +1714,8 @@
 :::warning{title=🤔同义词}
 
 - cloud, poison （污染；玷污；败坏）
+
+:::
 
 
 ## 3061. cuneiform
@@ -1623,6 +1735,8 @@
 - wedgy, sphenoidal （[解剖][生物]楔形的；楔形文字的；楔状骨的）
 
 - sphenoid （楔形文字；[解剖]楔状骨）
+
+:::
 
 
 ## 3062. gamma
@@ -1651,6 +1765,8 @@
 
 - microgramme （微克；希腊语的第三个字母）
 
+:::
+
 
 ## 3063. icy
 
@@ -1667,6 +1783,8 @@
 :::warning{title=🤔同义词}
 
 - cold, ice-cold （冰冷的；冷淡的；结满冰的）
+
+:::
 
 
 ## 3064. nebula
@@ -1775,6 +1893,8 @@
 
 - safe, restricted （[安全]安全的；保安的；保密的）
 
+:::
+
 
 ## 3066. supervise
 
@@ -1798,6 +1918,8 @@
 
 - direct, charge of （监督，管理；指导）
 
+:::
+
 
 ## 3067. parasitic
 
@@ -1820,6 +1942,8 @@
 :::warning{title=🤔同义词}
 
 - autoecious, adnascent （寄生的（等于parasitical））
+
+:::
 
 
 ## 3068. documentation
@@ -1866,6 +1990,8 @@
 
 - geosphere （陆界，[地质][地物][天]岩石圈）
 
+:::
+
 
 ## 3070. richness
 
@@ -1886,6 +2012,8 @@
 :::warning{title=🤔同义词}
 
 - abundance, plenty, pregnancy, amplitude, enrichment （丰富；富裕；肥沃；华美）
+
+:::
 
 
 ## 3071. sulfate
@@ -1952,6 +2080,8 @@
 
 - sulphate （[无化]硫酸盐化）
 
+:::
+
 
 ## 3072. unity
 
@@ -1982,6 +2112,8 @@
 :::warning{title=🤔同义词}
 
 - accordance, agreement, alliance, identity, combination, union, association （团结；一致；联合；个体）
+
+:::
 
 
 ## 3073. wildlife
@@ -2023,6 +2155,8 @@
 - similar, same, uniform, like, parallel （相似的；相同的）
 
 - similarly （以同样的方式；类似于）
+
+:::
 
 
 ## 3075. sport
@@ -2087,6 +2221,8 @@
 
 - athletic, kinetic （运动的）
 
+:::
+
 
 ## 3076. steamship
 
@@ -2111,6 +2247,8 @@
 :::warning{title=🤔同义词}
 
 - boat, streamboat （轮船；汽船）
+
+:::
 
 
 ## 3077. lithospheric
@@ -2187,6 +2325,8 @@
 
 - tupid, malleus （铁锤；链球；[解剖]锤骨；音锤）
 
+:::
+
 
 ## 3079. disturbance
 
@@ -2224,6 +2364,8 @@
 
 - interference, care, obstacle, disorder, worries （[通信][电子]干扰；骚乱；忧虑）
 
+:::
+
 
 ## 3080. voter
 
@@ -2248,6 +2390,8 @@
 :::warning{title=🤔同义词}
 
 - elector, chooser （选举人，投票人；有投票权者）
+
+:::
 
 
 ## 3081. anywhere
@@ -2286,6 +2430,8 @@
 
 - nowhere （任何地方）
 
+:::
+
 
 ## 3082. April
 
@@ -2321,6 +2467,8 @@
 
 - poor, thin, spare, lean （贫乏的；瘦的）
 
+:::
+
 
 ## 3084. incomplete
 
@@ -2349,6 +2497,8 @@
 :::warning{title=🤔同义词}
 
 - half, synsemantic （[数][计]不完全的；不完备的）
+
+:::
 
 
 ## 3085. lecture
@@ -2388,6 +2538,8 @@
 - discourse upon （演讲；训诫）
 
 - prelect, dissertate （讲课；讲演）
+
+:::
 
 
 ## 3086. tolerance
@@ -2448,6 +2600,8 @@
 
 - patience, charity, mercy （[机]公差；宽容；容忍；公差）
 
+:::
+
 
 ## 3087. hostile
 
@@ -2474,6 +2628,8 @@
 - adverse, enemy, opposed （敌对的，敌方的；怀敌意的）
 
 - opposition, antagonism （敌对）
+
+:::
 
 
 ## 3088. triangle
@@ -2516,6 +2672,8 @@
 
 - trigona, Misumi （[数][昆][测]三角（形）；三角关系；三角形之物；三人一组）
 
+:::
+
 
 ## 3089. unchanging
 
@@ -2530,6 +2688,8 @@
 :::warning{title=🤔同义词}
 
 - constant, permanent, steady （不变的）
+
+:::
 
 
 ## 3090. cargo
@@ -2590,6 +2750,8 @@
 
 - commodity, freight, merchandise （[贸易]货物，船货）
 
+:::
+
 
 ## 3091. reconstruct
 
@@ -2604,6 +2766,8 @@
 :::warning{title=🤔同义词}
 
 - restore, rebuild （重建；改造；修复；重现）
+
+:::
 
 
 ## 3092. conventionally
@@ -2639,6 +2803,8 @@
 :::warning{title=🤔同义词}
 
 - pluvian, drippy （下雨的；多雨的）
+
+:::
 
 
 ## 3094. trial
@@ -2701,6 +2867,8 @@
 
 - testing （[试验]试验的；审讯的）
 
+:::
+
 
 ## 3095. wound
 
@@ -2752,6 +2920,8 @@
 
 - get hurt, get injured （受伤，伤害）
 
+:::
+
 
 ## 3096. forbid
 
@@ -2766,6 +2936,8 @@
 :::warning{title=🤔同义词}
 
 - bar, dispute, let, stem, block （禁止；妨碍，阻止）
+
+:::
 
 
 ## 3097. judgment
@@ -2803,6 +2975,8 @@
 :::warning{title=🤔同义词}
 
 - estimate, refree （判断；裁判；判决书；辨别力）
+
+:::
 
 
 ## 3098. nickel
@@ -2861,6 +3035,8 @@
 
 - Ni, medio （[化学]镍；镍币；五分镍币）
 
+:::
+
 
 ## 3099. Georgia
 
@@ -2885,5 +3061,7 @@
 :::warning{title=🤔同义词}
 
 - Poti, Geogia （格鲁吉亚（前苏联加盟共和国）；乔治亚州；乔治娅（女子名））
+
+:::
 
 

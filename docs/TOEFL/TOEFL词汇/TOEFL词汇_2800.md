@@ -26,6 +26,8 @@
 
 - dissolvable, solvable （[化学]可溶的，可溶解的；可解决的）
 
+:::
+
 
 ## 2801. Oceania
 
@@ -99,6 +101,8 @@
 
 - super, casual laborer （临时工，临时雇员）
 
+:::
+
 
 ## 2803. election
 
@@ -140,6 +144,8 @@
 
 - option, vote, choice （选举；当选；选择权；上帝的选拔）
 
+:::
+
 
 ## 2804. backbone
 
@@ -164,6 +170,8 @@
 :::warning{title=🤔同义词}
 
 - leg, determination, decision, resolution, stay （支柱；主干网；决心，毅力；脊椎）
+
+:::
 
 
 ## 2805. medical
@@ -232,6 +240,8 @@
 
 - doctor, hakeem （医生；体格检查）
 
+:::
+
 
 ## 2806. orderly
 
@@ -250,6 +260,8 @@
 - batman, lashkar （勤务兵；传令兵；护理员）
 
 - seriatim （顺序地；依次地）
+
+:::
 
 
 ## 2807. chemist
@@ -271,6 +283,8 @@
 :::warning{title=🤔同义词}
 
 - pharmacist, dispenser （化学家；药剂师）
+
+:::
 
 
 ## 2808. trample
@@ -299,6 +313,8 @@
 
 - havoc （蹂躏；践踏声）
 
+:::
+
 
 ## 2809. mountainous
 
@@ -321,6 +337,8 @@
 :::warning{title=🤔同义词}
 
 - huge, tremendous, enormous, massive, macro （多山的；巨大的；山一般的）
+
+:::
 
 
 ## 2810. removal
@@ -372,6 +390,8 @@
 :::warning{title=🤔同义词}
 
 - move, shift, migration, motion （免职；移动；排除；搬迁）
+
+:::
 
 
 ## 2811. potassium
@@ -436,6 +456,8 @@
 
 - kalium （[化学]钾）
 
+:::
+
 
 ## 2812. cascade
 
@@ -465,6 +487,8 @@
 
 - stack-up （层叠；[水文]小瀑布；喷流）
 
+:::
+
 
 ## 2813. reconstruction
 
@@ -492,6 +516,8 @@
 
 - restructuring, regeneration, renewal （再建，重建；改造；复兴）
 
+:::
+
 
 ## 2814. restless
 
@@ -506,6 +532,8 @@
 :::warning{title=🤔同义词}
 
 - storm-tossed, twitchy （焦躁不安的；不安宁的；得不到满足的）
+
+:::
 
 
 ## 2815. accordingly
@@ -529,6 +557,8 @@
 :::warning{title=🤔同义词}
 
 - therefore, hence, consequently, thus, then （因此，于是；相应地；照著）
+
+:::
 
 
 ## 2816. silicate
@@ -581,6 +611,8 @@
 
 - metasilicate, syloids, santocel （[矿物]硅酸盐）
 
+:::
+
 
 ## 2817. locomotive
 
@@ -606,6 +638,8 @@
 
 - engine, haulage motor （机车；[铁路]火车头）
 
+:::
+
 
 ## 2818. predominant
 
@@ -622,6 +656,8 @@
 :::warning{title=🤔同义词}
 
 - remarkable, excellent, primary, major, prominent （主要的；卓越的；[计]支配的；有力的；有影响的）
+
+:::
 
 
 ## 2819. boil
@@ -663,6 +699,8 @@
 - agitate （煮沸，烧开；使…激动；使…蒸发）
 
 - ebullition, gurgitation （[声]沸腾，煮沸；疖子）
+
+:::
 
 
 ## 2820. saturn
@@ -727,6 +765,8 @@
 
 - slot （开槽于）
 
+:::
+
 
 ## 2822. assert
 
@@ -748,6 +788,8 @@
 
 - maintain, say, submit, stay, advocate （维护，坚持；断言；主张；声称）
 
+:::
+
 
 ## 2823. journeyman
 
@@ -764,6 +806,8 @@
 :::warning{title=🤔同义词}
 
 - skilled labor, skilled labour （[劳经]熟练工人；短工；学徒期满的职工）
+
+:::
 
 
 ## 2824. chondrule
@@ -791,6 +835,8 @@
 :::warning{title=🤔同义词}
 
 - accostable, comprehensible （易接近的；可进入的；可理解的）
+
+:::
 
 
 ## 2826. dimension
@@ -851,6 +897,8 @@
 
 - measurement, size （[数]维；尺寸；次元；容积）
 
+:::
+
 
 ## 2827. bacterial
 
@@ -893,6 +941,8 @@
 :::warning{title=🤔同义词}
 
 - microbic （[微]细菌的）
+
+:::
 
 
 ## 2828. medicine
@@ -957,6 +1007,8 @@
 
 - drug, pharmacon （[医学][药物][药]药；医学；[内科]内科；巫术）
 
+:::
+
 
 ## 2829. homo
 
@@ -971,6 +1023,8 @@
 :::warning{title=🤔同义词}
 
 - person, mankind, humanity, creature （人，人类；同性恋者）
+
+:::
 
 
 ## 2830. nose
@@ -1035,6 +1089,8 @@
 
 - ask after （小心探索着前进；探问）
 
+:::
+
 
 ## 2831. incubation
 
@@ -1062,6 +1118,8 @@
 
 - latency, hatch （[动]孵化；[病毒][医]潜伏；抱蛋）
 
+:::
+
 
 ## 2832. northeastern
 
@@ -1088,6 +1146,8 @@
 :::warning{title=🤔同义词}
 
 - navigation channel, canalage （[水运]航道；水路；[船]排水沟）
+
+:::
 
 
 ## 2834. excavation
@@ -1123,6 +1183,8 @@
 :::warning{title=🤔同义词}
 
 - digging, disinterment （[建]挖掘，[古]发掘）
+
+:::
 
 
 ## 2835. fraction
@@ -1169,6 +1231,8 @@
 
 - score, marks, proportion, part, portion （[数]分数；部分；小部分；稍微）
 
+:::
+
 
 ## 2836. mutualism
 
@@ -1183,6 +1247,8 @@
 :::warning{title=🤔同义词}
 
 - messmateism, commensalism （[生态]共栖，互利共生；互助论）
+
+:::
 
 
 ## 2837. weaken
@@ -1204,6 +1270,8 @@
 - shorten, to cut down （减少；使变弱；使变淡）
 
 - moderate, recoil from （变弱；畏缩；变软弱）
+
+:::
 
 
 ## 2838. wolf
@@ -1237,6 +1305,8 @@
 - Lothario, lady-killer （[脊椎]狼；色狼；残忍贪婪之人）
 
 - tie into, gulp down （大吃；狼吞虎咽地吃）
+
+:::
 
 
 ## 2839. bore
@@ -1274,6 +1344,8 @@
 - drill hole, counter sunk （[机]钻孔；使烦扰）
 
 - hole, aperture （[机]孔；令人讨厌的人）
+
+:::
 
 
 ## 2840. probe
@@ -1335,6 +1407,8 @@
 - examine, explore （调查；[航]探测）
 
 - burrow into （探查；用探针探测）
+
+:::
 
 
 ## 2841. smoke
@@ -1405,6 +1479,8 @@
 
 - puff on （吸烟；抽）
 
+:::
+
 
 ## 2842. capillary
 
@@ -1455,6 +1531,8 @@
 :::warning{title=🤔同义词}
 
 - hairy, ciliary （[解剖][物]毛细管的；毛状的）
+
+:::
 
 
 ## 2843. behavioral
@@ -1527,6 +1605,8 @@
 
 - lovely, favorable, comfortable, grateful, easy （令人愉快的，舒适的；讨人喜欢的，和蔼可亲的）
 
+:::
+
 
 ## 2845. thread
 
@@ -1594,6 +1674,8 @@
 
 - get through sth, get across （通过；穿透过）
 
+:::
+
 
 ## 2846. subsequently
 
@@ -1602,6 +1684,8 @@
 :::warning{title=🤔同义词}
 
 - after, since （随后，其后；后来）
+
+:::
 
 
 ## 2847. intact
@@ -1628,6 +1712,8 @@
 
 - whole, complete, integrated, full （完整的；原封不动的；未受损伤的）
 
+:::
+
 
 ## 2848. blacksmith
 
@@ -1646,6 +1732,8 @@
 :::warning{title=🤔同义词}
 
 - smith, ironsmith （铁匠；[机]锻工）
+
+:::
 
 
 ## 2849. repair
@@ -1711,6 +1799,8 @@
 - restore, doctor, help （修理；恢复；补救，纠正）
 
 - renovation, fixing （修理，修补；修补部位）
+
+:::
 
 
 ## 2850. electronic
@@ -1783,6 +1873,8 @@
 
 - name, appoint （指定；详细说明；列举；把…列入说明书）
 
+:::
+
 
 ## 2852. besides
 
@@ -1801,6 +1893,8 @@
 - moreover, again, also, additionally, then （此外；而且）
 
 - unless, except as, in addition to （除…之外）
+
+:::
 
 
 ## 2853. platform
@@ -1861,6 +1955,8 @@
 
 - flatform, hathpace （[计][矿业]平台；月台，[铁路]站台；坛；[家具]讲台）
 
+:::
+
 
 ## 2854. surrounding
 
@@ -1877,6 +1973,8 @@
 - environmental, ambient （周围的，附近的）
 
 - context, circumstance, setting, condition （环境，周围的事物）
+
+:::
 
 
 ## 2855. tobacco
@@ -1915,6 +2013,8 @@
 
 - smoke, baccy （[作物]烟草，烟叶；[轻]烟草制品；抽烟）
 
+:::
+
 
 ## 2856. rival
 
@@ -1935,6 +2035,8 @@
 - contest, cope, struggle to （[劳经]竞争）
 
 - competitive, vying （[劳经]竞争的）
+
+:::
 
 
 ## 2857. agreement
@@ -1995,6 +2097,8 @@
 
 - accordance, protocol, unity, identity, keeping （[法]协议；同意，一致）
 
+:::
+
 
 ## 2858. custom
 
@@ -2048,6 +2152,8 @@
 
 - made-to-order, tailored （定制的，定做的）
 
+:::
+
 
 ## 2859. costly
 
@@ -2062,6 +2168,8 @@
 :::warning{title=🤔同义词}
 
 - expensive, rich, dear （昂贵的；代价高的）
+
+:::
 
 
 ## 2860. exert
@@ -2085,6 +2193,8 @@
 :::warning{title=🤔同义词}
 
 - handle, to put to use （运用，发挥；施以影响）
+
+:::
 
 
 ## 2861. director
@@ -2145,6 +2255,8 @@
 
 - co-director, boss-man （主任，[管理]主管；[电影]导演；人事助理）
 
+:::
+
 
 ## 2862. gift
 
@@ -2198,6 +2310,8 @@
 
 - put, endow with （赋予；向…赠送）
 
+:::
+
 
 ## 2863. repeatedly
 
@@ -2213,6 +2327,8 @@
 
 - again and again, iteratively （反复地；再三地；屡次地）
 
+:::
+
 
 ## 2864. tentacle
 
@@ -2227,6 +2343,8 @@
 :::warning{title=🤔同义词}
 
 - antenna, palpus （触手，触须，[动]触角）
+
+:::
 
 
 ## 2865. fertility
@@ -2244,6 +2362,8 @@
 :::warning{title=🤔同义词}
 
 - productivity, pregnancy （多产；[土壤]肥沃；[生物][生理][农经]生产力；丰饶）
+
+:::
 
 
 ## 2866. simplicity
@@ -2270,6 +2390,8 @@
 
 - homeliness, austerity （朴素；简易；天真；愚蠢）
 
+:::
+
 
 ## 2867. annually
 
@@ -2284,6 +2406,8 @@
 :::warning{title=🤔同义词}
 
 - yearly （每年；一年一次）
+
+:::
 
 
 ## 2868. enthusiasm
@@ -2317,6 +2441,8 @@
 :::warning{title=🤔同义词}
 
 - passion, flame, fire, warmth （热心，热忱，热情）
+
+:::
 
 
 ## 2869. rear
@@ -2385,6 +2511,8 @@
 
 - back, behind, ass （后面；屁股；后方部队）
 
+:::
+
 
 ## 2870. stagecoach
 
@@ -2399,6 +2527,8 @@
 :::warning{title=🤔同义词}
 
 - dawk （公共马车；驿站马车）
+
+:::
 
 
 ## 2871. attraction
@@ -2435,6 +2565,8 @@
 
 - appeal, charm （吸引，[力]吸引力；引力；吸引人的事物）
 
+:::
+
 
 ## 2872. investigate
 
@@ -2459,6 +2591,8 @@
 :::warning{title=🤔同义词}
 
 - check into, inquire into （调查；研究）
+
+:::
 
 
 ## 2873. locally
@@ -2508,6 +2642,8 @@
 :::warning{title=🤔同义词}
 
 - extreme, ultra, tall （过多的，极度的；过分的）
+
+:::
 
 
 ## 2875. adjustment
@@ -2568,6 +2704,8 @@
 
 - restructuring, conditioning, modulation, setup, accommodation （调整，调节；调节器）
 
+:::
+
 
 ## 2876. figurative
 
@@ -2589,6 +2727,8 @@
 
 - tralatitious, parabolical （比喻的；修饰丰富的；形容多的）
 
+:::
+
 
 ## 2877. inscription
 
@@ -2603,6 +2743,8 @@
 :::warning{title=🤔同义词}
 
 - epigraph, mintage （题词；铭文；刻印）
+
+:::
 
 
 ## 2878. appalachian
@@ -2665,6 +2807,8 @@
 
 - profession, announcement （（纳税品等的）[税收]申报；宣布；公告；[法]申诉书）
 
+:::
+
 
 ## 2880. markedly
 
@@ -2679,6 +2823,8 @@
 :::warning{title=🤔同义词}
 
 - obviously, clearly, broadly, remarkably, dramatically （明显地；显著地；引人注目地）
+
+:::
 
 
 ## 2881. attend
@@ -2717,6 +2863,8 @@
 
 - present oneself, nurse （出席；致力于；照料；照顾）
 
+:::
+
 
 ## 2882. climb
 
@@ -2754,6 +2902,8 @@
 
 - escalade （爬；攀登）
 
+:::
+
 
 ## 2883. effectiveness
 
@@ -2786,6 +2936,8 @@
 :::warning{title=🤔同义词}
 
 - efficacy （效力）
+
+:::
 
 
 ## 2884. grant
@@ -2827,6 +2979,8 @@
 - accept, see with, to agree with, agree on/upon, be agreeable to （同意）
 
 - appropriation （拨款；[法][专利]授予物）
+
+:::
 
 
 ## 2885. optical
@@ -2887,6 +3041,8 @@
 
 - visual, ocular （光学的；眼睛的，[生理]视觉的）
 
+:::
+
 
 ## 2886. overcast
 
@@ -2916,6 +3072,8 @@
 
 - shadow, shield （使沮丧；包缝；遮蔽）
 
+:::
+
 
 ## 2887. noisy
 
@@ -2940,6 +3098,8 @@
 - furious, boisterous （嘈杂的；喧闹的；聒噪的）
 
 - klang, babelism （响声；嘈杂声）
+
+:::
 
 
 ## 2888. muscular
@@ -2966,6 +3126,8 @@
 
 - robust, intramuscular （肌肉的；肌肉发达的；强健的）
 
+:::
+
 
 ## 2889. remarkably
 
@@ -2980,6 +3142,8 @@
 :::warning{title=🤔同义词}
 
 - notably, dramatically, considerably, prominently, markedly （显著地；非常地；引人注目地）
+
+:::
 
 
 ## 2890. team
@@ -3046,6 +3210,8 @@
 
 - work together, co-operate （合作）
 
+:::
+
 
 ## 2891. surpass
 
@@ -3068,6 +3234,8 @@
 :::warning{title=🤔同义词}
 
 - overcome, top, exceed, cap, transcend （超越；胜过，优于；非…所能办到或理解）
+
+:::
 
 
 ## 2892. institute
@@ -3130,6 +3298,8 @@
 
 - academy, college, union, school （学会，协会；学院）
 
+:::
+
 
 ## 2893. versus
 
@@ -3146,6 +3316,8 @@
 :::warning{title=🤔同义词}
 
 - in the teeth of （对；与...相对；对抗）
+
+:::
 
 
 ## 2894. cheep
@@ -3171,6 +3343,8 @@
 :::warning{title=🤔同义词}
 
 - father, grand old man （前任，前辈）
+
+:::
 
 
 ## 2896. flora
@@ -3217,6 +3391,8 @@
 
 - child, seed （后裔；子孙）
 
+:::
+
 
 ## 2899. somehow
 
@@ -3243,5 +3419,7 @@
 :::warning{title=🤔同义词}
 
 - one way or another, puzzlingly （以某种方法；莫明其妙地）
+
+:::
 
 

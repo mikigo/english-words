@@ -64,6 +64,8 @@
 
 - rather, lot （有点儿；相当）
 
+:::
+
 
 ## 3701. doctor
 
@@ -84,6 +86,8 @@
 - repair, perform maintenance （修理；窜改，伪造；为…治病；授以博士学位）
 
 - practice medicine （就医；行医）
+
+:::
 
 
 ## 3702. crumple
@@ -109,6 +113,8 @@
 - wrinkle （起皱；倒坍；一蹶不振）
 
 - plication, rugosity （皱纹；褶皱）
+
+:::
 
 
 ## 3703. equality
@@ -136,6 +142,8 @@
 :::warning{title=🤔同义词}
 
 - equivalence, egality （平等；相等；[数]等式）
+
+:::
 
 
 ## 3704. developmental
@@ -172,6 +180,8 @@
 
 - growing, changing, evolutionary （发展的；启发的）
 
+:::
+
 
 ## 3705. await
 
@@ -186,6 +196,8 @@
 :::warning{title=🤔同义词}
 
 - wait for, hope for （等候，等待；期待）
+
+:::
 
 
 ## 3706. saline
@@ -220,6 +232,8 @@
 
 - Playas （[地理][水文]盐湖；碱盐泻药）
 
+:::
+
 
 ## 3707. minimal
 
@@ -239,6 +253,8 @@
 
 - lowest, bottommost （最低的；最小限度的）
 
+:::
+
 
 ## 3708. warmth
 
@@ -253,6 +269,8 @@
 :::warning{title=🤔同义词}
 
 - passion, flame, fire （温暖；热情；激动）
+
+:::
 
 
 ## 3709. newborn
@@ -270,6 +288,8 @@
 - reproductive, neonatal （[儿科]新生的；再生的）
 
 - baby, infant, neonate, babe （婴儿）
+
+:::
 
 
 ## 3710. opposition
@@ -307,6 +327,8 @@
 :::warning{title=🤔同义词}
 
 - recusation, objection to sth （反对；反对派；在野党；敌对）
+
+:::
 
 
 ## 3711. shadow
@@ -360,6 +382,8 @@
 - indicate, forecast, dog, shield, curtain （遮蔽；使朦胧；尾随；预示）
 
 - graduate （渐变；变阴暗）
+
+:::
 
 
 ## 3712. magic
@@ -421,6 +445,8 @@
 - medicine, witchcraft, wizardry （巫术；魔法；戏法）
 
 - mysterious, fantastic, miraculous （不可思议的；有魔力的；魔术的）
+
+:::
 
 
 ## 3713. meal
@@ -485,6 +511,8 @@
 
 - have a dinner, dine （进餐）
 
+:::
+
 
 ## 3714. mechanical
 
@@ -546,6 +574,8 @@
 
 - wooden, automatic, dead （[机]机械的；[力]力学的；呆板的；无意识的；手工操作的）
 
+:::
+
 
 ## 3715. alien
 
@@ -574,6 +604,8 @@
 - foreigner, uitlander （外国人，外侨；外星人）
 
 - transfer, negotiate （让渡，转让）
+
+:::
 
 
 ## 3716. chapbook
@@ -640,6 +672,8 @@
 
 - outer tube （鞋；蹄铁；外胎）
 
+:::
+
 
 ## 3718. Manhattan
 
@@ -683,6 +717,8 @@
 
 - shift, divert from （转移；分心）
 
+:::
+
 
 ## 3720. satisfactory
 
@@ -698,6 +734,8 @@
 
 - content, well-pleasing （满意的；符合要求的；赎罪的）
 
+:::
+
 
 ## 3721. devastate
 
@@ -712,6 +750,8 @@
 :::warning{title=🤔同义词}
 
 - destroy, damage （毁灭；毁坏）
+
+:::
 
 
 ## 3722. Holland
@@ -770,6 +810,8 @@
 
 - conglutinate （粘合；似胶般固着于）
 
+:::
+
 
 ## 3724. prospect
 
@@ -807,6 +849,8 @@
 
 - make a survey （勘探，勘察）
 
+:::
+
 
 ## 3725. arcade
 
@@ -832,6 +876,8 @@
 
 - recreation ground, amusement parks （[建]拱廊；（内设投角子电子游戏机等的）游乐场；有拱廊的街道）
 
+:::
+
 
 ## 3726. navigational
 
@@ -853,6 +899,8 @@
 
 - sailing （[水运]航行的，航运的）
 
+:::
+
 
 ## 3727. deterioration
 
@@ -867,6 +915,8 @@
 :::warning{title=🤔同义词}
 
 - corruption, regression, degradation （恶化；[生物]退化；堕落）
+
+:::
 
 
 ## 3728. pursuit
@@ -890,6 +940,8 @@
 :::warning{title=🤔同义词}
 
 - profession, employment, career, calling, job （追赶，追求；职业，工作）
+
+:::
 
 
 ## 3729. soak
@@ -927,6 +979,8 @@
 - dip in, sink （浸泡；渗透）
 
 - drenching, downfall （浸；湿透；大雨）
+
+:::
 
 
 ## 3730. metallurgy
@@ -973,6 +1027,8 @@
 
 - inland revenue, scot （税收，税金；税务；税捐）
 
+:::
+
 
 ## 3732. solidify
 
@@ -991,6 +1047,8 @@
 - rally, join forces （团结；凝固）
 
 - league, set, rally （团结；凝固）
+
+:::
 
 
 ## 3733. belt
@@ -1053,6 +1111,8 @@
 
 - drive, jab at （猛击）
 
+:::
+
 
 ## 3734. cape
 
@@ -1084,6 +1144,8 @@
 
 - ness, promontory （[地理]海角，岬；披肩）
 
+:::
+
 
 ## 3735. spoil
 
@@ -1111,6 +1173,8 @@
 
 - prize, award, inferior （次品；奖品）
 
+:::
+
 
 ## 3736. meticulously
 
@@ -1119,6 +1183,8 @@
 :::warning{title=🤔同义词}
 
 - particularly, punctiliously （细致地；一丝不苟地；拘泥地）
+
+:::
 
 
 ## 3737. configuration
@@ -1173,6 +1239,8 @@
 
 - allocation, mechanics, framework, profile, texture （配置；结构；外形）
 
+:::
+
 
 ## 3738. unaided
 
@@ -1194,6 +1262,8 @@
 
 - helpless, unassisted （未受协助的；无助的）
 
+:::
+
 
 ## 3739. perplex
 
@@ -1208,6 +1278,8 @@
 :::warning{title=🤔同义词}
 
 - bepuzzle, confuse （使困惑，使为难；使复杂化）
+
+:::
 
 
 ## 3740. unnecessary
@@ -1233,6 +1305,8 @@
 :::warning{title=🤔同义词}
 
 - spare, useless, waste, needless, redundant （不必要的；多余的，无用的）
+
+:::
 
 
 ## 3741. concave
@@ -1263,6 +1337,8 @@
 
 - hollow, cuppy （[数]凹的，凹面的）
 
+:::
+
 
 ## 3742. beak
 
@@ -1277,6 +1353,8 @@
 :::warning{title=🤔同义词}
 
 - schoolmaster, justice of the peace （[鸟]鸟嘴；鹰钩鼻子；地方执法官；男教师）
+
+:::
 
 
 ## 3743. descent
@@ -1305,6 +1383,8 @@
 
 - reduction, birth, decline, fall, blood （[航]下降；[遗]血统；袭击）
 
+:::
+
 
 ## 3744. outermost
 
@@ -1325,6 +1405,8 @@
 :::warning{title=🤔同义词}
 
 - outmost, farthermost （最外面的；最远的）
+
+:::
 
 
 ## 3745. duck
@@ -1382,6 +1464,8 @@
 - jank, to dodge （闪避；没入水中）
 
 - avoid, stay away from （躲避；猛按…入水）
+
+:::
 
 
 ## 3746. duty
@@ -1454,6 +1538,8 @@
 
 - liability, burden, trust, blame （责任；[税收]关税；[管理]职务）
 
+:::
+
 
 ## 3747. yard
 
@@ -1501,6 +1587,8 @@
 
 - courtyard, garth （院子；[计量]码（英制中丈量长度单位，1码=3英尺）；[建]庭院；帆桁）
 
+:::
+
 
 ## 3748. legendary
 
@@ -1519,6 +1607,8 @@
 - rumorous, fabulous （传说的，传奇的）
 
 - hagiology （传说集；圣徒传）
+
+:::
 
 
 ## 3749. haul
@@ -1559,6 +1649,8 @@
 
 - draw, pull （拖，拉；改变主意；改变方向）
 
+:::
+
 
 ## 3750. congressional
 
@@ -1586,6 +1678,8 @@
 
 - parliamentary, synodical （国会的；会议的；议会的）
 
+:::
+
 
 ## 3751. abstraction
 
@@ -1600,6 +1694,8 @@
 :::warning{title=🤔同义词}
 
 - imagination, extracting （抽象；[化工][油气][冶]提取；抽象概念；空想；心不在焉）
+
+:::
 
 
 ## 3752. eel
@@ -1623,6 +1719,8 @@
 :::warning{title=🤔同义词}
 
 - unagi （鳗鱼；鳝鱼）
+
+:::
 
 
 ## 3753. hazard
@@ -1685,6 +1783,8 @@
 
 - risk, throw, venture, adventure （[安全]危险，冒险；冒险的事）
 
+:::
+
 
 ## 3754. December
 
@@ -1725,6 +1825,8 @@
 :::warning{title=🤔同义词}
 
 - repeat, segistration （重叠；重复）
+
+:::
 
 
 ## 3756. width
@@ -1785,6 +1887,8 @@
 
 - breadth, extents （[数]宽度；广度）
 
+:::
+
 
 ## 3757. pet
 
@@ -1836,6 +1940,8 @@
 
 - favorite, fond （宠爱的）
 
+:::
+
 
 ## 3758. camouflage
 
@@ -1862,6 +1968,8 @@
 - blind, mask （[军]伪装，掩饰）
 
 - wrap up, mask （[军]伪装，掩饰）
+
+:::
 
 
 ## 3759. adverse
@@ -1908,6 +2016,8 @@
 
 - against, contrary, opposite, counter, cross （不利的；相反的；[植]敌对的（名词adverseness，副词adversely））
 
+:::
+
 
 ## 3760. postage
 
@@ -1928,6 +2038,8 @@
 :::warning{title=🤔同义词}
 
 - taxe, franking （[邮]邮资，邮费）
+
+:::
 
 
 ## 3761. prairie
@@ -1953,6 +2065,8 @@
 :::warning{title=🤔同义词}
 
 - field, steppe （[畜牧]大草原；牧场）
+
+:::
 
 
 ## 3762. triumph
@@ -1980,6 +2094,8 @@
 - victory, success, win （胜利，凯旋；欢欣）
 
 - arrive, win, make good （获得胜利，成功）
+
+:::
 
 
 ## 3763. cylindrical
@@ -2030,6 +2146,8 @@
 
 - columniform （圆柱形的；圆柱体的）
 
+:::
+
 
 ## 3764. reinforce
 
@@ -2052,6 +2170,8 @@
 - enhance, cement, muscle, supply, build up （加强，加固；强化；补充）
 
 - strengthening, armoure （加强；加固物；加固材料）
+
+:::
 
 
 ## 3765. bent
@@ -2085,6 +2205,8 @@
 - weakness, interest, habit, like, appetite （爱好，嗜好）
 
 - curve, winding, flexural, crooked （弯曲的；决心的）
+
+:::
 
 
 ## 3766. son
@@ -2141,6 +2263,8 @@
 
 - child, fils （儿子；孩子（对年轻人的称呼）；男性后裔）
 
+:::
+
 
 ## 3767. stimulation
 
@@ -2168,6 +2292,8 @@
 
 - incentive, inspiration, animation, excitement, needle （[医]刺激；[电子]激励，鼓舞）
 
+:::
+
 
 ## 3768. hibernate
 
@@ -2182,6 +2308,8 @@
 :::warning{title=🤔同义词}
 
 - overwinter, winter dormancy （过冬；（动物）冬眠；（人等）避寒）
+
+:::
 
 
 ## 3769. auxiliary
@@ -2246,6 +2374,8 @@
 
 - additional, assistant, helping, attached, deputy （辅助的；副的；附加的）
 
+:::
+
 
 ## 3770. athlete
 
@@ -2260,6 +2390,8 @@
 :::warning{title=🤔同义词}
 
 - player, sportsman （运动员，体育家；身强力壮的人）
+
+:::
 
 
 ## 3771. kettle
@@ -2289,6 +2421,8 @@
 :::warning{title=🤔同义词}
 
 - pot, drum （[轻]壶；[化工]釜；罐；鼓）
+
+:::
 
 
 ## 3772. shut
@@ -2338,6 +2472,8 @@
 - closure, closing down （关闭）
 
 - circumambient （关闭的；围绕的）
+
+:::
 
 
 ## 3773. priority
@@ -2400,6 +2536,8 @@
 
 - precedence, preference to sth （[通信][计]优先；优先权；[数]优先次序；优先考虑的事）
 
+:::
+
 
 ## 3774. salary
 
@@ -2451,6 +2589,8 @@
 
 - emolument, paycheck （[劳经]薪水）
 
+:::
+
 
 ## 3775. collaboration
 
@@ -2474,6 +2614,8 @@
 
 - synergism, co-operation （合作；勾结；通敌）
 
+:::
+
 
 ## 3776. waterpower
 
@@ -2494,6 +2636,8 @@
 - hydraulic power, water right （水力；（磨房的）用水权；水力可利用的水流）
 
 - hydraulic （水力的）
+
+:::
 
 
 ## 3777. pollen
@@ -2552,6 +2696,8 @@
 
 - distributor, trader （经销商；商人）
 
+:::
+
 
 ## 3779. firmly
 
@@ -2560,6 +2706,8 @@
 :::warning{title=🤔同义词}
 
 - surely, steadily, tightly （坚定地，坚决地；坚固地，稳固地）
+
+:::
 
 
 ## 3780. relieve
@@ -2587,6 +2735,8 @@
 :::warning{title=🤔同义词}
 
 - moderate, release from （解除，减轻；使不单调乏味；换…的班；解围；使放心）
+
+:::
 
 
 ## 3781. defensive
@@ -2622,6 +2772,8 @@
 - self-defensive （自卫的；防御用的）
 
 - defence against, phylaxis （防御；守势）
+
+:::
 
 
 ## 3782. equilibrium
@@ -2682,6 +2834,8 @@
 
 - peace, proportion, equalization （均衡；平静；保持平衡的能力）
 
+:::
+
 
 ## 3783. symbolize
 
@@ -2698,6 +2852,8 @@
 :::warning{title=🤔同义词}
 
 - indicate, image, figure （象征；用符号表现）
+
+:::
 
 
 ## 3784. concrete
@@ -2762,6 +2918,8 @@
 
 - coagulation （具体物；凝结物）
 
+:::
+
 
 ## 3785. brea
 
@@ -2770,6 +2928,8 @@
 :::warning{title=🤔同义词}
 
 - pitch, asphalt, bitumen, pez, nigrite （（西）沥青）
+
+:::
 
 
 ## 3786. upset
@@ -2805,6 +2965,8 @@
 - chaotic, troubled, confused （心烦的；混乱的；弄翻的）
 
 - disorder, chaos, confusion, turmoil, involvement （混乱；翻倒）
+
+:::
 
 
 ## 3787. exocrine
@@ -2872,6 +3034,8 @@
 :::warning{title=🤔同义词}
 
 - previously, ago, back （以前；原来）
+
+:::
 
 
 ## 3790. camp
@@ -2946,6 +3110,8 @@
 
 - encampment, bivouac （露营）
 
+:::
+
 
 ## 3791. cosmos
 
@@ -2960,6 +3126,8 @@
 :::warning{title=🤔同义词}
 
 - universe, accordance, world, peace, concert （[天]宇宙；和谐；秩序；大波斯菊）
+
+:::
 
 
 ## 3792. overlie
@@ -2988,6 +3156,8 @@
 
 - telescope （缩短；变短）
 
+:::
+
 
 ## 3794. aboard
 
@@ -3010,6 +3180,8 @@
 :::warning{title=🤔同义词}
 
 - onboard, ashipboard （[航]在飞机上；[军][船][交]在船上；在火车上）
+
+:::
 
 
 ## 3795. blend
@@ -3050,6 +3222,8 @@
 
 - mixture, mix （[天]混合；[油气]掺合物）
 
+:::
+
 
 ## 3796. participation
 
@@ -3082,6 +3256,8 @@
 :::warning{title=🤔同义词}
 
 - privy to, concernment （参与；分享；参股）
+
+:::
 
 
 ## 3797. brass
@@ -3132,6 +3308,8 @@
 
 - orichalc, yellow metal （[材]黄铜；黄铜制品；铜管乐器；厚脸皮）
 
+:::
+
 
 ## 3798. detectable
 
@@ -3156,5 +3334,7 @@
 :::warning{title=🤔同义词}
 
 - stay, stand on （坚持；依附；粘着；追随）
+
+:::
 
 

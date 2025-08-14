@@ -48,6 +48,8 @@
 
 - get a hump on, make haste （赶紧，赶快；匆忙）
 
+:::
+
 
 ## 2701. account
 
@@ -113,6 +115,8 @@
 
 - count, find, guess, feel, rate （认为；把…视为）
 
+:::
+
 
 ## 2702. radioactive
 
@@ -156,6 +160,8 @@
 
 - emissive （[核]放射性的；有辐射的）
 
+:::
+
 
 ## 2703. innocent
 
@@ -185,6 +191,8 @@
 
 - simple, turkey, put （天真的人；笨蛋）
 
+:::
+
 
 ## 2704. alphabet
 
@@ -209,6 +217,8 @@
 :::warning{title=🤔同义词}
 
 - ABC, rudiments （[语]字母表，字母系统；入门，初步）
+
+:::
 
 
 ## 2705. stride
@@ -238,6 +248,8 @@
 - step over （跨过；大踏步走过；跨坐在…）
 
 - step over （跨；跨过；大步行走）
+
+:::
 
 
 ## 2706. advance
@@ -310,6 +322,8 @@
 
 - up-front, prevenient （预先的；先行的）
 
+:::
+
 
 ## 2707. appreciate
 
@@ -330,6 +344,8 @@
 - enjoy, see, grasp （欣赏；感激；领会；鉴别）
 
 - value added, rise in price （增值；涨价）
+
+:::
 
 
 ## 2708. bleach
@@ -360,6 +376,8 @@
 
 - decolorant, whitener （[纺]漂白剂）
 
+:::
+
 
 ## 2709. diverse
 
@@ -374,6 +392,8 @@
 :::warning{title=🤔同义词}
 
 - different, unlike, varying, another, dissimilar （不同的；多种多样的；变化多的）
+
+:::
 
 
 ## 2710. rally
@@ -405,6 +425,8 @@
 - assemble, fall in （团结；集合；恢复健康、力量等）
 
 - assembly, feedback, meet, gathering, congregation （集会；回复；公路赛车会）
+
+:::
 
 
 ## 2711. soft
@@ -469,6 +491,8 @@
 
 - gently, friendly （柔软地；温和地）
 
+:::
+
 
 ## 2712. fictitious
 
@@ -493,6 +517,8 @@
 :::warning{title=🤔同义词}
 
 - affected, imaginary, assumed, simulate （虚构的；[数]假想的；编造的；假装的）
+
+:::
 
 
 ## 2713. prime
@@ -569,6 +595,8 @@
 
 - provide （作准备）
 
+:::
+
 
 ## 2714. intellect
 
@@ -584,6 +612,8 @@
 
 - brain, understanding, mind, mentality, head （智力，理解力；知识分子；思维逻辑领悟力；智力高的人）
 
+:::
+
 
 ## 2715. amble
 
@@ -598,6 +628,8 @@
 :::warning{title=🤔同义词}
 
 - bummel, stroll （（马的）缓行步态；漫步）
+
+:::
 
 
 ## 2716. loyal
@@ -617,6 +649,8 @@
 :::warning{title=🤔同义词}
 
 - loving, devoted, faithful （忠诚的，忠心的；忠贞的）
+
+:::
 
 
 ## 2717. preference
@@ -669,6 +703,8 @@
 
 - tendency, liability, priority, trend, favour （偏爱，倾向；[经][计]优先权）
 
+:::
+
 
 ## 2718. mainstream
 
@@ -683,6 +719,8 @@
 :::warning{title=🤔同义词}
 
 - artery, main river （主流）
+
+:::
 
 
 ## 2719. opportunity
@@ -743,6 +781,8 @@
 
 - occasion, chance, opening, room （时机，机会）
 
+:::
+
 
 ## 2720. dissolute
 
@@ -751,6 +791,8 @@
 :::warning{title=🤔同义词}
 
 - gay, ramshackle （放荡的；风流的）
+
+:::
 
 
 ## 2721. court
@@ -825,6 +867,8 @@
 
 - woo （求爱）
 
+:::
+
 
 ## 2722. chapel
 
@@ -848,6 +892,8 @@
 
 - church, exercise, worship （小礼拜堂，[建]小教堂；礼拜）
 
+:::
+
 
 ## 2723. distort
 
@@ -864,6 +910,8 @@
 - contort, misinterpret （扭曲；使失真；曲解）
 
 - become deformed, to morph （扭曲；变形）
+
+:::
 
 
 ## 2724. subsidiary
@@ -903,6 +951,8 @@
 - assistant, helping, affiliated, auxiliary （附属的；辅助的）
 
 - auxiliary, subcompany （子公司；辅助者）
+
+:::
 
 
 ## 2725. venture
@@ -967,6 +1017,8 @@
 
 - enterprise, risk, undertaking, throw （企业；风险；冒险）
 
+:::
+
 
 ## 2726. interrelate
 
@@ -1004,6 +1056,8 @@
 
 - erosive, rusty （[助剂]腐蚀的；侵蚀性的）
 
+:::
+
 
 ## 2728. enthusiasm
 
@@ -1037,6 +1091,8 @@
 
 - passion, flame, fire, warmth （热心，热忱，热情）
 
+:::
+
 
 ## 2729. discern
 
@@ -1053,6 +1109,8 @@
 - recognize, identify （识别；领悟，认识）
 
 - see clearly, tell from （看清楚，辨别）
+
+:::
 
 
 ## 2730. propensity
@@ -1079,6 +1137,8 @@
 
 - tendency, liability, behaviour, trend, habit （[心理]倾向，习性；癖好，偏爱）
 
+:::
+
 
 ## 2731. entreat
 
@@ -1095,6 +1155,8 @@
 - pray for, appeal for （恳求；请求）
 
 - pray for, cry on （恳求；乞求）
+
+:::
 
 
 ## 2732. flexible
@@ -1157,6 +1219,8 @@
 
 - elastic, pliable （灵活的；[力]柔韧的；易弯曲的）
 
+:::
+
 
 ## 2733. agile
 
@@ -1180,6 +1244,8 @@
 
 - alive, fly, sharp, keen, lively （敏捷的；机敏的；活泼的）
 
+:::
+
 
 ## 2734. replenish
 
@@ -1194,6 +1260,8 @@
 :::warning{title=🤔同义词}
 
 - supply, to supplement （补充，再装满；把…装满；给…添加燃料）
+
+:::
 
 
 ## 2735. hoe
@@ -1222,6 +1290,8 @@
 
 - responsible, bound, liable, accountable （有责任的，应服从的；有义务的；经得起检验的）
 
+:::
+
 
 ## 2737. depict
 
@@ -1236,6 +1306,8 @@
 :::warning{title=🤔同义词}
 
 - bewrite, describe  v. say what is like （描述；描画）
+
+:::
 
 
 ## 2738. sustainable
@@ -1302,6 +1374,8 @@
 
 - jump, dance （[计][通信]跳跃；单脚跳；作短途旅行）
 
+:::
+
 
 ## 2740. secede
 
@@ -1318,6 +1392,8 @@
 - out of contact, break away （脱离；退出）
 
 - cede （从…中脱离；割让）
+
+:::
 
 
 ## 2741. characteristic
@@ -1382,6 +1458,8 @@
 
 - quality, identity, tang, specific, distinction （特征；特性；特色）
 
+:::
+
 
 ## 2742. interior
 
@@ -1443,6 +1521,8 @@
 
 - inner, domestic, essential, inside, home （内部的；国内的；本质的）
 
+:::
+
 
 ## 2743. interweave
 
@@ -1457,6 +1537,8 @@
 :::warning{title=🤔同义词}
 
 - raddle （（使）交织；织进；（使）混杂）
+
+:::
 
 
 ## 2744. rouse
@@ -1482,6 +1564,8 @@
 - wake up, waken up （醒来；奋起）
 
 - arousal, wakefulness （觉醒；奋起）
+
+:::
 
 
 ## 2745. capability
@@ -1523,6 +1607,8 @@
 :::warning{title=🤔同义词}
 
 - talent, ability, competence, performance, property, quality （才能，能力；性能，容量）
+
+:::
 
 
 ## 2746. spark
@@ -1572,6 +1658,8 @@
 - stimulate, launch, lift, drive, spirit （发动；鼓舞；求婚）
 
 - offer, coruscate （闪烁；[电]发火花；求婚）
+
+:::
 
 
 ## 2747. integral
@@ -1633,6 +1721,8 @@
 - whole, complete, full, intact （[数]积分的；完整的，整体的）
 
 - proportion, part, portion, percent, fraction （[数]积分；部分；完整）
+
+:::
 
 
 ## 2748. comet
@@ -1710,6 +1800,8 @@
 :::warning{title=🤔同义词}
 
 - concentration, convergence, fishing, set, gathering （[机]装配；集会，集合）
+
+:::
 
 
 ## 2750. smelting
@@ -1802,6 +1894,8 @@
 
 - surplus, residual （剩余；备用零件）
 
+:::
+
 
 ## 2752. chip
 
@@ -1869,6 +1963,8 @@
 
 - debris, patch （[电子]芯片；筹码；碎片）
 
+:::
+
 
 ## 2753. replicate
 
@@ -1889,6 +1985,8 @@
 - scored, reproductive （复制的；折叠的）
 
 - reproduction, ectype （复制品；八音阶间隔的反覆音）
+
+:::
 
 
 ## 2754. emotional
@@ -1953,6 +2051,8 @@
 
 - excitable, nervy （情绪的；易激动的；感动人的）
 
+:::
+
 
 ## 2755. noticeable
 
@@ -1969,6 +2069,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, prominent, remarkable, marked, noted （显而易见的，显著的；值得注意的）
+
+:::
 
 
 ## 2756. assemble
@@ -1999,6 +2101,8 @@
 
 - concentrate, collect, aggregate, mass, crowd （集合，聚集）
 
+:::
+
 
 ## 2757. hibernation
 
@@ -2007,6 +2111,8 @@
 :::warning{title=🤔同义词}
 
 - winter sleep, torpidness （[动]冬眠；过冬；避寒）
+
+:::
 
 
 ## 2758. transition
@@ -2071,6 +2177,8 @@
 
 - conversion, switching, changing （过渡；转变；[分子生物]转换；变调）
 
+:::
+
 
 ## 2759. march
 
@@ -2119,6 +2227,8 @@
 - demonstration, anabasis （行军，进军；进行曲；示威游行）
 
 - step by, road to （进军；走过）
+
+:::
 
 
 ## 2760. blast
@@ -2185,6 +2295,8 @@
 
 - hurt, blow apart （[力]爆炸；损害；使枯萎）
 
+:::
+
 
 ## 2761. repel
 
@@ -2200,6 +2312,8 @@
 
 - refuse, roll back （击退；抵制；使厌恶；使不愉快）
 
+:::
+
 
 ## 2762. publicize
 
@@ -2214,6 +2328,8 @@
 :::warning{title=🤔同义词}
 
 - post, give publicity to （宣传；公布）
+
+:::
 
 
 ## 2763. underscore
@@ -2234,6 +2350,8 @@
 
 - bobbin thread, bottom-line （底线，[计]下划线）
 
+:::
+
 
 ## 2764. seashore
 
@@ -2250,6 +2368,8 @@
 - shore, oceanfront （[海洋]海滨；海岸）
 
 - littoral （[海洋]海滨的；在海滨的）
+
+:::
 
 
 ## 2765. series
@@ -2312,6 +2432,8 @@
 
 - succession, progression （系列，连续；[电]串联；[数]级数；丛书）
 
+:::
+
 
 ## 2766. cultivate
 
@@ -2332,6 +2454,8 @@
 :::warning{title=🤔同义词}
 
 - rear, foster, plant, nurse （培养；陶冶；耕作）
+
+:::
 
 
 ## 2767. thrive
@@ -2356,6 +2480,8 @@
 
 - succeed, flower （繁荣，兴旺；茁壮成长）
 
+:::
+
 
 ## 2768. imaginative
 
@@ -2374,6 +2500,8 @@
 :::warning{title=🤔同义词}
 
 - fictitious, figmentary （虚构的；富于想像的；有创造力的）
+
+:::
 
 
 ## 2769. treadmill
@@ -2410,6 +2538,8 @@
 
 - to stand for, stand for sth （代表；提出异议）
 
+:::
+
 
 ## 2771. dispatch
 
@@ -2440,6 +2570,8 @@
 - urgent-mail （派遣；急件）
 
 - mission, send along （派遣；分派）
+
+:::
 
 
 ## 2772. corpus
@@ -2472,6 +2604,8 @@
 
 - collected works （[计]语料库；文集；本金）
 
+:::
+
 
 ## 2773. inconvenient
 
@@ -2493,6 +2627,8 @@
 
 - disadvantageous, intrusive （不便的；打扰的）
 
+:::
+
 
 ## 2774. dramatize
 
@@ -2507,6 +2643,8 @@
 :::warning{title=🤔同义词}
 
 - theatricalize （使戏剧化；编写剧本；改编成戏剧）
+
+:::
 
 
 ## 2775. absurd
@@ -2528,6 +2666,8 @@
 :::warning{title=🤔同义词}
 
 - ridiculous, preposterous （荒谬的；可笑的）
+
+:::
 
 
 ## 2776. prior
@@ -2568,6 +2708,8 @@
 
 - before, antecedently （在前，居先）
 
+:::
+
 
 ## 2777. trait
 
@@ -2601,6 +2743,8 @@
 
 - quality, tang, identity, sort, distinction （特性，特点；[心理]品质；少许）
 
+:::
+
 
 ## 2778. landmark
 
@@ -2615,6 +2759,8 @@
 :::warning{title=🤔同义词}
 
 - Placemark, checkpost （[航]陆标，地标；[建]里程碑；[地理][测]地界标；划时代的事）
+
+:::
 
 
 ## 2779. vanish
@@ -2645,6 +2791,8 @@
 
 - unmake （使不见，[数]使消失）
 
+:::
+
 
 ## 2780. vault
 
@@ -2669,6 +2817,8 @@
 - basement, undercroft （拱顶；撑竿跳；地下室）
 
 - jump, dance （跳跃；成穹状弯曲）
+
+:::
 
 
 ## 2781. concave
@@ -2699,6 +2849,8 @@
 
 - hollow, cuppy （[数]凹的，凹面的）
 
+:::
+
 
 ## 2782. dolphin
 
@@ -2716,6 +2868,8 @@
 
 - sea hog, porpoise （[脊椎]海豚）
 
+:::
+
 
 ## 2783. enactment
 
@@ -2730,6 +2884,8 @@
 :::warning{title=🤔同义词}
 
 - establishment, act （制定，颁布；通过；法令）
+
+:::
 
 
 ## 2784. planet
@@ -2796,6 +2952,8 @@
 
 - prior condition, pre-condition （先决条件）
 
+:::
+
 
 ## 2787. count
 
@@ -2859,6 +3017,8 @@
 
 - calculation, computation, valuation （[数]计数；计算；伯爵）
 
+:::
+
 
 ## 2788. creep
 
@@ -2910,6 +3070,8 @@
 
 - toadeater, kiss-ass （爬行；毛骨悚然的感觉；谄媚者）
 
+:::
+
 
 ## 2789. deciduous
 
@@ -2937,6 +3099,8 @@
 
 - semipermanent （[植]落叶性的，脱落性的；非永久性的）
 
+:::
+
 
 ## 2790. scholar
 
@@ -2960,6 +3124,8 @@
 
 - student, academic （学者；奖学金获得者）
 
+:::
+
 
 ## 2791. contradictory
 
@@ -2976,6 +3142,8 @@
 :::warning{title=🤔同义词}
 
 - anti, conflictive （[数]矛盾的；反对的；反驳的；抗辩的）
+
+:::
 
 
 ## 2792. accompany
@@ -3001,6 +3169,8 @@
 :::warning{title=🤔同义词}
 
 - attend, keep company （陪伴，伴随；伴奏）
+
+:::
 
 
 ## 2793. immediate
@@ -3061,6 +3231,8 @@
 
 - instant, direct, right （立即的；直接的；最接近的）
 
+:::
+
 
 ## 2794. perspicuous
 
@@ -3069,6 +3241,8 @@
 :::warning{title=🤔同义词}
 
 - transparent, coherent （明了的；清晰明白的；易懂的）
+
+:::
 
 
 ## 2795. beneficial
@@ -3096,6 +3270,8 @@
 :::warning{title=🤔同义词}
 
 - helpful, useful, favorable, advantageous, conducive （有益的，有利的；可享利益的）
+
+:::
 
 
 ## 2796. blame
@@ -3132,6 +3308,8 @@
 
 - duty, liability, error, burden, trust （责备；责任；过失）
 
+:::
+
 
 ## 2797. confusion
 
@@ -3157,6 +3335,8 @@
 
 - chaos, disorder, involvement, mix, turmoil （混淆，混乱；困惑）
 
+:::
+
 
 ## 2798. platitude
 
@@ -3172,6 +3352,8 @@
 
 - lousy cliches, banality （陈词滥调；平凡；陈腐）
 
+:::
+
 
 ## 2799. auditorium
 
@@ -3186,5 +3368,7 @@
 :::warning{title=🤔同义词}
 
 - assembly hall, assembly room （礼堂，会堂；[建]观众席）
+
+:::
 
 

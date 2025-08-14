@@ -16,6 +16,8 @@
 
 - reduction, loss, decrease, cut （减少，削减；情节倒叙）
 
+:::
+
 
 ## 701. cyclic
 
@@ -48,6 +50,8 @@
 :::warning{title=🤔同义词}
 
 - circular, periodic （环的；循环的；周期的）
+
+:::
 
 
 ## 702. cylinder
@@ -108,6 +112,8 @@
 
 - cyclinder, cylindrical surface （圆筒；汽缸；[数]柱面；圆柱状物）
 
+:::
+
 
 ## 703. cylindrical
 
@@ -157,6 +163,8 @@
 
 - columniform （圆柱形的；圆柱体的）
 
+:::
+
 
 ## 704. cynical
 
@@ -182,6 +190,8 @@
 
 - agent, attorneyship （代理权；代理商；经销权）
 
+:::
+
 
 ## 706. debase
 
@@ -198,6 +208,8 @@
 :::warning{title=🤔同义词}
 
 - lower down, bring down （降低；使…贬值；掺杂）
+
+:::
 
 
 ## 707. debate
@@ -236,6 +248,8 @@
 
 - dispute, controversy （[法]辩论；辩论会）
 
+:::
+
 
 ## 708. debilitate
 
@@ -250,6 +264,8 @@
 :::warning{title=🤔同义词}
 
 - devitalize, enfeeble （使衰弱；使虚弱）
+
+:::
 
 
 ## 709. debris
@@ -280,6 +296,8 @@
 
 - remain, chip （碎片，残骸）
 
+:::
+
 
 ## 710. debunk
 
@@ -288,6 +306,8 @@
 :::warning{title=🤔同义词}
 
 - divulgate, come to light （揭穿；拆穿…的假面具；暴露）
+
+:::
 
 
 ## 711. decade
@@ -309,6 +329,8 @@
 :::warning{title=🤔同义词}
 
 - decennium, dix （十年，十年期；十）
+
+:::
 
 
 ## 712. decay
@@ -357,6 +379,8 @@
 
 - corrupt, septicize （使腐烂，使腐败；使衰退，使衰落）
 
+:::
+
 
 ## 713. decimal
 
@@ -400,6 +424,8 @@
 
 - small number, haet （[数]小数）
 
+:::
+
 
 ## 714. decimate
 
@@ -431,6 +457,8 @@
 
 - recession, slope, downturn （词尾变化；变格；倾斜；衰退）
 
+:::
+
 
 ## 717. decorate
 
@@ -455,6 +483,8 @@
 - paint, hang, make, post （装饰；布置；授勋给）
 
 - set sth out, trick out （装饰；布置）
+
+:::
 
 
 ## 718. decoration
@@ -483,6 +513,8 @@
 
 - medal, adornment （[建][服装]装饰，装潢；装饰品；[劳经]奖章）
 
+:::
+
 
 ## 719. decorous
 
@@ -497,6 +529,8 @@
 :::warning{title=🤔同义词}
 
 - elegant, civil, polite, correct, exquisite （有礼貌的，高雅的；端正的）
+
+:::
 
 
 ## 720. dedicated
@@ -527,6 +561,8 @@
 
 - devoted, special （[计]专用的；专注的；献身的）
 
+:::
+
 
 ## 721. deduce
 
@@ -547,6 +583,8 @@
 :::warning{title=🤔同义词}
 
 - understand, reason, conclude （推论，推断；[数][计]演绎出）
+
+:::
 
 
 ## 722. deduct
@@ -570,6 +608,8 @@
 :::warning{title=🤔同义词}
 
 - net of, substract （扣除，减去；演绎）
+
+:::
 
 
 ## 723. deduction
@@ -596,6 +636,8 @@
 
 - conclusion, consequence （[会计]扣除，减除；[数]推论；减除额）
 
+:::
+
 
 ## 724. deem
 
@@ -614,6 +656,8 @@
 - count, feel, find, guess, rate （认为，视作；相信）
 
 - consider, take for （认为，持某种看法；作某种评价）
+
+:::
 
 
 ## 725. default
@@ -678,6 +722,8 @@
 
 - walk out on sth., unsatisfy （不履行；不参加（比赛等）；对…处以缺席裁判）
 
+:::
+
 
 ## 726. defendant
 
@@ -697,6 +743,8 @@
 
 - accused person, indictee （[法]被告）
 
+:::
+
 
 ## 727. deferential
 
@@ -712,6 +760,8 @@
 
 - respectful, reverent （恭敬的；惯于顺从的）
 
+:::
+
 
 ## 728. defiant
 
@@ -726,6 +776,8 @@
 :::warning{title=🤔同义词}
 
 - challenging, in-your-face （挑衅的；目中无人的，蔑视的；挑战的）
+
+:::
 
 
 ## 729. deficiency
@@ -763,6 +815,8 @@
 :::warning{title=🤔同义词}
 
 - defect, shortage, vice, need, fault （缺陷，缺点；缺乏；不足的数额）
+
+:::
 
 
 ## 730. deficit
@@ -813,6 +867,8 @@
 
 - red ink （[财政]赤字；不足额）
 
+:::
+
 
 ## 731. definition
 
@@ -860,6 +916,8 @@
 
 - difinition, sharpness （[数]定义；[物]清晰度；解说）
 
+:::
+
 
 ## 732. definitive
 
@@ -885,6 +943,8 @@
 
 - crucial, critical, final, finishing, decisive （决定性的；最后的；限定的）
 
+:::
+
 
 ## 733. deflect
 
@@ -901,6 +961,8 @@
 - wind, curve （使转向；使偏斜；使弯曲）
 
 - swing, turn towards （转向；偏斜）
+
+:::
 
 
 ## 734. deform
@@ -923,6 +985,8 @@
 
 - ugly, thrawn （畸形的；丑陋的）
 
+:::
+
 
 ## 735. defrost
 
@@ -931,6 +995,8 @@
 :::warning{title=🤔同义词}
 
 - thaw out （解冻）
+
+:::
 
 
 ## 736. degradation
@@ -973,6 +1039,8 @@
 
 - regression, corruption, deterioration, degeneration （[生物]退化；降格，[电子]降级；堕落）
 
+:::
+
 
 ## 737. degrade
 
@@ -989,6 +1057,8 @@
 - lower, bemean （贬低；使……丢脸；使……降级；使……降解）
 
 - sink in the scale, lower down （降级，降低；退化）
+
+:::
 
 
 ## 738. dehydrate
@@ -1021,6 +1091,8 @@
 
 - harmful, toxic, evil, poisonous （有毒的，有害的）
 
+:::
+
 
 ## 740. deliberate
 
@@ -1050,6 +1122,8 @@
 
 - negotiate, mull over （仔细考虑；商议）
 
+:::
+
 
 ## 741. delicacy
 
@@ -1064,6 +1138,8 @@
 :::warning{title=🤔同义词}
 
 - subtleness, nicety （微妙；精密）
+
+:::
 
 
 ## 742. delicate
@@ -1088,6 +1164,8 @@
 
 - subtle, female, refined, fine, fragile （微妙的；精美的，雅致的；柔和的；易碎的；纤弱的；清淡可口的）
 
+:::
+
 
 ## 743. delineate
 
@@ -1102,6 +1180,8 @@
 :::warning{title=🤔同义词}
 
 - represent, trace, picture, figure （描绘；描写；画…的轮廓）
+
+:::
 
 
 ## 744. delinquent
@@ -1127,6 +1207,8 @@
 - blameable, peccant （有过失的；怠忽的；拖欠债务的）
 
 - swashbuckler, rapscallion （流氓；行为不良的人；失职者）
+
+:::
 
 
 ## 745. deliver
@@ -1164,6 +1246,8 @@
 - afford, allow, extend, deal, free （交付；发表；递送；释放；给予（打击）；给…接生）
 
 - come true, come to pass （实现；传送；履行；投递）
+
+:::
 
 
 ## 746. delta
@@ -1228,6 +1312,8 @@
 
 - luxuriously, sumptuously （豪华地）
 
+:::
+
 
 ## 748. delve
 
@@ -1249,6 +1335,8 @@
 
 - cavity, hole, aperture （穴；洞）
 
+:::
+
 
 ## 749. demobilization
 
@@ -1267,6 +1355,8 @@
 :::warning{title=🤔同义词}
 
 - disbandment （复员；遣散（demobilize的名词））
+
+:::
 
 
 ## 750. democracy
@@ -1345,6 +1435,8 @@
 
 - larithmic （人口统计学的；人口学的）
 
+:::
+
 
 ## 754. demonstrably
 
@@ -1353,6 +1445,8 @@
 :::warning{title=🤔同义词}
 
 - specifically, definitely, particularly, positively, explicitly （可论证地；明确地）
+
+:::
 
 
 ## 755. demonstrate
@@ -1371,6 +1465,8 @@
 
 - prove, give evidence of （证明；展示；论证）
 
+:::
+
 
 ## 756. denote
 
@@ -1386,6 +1482,8 @@
 
 - bid, bespeak （表示，指示）
 
+:::
+
 
 ## 757. denounce
 
@@ -1400,6 +1498,8 @@
 :::warning{title=🤔同义词}
 
 - condemn, denunciate （谴责；告发；公然抨击；通告废除）
+
+:::
 
 
 ## 758. dense
@@ -1427,6 +1527,8 @@
 :::warning{title=🤔同义词}
 
 - crass, beef-witted （[统计]稠密的；浓厚的；愚钝的）
+
+:::
 
 
 ## 759. density
@@ -1487,6 +1589,8 @@
 
 - specific mass （[物]密度）
 
+:::
+
 
 ## 760. denunciatory
 
@@ -1501,6 +1605,8 @@
 :::warning{title=🤔同义词}
 
 - offensive, reprobative （指责的；攻击的；非难的）
+
+:::
 
 
 ## 761. depart
@@ -1526,6 +1632,8 @@
 :::warning{title=🤔同义词}
 
 - leave, split, vary, quit, get out （离开；出发，起程；违反；去世）
+
+:::
 
 
 ## 762. departure
@@ -1568,6 +1676,8 @@
 
 - leaving, starting, violation, breach, quit （离开；出发；违背）
 
+:::
+
 
 ## 763. dependence
 
@@ -1599,6 +1709,8 @@
 
 - belief, faith, confidence, trust, credit （[数][统计]依赖；依靠；信任；信赖）
 
+:::
+
 
 ## 764. depict
 
@@ -1613,6 +1725,8 @@
 :::warning{title=🤔同义词}
 
 - bewrite, describe  v. say what is like （描述；描画）
+
+:::
 
 
 ## 765. depiction
@@ -1629,6 +1743,8 @@
 
 - description, relation, statement, telling, narrative （描写，叙述）
 
+:::
+
 
 ## 766. deplete
 
@@ -1643,6 +1759,8 @@
 :::warning{title=🤔同义词}
 
 - spend, exhaust （耗尽，用尽；使衰竭，使空虚）
+
+:::
 
 
 ## 767. depletion
@@ -1660,6 +1778,8 @@
 :::warning{title=🤔同义词}
 
 - consumption, waste, wear （消耗；损耗；放血）
+
+:::
 
 
 ## 768. deposit
@@ -1726,6 +1846,8 @@
 
 - settle, to precipitate （[电]沉淀）
 
+:::
+
 
 ## 769. deprecate
 
@@ -1740,6 +1862,8 @@
 :::warning{title=🤔同义词}
 
 - combat, attack （反对；抨击；轻视；声明不赞成）
+
+:::
 
 
 ## 770. depreciation
@@ -1782,6 +1906,8 @@
 
 - disvalue （[会计]折旧；[经]贬值）
 
+:::
+
 
 ## 771. depress
 
@@ -1798,6 +1924,8 @@
 :::warning{title=🤔同义词}
 
 - drive down, weigh down （压低；使沮丧；使萧条）
+
+:::
 
 
 ## 772. depression
@@ -1842,6 +1970,8 @@
 
 - recession, disappointment （沮丧；[地理]洼地；[经]不景气；忧愁）
 
+:::
+
 
 ## 773. deprivation
 
@@ -1865,6 +1995,8 @@
 
 - removal, losing, expense, disadvantage, cost （剥夺；损失；免职）
 
+:::
+
 
 ## 774. deregulation
 
@@ -1879,6 +2011,8 @@
 :::warning{title=🤔同义词}
 
 - perversion, abnormalcy （违反规定，反常；撤消管制规定）
+
+:::
 
 
 ## 775. derivative
@@ -1921,6 +2055,8 @@
 
 - extracted, descendent （派生的；引出的）
 
+:::
+
 
 ## 776. derive
 
@@ -1943,6 +2079,8 @@
 :::warning{title=🤔同义词}
 
 - to originate （起源）
+
+:::
 
 
 ## 777. descend
@@ -1970,6 +2108,8 @@
 :::warning{title=🤔同义词}
 
 - decline, go down （下降；下去；下来；遗传；屈尊）
+
+:::
 
 
 ## 778. description
@@ -2028,6 +2168,8 @@
 
 - presentation, type, style, characterization （描述，描写；类型；说明书）
 
+:::
+
 
 ## 779. desegregation
 
@@ -2061,6 +2203,8 @@
 
 - be deserving of （应受，应得）
 
+:::
+
 
 ## 781. designate
 
@@ -2079,6 +2223,8 @@
 - specify, ticket, name, appoint （指定；指派；标出；把…定名为）
 
 - assigned, named, appointed （指定的；选定的）
+
+:::
 
 
 ## 782. desire
@@ -2117,6 +2263,8 @@
 
 - rare, aspire, long for, yearn for, die for （渴望）
 
+:::
+
 
 ## 783. despise
 
@@ -2131,6 +2279,8 @@
 :::warning{title=🤔同义词}
 
 - slight, set light by （轻视，鄙视）
+
+:::
 
 
 ## 784. detach
@@ -2154,6 +2304,8 @@
 :::warning{title=🤔同义词}
 
 - mission, keep apart （分离；派遣；使超然）
+
+:::
 
 
 ## 785. detached
@@ -2183,6 +2335,8 @@
 - apart, divided, isolated, separate （分离的，分开的；超然的）
 
 - keep apart, draw apart （分离）
+
+:::
 
 
 ## 786. detection
@@ -2243,6 +2397,8 @@
 
 - exploration, discovery, occurrence, find （侦查，探测；发觉，发现；察觉）
 
+:::
+
 
 ## 787. deter
 
@@ -2259,6 +2415,8 @@
 :::warning{title=🤔同义词}
 
 - dispute, block, restrain （制止，阻止；使打消念头）
+
+:::
 
 
 ## 788. deteriorate
@@ -2279,6 +2437,8 @@
 
 - go ill, exasperate （恶化）
 
+:::
+
 
 ## 789. deterioration
 
@@ -2293,6 +2453,8 @@
 :::warning{title=🤔同义词}
 
 - corruption, regression, degradation （恶化；[生物]退化；堕落）
+
+:::
 
 
 ## 790. determination
@@ -2331,6 +2493,8 @@
 
 - decision, resolution, push, backbone （决心；果断）
 
+:::
+
 
 ## 791. determinism
 
@@ -2358,6 +2522,8 @@
 
 - harmful, adverse, against, evil, disadvantageous （不利的；有害的）
 
+:::
+
 
 ## 793. devastate
 
@@ -2372,6 +2538,8 @@
 :::warning{title=🤔同义词}
 
 - destroy, damage （毁灭；毁坏）
+
+:::
 
 
 ## 794. deviate
@@ -2395,6 +2563,8 @@
 - out of contact, break away （脱离；越轨）
 
 - diverge （使偏离）
+
+:::
 
 
 ## 795. deviation
@@ -2453,6 +2623,8 @@
 
 - differences, error （偏差；误差；背离）
 
+:::
+
 
 ## 796. devise
 
@@ -2471,6 +2643,8 @@
 - design, engineer, style, project, frame （设计；想出；发明；图谋；遗赠给）
 
 - legacy, bequest （遗赠）
+
+:::
 
 
 ## 797. devoid
@@ -2493,6 +2667,8 @@
 
 - lacking, scarce （缺乏的；全无的）
 
+:::
+
 
 ## 798. dexterity
 
@@ -2507,6 +2683,8 @@
 :::warning{title=🤔同义词}
 
 - facility, skillfulness （灵巧；敏捷；机敏）
+
+:::
 
 
 ## 799. diagnose
@@ -2528,5 +2706,7 @@
 - tell, figure out （诊断；断定）
 
 - judge of, pass upon （诊断；判断）
+
+:::
 
 

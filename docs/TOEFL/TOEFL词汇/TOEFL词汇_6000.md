@@ -14,6 +14,8 @@
 
 - speculative, extrapolated （推测的；好推测的）
 
+:::
+
 
 ## 6001. knot
 
@@ -51,6 +53,8 @@
 
 - tie off （打结）
 
+:::
+
 
 ## 6002. notch
 
@@ -83,6 +87,8 @@
 - degree, classification, score, grade, rate （[木]刻痕，凹口；等级；峡谷）
 
 - win, purchase （赢得；用刻痕计算；在…上刻凹痕）
+
+:::
 
 
 ## 6003. oystercatcher
@@ -121,6 +127,8 @@
 
 - mandibular bone, submaxilla （[解剖]下颌骨；[昆]上颚，嘴的上部）
 
+:::
+
 
 ## 6007. attire
 
@@ -139,6 +147,8 @@
 - clothing, wear, garment, apparel （服装；盛装）
 
 - dress oneself, habit, array （打扮；使穿衣）
+
+:::
 
 
 ## 6008. corrosion
@@ -201,6 +211,8 @@
 
 - erosion, eating away （[化学]腐蚀；腐蚀产生的物质；衰败）
 
+:::
+
 
 ## 6009. upright
 
@@ -230,6 +242,8 @@
 
 - verticalness, perpendicularity （垂直；竖立）
 
+:::
+
 
 ## 6010. unravel
 
@@ -246,6 +260,8 @@
 - decide, settle, illustrate （解开；阐明；解决；拆散）
 
 - settle, work out, figure out （解决；散开）
+
+:::
 
 
 ## 6011. glassmaking
@@ -282,6 +298,8 @@
 
 - compliance, deference （顺从；可锻性；[力]展延性）
 
+:::
+
 
 ## 6014. deft
 
@@ -298,6 +316,8 @@
 :::warning{title=🤔同义词}
 
 - neat, dexterous （灵巧的；机敏的；敏捷熟练的）
+
+:::
 
 
 ## 6015. robust
@@ -326,6 +346,8 @@
 
 - healthy, crude, gross, fine, rough （强健的；健康的；[生物]粗野的；粗鲁的）
 
+:::
+
 
 ## 6016. baedeker
 
@@ -334,6 +356,8 @@
 :::warning{title=🤔同义词}
 
 - guidebook （旅行指南；入门手册）
+
+:::
 
 
 ## 6017. sword
@@ -372,6 +396,8 @@
 
 - blade, knife, force, war （刀，剑；武力，战争）
 
+:::
+
 
 ## 6018. microfossil
 
@@ -387,6 +413,8 @@
 
 - nannofossil, ultramicrofossil （[古生]微化石；微体化石）
 
+:::
+
 
 ## 6019. entomb
 
@@ -401,6 +429,8 @@
 :::warning{title=🤔同义词}
 
 - bury, tomb （埋葬；成为…的坟墓）
+
+:::
 
 
 ## 6020. burgher
@@ -418,6 +448,8 @@
 :::warning{title=🤔同义词}
 
 - citizen, people, municipality （市民（现主要指某些欧洲国家中产阶级的市民或镇民）；公民）
+
+:::
 
 
 ## 6021. puffin
@@ -451,6 +483,8 @@
 :::warning{title=🤔同义词}
 
 - unsolvable, irresolvable （[化学]不能解决的；不能溶解的；难以解释的）
+
+:::
 
 
 ## 6023. reliability
@@ -515,6 +549,8 @@
 
 - dependability, relable （[自]可靠性）
 
+:::
+
 
 ## 6024. unemployed
 
@@ -540,6 +576,8 @@
 
 - redundant, jobless （失业的；未被利用的）
 
+:::
+
 
 ## 6025. immobility
 
@@ -556,6 +594,8 @@
 :::warning{title=🤔同义词}
 
 - fixation, fixing （不动，固定）
+
+:::
 
 
 ## 6026. preside
@@ -584,6 +624,8 @@
 
 - manage, conduct, run, direct, control （管理）
 
+:::
+
 
 ## 6027. spacious
 
@@ -598,6 +640,8 @@
 :::warning{title=🤔同义词}
 
 - extensive, vast, wider, capacious （宽敞的，广阔的；无边无际的）
+
+:::
 
 
 ## 6028. hydrographic
@@ -668,6 +712,8 @@
 
 - schoolwork, home study （家庭作业，课外作业）
 
+:::
+
 
 ## 6032. filmmaker
 
@@ -698,6 +744,8 @@
 - relate, recount （叙述；给…作旁白）
 
 - tell about, tell of （叙述；讲述）
+
+:::
 
 
 ## 6035. lean
@@ -770,6 +818,8 @@
 
 - slope, gradient （瘦肉；倾斜；倾斜度）
 
+:::
+
 
 ## 6036. consort
 
@@ -799,6 +849,8 @@
 
 - comrade, spouse （配偶；伙伴）
 
+:::
+
 
 ## 6037. gannet
 
@@ -814,6 +866,8 @@
 
 - solan, booby （塘鹅）
 
+:::
+
 
 ## 6038. underwing
 
@@ -822,6 +876,8 @@
 :::warning{title=🤔同义词}
 
 - hind wing （[昆]后翅；后翅色彩瑰丽的蛾）
+
+:::
 
 
 ## 6039. exorbitant
@@ -838,6 +894,8 @@
 
 - excessive, ultra, tall （（要价等）过高的；（性格等）过分的；不在法律范围之内的）
 
+:::
+
 
 ## 6040. gondwanaland
 
@@ -850,6 +908,8 @@
 :::warning{title=🤔同义词}
 
 - powder （[军]火药；有烟火药）
+
+:::
 
 
 ## 6042. herring
@@ -944,6 +1004,8 @@
 
 - abrupt, awkward （[生物]有角的；生硬的，笨拙的；瘦削的）
 
+:::
+
 
 ## 6045. wren
 
@@ -989,6 +1051,8 @@
 
 - labor, jade （使疲倦；使厌烦）
 
+:::
+
 
 ## 6047. kinglet
 
@@ -997,6 +1061,8 @@
 :::warning{title=🤔同义词}
 
 - tetrarch （小王；小国君主；懦弱的国王；金冠鹪鹩）
+
+:::
 
 
 ## 6048. uniformity
@@ -1024,6 +1090,8 @@
 :::warning{title=🤔同义词}
 
 - accordance, unity, agreement, identity, keeping （均匀性；[数]一致；同样）
+
+:::
 
 
 ## 6049. screw
@@ -1090,6 +1158,8 @@
 
 - turn, roll （转动，拧）
 
+:::
+
 
 ## 6050. priestess
 
@@ -1110,6 +1180,8 @@
 :::warning{title=🤔同义词}
 
 - clergy, druidess （女祭司；神职人员）
+
+:::
 
 
 ## 6051. neoclassical
@@ -1160,6 +1232,8 @@
 
 - fun, luxury, joy, sweet （享受；乐趣；享有）
 
+:::
+
 
 ## 6054. forester
 
@@ -1182,6 +1256,8 @@
 :::warning{title=🤔同义词}
 
 - lay waste to, breaking down （损坏，糟蹋；掠夺；损坏物）
+
+:::
 
 
 ## 6056. nonthreatening
@@ -1234,6 +1310,8 @@
 
 - filler metal, jointer （[机]焊料；接合物）
 
+:::
+
 
 ## 6058. tumble
 
@@ -1267,6 +1345,8 @@
 
 - falling down, circumgyration （跌倒；翻斤斗；跌跤）
 
+:::
+
 
 ## 6059. harshness
 
@@ -1275,6 +1355,8 @@
 :::warning{title=🤔同义词}
 
 - serious about, solemnity （严肃；刺耳；粗糙的事物）
+
+:::
 
 
 ## 6060. collagen
@@ -1320,6 +1402,8 @@
 :::warning{title=🤔同义词}
 
 - sawbones, chirurgeon （外科医生）
+
+:::
 
 
 ## 6062. idle
@@ -1374,6 +1458,8 @@
 
 - moon, dream away （虚度；[机]使空转）
 
+:::
+
 
 ## 6063. sumptuous
 
@@ -1390,6 +1476,8 @@
 :::warning{title=🤔同义词}
 
 - grand, luxury, magnificent, brave, gorgeous （华丽的，豪华的；奢侈的）
+
+:::
 
 
 ## 6064. synchrotron
@@ -1424,6 +1512,8 @@
 
 - boss, employer （[租赁]房东，老板；地主）
 
+:::
+
 
 ## 6066. familiarity
 
@@ -1438,6 +1528,8 @@
 :::warning{title=🤔同义词}
 
 - up on, acquainted with （熟悉，精通；亲密；随便）
+
+:::
 
 
 ## 6067. stringent
@@ -1461,6 +1553,8 @@
 :::warning{title=🤔同义词}
 
 - severe, tight, hard, harsh, pressing （严厉的；迫切的；银根紧的）
+
+:::
 
 
 ## 6068. signature
@@ -1507,6 +1601,8 @@
 
 - a scratch of pen （署名；签名；信号）
 
+:::
+
 
 ## 6069. cabinetmaker
 
@@ -1533,6 +1629,8 @@
 :::warning{title=🤔同义词}
 
 - hypothenuse, quadrature （[数]弦；和弦）
+
+:::
 
 
 ## 6071. supervisory
@@ -1565,6 +1663,8 @@
 
 - surveillant （监督的）
 
+:::
+
 
 ## 6072. resentment
 
@@ -1579,6 +1679,8 @@
 :::warning{title=🤔同义词}
 
 - spite, hatred （愤恨，怨恨）
+
+:::
 
 
 ## 6073. purposely
@@ -1595,6 +1697,8 @@
 
 - deliberately, intentionally （故意地；蓄意地）
 
+:::
+
 
 ## 6074. irresponsibly
 
@@ -1609,6 +1713,8 @@
 :::warning{title=🤔同义词}
 
 - insecurely, questionably （不负责任地；不可靠地）
+
+:::
 
 
 ## 6075. quench
@@ -1637,6 +1743,8 @@
 
 - die, cool, go out （熄灭；平息）
 
+:::
+
 
 ## 6076. grapple
 
@@ -1664,6 +1772,8 @@
 
 - grasp, melee （抓住；格斗）
 
+:::
+
 
 ## 6077. haunt
 
@@ -1678,6 +1788,8 @@
 :::warning{title=🤔同义词}
 
 - habitat, purlieu （栖息地；常去的地方）
+
+:::
 
 
 ## 6078. revealingly
@@ -1706,6 +1818,8 @@
 
 - keeping, submission （服从；顺从；遵守）
 
+:::
+
 
 ## 6080. rearrange
 
@@ -1720,6 +1834,8 @@
 :::warning{title=🤔同义词}
 
 - replume （重新排列；重新整理）
+
+:::
 
 
 ## 6081. roar
@@ -1744,6 +1860,8 @@
 
 - yell out, huff and puff （咆哮；呼喊；使……轰鸣）
 
+:::
+
 
 ## 6082. armory
 
@@ -1758,6 +1876,8 @@
 :::warning{title=🤔同义词}
 
 - Arsenal （军械库；[军]兵工厂（等于armoury））
+
+:::
 
 
 ## 6083. tuck
@@ -1788,6 +1908,8 @@
 
 - pucker （缝褶裥；缩拢；舒服地裹在里面；大口吃）
 
+:::
+
 
 ## 6084. slippery
 
@@ -1815,6 +1937,8 @@
 
 - designing, knowing, subtle, unstable （滑的；狡猾的；不稳定的）
 
+:::
+
 
 ## 6085. courtship
 
@@ -1829,6 +1953,8 @@
 :::warning{title=🤔同义词}
 
 - Passionate Proposing, marriage proposal （求爱；求婚；求爱期）
+
+:::
 
 
 ## 6086. sleek
@@ -1849,6 +1975,8 @@
 
 - slip, slide （打扮整洁；滑动）
 
+:::
+
 
 ## 6087. corselet
 
@@ -1867,6 +1995,8 @@
 :::warning{title=🤔同义词}
 
 - mail, armour （胸衣，妇女的胸衣；盔甲）
+
+:::
 
 
 ## 6088. keel
@@ -1894,6 +2024,8 @@
 - ark, flatboat （[脊椎][植][船]龙骨；平底船；龙骨脊）
 
 - tip, upset （翻倒；倾覆）
+
+:::
 
 
 ## 6089. needle
@@ -1962,6 +2094,8 @@
 
 - stimulate, fan, motivate, activate （刺激；用针缝）
 
+:::
+
 
 ## 6090. secrecy
 
@@ -1987,6 +2121,8 @@
 
 - privacy, confidence, mystery （保密；秘密；隐蔽）
 
+:::
+
 
 ## 6091. lira
 
@@ -2001,6 +2137,8 @@
 :::warning{title=🤔同义词}
 
 - lire （里拉（意大利、土耳其货币单））
+
+:::
 
 
 ## 6092. livelihood
@@ -2025,6 +2163,8 @@
 
 - life, existence, living, keep （生计，生活；营生）
 
+:::
+
 
 ## 6093. impediment
 
@@ -2045,6 +2185,8 @@
 :::warning{title=🤔同义词}
 
 - prevention, intervention, violation, check （口吃；妨碍；阻止）
+
+:::
 
 
 ## 6094. bow
@@ -2091,6 +2233,8 @@
 
 - curve, winding, flexural, crooked （弯曲的）
 
+:::
+
 
 ## 6095. nurture
 
@@ -2116,6 +2260,8 @@
 
 - nursing, breeding （养育；教养；营养物）
 
+:::
+
 
 ## 6096. silhouette
 
@@ -2138,6 +2284,8 @@
 :::warning{title=🤔同义词}
 
 - profile, outline, contour （轮廓，剪影）
+
+:::
 
 
 ## 6097. inward
@@ -2170,6 +2318,8 @@
 
 - interior, inner, inside, familiar （内部；内脏；密友）
 
+:::
+
 
 ## 6098. misinterpret
 
@@ -2184,6 +2334,8 @@
 :::warning{title=🤔同义词}
 
 - mistake, read into （曲解，误解）
+
+:::
 
 
 ## 6099. marketable
@@ -2205,5 +2357,7 @@
 :::warning{title=🤔同义词}
 
 - tradeable, merchantable （市场的；可销售的；有销路的）
+
+:::
 
 

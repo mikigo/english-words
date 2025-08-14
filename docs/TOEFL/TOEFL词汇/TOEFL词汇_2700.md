@@ -74,6 +74,8 @@
 
 - prime, sunrise （早晨；黎明；初期）
 
+:::
+
 
 ## 2702. tin
 
@@ -131,6 +133,8 @@
 
 - pot, stannum （[化学]锡；罐头，罐；[材]马口铁）
 
+:::
+
 
 ## 2703. moss
 
@@ -155,6 +159,8 @@
 :::warning{title=🤔同义词}
 
 - mire （[植]苔藓；泥沼）
+
+:::
 
 
 ## 2704. Oregon
@@ -217,6 +223,8 @@
 
 - become one, join together （结合；连接；连合）
 
+:::
+
 
 ## 2706. willing
 
@@ -244,6 +252,8 @@
 
 - glad, voluntary （乐意的；自愿的；心甘情愿的）
 
+:::
+
 
 ## 2707. steppe
 
@@ -252,6 +262,8 @@
 :::warning{title=🤔同义词}
 
 - prairie, llano （[地理]大草原，干草原（特指西伯利亚一带没有树木的大草原））
+
+:::
 
 
 ## 2708. occasional
@@ -273,6 +285,8 @@
 :::warning{title=🤔同义词}
 
 - extraordinary, temporary, odd （[生物]偶然的；临时的；特殊场合的）
+
+:::
 
 
 ## 2709. patch
@@ -315,6 +329,8 @@
 
 - decide, settle （修补；解决；掩饰）
 
+:::
+
 
 ## 2710. devote
 
@@ -323,6 +339,8 @@
 :::warning{title=🤔同义词}
 
 - commit oneself to, bend oneself to （致力于；奉献）
+
+:::
 
 
 ## 2711. noticeable
@@ -340,6 +358,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, prominent, remarkable, marked, noted （显而易见的，显著的；值得注意的）
+
+:::
 
 
 ## 2712. mad
@@ -395,6 +415,8 @@
 - crazy, possessed, foolish, stupid, bugs （疯狂的；发疯的；愚蠢的；着迷的）
 
 - fury, agriothymia （狂怒）
+
+:::
 
 
 ## 2713. spirit
@@ -457,6 +479,8 @@
 
 - heart, stimulate, lift, uphold, inspire （鼓励；鼓舞；诱拐）
 
+:::
+
 
 ## 2714. lunar
 
@@ -502,6 +526,8 @@
 
 - silver, argentic （月亮的，月球的；阴历的；银的；微亮的）
 
+:::
+
 
 ## 2715. presidency
 
@@ -518,6 +544,8 @@
 :::warning{title=🤔同义词}
 
 - government, disposal, ruling （总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配）
+
+:::
 
 
 ## 2716. viewer
@@ -543,6 +571,8 @@
 :::warning{title=🤔同义词}
 
 - indicator, observer （[光]观察者；观看者；电视观众；[仪]指示器）
+
+:::
 
 
 ## 2717. horizon
@@ -578,6 +608,8 @@
 :::warning{title=🤔同义词}
 
 - extent, boundary, region, spectrum, territory, area （[天]地平线；视野；眼界；范围）
+
+:::
 
 
 ## 2718. academic
@@ -642,6 +674,8 @@
 
 - undergraduate, don, scholar, college student, university student （大学生，大学教师；学者）
 
+:::
+
 
 ## 2719. fin
 
@@ -680,6 +714,8 @@
 :::warning{title=🤔同义词}
 
 - fim, pterygium （[鱼]鳍；鱼翅；鳍状物）
+
+:::
 
 
 ## 2720. stamp
@@ -740,6 +776,8 @@
 
 - break down, go to sticks and staves （跺脚；捣碎；毁掉）
 
+:::
+
 
 ## 2721. subtractive
 
@@ -748,6 +786,8 @@
 :::warning{title=🤔同义词}
 
 - negative, nonpositive （[数]减去的；负的；有负号的）
+
+:::
 
 
 ## 2722. motivate
@@ -764,6 +804,8 @@
 
 - stimulate, fan, needle, activate （刺激；使有动机；激发…的积极性）
 
+:::
+
 
 ## 2723. undoubtedly
 
@@ -772,6 +814,8 @@
 :::warning{title=🤔同义词}
 
 - strictly, real （确实地，无庸置疑地）
+
+:::
 
 
 ## 2724. granite
@@ -802,6 +846,8 @@
 
 - moorstone （[岩]花岗岩；坚毅；冷酷无情）
 
+:::
+
 
 ## 2725. quilt
 
@@ -831,6 +877,8 @@
 
 - bedquilt, comforter （被子；棉被）
 
+:::
+
 
 ## 2726. suppose
 
@@ -849,6 +897,8 @@
 - expect, have, count, say, guess （假设；认为；让（虚拟语气）；推想）
 
 - believe, imagine （猜想；料想）
+
+:::
 
 
 ## 2727. campaign
@@ -893,6 +943,8 @@
 
 - movement, activity, exercise, sport, battle （运动；活动；战役）
 
+:::
+
 
 ## 2728. mandan
 
@@ -925,6 +977,8 @@
 :::warning{title=🤔同义词}
 
 - intangible, discarnate, aeriform （无形的，看不见的；无形的；不显眼的，暗藏的）
+
+:::
 
 
 ## 2730. neutron
@@ -981,6 +1035,8 @@
 
 - belong, room, harbor, live, reside in （居住；存在于；细想某事）
 
+:::
+
 
 ## 2732. ward
 
@@ -1015,6 +1071,8 @@
 - observation, safeguard, monitoring, surveillance, watch （[医]病房；保卫；监视）
 
 - avoid, guard, shun （避开；保卫；守护）
+
+:::
 
 
 ## 2733. moderate
@@ -1063,6 +1121,8 @@
 
 - deny oneself, allay （节制；减轻）
 
+:::
+
 
 ## 2734. territorial
 
@@ -1098,6 +1158,8 @@
 
 - ground, agrarian （领土的；区域的；土地的；地方的）
 
+:::
+
 
 ## 2735. predominate
 
@@ -1120,6 +1182,8 @@
 - rule, hold sway （支配，主宰；在…中占优势）
 
 - advantage over, prevail over （占主导（或支配）地位；占优势）
+
+:::
 
 
 ## 2736. inform
@@ -1148,6 +1212,8 @@
 
 - tell on, blow the whistle （告发；告密）
 
+:::
+
 
 ## 2737. chiefly
 
@@ -1164,6 +1230,8 @@
 :::warning{title=🤔同义词}
 
 - mainly, basically, primarily, largely, mostly, firstly （主要地；首先）
+
+:::
 
 
 ## 2738. champion
@@ -1196,6 +1264,8 @@
 
 - classical, royal （优胜的；第一流的）
 
+:::
+
 
 ## 2739. craftspeople
 
@@ -1210,6 +1280,8 @@
 :::warning{title=🤔同义词}
 
 - handicraftsman, fundi （手艺人；工匠）
+
+:::
 
 
 ## 2740. likewise
@@ -1227,6 +1299,8 @@
 :::warning{title=🤔同义词}
 
 - equally, too, similarly, also, same （同样地；也）
+
+:::
 
 
 ## 2741. intelligence
@@ -1287,6 +1361,8 @@
 
 - brain, mind, mentality, understanding, head （[心理]智力；情报工作；[图情]情报机关；理解力）
 
+:::
+
 
 ## 2742. visitor
 
@@ -1310,6 +1386,8 @@
 
 - transient, fetcher （访问者，参观者；视察者；候鸟）
 
+:::
+
 
 ## 2743. unskilled
 
@@ -1330,6 +1408,8 @@
 :::warning{title=🤔同义词}
 
 - nonproficient, unpracticed （[劳经]不熟练的；拙劣的；无需技能的）
+
+:::
 
 
 ## 2744. progressively
@@ -1394,6 +1474,8 @@
 
 - concentration, layer, stratum （[物]厚度；层；浓度；含混不清）
 
+:::
+
 
 ## 2746. graphic
 
@@ -1441,6 +1523,8 @@
 
 - ikonic, imagic （形象的；图表的；绘画似的）
 
+:::
+
 
 ## 2747. termite
 
@@ -1459,6 +1543,8 @@
 :::warning{title=🤔同义词}
 
 - white ant （[昆]白蚁）
+
+:::
 
 
 ## 2748. analogy
@@ -1492,6 +1578,8 @@
 :::warning{title=🤔同义词}
 
 - similarity, parallelism （类比；类推；类似）
+
+:::
 
 
 ## 2749. sure
@@ -1544,6 +1632,8 @@
 
 - certainly, definitely, indeed （当然；的确）
 
+:::
+
 
 ## 2750. wrap
 
@@ -1585,6 +1675,8 @@
 
 - outerwear, outer coat （外套；围巾）
 
+:::
+
 
 ## 2751. inability
 
@@ -1599,6 +1691,8 @@
 :::warning{title=🤔同义词}
 
 - incapacity, incompetency （无能力；无才能）
+
+:::
 
 
 ## 2752. jump
@@ -1663,6 +1757,8 @@
 
 - dance, to leap （[电子]跳跃；暴涨；猛增）
 
+:::
+
 
 ## 2753. consciousness
 
@@ -1715,6 +1811,8 @@
 :::warning{title=🤔同义词}
 
 - feel, aesthesia （[心理]意识；知觉；觉悟；感觉）
+
+:::
 
 
 ## 2754. reindeer
@@ -1785,6 +1883,8 @@
 
 - oxyde （[化学]氧化物）
 
+:::
+
 
 ## 2756. kingdom
 
@@ -1819,6 +1919,8 @@
 :::warning{title=🤔同义词}
 
 - domain, province, territory, world, universe （王国；[生物][矿物]界；领域）
+
+:::
 
 
 ## 2757. compression
@@ -1883,6 +1985,8 @@
 
 - concentration, pressure, hitting （压缩，浓缩；压榨，压迫）
 
+:::
+
 
 ## 2758. slush
 
@@ -1909,6 +2013,8 @@
 - dabble （溅湿；给…灌砂浆；给…上润滑油）
 
 - plash （溅泼；在融雪中走）
+
+:::
 
 
 ## 2759. hurt
@@ -1943,6 +2049,8 @@
 
 - injured, painful, wounded, bitter （受伤的；痛苦的；受损的）
 
+:::
+
 
 ## 2760. seldom
 
@@ -1967,6 +2075,8 @@ He seldom or never drinks.
 
 - scarcely ever （很少，不常）
 
+:::
+
 
 ## 2761. repression
 
@@ -1981,6 +2091,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - checking, control, restraint, suppression, inhibition （抑制，[心理]压抑；镇压）
+
+:::
 
 
 ## 2762. recovery
@@ -2041,6 +2153,8 @@ He seldom or never drinks.
 
 - regression, restoration, rehabilitation, retrieval, renewal （恢复，复原；痊愈；重获）
 
+:::
+
 
 ## 2763. father
 
@@ -2082,6 +2196,8 @@ He seldom or never drinks.
 
 - found, construct, institute （发明，创立；当…的父亲）
 
+:::
+
 
 ## 2764. voyager
 
@@ -2090,6 +2206,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - coasters, seafolk （航海者，航行者）
+
+:::
 
 
 ## 2765. horn
@@ -2136,6 +2254,8 @@ He seldom or never drinks.
 
 - angle, hao （[电子]喇叭，号角；[动]角）
 
+:::
+
 
 ## 2766. phonograph
 
@@ -2159,6 +2279,8 @@ He seldom or never drinks.
 
 - grammy （留声机；[电子]电唱机）
 
+:::
+
 
 ## 2767. accustom
 
@@ -2173,6 +2295,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - habituate （使习惯于）
+
+:::
 
 
 ## 2768. welcome
@@ -2232,6 +2356,8 @@ He seldom or never drinks.
 - greet （欢迎）
 
 - ave （欢迎）
+
+:::
 
 
 ## 2769. Eurasia
@@ -2300,6 +2426,8 @@ He seldom or never drinks.
 
 - birth, origin （取出；[化工]抽出；拔出；抽出物；出身）
 
+:::
+
 
 ## 2771. literally
 
@@ -2315,6 +2443,8 @@ He seldom or never drinks.
 
 - verbatim （照字面地；逐字地）
 
+:::
+
 
 ## 2772. Italian
 
@@ -2329,6 +2459,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - ginzo, dino （意大利人；意大利语）
+
+:::
 
 
 ## 2773. railway
@@ -2388,6 +2520,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - path, track, trajectory, orbit （（英）[铁路]铁路；轨道；铁道部门）
+
+:::
 
 
 ## 2774. cobalt
@@ -2464,6 +2598,8 @@ He seldom or never drinks.
 
 - have need of, want for （愿望；需要）
 
+:::
+
 
 ## 2776. wale
 
@@ -2472,6 +2608,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - wheal, stria （鞭痕；条痕；[纺]凸条纹）
+
+:::
 
 
 ## 2777. accident
@@ -2536,6 +2674,8 @@ He seldom or never drinks.
 
 - occurring, slip （[安全]事故；意外；[法]意外事件；机遇）
 
+:::
+
 
 ## 2778. tongue
 
@@ -2585,6 +2725,8 @@ He seldom or never drinks.
 
 - speak, fack （说话；吹管乐器）
 
+:::
+
 
 ## 2779. concur
 
@@ -2602,6 +2744,8 @@ He seldom or never drinks.
 
 - accept, grant, identify, square （同意；一致；互助）
 
+:::
+
 
 ## 2780. uncommon
 
@@ -2618,6 +2762,8 @@ He seldom or never drinks.
 - unusual, unwonted （不寻常的；罕有的）
 
 - considerably, remarkably, finely, tremendously （非常地）
+
+:::
 
 
 ## 2781. simplification
@@ -2700,6 +2846,8 @@ He seldom or never drinks.
 
 - revolution, rolling, circulation, turning, cycle （旋转；循环，轮流）
 
+:::
+
 
 ## 2784. peculiarity
 
@@ -2714,6 +2862,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - quality, tang, identity, specific, character （特性；特质；怪癖；奇特）
+
+:::
 
 
 ## 2785. uncertain
@@ -2735,6 +2885,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - changeable, vague （无常的；含糊的；靠不住的；迟疑不决的）
+
+:::
 
 
 ## 2786. fluke
@@ -2761,6 +2913,8 @@ He seldom or never drinks.
 
 - get away with it, luck out （侥幸成功）
 
+:::
+
 
 ## 2787. basically
 
@@ -2779,6 +2933,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - mainly, mostly, largely, primarily, ultimately （主要地，基本上）
+
+:::
 
 
 ## 2788. circulate
@@ -2799,6 +2955,8 @@ He seldom or never drinks.
 
 - cycle （使循环；使流通；使传播）
 
+:::
+
 
 ## 2789. intricate
 
@@ -2813,6 +2971,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - complicated, sophisticated, involved, detailed （复杂的；错综的，缠结的）
+
+:::
 
 
 ## 2790. coarse
@@ -2860,6 +3020,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - crude, rough, low, inferior, lower （粗糙的；粗俗的；下等的）
+
+:::
 
 
 ## 2791. feedback
@@ -2920,6 +3082,8 @@ He seldom or never drinks.
 
 - production, outcome, information （[电子][自]反馈；成果，资料；回复）
 
+:::
+
 
 ## 2792. cure
 
@@ -2959,6 +3123,8 @@ He seldom or never drinks.
 
 - therapy, medical treatment （治疗；治愈；[临床]疗法）
 
+:::
+
 
 ## 2793. Norway
 
@@ -2989,6 +3155,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - buck sb. up, stimulin （[劳经]鼓励）
+
+:::
 
 
 ## 2795. chew
@@ -3023,6 +3191,8 @@ He seldom or never drinks.
 
 - consider, pore, reflect （细想，深思）
 
+:::
+
 
 ## 2796. bombard
 
@@ -3037,6 +3207,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - gun shot （轰炸；炮击）
+
+:::
 
 
 ## 2797. praise
@@ -3080,6 +3252,8 @@ He seldom or never drinks.
 - celebrate, bless, admire （赞美，歌颂；表扬）
 
 - speak highly of, talk up （赞美；赞扬）
+
+:::
 
 
 ## 2798. editor
@@ -3129,6 +3303,8 @@ He seldom or never drinks.
 :::warning{title=🤔同义词}
 
 - compilation, redaction （编者，编辑；社论撰写人；编辑装置）
+
+:::
 
 
 ## 2799. venture
@@ -3186,5 +3362,7 @@ He seldom or never drinks.
 - adventure, take a risk （冒险；投机）
 
 - enterprise, risk, undertaking, throw （企业；风险；冒险）
+
+:::
 
 

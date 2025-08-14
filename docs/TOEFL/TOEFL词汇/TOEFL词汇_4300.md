@@ -22,6 +22,8 @@
 
 - advance, prodromal （先行的；前驱的；先前的）
 
+:::
+
 
 ## 4301. stake
 
@@ -59,6 +61,8 @@
 
 - lay, make a bet （打赌）
 
+:::
+
 
 ## 4302. disloyalty
 
@@ -73,6 +77,8 @@
 :::warning{title=🤔同义词}
 
 - unfaithfulness, falseness （不忠实；不义，不贞；背信弃义）
+
+:::
 
 
 ## 4303. certainty
@@ -101,6 +107,8 @@
 
 - very like a whale, inerrability （必然；确实；确实的事情）
 
+:::
+
 
 ## 4304. nystatin
 
@@ -117,6 +125,8 @@
 :::warning{title=🤔同义词}
 
 - fungicidin （[药]制真菌素，制霉菌素）
+
+:::
 
 
 ## 4305. compile
@@ -139,6 +149,8 @@
 
 - to edit, copy-edit （编译；编制；编辑；[图情]汇编）
 
+:::
+
 
 ## 4306. prodigious
 
@@ -153,6 +165,8 @@
 :::warning{title=🤔同义词}
 
 - tremendous, wonderful, huge, enormous, massive （惊人的，异常的，奇妙的；巨大的）
+
+:::
 
 
 ## 4307. mural
@@ -176,6 +190,8 @@
 - wall （墙壁的）
 
 - wall painting, painting in fresco （[建]壁画；（美）壁饰）
+
+:::
 
 
 ## 4308. fountain
@@ -206,6 +222,8 @@
 
 - principle, well （[地质]喷泉，泉水；源泉）
 
+:::
+
 
 ## 4309. gatherer
 
@@ -220,6 +238,8 @@
 :::warning{title=🤔同义词}
 
 - divertor, holding tank （采集者，收集器）
+
+:::
 
 
 ## 4310. shoemaking
@@ -272,6 +292,8 @@
 
 - handsome, liberal （慷慨的，大方的；宽宏大量的；有雅量的）
 
+:::
+
 
 ## 4313. sprawl
 
@@ -300,6 +322,8 @@
 - sprig （懒散地伸开；使蔓生）
 
 - rampancy （蔓生；伸开手足躺卧姿势）
+
+:::
 
 
 ## 4314. petal
@@ -331,6 +355,8 @@
 :::warning{title=🤔同义词}
 
 - appropriately, commensurately （相称地，成比例地）
+
+:::
 
 
 ## 4317. germanium
@@ -379,6 +405,8 @@
 
 - possibility, probability, feasibility, potential, maybe （可能性，可能）
 
+:::
+
 
 ## 4319. charter
 
@@ -421,6 +449,8 @@
 - license （特许；[车辆][航]包租；发给特许执照）
 
 - license, patent, permit （宪章；执照；特许状）
+
+:::
 
 
 ## 4320. threshold
@@ -475,6 +505,8 @@
 
 - entry, conception, limitation, beginning, opening （入口；[建]门槛；开始；极限；临界值）
 
+:::
+
 
 ## 4321. sparse
 
@@ -498,6 +530,8 @@
 
 - exiguous, infrequent （稀疏的；稀少的）
 
+:::
+
 
 ## 4322. statuary
 
@@ -512,6 +546,8 @@
 :::warning{title=🤔同义词}
 
 - effigy （雕像；雕像艺术）
+
+:::
 
 
 ## 4323. hypha
@@ -532,6 +568,8 @@
 
 - mycelia （菌丝）
 
+:::
+
 
 ## 4324. farsighted
 
@@ -546,6 +584,8 @@
 :::warning{title=🤔同义词}
 
 - forward-looking, sagacious （有远见的；能看到远处的）
+
+:::
 
 
 ## 4325. fatten
@@ -563,6 +603,8 @@
 - enrich, fat up （养肥；使肥沃；使充实）
 
 - fat up, make a pile （养肥；（靠…）发财）
+
+:::
 
 
 ## 4326. spit
@@ -603,6 +645,8 @@
 
 - saliva, slabber （唾液）
 
+:::
+
 
 ## 4327. crawl
 
@@ -625,6 +669,8 @@
 - creep （爬行；匍匐行进）
 
 - creep, aquarium （爬行；[水产]养鱼池；匍匐而行）
+
+:::
 
 
 ## 4328. cautious
@@ -653,6 +699,8 @@
 
 - prudent, wary （谨慎的；十分小心的）
 
+:::
+
 
 ## 4329. expanse
 
@@ -667,6 +715,8 @@
 :::warning{title=🤔同义词}
 
 - openness, broadness （宽阔；广阔的区域；苍天；膨胀扩张）
+
+:::
 
 
 ## 4330. dawn
@@ -703,6 +753,8 @@
 
 - come out, break of day （破晓；出现；被领悟）
 
+:::
+
 
 ## 4331. pram
 
@@ -717,6 +769,8 @@
 :::warning{title=🤔同义词}
 
 - baby-car, baby carriers （婴儿车；送牛奶用的手推车）
+
+:::
 
 
 ## 4332. purify
@@ -734,6 +788,8 @@
 - cleanse, decontaminate （净化；使纯净）
 
 - fine purification, purge （净化；变纯净）
+
+:::
 
 
 ## 4333. wonderful
@@ -761,6 +817,8 @@
 :::warning{title=🤔同义词}
 
 - excellent, famous, super, great, class （奇妙的；极好的）
+
+:::
 
 
 ## 4334. Sanskrit
@@ -835,6 +893,8 @@
 
 - leaving, Gone away （离开；[计]退出）
 
+:::
+
 
 ## 4337. confront
 
@@ -856,6 +916,8 @@
 
 - front, compare （面对；遭遇；比较）
 
+:::
+
 
 ## 4338. bison
 
@@ -875,6 +937,8 @@
 
 - aurochs, wisent （北美野牛；欧洲野牛）
 
+:::
+
 
 ## 4339. sideways
 
@@ -883,6 +947,8 @@
 :::warning{title=🤔同义词}
 
 - laterad （向侧面地；向一旁）
+
+:::
 
 
 ## 4340. hyksos
@@ -903,6 +969,8 @@
 
 - hard, rapid, bold, struggling （努力的；费力的；险峻的）
 
+:::
+
 
 ## 4342. boulder
 
@@ -917,6 +985,8 @@
 :::warning{title=🤔同义词}
 
 - ratchel, grait （[建]卵石，大圆石；[地质]巨砾）
+
+:::
 
 
 ## 4343. saint
@@ -969,6 +1039,8 @@
 
 - sacred, divine, blessed, godly （神圣的）
 
+:::
+
 
 ## 4344. bathhouse
 
@@ -985,6 +1057,8 @@
 :::warning{title=🤔同义词}
 
 - changing room, changeroom （澡堂；更衣室；公共浴室）
+
+:::
 
 
 ## 4345. dilute
@@ -1021,6 +1095,8 @@
 
 - thin （变稀薄；变淡）
 
+:::
+
 
 ## 4346. principally
 
@@ -1039,6 +1115,8 @@
 :::warning{title=🤔同义词}
 
 - largely, basically, mainly, mostly, primarily （主要地；大部分）
+
+:::
 
 
 ## 4347. imbalance
@@ -1060,6 +1138,8 @@
 :::warning{title=🤔同义词}
 
 - instability, disbalance （[医]不平衡；不安定）
+
+:::
 
 
 ## 4348. ionize
@@ -1110,6 +1190,8 @@
 
 - settling, transmigration （外来移民；移居）
 
+:::
+
 
 ## 4350. agitation
 
@@ -1132,6 +1214,8 @@
 :::warning{title=🤔同义词}
 
 - warmth, excitation （激动；搅动；煽动；烦乱）
+
+:::
 
 
 ## 4351. vivid
@@ -1160,6 +1244,8 @@
 
 - telling, live, bright （生动的；鲜明的；鲜艳的）
 
+:::
+
 
 ## 4352. necessitate
 
@@ -1174,6 +1260,8 @@
 :::warning{title=🤔同义词}
 
 - ask, lack, pressure, claim （使成为必需，需要；迫使）
+
+:::
 
 
 ## 4353. Hollywood
@@ -1244,6 +1332,8 @@
 
 - difficulty, shortage, hardness, want （贫困；困难；缺少；低劣）
 
+:::
+
 
 ## 4355. blossom
 
@@ -1289,6 +1379,8 @@
 
 - bloom, inflorescence （[植]花；开花期；兴旺期；花开的状态）
 
+:::
+
 
 ## 4356. demographic
 
@@ -1310,6 +1402,8 @@
 
 - larithmic （人口统计学的；人口学的）
 
+:::
+
 
 ## 4357. accidentally
 
@@ -1325,6 +1419,8 @@
 
 - unexpectedly, fortuitously （意外地；偶然地）
 
+:::
+
 
 ## 4358. shipbuilding
 
@@ -1339,6 +1435,8 @@
 :::warning{title=🤔同义词}
 
 - newbuilding （[船]造船；造船业；造船术）
+
+:::
 
 
 ## 4359. duct
@@ -1401,6 +1499,8 @@
 
 - conveying pipe, conveyer pipe （输送管，[生物]导管）
 
+:::
+
 
 ## 4360. sweat
 
@@ -1445,6 +1545,8 @@
 - sudor, globule （汗；水珠；焦急；苦差使）
 
 - smart, labour over （出汗；辛苦工作；懊恼；结水珠）
+
+:::
 
 
 ## 4361. empirical
@@ -1509,6 +1611,8 @@
 
 - indirect, circular （间接的；居间的）
 
+:::
+
 
 ## 4363. bloodstream
 
@@ -1540,6 +1644,8 @@
 
 - touch bottom, check on （核实；查证）
 
+:::
+
 
 ## 4365. reelection
 
@@ -1556,6 +1662,8 @@
 :::warning{title=🤔同义词}
 
 - recleaning （改选；再选）
+
+:::
 
 
 ## 4366. dwelling
@@ -1592,6 +1700,8 @@
 
 - living （居住（dwell的现在分词））
 
+:::
+
 
 ## 4367. foremost
 
@@ -1616,6 +1726,8 @@
 - principal, supreme, main, lead （最重要的；最先的）
 
 - firstly, primarily, initially, first of all, chiefly （首先；居于首位地）
+
+:::
 
 
 ## 4368. midair
@@ -1655,6 +1767,8 @@
 :::warning{title=🤔同义词}
 
 - cayman, caiman （鳄鱼）
+
+:::
 
 
 ## 4370. sister
@@ -1704,6 +1818,8 @@
 :::warning{title=🤔同义词}
 
 - sis, tittie （姐妹；修女；护士）
+
+:::
 
 
 ## 4371. calve
@@ -1774,6 +1890,8 @@
 
 - synthesis, comprehensiveness （集成；综合）
 
+:::
+
 
 ## 4373. usefulness
 
@@ -1788,6 +1906,8 @@
 :::warning{title=🤔同义词}
 
 - validity, availability （有用；有效性；有益）
+
+:::
 
 
 ## 4374. olfactory
@@ -1811,6 +1931,8 @@
 :::warning{title=🤔同义词}
 
 - osphradium （嗅觉器官）
+
+:::
 
 
 ## 4375. cranial
@@ -1846,6 +1968,8 @@
 :::warning{title=🤔同义词}
 
 - prior condition, pre-condition （先决条件）
+
+:::
 
 
 ## 4377. occupational
@@ -1891,6 +2015,8 @@
 :::warning{title=🤔同义词}
 
 - vocational, professional （职业的；占领的）
+
+:::
 
 
 ## 4378. eclipse
@@ -1939,6 +2065,8 @@
 
 - disprove, redargue （反驳，驳斥；驳倒）
 
+:::
+
 
 ## 4380. updraft
 
@@ -1958,6 +2086,8 @@
 
 - upcurrent, ascending air current （上升气流；[建]向上之排气）
 
+:::
+
 
 ## 4381. deliberation
 
@@ -1972,6 +2102,8 @@
 :::warning{title=🤔同义词}
 
 - consideration of, leisureliness （审议；考虑；从容；熟思）
+
+:::
 
 
 ## 4382. flagpole
@@ -1998,6 +2130,8 @@
 
 - attract, produce, cause, operate, occasion （调用；祈求；引起；恳求）
 
+:::
+
 
 ## 4384. hypersensitive
 
@@ -2013,6 +2147,8 @@
 
 - irritable, touchy （[医]过敏的；高灵敏度的；超感光度的）
 
+:::
+
 
 ## 4385. unavoidable
 
@@ -2027,6 +2163,8 @@
 :::warning{title=🤔同义词}
 
 - inevitable, inescapable （不可避免的；不能废除的）
+
+:::
 
 
 ## 4386. lucky
@@ -2063,6 +2201,8 @@
 
 - fortunate, providential （幸运的；侥幸的）
 
+:::
+
 
 ## 4387. upcoming
 
@@ -2077,6 +2217,8 @@
 :::warning{title=🤔同义词}
 
 - imminent, forthcoming （即将来临的）
+
+:::
 
 
 ## 4388. February
@@ -2127,6 +2269,8 @@
 
 - obviously, clearly, markedly, distinctly （明显地；宽广地；概括地；露骨地；粗鄙地）
 
+:::
+
 
 ## 4391. friendship
 
@@ -2158,6 +2302,8 @@
 
 - fellowship, companionship （友谊；友爱；友善）
 
+:::
+
 
 ## 4392. twain
 
@@ -2172,6 +2318,8 @@
 :::warning{title=🤔同义词}
 
 - liang, tael （两；二；一对）
+
+:::
 
 
 ## 4393. pathogen
@@ -2190,6 +2338,8 @@
 
 - causative agent, harmful bacteria （[基医]病原体；病菌）
 
+:::
+
 
 ## 4394. memorable
 
@@ -2204,6 +2354,8 @@
 :::warning{title=🤔同义词}
 
 - obvious, prominent, marked, noted, outstanding （显著的，难忘的；值得纪念的）
+
+:::
 
 
 ## 4395. auditory
@@ -2236,6 +2388,8 @@
 
 - acoustic, aural （[生理]听觉的；耳朵的）
 
+:::
+
 
 ## 4396. avant
 
@@ -2254,6 +2408,8 @@
 - radical, underground （激进的；先锋派的）
 
 - before （在…之前）
+
+:::
 
 
 ## 4397. tertiary
@@ -2294,6 +2450,8 @@
 
 - third, ternary （[数]第三的；第三位的；三代的）
 
+:::
+
 
 ## 4398. submarine
 
@@ -2331,6 +2489,8 @@
 
 - benthonic, undersea （[海洋]海底的；水下的）
 
+:::
+
 
 ## 4399. locality
 
@@ -2345,5 +2505,7 @@
 :::warning{title=🤔同义词}
 
 - situation, site, spot, lie, where （所在；位置；地点）
+
+:::
 
 
