@@ -45,7 +45,7 @@ export default defineConfig({
         ],
 
         footer: {
-            message: `版权所有 © 2023-${new Date().getFullYear()} 派兹互连`,
+            message: `版权所有 © 2023-${new Date().getFullYear()} mikigo`,
         },
         hideNavbar: 'auto',
     },

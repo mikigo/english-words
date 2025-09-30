@@ -24,11 +24,11 @@ for root, dirs, files in os.walk("../books"):
         if not os.path.exists(f"../docs/{g}"):
             os.mkdir(f"../docs/{g}")
 
-        md_name = f"{os.path.splitext(i)[0]}_1.md"
+        md_name = f"1_{os.path.splitext(i)[0]}.md"
 
         for index, line in enumerate(lines):
             if index + 1 in new_md_index:
-                md_name = f"{os.path.splitext(i)[0]}_{index + 1}.md"
+                md_name = f"{index + 1}_{os.path.splitext(i)[0]}.md"
             md_dir = f"../docs/{g}/{os.path.splitext(i)[0]}"
 
             if not os.path.exists(md_dir):
