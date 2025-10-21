@@ -1,4 +1,4 @@
-# English Words
+# English Chinese Words | 英汉单词
 
 精心制作的 Web 版免费学单词项目，包含各类英语词库，助您高效学习英语。
 
