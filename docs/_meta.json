@@ -1,17 +1,27 @@
 [
   {
-    "text": "人教版小学",
-    "link": "/人教版小学/index",
-    "activeMatch": "/index/"
+    "text": "人教版",
+    "items": [
+      {
+        "text": "人教版小学",
+        "link": "/人教版小学/index",
+        "activeMatch": "/index/"
+      },
+      {
+        "text": "人教版初中",
+        "link": "/人教版初中/index",
+        "activeMatch": "/index/"
+      },
+      {
+        "text": "人教版高中",
+        "link": "/人教版高中/index",
+        "activeMatch": "/index/"
+      }
+    ]
   },
   {
-    "text": "人教版初中",
-    "link": "/人教版初中/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "人教版高中",
-    "link": "/人教版高中/index",
+    "text": "新东方",
+    "link": "/新东方/index",
     "activeMatch": "/index/"
   },
   {
@@ -50,6 +60,21 @@
     "activeMatch": "/index/"
   },
   {
+    "text": "专四",
+    "link": "/专四/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "专八",
+    "link": "/专八/index",
+    "activeMatch": "/index/"
+  },
+  {
+    "text": "考研",
+    "link": "/考研/index",
+    "activeMatch": "/index/"
+  },
+  {
     "text": "GMAT",
     "link": "/GMAT/index",
     "activeMatch": "/index/"
@@ -70,28 +95,8 @@
     "activeMatch": "/index/"
   },
   {
-    "text": "专四",
-    "link": "/专四/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "专八",
-    "link": "/专八/index",
-    "activeMatch": "/index/"
-  },
-  {
     "text": "商务英语",
     "link": "/商务英语/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "新东方",
-    "link": "/新东方/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "考研",
-    "link": "/考研/index",
     "activeMatch": "/index/"
   },
   {

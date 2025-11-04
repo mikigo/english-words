@@ -18,7 +18,9 @@ h1, h2 {
     -webkit-text-fill-color: transparent;
 }
 
-.rspress-nav-menu-item {
+.rspress-nav-menu-item,
+.rspress-nav-menu-group-button >  span.font-medium
+{
     font-weight: bold;
     font-size: medium;
 }
