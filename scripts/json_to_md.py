@@ -57,7 +57,7 @@ for root, dirs, files in os.walk("../books"):
                 phone = content.get("phone")
                 for t in trans:
                     # mdf.write(f"**{t.get('descCn')}**\n\n")
-                    mdf.write(f"{f'`{phone}`  ' if phone else ''}**{t.get('tranCn')}**\n\n")
+                    mdf.write(f"{f'`{phone}`  ' if phone else ''}**{t.get('tranCn').strip()}**\n\n")
                     # if t.get('descOther'):
                     #     mdf.write(f"**{t.get('descOther')}**\n\n")
                     #     mdf.write(f"{t.get('tranOther')}\n\n")
