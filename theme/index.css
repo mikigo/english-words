@@ -1,3 +1,11 @@
-.rspress-home-hero-text {
-  max-width: var(--rp-home-hero-text-max-width);
+/* Simulate the centering behavior when sidebar: false  */
+/* Avoid having the visual center too far to the right */
+@media (min-width: 1280px) {
+  .rp-doc-layout__sidebar-placeholder {
+    width: 12vw !important;
+  }
+}
+
+button.rp-search-button {
+    display: none !important;
 }

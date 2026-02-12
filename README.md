@@ -7,8 +7,4 @@
 
 ## 在线地址
 
-my site：https://mikigo.site/english-words
-
-github pages: https://mikigo.github.io/english-words/
-
-
+website：https://english.mikigo.site/

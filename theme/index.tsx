@@ -1,10 +1,26 @@
+import {
+  Layout as BasicLayout,
+  getCustomMDXComponent as basicGetCustomMDXComponent,
+} from '@rspress/core/theme-original';
 import './index.css';
 
-import Theme from 'rspress/theme';
+const myStyle = {
+  fontSize: '2em',
+  fontWeight: 'bold',
+  center: true,
+}
 
+const Layout = () => (
+  <BasicLayout
+    beforeFeatures={
+          <div>
+            <h1 align="center"  style={myStyle}>
+              分类列表
+            </h1>
+          </div>
+        }
+  />
+);
 
-export default {
-  ...Theme,
-};
-
-export * from 'rspress/theme';
+export { Layout };
+export * from '@rspress/core/theme-original';
